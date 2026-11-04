@@ -8,7 +8,7 @@
 
   // ---------- 언어 ----------
   // 속성(placeholder·aria-label)은 data-<속성>-<언어>에 들어 있어요. 한국어 원본은 처음 값을 기억해 둬요.
-  const ATTRS = ["placeholder", "aria-label"];
+  const ATTRS = ["placeholder", "aria-label", "title"];
   const attrEls = ATTRS.flatMap((a) => $$(`[data-${a}-en]`).map((el) => [el, a, el.getAttribute(a)]));
   function setLang(l, save) {
     if (!LANGS.includes(l)) l = "ko";
@@ -79,6 +79,25 @@
     $$("[data-region]", regions).forEach((x) => { const on = x === b; x.classList.toggle("on", on); x.setAttribute("aria-pressed", String(on)); });
     $$(".co[data-region]").forEach((c) => { c.hidden = !!b.dataset.region && c.dataset.region !== b.dataset.region; });
   });
+
+  // ---------- 방문자 수 (오늘·전체) — Cloudflare 함수(/api/visit)와 D1이 연결돼 있을 때만 표시 ----------
+  const vbox = $("[data-visits]");
+  if (vbox) {
+    let vid = null;
+    try {
+      vid = localStorage.getItem("aek-vid");
+      if (!vid) { vid = crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).slice(2) + Date.now().toString(36); localStorage.setItem("aek-vid", vid); }
+    } catch (e) { vid = null; }
+    fetch("/api/visit", { method: vid ? "POST" : "GET", headers: { "content-type": "application/json" }, ...(vid ? { body: JSON.stringify({ vid }) } : {}) })
+      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+      .then((d) => {
+        if (typeof d.total !== "number") return;
+        $("[data-v-today]").textContent = Number(d.today || 0).toLocaleString();
+        $("[data-v-total]").textContent = Number(d.total || 0).toLocaleString();
+        vbox.hidden = false;
+      })
+      .catch(() => {});
+  }
 
   setLang(html.getAttribute("data-lang"), false);
 })();

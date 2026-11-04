@@ -29,6 +29,7 @@ data/issues.json        날짜별 브리핑 (generate-issue.mjs가 맨 앞에 �
 src/                    그대로 복사: styles.css, app.js(전환·필터·검색·탭), lang.js(첫 화면 언어), favicon.svg, _headers
 scripts/build.mjs       검증 + dist/ 생성 (/, /daily/날짜/, /news/, /trends/, /insights/, /archive/, 404, sitemap, robots)
 scripts/generate-issue.mjs  Claude API + 웹 검색으로 오늘 호 작성 (ko·en·ja)
+functions/api/visit.js  방문자 수 API (Pages Functions + D1 바인딩 DB)
 ```
 
 ## 4. 언어 전환 방식
@@ -63,7 +64,9 @@ ANTHROPIC_API_KEY=... node scripts/generate-issue.mjs [YYYY-MM-DD] [--force]
 
 5. **사내용으로 전환**: 모든 페이지 `noindex, nofollow, noarchive`, `_headers`에 `X-Robots-Tag`, robots.txt `Disallow: /`, 사이트맵 없음. 주소를 아는 사람은 여전히 열 수 있으니 접근 제한은 Cloudflare Access(사용자 설정)로 해요.
 
+6. **방문자 수(오늘·전체)**: ai-peekme와 같은 방식. `functions/api/visit.js`(D1, 브라우저당 하루 1번, 로봇·헤드리스 제외, 표는 처음 쓸 때 자동 생성) + `functions/_middleware.js`(CORS `*` 제거). 헤더에 표시, 휴대폰은 메뉴 아래 한 줄. D1이 연결 안 되면 숨김. 메뉴는 모든 화면에서 둘째 줄로 고정.
+
 ## 8. 아직 할 일
 
 - 사용자: Cloudflare Pages 프로젝트 연결(빌드 명령 `node scripts/build.mjs`, 출력 `dist`, `NODE_VERSION=22`), Secrets에 `ANTHROPIC_API_KEY` 등록, Actions 수동 실행으로 첫 호 만들기.
-- 첫 실제 실행 결과(3개 언어 JSON이 잘 나오는지) 확인.
+- 사용자: D1 데이터베이스(예: `asahikasei-aek-visits`) 만들고 Pages 프로젝트 Settings → Bindings에 **변수 이름 `DB`**로 연결 → 재배포해야 방문자 수가 보여요.

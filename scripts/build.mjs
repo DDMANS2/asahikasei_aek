@@ -157,6 +157,12 @@ ${ld}
       <span class="brand-mark">${ICON.logo}</span>
       <span class="brand-txt"><strong>${esc(config.brand)}</strong><span class="brand-tag">${T(config.tagline)}</span></span>
     </a>
+    <span class="visits" data-visits hidden aria-live="polite" ${A("title", { ko: "방문자 수 (한 브라우저당 하루 1번만 셉니다)", en: "Visitors (each browser counted once a day)", ja: "訪問者数（1つのブラウザにつき1日1回カウント）" })}>
+      <span class="v-dot" aria-hidden="true"></span>
+      <span>${tx("오늘", "Today", "今日")} <b data-v-today>-</b></span>
+      <span class="v-sep" aria-hidden="true"></span>
+      <span>${tx("전체", "Total", "累計")} <b data-v-total>-</b></span>
+    </span>
     <div class="lang" role="group" ${A("aria-label", { ko: "언어 선택", en: "Language", ja: "言語" })}>
       ${LANGS.map((l) => `<button type="button" data-set-lang="${l}" lang="${l}" aria-pressed="${l === "ko"}">${LANG_LABEL[l]}</button>`).join("")}
     </div>

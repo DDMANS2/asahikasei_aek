@@ -55,14 +55,18 @@ a:hover { color: var(--blue); }
 .nav a:hover { color: var(--navy); background: var(--sky); }
 .nav a[aria-current="page"] { font-weight: 700; color: var(--navy); background: var(--sky); }
 .nav-short { display: none; }
+.visits { order: 3; display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 14px; border-radius: 20px; border: 1px solid var(--line-2); background: var(--surface); font-size: 13px; color: var(--muted); white-space: nowrap; }
+.visits[hidden] { display: none !important; }
+.visits b { font: 600 13.5px var(--mono); color: var(--navy); margin-left: 3px; }
+.v-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--sky-mark); }
+.v-sep { width: 1px; height: 14px; background: var(--line-2); }
 .lang { order: 3; display: flex; gap: 2px; padding: 3px; border-radius: 999px; background: var(--sky); border: 1px solid var(--sky-line); }
 .lang button { height: 40px; min-width: 52px; padding: 0 14px; border: 0; border-radius: 999px; background: transparent; color: var(--navy); font: 600 13px var(--sans); cursor: pointer; }
 .lang button[aria-pressed="true"] { background: var(--navy); color: #fff; }
 .lang-sel { order: 3; display: none; align-items: center; gap: 4px; height: 44px; padding: 0 6px 0 12px; border-radius: 22px; background: var(--sky); border: 1px solid var(--sky-line); color: var(--navy); }
 .lang-sel select { height: 40px; border: 0; background: transparent; color: var(--navy); font: 600 14px var(--sans); cursor: pointer; }
-/* 메뉴가 한 줄에 다 안 들어가면(좁은 화면·글자가 긴 일본어) 로고·언어 아래 줄로 내려요 */
-@media (max-width: 1240px) { .nav { order: 4; width: 100%; } }
-html[data-lang="ja"] .nav { order: 4; width: 100%; }
+/* 메뉴는 로고·방문자 수·언어 아래 둘째 줄에 둬요 (세 언어 모두 같은 자리, 글자 길이가 달라도 줄이 흔들리지 않게) */
+.nav { order: 4; width: 100%; }
 @media (max-width: 640px) {
   .wrap { padding: 0 16px; }
   .brand-mark { width: 40px; height: 40px; }
@@ -74,6 +78,8 @@ html[data-lang="ja"] .nav { order: 4; width: 100%; }
   .nav a { justify-content: center; padding: 0 6px; font-size: 14px; text-align: center; }
   .nav-full { display: none; }
   .nav-short { display: inline; }
+  /* 휴대폰: 방문자 수는 메뉴 아래 얇은 한 줄로 */
+  .visits { order: 5; width: 100%; justify-content: center; height: 30px; border: 0; background: transparent; font-size: 12.5px; padding: 0; }
 }
 
 /* ---------- 버튼·태그·칩 ---------- */
