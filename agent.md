@@ -6,7 +6,7 @@ AI 에이전트(Claude 등)가 이 저장소에서 작업을 이어받을 때 **
 
 | 항목 | 내용 |
 |---|---|
-| 서비스 | asahikasei_aek — 2차전지(배터리) 산업 데일리 브리핑. **사내 사람만 보는 용도**(검색엔진 차단). 비공식 표시는 푸터에 |
+| 서비스 | ASAHIKASEI_AEK(화면 표기는 대문자, `site-config.json`의 brand) — 2차전지(배터리) 산업 데일리 브리핑. **사내 사람만 보는 용도**(검색엔진 차단). 비공식 표시는 푸터에 |
 | 저장소 | GitHub `DDMANS2/asahikasei_aek` (`main`) |
 | 주소 | Cloudflare Pages `asahikasei-aek` → https://asahikasei-aek.pages.dev (Pages 이름에는 `_`를 못 써서 하이픈) |
 | 언어 | 한국어·영어·일본어. **주소를 나누지 않고 페이지 안에서 전환**(사용자 요청) |
