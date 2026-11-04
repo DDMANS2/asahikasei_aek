@@ -6,7 +6,7 @@ AI 에이전트(Claude 등)가 이 저장소에서 작업을 이어받을 때 **
 
 | 항목 | 내용 |
 |---|---|
-| 서비스 | asahikasei_aek — 2차전지(배터리) 산업 데일리 브리핑. **비공식 개인 사이트**(특정 기업과 무관, 푸터에 명시) |
+| 서비스 | asahikasei_aek — 2차전지(배터리) 산업 데일리 브리핑. **사내 사람만 보는 용도**(검색엔진 차단). 비공식 표시는 푸터에 |
 | 저장소 | GitHub `DDMANS2/asahikasei_aek` (`main`) |
 | 주소 | Cloudflare Pages `asahikasei-aek` → https://asahikasei-aek.pages.dev (Pages 이름에는 `_`를 못 써서 하이픈) |
 | 언어 | 한국어·영어·일본어. **주소를 나누지 않고 페이지 안에서 전환**(사용자 요청) |
@@ -60,6 +60,8 @@ ANTHROPIC_API_KEY=... node scripts/generate-issue.mjs [YYYY-MM-DD] [--force]
 3. 로컬에서 시험용 가짜 데이터(커밋 안 함)로 320·375·768·1024·1280px, 언어 전환·검색·필터·탭을 Playwright Chromium으로 확인.
 
 4. 기사마다 **분리막 사업 관점 코멘트**(`impact`: stance positive/negative/mixed/neutral + pros·cons 3개 언어). 사용자는 아사히카세이 분리막 사업 관점(습식 Hipore·건식 Celgard)을 원함. AI 의견이며 회사 공식 견해가 아님을 화면·푸터에 표시. 회사 내부 사정·수치는 지어내지 않도록 프롬프트에 명시.
+
+5. **사내용으로 전환**: 모든 페이지 `noindex, nofollow, noarchive`, `_headers`에 `X-Robots-Tag`, robots.txt `Disallow: /`, 사이트맵 없음. 주소를 아는 사람은 여전히 열 수 있으니 접근 제한은 Cloudflare Access(사용자 설정)로 해요.
 
 ## 8. 아직 할 일
 

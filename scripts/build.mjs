@@ -132,7 +132,7 @@ function layout({ title, description, path, active, body, noindex = false, jsonL
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title.ko)}</title>
 <meta name="description" content="${esc(description.ko)}">
-${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" href="${canonical}">`}
+<meta name="robots" content="noindex, nofollow, noarchive">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="${esc(config.brand)}">
 <meta property="og:title" content="${esc(title.ko)}">
@@ -445,7 +445,6 @@ for (const [path, html] of pages) {
   await mkdir(dirname(file), { recursive: true });
   await writeFile(file, html);
 }
-const sm = pages.filter(([p]) => p !== "/404.html").map(([p]) => `<url><loc>${ORIGIN}${p}</loc>${latestDate ? `<lastmod>${p.startsWith("/daily/") ? p.slice(7, 17) : latestDate}</lastmod>` : ""}</url>`);
-await writeFile(join(DIST, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sm.join("\n")}\n</urlset>\n`);
-await writeFile(join(DIST, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${ORIGIN}/sitemap.xml\n`);
+// 사내용: 검색엔진·크롤러가 수집하지 않도록 막아요 (사이트맵도 만들지 않음). 모든 페이지에 noindex, _headers에 X-Robots-Tag.
+await writeFile(join(DIST, "robots.txt"), `User-agent: *\nDisallow: /\n`);
 console.log(`✓ ${issues.length}개 호 · ${allStories.length}개 기사 · ${pages.length}개 페이지 빌드 완료 → dist/  (origin: ${ORIGIN})`);
