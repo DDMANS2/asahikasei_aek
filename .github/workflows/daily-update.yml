@@ -35,7 +35,8 @@ jobs:
     env:
       # ⚠ 새 API 키로 바꿀 때 이 날짜도 같이 고쳐 주세요 (Console → API 키 → 만료 칸의 날짜).
       ANTHROPIC_KEY_EXPIRES: "2026-12-01"
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # 키 이름은 ANTHROPIC_API_KEY 또는 ASAHIKASEI_AEK(사용자가 등록한 이름) 둘 다 받아요
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.ASAHIKASEI_AEK }}
       DATE: ${{ github.event.inputs.date }}
       FORCE: ${{ github.event.inputs.force == 'true' && '--force' || '' }}
     steps:
@@ -102,7 +103,7 @@ jobs:
         if: always() && (steps.expiry.outputs.alert == '1' || steps.keycheck.outcome == 'failure' || steps.news.outcome == 'failure' || env.ANTHROPIC_API_KEY == '')
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo "::error::이 저장소에서 ANTHROPIC_API_KEY를 찾지 못했어요. Settings → Secrets and variables → Actions → 'Secrets' 탭 → 'Repository secrets'에 이름이 정확히 ANTHROPIC_API_KEY인지 확인해 주세요. (Variables 탭·Environment secrets·Codespaces·Dependabot에 넣으면 안 보여요)"
+            echo "::error::이 저장소에서 ANTHROPIC_API_KEY를 찾지 못했어요. Settings → Secrets and variables → Actions → 'Secrets' 탭 → 'Repository secrets'에 이름이 ANTHROPIC_API_KEY 또는 ASAHIKASEI_AEK인지 확인해 주세요. (Variables 탭·Environment secrets·Codespaces·Dependabot에 넣으면 안 보여요)"
           else
             echo "::error::브리핑을 만들지 못했어요. 'API 키 확인' 단계가 성공이면 '2차전지 브리핑 작성' 단계 로그를 봐 주세요. 다음 예약 실행이 다시 시도해요."
           fi
