@@ -13,7 +13,7 @@ AI 에이전트(Claude 등)가 이 저장소에서 작업을 이어받을 때 **
 | 만든 방식 | 프레임워크·npm 없이 Node 22로 정적 생성 (`scripts/build.mjs`) |
 | 디자인 | Claude Design 캔버스 "asahikasei_aek 디자인" — 연 블루 퍼스널 컬러, 제목은 진한 블루(#0B2E5C) |
 | 자동 갱신 | GitHub Actions `daily-update.yml` → Claude API(웹 검색)로 3개 언어 브리핑 작성 → `main` 커밋 → 자동 배포 |
-| API 키 | 같은 Console 계정의 키를 이 저장소 Secrets에 **`ASAHIKASEI_AEK`** 이름으로 등록함(워크플로는 `ANTHROPIC_API_KEY`도 받음). 크레딧은 ai-peekme와 같이 씀. 만료일 확인 필요(워크플로 `ANTHROPIC_KEY_EXPIRES`) |
+| API 키 | 같은 Console 계정의 키를 이 저장소 Secrets에 **`ASAHIKASEI_AEK`** 이름으로 등록함(워크플로는 `ANTHROPIC_API_KEY`도 받음). 크레딧은 ai-peekme와 같이 씀. 키는 **만료 안 함**으로 만들어서 `ANTHROPIC_KEY_EXPIRES`는 비워 둠 |
 
 ## 2. 사용자와 일하는 방식
 

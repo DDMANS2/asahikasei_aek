@@ -33,8 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
-      # ⚠ 새 API 키로 바꿀 때 이 날짜도 같이 고쳐 주세요 (Console → API 키 → 만료 칸의 날짜).
-      ANTHROPIC_KEY_EXPIRES: "2026-12-01"
+      # 키 만료일 (Console → API 키 → 만료 칸). 지금 키는 '만료 안 함'이라 비워 둬요.
+      # 만료일이 있는 키로 바꾸면 "YYYY-MM-DD"로 적어 주세요 (14일 전부터 경고, 7일 전부터 실패 알림).
+      ANTHROPIC_KEY_EXPIRES: ""
       # 키 이름은 ANTHROPIC_API_KEY 또는 ASAHIKASEI_AEK(사용자가 등록한 이름) 둘 다 받아요
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.ASAHIKASEI_AEK }}
       DATE: ${{ github.event.inputs.date }}
@@ -48,6 +49,7 @@ jobs:
       - name: API 키 만료일 확인
         id: expiry
         run: |
+          if [ -z "$ANTHROPIC_KEY_EXPIRES" ]; then echo "### API 키 만료일 없음 (만료 안 함)" >> "$GITHUB_STEP_SUMMARY"; exit 0; fi
           left=$(( ( $(date -d "$ANTHROPIC_KEY_EXPIRES" +%s) - $(date +%s) ) / 86400 ))
           if [ "$left" -lt 0 ]; then msg="❌ API 키 만료일($ANTHROPIC_KEY_EXPIRES)이 지났어요. 새 키로 Secrets를 교체해 주세요."
           elif [ "$left" -le 14 ]; then msg="⚠️ API 키가 ${left}일 뒤($ANTHROPIC_KEY_EXPIRES) 만료돼요."
