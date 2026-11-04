@@ -1,1 +1,289 @@
-{ "issues": [] }
+{
+  "issues": [
+    {
+      "date": "2026-11-04",
+      "title": {
+        "ko": "LG에너지솔루션 3분기 영업이익 7,560억 원, 엘앤에프 LFP 양극재 1조 원 계약, 소듐이온 샘플 생산",
+        "en": "LG Energy Solution Q3 profit, L&F's 1 trillion won LFP cathode deal, sodium-ion samples",
+        "ja": "LGエナジーソリューションの7〜9月期、エルアンドエフのLFP正極材1兆ウォン契約、ナトリウムイオン電池サンプル"
+      },
+      "summary": {
+        "ko": "LG에너지솔루션이 ESS 출하 확대에 힘입어 3분기 영업이익 7,560억 원을 발표했고, 소듐이온 배터리 샘플 생산 계획도 밝혔습니다. 같은 날 엘앤에프는 LG에너지솔루션과 1조 원대 LFP 양극재 공급계약을 발표했습니다.",
+        "en": "LG Energy Solution reported Q3 operating profit of 756 billion won, helped by more ESS shipments, and said it plans to make sodium-ion samples. On the same day, L&F announced a LFP cathode supply deal with LGES worth about 1 trillion won.",
+        "ja": "LGエナジーソリューションはESS出荷の増加を背景に7〜9月期の営業利益7,560億ウォンを発表し、ナトリウムイオン電池のサンプル生産計画も明らかにしました。同じ日、エルアンドエフはLGエナジーソリューションと1兆ウォン規模のLFP正極材供給契約を発表しました。"
+      },
+      "highlights": {
+        "ko": [
+          "LG에너지솔루션 3분기 매출 9조 6,434억 원, 영업이익 7,560억 원(회사 측 발표). ESS 수주잔고는 160GWh입니다.",
+          "엘앤에프가 LG에너지솔루션과 약 1조 350억 원 규모의 LFP 양극재 공급계약을 맺었습니다(2028~2031년 공급).",
+          "LG에너지솔루션은 연내 ESS용 소듐이온 배터리 샘플 생산을 시작하고 내년 북미 고객사 테스트를 계획하고 있습니다(계획 단계)."
+        ],
+        "en": [
+          "LGES Q3 revenue was 9.6434 trillion won and operating profit 756 billion won (company-reported). Its ESS order backlog is 160 GWh.",
+          "L&F signed a LFP cathode supply deal with LGES worth about 1.035 trillion won, with deliveries from 2028 to 2031.",
+          "LGES plans to start sodium-ion sample production for ESS this year and test with North American customers next year (still a plan)."
+        ],
+        "ja": [
+          "LGエナジーソリューションの7〜9月期は売上高9兆6,434億ウォン、営業利益7,560億ウォンでした(同社発表)。ESS受注残は160GWhです。",
+          "エルアンドエフがLGエナジーソリューションと約1兆350億ウォンのLFP正極材供給契約を結びました(2028〜2031年に供給)。",
+          "LGエナジーソリューションは年内にESS向けナトリウムイオン電池のサンプル生産を始め、来年北米顧客でのテストを予定しています(計画段階)。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP(リン酸鉄リチウム)電池"
+        },
+        "desc": {
+          "ko": "LFP는 양극재에 리튬·인산·철을 쓰는 배터리로, 니켈·코발트를 쓰는 NCM보다 저장 에너지는 적지만 값이 싸고 안정성이 높은 편입니다. 최근 데이터센터용 ESS 수요가 늘면서 주목받고 있습니다.",
+          "en": "LFP batteries use lithium, phosphate and iron in the cathode. They store less energy than NCM batteries, which use nickel and cobalt, but they are cheaper and generally safer. They are getting attention as demand for data-center ESS grows.",
+          "ja": "LFPは正極材にリチウム・リン酸・鉄を使う電池で、ニッケルやコバルトを使うNCMよりエネルギー量は少ないものの、安価で安全性が高いとされます。データセンター向けESSの需要拡大で注目されています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "lges-q3-2026-results-20261103",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "LG에너지솔루션 3분기 실적",
+            "en": "LGES Q3 results",
+            "ja": "LGES 7〜9月期決算"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 3분기 영업이익 7,560억 원…ESS가 실적 견인",
+            "en": "LG Energy Solution posts Q3 operating profit of 756 billion won, led by ESS",
+            "ja": "LGエナジーソリューション、7〜9月期営業利益7,560億ウォン、ESSが牽引"
+          },
+          "summary": {
+            "ko": "LG에너지솔루션은 3분기 연결 매출 9조 6,434억 원, 영업이익 7,560억 원을 기록했다고 3일 공시했습니다. 언론 보도에 따르면 ESS 출하 증가와 전기차 배터리 판매 확대가 배경이며, 매출은 전년 동기보다 59% 늘었습니다. 회사는 북미 ESS 생산능력을 올해 말 50GWh 이상, 내년 말 70GWh 이상으로 늘리겠다고 밝혔습니다(계획).",
+            "en": "LGES said on Nov. 3 that Q3 consolidated revenue was 9.6434 trillion won and operating profit was 756 billion won. Press reports say more ESS shipments and higher EV battery sales drove the result, with revenue up 59% from a year earlier. The company says it plans to raise North American ESS capacity to 50 GWh or more by the end of this year and 70 GWh or more by the end of next year (plan).",
+            "ja": "LGエナジーソリューションは3日、7〜9月期の連結売上高が9兆6,434億ウォン、営業利益が7,560億ウォンだったと開示しました。報道によると、ESS出荷の増加と電気自動車用電池の販売拡大が背景で、売上高は前年同期比59%増です。同社は北米のESS生産能力を今年末に50GWh以上、来年末に70GWh以上へ拡大する計画だとしています(計画)。"
+          },
+          "background": {
+            "ko": "컨퍼런스콜 전문 기사에 따르면 회사 측은 ESS 수주잔고가 3분기 말 160GWh이며 2028년 물량은 대부분 확정됐다고 밝혔습니다. 원통형 46시리즈 수주잔고는 440GWh 이상이며, 여러 글로벌 완성차 업체와 추가 공급을 협의 중이라고 했습니다(협의 단계). 미국 IRA 세액공제(AMPC) 4,169억 원이 포함된 수치이며, 이를 제외한 영업이익은 3,391억 원입니다.",
+            "en": "According to the earnings call transcript, the company said its ESS order backlog stood at 160 GWh at the end of Q3, with most 2028 volumes already fixed. It said its backlog for 46-series cylindrical cells is over 440 GWh, and it is in talks with several global automakers for more orders (talks only, not confirmed). The figures include 416.9 billion won of US IRA tax credits (AMPC); excluding them, operating profit was 339.1 billion won.",
+            "ja": "決算説明会の全文記事によると、同社はESS受注残が7〜9月期末で160GWhで、2028年分の大半が確定していると述べました。円筒形の46シリーズの受注残は440GWh以上で、複数の海外自動車メーカーと追加供給を協議中とのことです(協議段階で未確定)。数値には米国IRAの税額控除(AMPC)4,169億ウォンが含まれ、これを除く営業利益は3,391億ウォンです。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [],
+          "source": {
+            "name": "아시아경제",
+            "date": "2026-11-03",
+            "url": "https://view.asiae.co.kr/article/2026110310382663841"
+          },
+          "related": [
+            {
+              "name": "디일렉: LG에너지솔루션 3분기 컨퍼런스콜 전문",
+              "url": "https://www.thelec.kr/news/articleView.html?idxno=64781"
+            },
+            {
+              "name": "글로벌이코노믹: LG엔솔 46시리즈 공급 협의",
+              "url": "https://www.g-enews.com/article/Industry/2026/11/2026110311125046893084322ec9_1"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "ESS 수주잔고와 46시리즈 수주잔고가 크고 북미 ESS 증설 계획이 있어, 셀 생산량이 늘면 분리막 수요도 함께 늘 수 있습니다. 북미 현지 생산 분리막에 대한 관심이 높아질 가능성도 있습니다.",
+              "en": "The large ESS and 46-series backlogs and the North American ESS expansion plan mean more cells, which could lift separator demand too. Interest in separators made in North America could also grow.",
+              "ja": "ESSと46シリーズの受注残が大きく、北米のESS増設計画もあるため、セル生産量が増えればセパレータ需要も増える可能性があります。北米で生産されるセパレータへの関心が高まる可能性もあります。"
+            },
+            "cons": {
+              "ko": "이번 이익에는 미국 세액공제(AMPC)가 크게 포함돼 있어 정책 변화에 민감할 수 있습니다. 회사가 '선택과 집중'과 효율화를 강조해 부품·소재 공급사에 비용 절감 압력이 커질 가능성도 있습니다.",
+              "en": "The profit includes a large US tax credit (AMPC), so results may be sensitive to policy changes. The company's stress on focus and efficiency could also increase cost pressure on material suppliers.",
+              "ja": "今回の利益には米国の税額控除(AMPC)が大きく含まれており、政策変更の影響を受けやすい可能性があります。同社が「選択と集中」と効率化を強調しており、部材・素材サプライヤーへのコスト削減圧力が強まる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "lnf-lges-lfp-cathode-20261103",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "엘앤에프 LFP 양극재",
+            "en": "L&F LFP cathode",
+            "ja": "エルアンドエフ LFP正極材"
+          },
+          "title": {
+            "ko": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 공급계약",
+            "en": "L&F signs LFP cathode supply deal of about 1 trillion won with LGES",
+            "ja": "エルアンドエフ、LGESと1兆ウォン規模のLFP正極材供給契約"
+          },
+          "summary": {
+            "ko": "엘앤에프는 LG에너지솔루션과 약 1조 350억 원(7억 7,400만 달러) 규모의 LFP 양극재 장기 공급계약을 맺었다고 3일 공시했습니다. 공급 기간은 2028년부터 2031년까지이며, 회사는 이를 위해 신규 공장을 증설할 계획입니다. 이 금액은 최소 확정물량 기준이며 확정 매출을 뜻하지는 않는다고 보도됐습니다.",
+            "en": "L&F disclosed on Nov. 3 a long-term LFP cathode supply deal with LGES worth about 1.035 trillion won ($774 million). Supply runs from 2028 to 2031, and L&F plans to build a new plant for it. Reports note the amount is based on minimum committed volume and does not guarantee revenue.",
+            "ja": "エルアンドエフは3日、LGエナジーソリューションと約1兆350億ウォン(7億7,400万ドル)のLFP正極材長期供給契約を結んだと開示しました。供給期間は2028〜2031年で、同社は新工場を増設して対応する計画です。金額は最低確定数量ベースで、確定売上を意味しないと報じられています。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "중기이코노미",
+            "date": "2026-11-03",
+            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38340"
+          },
+          "related": [
+            {
+              "name": "아주경제: 엘앤에프, LG엔솔과 1조원 규모 LFP 양극재 공급계약",
+              "url": "https://www.ajunews.com/view/20261103102628466"
+            },
+            {
+              "name": "뉴스토마토: 엘앤에프, LG엔솔과 1조원대 LFP 양극재 계약",
+              "url": "https://www.newstomato.com/ReadNews.aspx?no=1319039"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "한국 배터리 3사가 비중국 LFP 공급망을 넓히고 있어 LFP 셀 증설과 ESS용 분리막 수요로 이어질 가능성이 있습니다. 미국의 중국 제외 요건 강화는 비중국 분리막 공급사에 유리할 수 있습니다.",
+              "en": "Korea's three battery makers are building non-China LFP supply chains, which could lead to more LFP cell capacity and ESS separator demand. Tighter US rules on Chinese content could favor non-Chinese separator suppliers.",
+              "ja": "韓国電池大手3社が中国以外のLFPサプライチェーンを広げており、LFPセルの増設やESS向けセパレータ需要につながる可能性があります。米国の中国排除要件の強化は、中国以外のセパレータ供給元に有利に働く可能性があります。"
+            },
+            "cons": {
+              "ko": "LFP 중심의 ESS 시장은 가격 경쟁이 치열해 분리막에도 원가 인하 압력이 커질 수 있습니다. 계약은 2028년 이후 공급이며 최소 확정물량 기준이라 실제 물량은 달라질 수 있습니다.",
+              "en": "The LFP-centered ESS market is price-sensitive, which may increase cost pressure on separators. Supply starts in 2028 and is based on minimum volumes, so actual volumes may differ.",
+              "ja": "LFP中心のESS市場は価格競争が激しく、セパレータにもコスト低減圧力が強まる可能性があります。供給は2028年以降で最低確定数量ベースのため、実際の数量は変わる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "lges-sodium-ion-sample-20261103",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "LG엔솔 소듐이온 배터리",
+            "en": "LGES sodium-ion",
+            "ja": "LGES ナトリウムイオン電池"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 연내 ESS용 소듐이온 배터리 샘플 생산 계획",
+            "en": "LGES plans sodium-ion battery samples for ESS this year",
+            "ja": "LGエナジーソリューション、年内にESS向けナトリウムイオン電池のサンプル生産へ"
+          },
+          "summary": {
+            "ko": "LG에너지솔루션은 3분기 컨퍼런스콜에서 충북 오창 마더팩토리에서 ESS용 소듐이온 배터리 샘플 생산을 준비 중이라고 밝혔습니다. 연내 샘플 생산을 시작하고 내년 중 북미 고객사에 테스트 제품을 보낼 계획입니다. 아직 계획 단계이며 양산 시점은 언급되지 않았습니다.",
+            "en": "On its Q3 earnings call, LGES said it is preparing sodium-ion battery sample production for ESS at its Ochang mother factory in Korea. It plans to start samples this year and ship test products to North American customers next year. This is still a plan, and no mass-production date was mentioned.",
+            "ja": "LGエナジーソリューションは7〜9月期の決算説明会で、忠清北道・梧倉のマザー工場でESS向けナトリウムイオン電池のサンプル生産を準備中だと述べました。年内にサンプル生産を始め、来年中に北米顧客へテスト品を出荷する計画です。まだ計画段階で、量産時期には触れられていません。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [],
+          "source": {
+            "name": "글로벌이코노믹",
+            "date": "2026-11-03",
+            "url": "https://www.g-enews.com/article/Industry/2026/11/2026110311110041553084322ec9_1"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소듐이온 전지도 일반적으로 양극과 음극을 나누는 분리막이 필요해, 시장이 커지면 새로운 분리막 수요가 생길 수 있습니다.",
+              "en": "Sodium-ion cells generally also need a separator between the electrodes, so a growing market could create new separator demand.",
+              "ja": "ナトリウムイオン電池も一般に正極と負極を隔てるセパレータが必要なため、市場が拡大すれば新たなセパレータ需要が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "저가 ESS용 소듐이온이 일부 리튬이온 수요를 대체하면 분리막 제품 구성과 가격 압력이 달라질 수 있습니다. 시장 규모는 아직 불확실합니다.",
+              "en": "If low-cost sodium-ion replaces some lithium-ion ESS demand, the separator product mix and price pressure could change. The market size is still uncertain.",
+              "ja": "低コストのナトリウムイオン電池がリチウムイオンのESS需要の一部を置き換えれば、セパレータの製品構成や価格圧力が変わる可能性があります。市場規模はまだ不透明です。"
+            }
+          }
+        },
+        {
+          "id": "global-ev-battery-share-jan-sep-20261102",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "글로벌 EV 배터리 점유율",
+            "en": "Global EV battery share",
+            "ja": "世界EV電池シェア"
+          },
+          "title": {
+            "ko": "1~9월 글로벌 EV 배터리 점유율, CATL 39.1%·BYD 15.2%",
+            "en": "Jan–Sept global EV battery share: CATL 39.1%, BYD 15.2%",
+            "ja": "1〜9月の世界EV電池シェア、CATL 39.1%・BYD 15.2%"
+          },
+          "summary": {
+            "ko": "CnEVPost가 정리한 1~9월 집계에서 CATL은 389.2GWh로 점유율 39.1%를 기록했고, 장착량은 전년 동기보다 24.9% 늘었습니다. BYD는 15.2%로, 두 회사를 합치면 54.3%입니다. 상위 10개사 중 SK온과 파나소닉만 장착량이 줄었다고 합니다.",
+            "en": "CnEVPost's Jan–Sept tally shows CATL installed 389.2 GWh for a 39.1% share, up 24.9% from a year earlier. BYD had 15.2%, and the two together held 54.3%. SK On and Panasonic were the only top-10 makers whose installations fell.",
+            "ja": "CnEVPostがまとめた1〜9月の集計では、CATLの搭載量は389.2GWhでシェア39.1%、前年同期比24.9%増でした。BYDは15.2%で、両社合計は54.3%です。上位10社のうち搭載量が減ったのはSK OnとパナソニックだけでTop10の中で唯一でした。"
+          },
+          "companies": [
+            "catl",
+            "byd",
+            "skon",
+            "panasonic"
+          ],
+          "materials": [],
+          "source": {
+            "name": "CnEVPost",
+            "date": "2026-11-02",
+            "url": "https://cnevpost.com/2026/11/02/global-ev-battery-market-share-in-jan-sept-2026/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "시장 전체가 성장하고 있어 EV용 분리막 수요의 바탕은 견조합니다. 한편 CATL과 BYD의 격차가 4개월 연속 좁혀지는 등 고객 구도가 변하고 있어, 고객 다변화 기회가 될 수 있습니다.",
+              "en": "The overall market is growing, which supports EV separator demand. The gap between CATL and BYD has narrowed for four months, so shifting customer patterns may offer chances to diversify customers.",
+              "ja": "市場全体が成長しており、EV向けセパレータ需要の土台は堅調です。CATLとBYDの差が4カ月連続で縮まるなど顧客構図が変化しており、顧客多様化の機会になる可能性があります。"
+            },
+            "cons": {
+              "ko": "점유율이 중국 업체에 집중될수록 중국 내 분리막 공급망과 경쟁하는 비중이 커질 수 있습니다. 일본·한국 업체인 파나소닉과 SK온의 장착량 감소는 해당 고객 경유 수요에 부담이 될 수 있습니다.",
+              "en": "As share concentrates in Chinese makers, separator sales may face more competition from China's local supply chain. Falling installations at Panasonic and SK On could weigh on demand through those customers.",
+              "ja": "シェアが中国メーカーに集中するほど、中国国内のセパレータ供給網との競合が強まる可能性があります。パナソニックやSK Onの搭載量減少は、これらの顧客経由の需要の重しになる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "latp-samarium-oxide-conductivity-20261104",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "LATP 고체전해질 연구",
+            "en": "LATP solid electrolyte",
+            "ja": "LATP固体電解質の研究"
+          },
+          "title": {
+            "ko": "LATP 이온전도율 10배…산화사마륨 첨가로 저가 전고체 전지에 한 걸음",
+            "en": "LATP ion conductivity up tenfold with samarium oxide, a step toward cheaper solid-state batteries",
+            "ja": "LATPのイオン伝導率が10倍に、酸化サマリウム添加で安価な全固体電池へ"
+          },
+          "summary": {
+            "ko": "EE Times Japan은 고체전해질 소재 LATP에 산화사마륨을 첨가해 결정 입자 경계의 이온 전도를 개선하고 이온전도율을 10배로 높인 연구를 소개했습니다. 이온 전도 메커니즘을 원자 수준에서 규명했다고 하며, 전고체 전지 소재 개발에 기여할 것으로 전망된다고 합니다. 연구 단계이며 제품화 시점은 나와 있지 않습니다.",
+            "en": "EE Times Japan reports a study in which adding samarium oxide to the solid electrolyte LATP improved conduction at grain boundaries and raised ionic conductivity tenfold. The researchers also explained the ion conduction at the atomic level, and the work is expected to help solid-state battery materials. It is a research result, and no commercialization timing is given.",
+            "ja": "EE Times Japanは、固体電解質材料LATPに酸化サマリウムを添加して粒界のイオン伝導を改善し、イオン伝導率を10倍に高めた研究を伝えました。イオン伝導を原子レベルで解明することにも成功したとされ、全固体電池の材料開発に貢献すると見られています。研究段階で、製品化の時期は示されていません。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "EE Times Japan",
+            "date": "2026-11-04",
+            "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/04/news028.html"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "연구 단계이고 전고체 전지에 쓰이는 고체전해질의 진전은 당장 분리막 수요에는 영향이 크지 않습니다. 당분간은 액체 전해질 기반 리튬이온 전지가 시장의 중심이라 분리막 수요는 유지될 가능성이 큽니다.",
+              "en": "This is early-stage research, so it has little immediate effect on separator demand. Liquid-electrolyte lithium-ion cells will likely stay mainstream for some time, keeping separator demand intact.",
+              "ja": "研究段階の成果であり、当面セパレータ需要への影響は大きくありません。しばらくは液体電解質のリチウムイオン電池が主流のため、セパレータ需要は維持される可能性が高いです。"
+            },
+            "cons": {
+              "ko": "고체전해질이 저가화되면 장기적으로 전고체 전지가 분리막 역할을 대신해 분리막 필요성이 줄 가능성이 있습니다. 다만 상용화까지는 시간이 걸리고 불확실성이 큽니다.",
+              "en": "If solid electrolytes become cheaper, all-solid-state cells could in the long run take over the separator's role and reduce the need for separators. Commercialization is still far off and uncertain.",
+              "ja": "固体電解質が安価になれば、長期的には全固体電池がセパレータの役割を代替し、セパレータの必要性が低下する可能性があります。ただし実用化には時間がかかり、不確実性は大きいです。"
+            }
+          }
+        }
+      ],
+      "edition": 1
+    }
+  ]
+}
