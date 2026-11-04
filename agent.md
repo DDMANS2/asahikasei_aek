@@ -59,6 +59,8 @@ ANTHROPIC_API_KEY=... node scripts/generate-issue.mjs [YYYY-MM-DD] [--force]
 2. 사이트 뼈대·3개 언어 전환·자동 작성 스크립트·워크플로 작성. 첫 커밋 시점에는 브리핑 데이터가 없어 "첫 브리핑 준비 중" 화면이 보여요.
 3. 로컬에서 시험용 가짜 데이터(커밋 안 함)로 320·375·768·1024·1280px, 언어 전환·검색·필터·탭을 Playwright Chromium으로 확인.
 
+4. 기사마다 **분리막 사업 관점 코멘트**(`impact`: stance positive/negative/mixed/neutral + pros·cons 3개 언어). 사용자는 아사히카세이 분리막 사업 관점(습식 Hipore·건식 Celgard)을 원함. AI 의견이며 회사 공식 견해가 아님을 화면·푸터에 표시. 회사 내부 사정·수치는 지어내지 않도록 프롬프트에 명시.
+
 ## 8. 아직 할 일
 
 - 사용자: Cloudflare Pages 프로젝트 연결(빌드 명령 `node scripts/build.mjs`, 출력 `dist`, `NODE_VERSION=22`), Secrets에 `ANTHROPIC_API_KEY` 등록, Actions 수동 실행으로 첫 호 만들기.

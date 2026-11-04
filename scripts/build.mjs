@@ -25,6 +25,13 @@ const CAT = new Map(ref.categories.map((c) => [c.id, c]));
 const MAT = new Map(ref.materials.map((m) => [m.id, m]));
 const COMP = new Map(ref.companies.map((c) => [c.id, c]));
 const REG = new Map(ref.regions.map((r) => [r.id, r]));
+// 분리막 사업 관점 코멘트의 방향
+const STANCE = {
+  positive: { ko: "유리", en: "Favorable", ja: "追い風" },
+  negative: { ko: "불리", en: "Unfavorable", ja: "向かい風" },
+  mixed: { ko: "양면", en: "Mixed", ja: "両面" },
+  neutral: { ko: "영향 적음", en: "Little impact", ja: "影響小" },
+};
 const tri = (o, at, { req = true } = {}) => {
   if (o == null) { if (req) errors.push(`${at} 누락`); return; }
   for (const l of LANGS) if (typeof o[l] !== "string" || !o[l].trim()) errors.push(`${at}.${l} 누락`);
@@ -52,6 +59,12 @@ rawIssues.forEach((is, i) => {
     if (!s.source?.name) errors.push(`${p}.source.name 누락`);
     if (s.source?.date && !isDate(s.source.date)) errors.push(`${p}.source.date 형식 오류`);
     for (const r of s.related || []) if (!isHttps(r.url) || !r.name) errors.push(`${p}.related 오류`);
+    if (s.impact) {
+      if (!STANCE[s.impact.stance]) errors.push(`${p}.impact.stance는 ${Object.keys(STANCE).join("/")} 중 하나`);
+      if (!s.impact.pros && !s.impact.cons) errors.push(`${p}.impact에 pros·cons 중 하나는 있어야 합니다`);
+      if (s.impact.pros) tri(s.impact.pros, `${p}.impact.pros`);
+      if (s.impact.cons) tri(s.impact.cons, `${p}.impact.cons`);
+    }
     for (const c of s.companies || []) if (!COMP.has(c)) errors.push(`${p}.companies에 모르는 기업 id: ${c}`);
     for (const m of s.materials || []) if (!MAT.has(m)) errors.push(`${p}.materials에 모르는 소재 id: ${m}`);
   });
@@ -165,6 +178,9 @@ ${body}
       <p>${tx("2차전지 산업 소식을 매일 한국어·영어·일본어로 정리해요. 기사는 AI가 공식 원문을 바탕으로 요약하며, 틀린 내용이 있을 수 있어요. 중요한 판단 전에는 원문을 꼭 확인하세요.",
         "Battery industry news, summarized daily in Korean, English and Japanese. Stories are AI summaries of official sources and may contain errors — check the original before relying on them.",
         "二次電池業界のニュースを毎日、韓国語・英語・日本語でまとめます。記事は公式の原文をもとにAIが要約しており、誤りが含まれる場合があります。重要な判断の前には必ず原文をご確認ください。")}</p>
+      <p>${tx("기사마다 붙은 '분리막 사업 관점' 코멘트는 AI가 기사 내용과 공개된 일반 정보만으로 쓴 참고 의견이며, 회사의 공식 견해나 투자 조언이 아닙니다.",
+        "The 'separator business view' notes are AI-written opinions based only on each story and general public information. They are not an official company view or investment advice.",
+        "各記事の「セパレーター事業の視点」コメントは、記事内容と一般に公開された情報のみをもとにAIが書いた参考意見であり、会社の公式見解や投資助言ではありません。")}</p>
       <p class="ftr-note">${tx("개인이 운영하는 비공식 사이트이며, 특정 기업과 관계가 없습니다.", "An unofficial, personally run site. Not affiliated with any company.", "個人が運営する非公式サイトです。特定の企業とは関係ありません。")}</p>
     </div>
     <nav class="ftr-nav" ${A("aria-label", { ko: "바닥 메뉴", en: "Footer menu", ja: "フッターメニュー" })}>
@@ -181,6 +197,17 @@ const catName = (id) => T(CAT.get(id)?.name);
 const sourceLine = (s) => `${esc(s.source.name)}${s.source.date ? ` · ${shortDate(s.source.date)}` : ""}`;
 const searchKey = (s) => esc([allText(s.title), allText(s.summary), s.source?.name, ...(s.companies || []).map((c) => allText(COMP.get(c).name)), ...(s.materials || []).map((m) => allText(MAT.get(m).name))].join(" ").toLowerCase());
 
+// 기사마다: 분리막 제조사(아사히카세이 분리막 사업) 관점의 이점·불리한 점 (AI 의견)
+function impactBox(s) {
+  const im = s.impact;
+  if (!im) return "";
+  return `<div class="impact impact-${im.stance}">
+    <p class="impact-head"><span class="impact-badge">${T(STANCE[im.stance])}</span><span class="impact-title">${tx("분리막 사업 관점 · AI 코멘트", "Separator business view · AI comment", "セパレーター事業の視点 · AIコメント")}</span></p>
+    ${im.pros ? `<p class="impact-line"><b class="pro">${tx("+ 이점", "+ Upside", "+ メリット")}</b><span>${T(im.pros)}</span></p>` : ""}
+    ${im.cons ? `<p class="impact-line"><b class="con">${tx("− 불리한 점", "− Downside", "− デメリット")}</b><span>${T(im.cons)}</span></p>` : ""}
+  </div>`;
+}
+
 function storyRow(s, { showIssue = false, hl = 3 } = {}) {
   return `<article class="row" id="${esc(s.id)}" data-cat="${s.category}" data-search="${searchKey(s)}">
     <span class="tag">${catName(s.category)}</span>
@@ -188,6 +215,7 @@ function storyRow(s, { showIssue = false, hl = 3 } = {}) {
       <h${hl} class="row-title"><a href="${esc(s.source.url)}" ${ext}>${T(s.title)}</a></h${hl}>
       <p>${T(s.summary)}</p>
       ${(s.companies || []).length || (s.materials || []).length ? `<p class="row-tags">${[...(s.companies || []).map((c) => T(COMP.get(c).name)), ...(s.materials || []).map((m) => T(MAT.get(m).name))].map((x) => `<span>${x}</span>`).join("")}</p>` : ""}
+      ${impactBox(s)}
     </div>
     <div class="row-meta">
       <span>${sourceLine(s)}</span>
@@ -241,6 +269,7 @@ function issueBody(is) {
         <h1>${T(main.title)}</h1>
         <p>${T(main.summary)}</p>
         ${main.background ? `<p class="top-bg">${T(main.background)}</p>` : ""}
+        ${impactBox(main)}
         <div class="btns">
           <a class="btn btn-ink" href="${esc(main.source.url)}" ${ext}>${ICON.out}${tx("공식 발표 원문", "Official source", "公式発表の原文")}</a>
           ${(main.related || []).map((r) => `<a class="btn btn-line" href="${esc(r.url)}" ${ext}>${esc(r.name)}</a>`).join("")}

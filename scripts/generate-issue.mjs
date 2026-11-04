@@ -45,6 +45,11 @@ const prompt = `당신은 2차전지(배터리) 산업 데일리 브리핑 "asah
 - companies: 기사에 직접 나오는 기업만, 다음 id 중에서: ${COMP_IDS.join(", ")} (목록에 없는 기업은 넣지 마세요)
 - materials: 기사와 직접 관련된 소재만, 다음 id 중에서: ${MAT_IDS.join(", ")}
 - source.url은 가능하면 회사·기관의 공식 발표 원문을 우선하세요. 보도 기사면 source.name에 매체명을 쓰세요.
+- 기사마다 impact(분리막 사업 관점 코멘트)를 넣으세요. 독자는 리튬이온 배터리 분리막을 만드는 아사히카세이(旭化成) 분리막 사업부 사람들입니다(습식 'Hipore'·건식 'Celgard' 분리막).
+  · 이 관점에서 기사가 분리막 사업에 주는 이점(pros)과 불리한 점(cons)을 각각 1~2문장으로 쓰세요. 예: 셀 증설·EV 수요 → 분리막 수요, 경쟁사 증설·가격 경쟁, 전고체 전환(분리막 필요성 감소 가능성), 관세·보조금·현지 생산 요건, 고객사 동향, 소재 기술 변화.
+  · stance: positive(대체로 유리) | negative(대체로 불리) | mixed(양면) | neutral(영향이 거의 없음) 중 하나.
+  · 기사 내용과 공개된 일반 사실에만 근거하고, 회사 내부 사정·수치·계획을 지어내지 마세요. 영향이 불확실하면 "~할 수 있습니다/可能性があります"처럼 가능성으로 쓰세요. 관련이 거의 없으면 stance "neutral"에 한 문장만.
+  · 투자 권유처럼 쓰지 마세요.
 - 최근에 이미 다룬 주제는 새 진전이 없으면 제외: ${JSON.stringify(recentTitles)}
 
 검색을 마친 뒤, 마지막 응답은 아래 JSON 객체 하나만 출력하세요(코드펜스·설명 없이):
@@ -62,7 +67,8 @@ const prompt = `당신은 2차전지(배터리) 산업 데일리 브리핑 "asah
     "background": {"ko": "main만: 배경 설명 2~3문장", "en": "...", "ja": "..."},
     "companies": ["catl"], "materials": ["cathode"],
     "source": {"name": "매체·기관명", "date": "YYYY-MM-DD", "url": "https://..."},
-    "related": [{"name": "관련 자료 이름", "url": "https://..."}]
+    "related": [{"name": "관련 자료 이름", "url": "https://..."}],
+    "impact": {"stance": "positive|negative|mixed|neutral", "pros": {"ko": "이점 1~2문장", "en": "...", "ja": "..."}, "cons": {"ko": "불리한 점 1~2문장", "en": "...", "ja": "..."}}
   }]
 }`;
 
@@ -96,6 +102,11 @@ issue.stories = (issue.stories || [])
     if (!s.related.length) delete s.related;
     if (!triOk(s.background)) delete s.background;
     if (!triOk(s.subject)) delete s.subject;
+    if (s.impact) { // 분리막 사업 관점 코멘트: 형식이 맞는 것만 남김
+      const st = ["positive", "negative", "mixed", "neutral"].includes(s.impact.stance) ? s.impact.stance : null;
+      const im = { stance: st, ...(triOk(s.impact.pros) ? { pros: s.impact.pros } : {}), ...(triOk(s.impact.cons) ? { cons: s.impact.cons } : {}) };
+      if (st && (im.pros || im.cons)) s.impact = im; else delete s.impact;
+    }
     if (s.source.date && !/^\d{4}-\d{2}-\d{2}$/.test(s.source.date)) delete s.source.date;
     s.id = String(s.id || "").toLowerCase().replace(/[^a-z0-9-]/g, "-").replace(/-+/g, "-").slice(0, 80) || `story-${Math.random().toString(36).slice(2, 8)}`;
     return s;

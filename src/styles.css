@@ -227,3 +227,22 @@ html[data-lang="ja"] .nav { order: 4; width: 100%; }
   .lang-sel svg { display: none; }
   .lang-sel { padding: 0 4px 0 8px; }
 }
+
+/* ---------- 분리막 사업 관점 코멘트 ---------- */
+.impact { margin-top: 6px; padding: 14px 16px; border-radius: 12px; background: #F2F7FC; border: 1px solid var(--sky-line); display: flex; flex-direction: column; gap: 6px; font-size: 14px; color: var(--text-2); }
+.impact-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.impact-title { font: 500 12px var(--mono); color: var(--muted); letter-spacing: .02em; }
+.impact-badge { padding: 2px 10px; border-radius: 999px; font-size: 12.5px; font-weight: 700; border: 1px solid; }
+.impact-positive .impact-badge { color: #0B5A3A; background: #E3F4EC; border-color: #A9DCC3; }
+.impact-negative .impact-badge { color: #8A2E0F; background: #FCEBE3; border-color: #F0BFA8; }
+.impact-mixed .impact-badge { color: #6B4A00; background: #FBF1D9; border-color: #EBD49A; }
+.impact-neutral .impact-badge { color: var(--muted); background: #EEF2F6; border-color: var(--line-2); }
+.impact-line { display: flex; gap: 10px; }
+.impact-line b { flex: none; min-width: 72px; font-size: 13px; }
+.impact-line .pro { color: #0B5A3A; }
+.impact-line .con { color: #8A2E0F; }
+.top .impact { margin-top: 2px; }
+@media (max-width: 640px) {
+  .impact-line { flex-direction: column; gap: 2px; }
+  .impact-line b { min-width: 0; }
+}
