@@ -101,5 +101,9 @@ jobs:
       - name: 키·크레딧 문제 알림
         if: always() && (steps.expiry.outputs.alert == '1' || steps.keycheck.outcome == 'failure' || steps.news.outcome == 'failure' || env.ANTHROPIC_API_KEY == '')
         run: |
-          echo "::error::브리핑을 만들지 못했어요. 'API 키 확인' 단계가 성공이면 '2차전지 브리핑 작성' 단계 로그를 봐 주세요. 다음 예약 실행이 다시 시도해요."
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::이 저장소에서 ANTHROPIC_API_KEY를 찾지 못했어요. Settings → Secrets and variables → Actions → 'Secrets' 탭 → 'Repository secrets'에 이름이 정확히 ANTHROPIC_API_KEY인지 확인해 주세요. (Variables 탭·Environment secrets·Codespaces·Dependabot에 넣으면 안 보여요)"
+          else
+            echo "::error::브리핑을 만들지 못했어요. 'API 키 확인' 단계가 성공이면 '2차전지 브리핑 작성' 단계 로그를 봐 주세요. 다음 예약 실행이 다시 시도해요."
+          fi
           exit 1
