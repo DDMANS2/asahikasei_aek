@@ -1,0 +1,12 @@
+{
+  "brand": "asahikasei_aek",
+  "origin": "https://asahikasei-aek.pages.dev",
+  "defaultLang": "ko",
+  "langs": ["ko", "en", "ja"],
+  "tagline": { "ko": "BATTERY DAILY · 2차전지 브리핑", "en": "BATTERY DAILY · Battery briefing", "ja": "BATTERY DAILY · 二次電池ブリーフィング" },
+  "description": {
+    "ko": "2차전지(배터리) 산업 소식을 매일 한국어·영어·일본어로 쉽게 정리하는 비공식 브리핑 사이트입니다.",
+    "en": "An unofficial daily briefing on the battery industry, summarized in Korean, English and Japanese.",
+    "ja": "二次電池（バッテリー）業界のニュースを毎日、韓国語・英語・日本語でわかりやすくまとめる非公式ブリーフィングサイトです。"
+  }
+}

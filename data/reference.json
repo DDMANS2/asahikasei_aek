@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "id": "cell",
+      "name": {
+        "ko": "셀·팩",
+        "en": "Cells & packs",
+        "ja": "セル・パック"
+      }
+    },
+    {
+      "id": "material",
+      "name": {
+        "ko": "소재",
+        "en": "Materials",
+        "ja": "材料"
+      }
+    },
+    {
+      "id": "nextgen",
+      "name": {
+        "ko": "차세대 전지",
+        "en": "Next-gen",
+        "ja": "次世代電池"
+      }
+    },
+    {
+      "id": "recycle",
+      "name": {
+        "ko": "리사이클",
+        "en": "Recycling",
+        "ja": "リサイクル"
+      }
+    },
+    {
+      "id": "policy",
+      "name": {
+        "ko": "정책·규제",
+        "en": "Policy",
+        "ja": "政策・規制"
+      }
+    },
+    {
+      "id": "biz",
+      "name": {
+        "ko": "기업·투자",
+        "en": "Business",
+        "ja": "企業・投資"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "id": "cathode",
+      "name": {
+        "ko": "양극재",
+        "en": "Cathode",
+        "ja": "正極材"
+      },
+      "desc": {
+        "ko": "배터리의 용량과 가격을 좌우하는 + 극 소재",
+        "en": "The + side that sets capacity and cost",
+        "ja": "容量と価格を左右する＋極の材料"
+      }
+    },
+    {
+      "id": "anode",
+      "name": {
+        "ko": "음극재",
+        "en": "Anode",
+        "ja": "負極材"
+      },
+      "desc": {
+        "ko": "흑연·실리콘 등 − 극 소재",
+        "en": "The − side: graphite, silicon and more",
+        "ja": "黒鉛・シリコンなど−極の材料"
+      }
+    },
+    {
+      "id": "electrolyte",
+      "name": {
+        "ko": "전해질",
+        "en": "Electrolyte",
+        "ja": "電解質"
+      },
+      "desc": {
+        "ko": "이온이 오가는 길이 되는 액체·고체",
+        "en": "The liquid or solid path ions travel",
+        "ja": "イオンが行き来する液体・固体"
+      }
+    },
+    {
+      "id": "separator",
+      "name": {
+        "ko": "분리막",
+        "en": "Separator",
+        "ja": "セパレーター"
+      },
+      "desc": {
+        "ko": "양극과 음극이 닿지 않게 막는 얇은 막",
+        "en": "A thin film keeping the two sides apart",
+        "ja": "正極と負極を隔てる薄い膜"
+      }
+    },
+    {
+      "id": "solidstate",
+      "name": {
+        "ko": "전고체",
+        "en": "Solid-state",
+        "ja": "全固体"
+      },
+      "desc": {
+        "ko": "불에 잘 타지 않는 차세대 배터리",
+        "en": "A next-gen battery that resists fire",
+        "ja": "燃えにくい次世代電池"
+      }
+    },
+    {
+      "id": "recycling",
+      "name": {
+        "ko": "리사이클",
+        "en": "Recycling",
+        "ja": "リサイクル"
+      },
+      "desc": {
+        "ko": "다 쓴 배터리에서 금속을 되찾는 기술",
+        "en": "Recovering metals from used batteries",
+        "ja": "使用済み電池から金属を回収"
+      }
+    }
+  ],
+  "regions": [
+    {
+      "id": "kr",
+      "name": {
+        "ko": "한국",
+        "en": "Korea",
+        "ja": "韓国"
+      }
+    },
+    {
+      "id": "jp",
+      "name": {
+        "ko": "일본",
+        "en": "Japan",
+        "ja": "日本"
+      }
+    },
+    {
+      "id": "cn",
+      "name": {
+        "ko": "중국",
+        "en": "China",
+        "ja": "中国"
+      }
+    },
+    {
+      "id": "west",
+      "name": {
+        "ko": "미국·유럽",
+        "en": "US & Europe",
+        "ja": "米国・欧州"
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": "lges",
+      "region": "kr",
+      "name": {
+        "ko": "LG에너지솔루션",
+        "en": "LG Energy Solution",
+        "ja": "LGエナジーソリューション"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "samsungsdi",
+      "region": "kr",
+      "name": {
+        "ko": "삼성SDI",
+        "en": "Samsung SDI",
+        "ja": "サムスンSDI"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "skon",
+      "region": "kr",
+      "name": {
+        "ko": "SK온",
+        "en": "SK On",
+        "ja": "SKオン"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "ecoprobm",
+      "region": "kr",
+      "name": {
+        "ko": "에코프로비엠",
+        "en": "EcoPro BM",
+        "ja": "エコプロBM"
+      },
+      "role": {
+        "ko": "양극재",
+        "en": "Cathode",
+        "ja": "正極材"
+      }
+    },
+    {
+      "id": "poscofm",
+      "region": "kr",
+      "name": {
+        "ko": "포스코퓨처엠",
+        "en": "POSCO Future M",
+        "ja": "ポスコフューチャーエム"
+      },
+      "role": {
+        "ko": "양극재·음극재",
+        "en": "Cathode & anode",
+        "ja": "正極材・負極材"
+      }
+    },
+    {
+      "id": "panasonic",
+      "region": "jp",
+      "name": {
+        "ko": "파나소닉 에너지",
+        "en": "Panasonic Energy",
+        "ja": "パナソニック エナジー"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "asahikasei",
+      "region": "jp",
+      "name": {
+        "ko": "아사히카세이",
+        "en": "Asahi Kasei",
+        "ja": "旭化成"
+      },
+      "role": {
+        "ko": "분리막",
+        "en": "Separators",
+        "ja": "セパレーター"
+      }
+    },
+    {
+      "id": "toyota",
+      "region": "jp",
+      "name": {
+        "ko": "도요타",
+        "en": "Toyota",
+        "ja": "トヨタ"
+      },
+      "role": {
+        "ko": "완성차·전고체",
+        "en": "Autos & solid-state",
+        "ja": "自動車・全固体"
+      }
+    },
+    {
+      "id": "catl",
+      "region": "cn",
+      "name": {
+        "ko": "CATL",
+        "en": "CATL",
+        "ja": "CATL"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "byd",
+      "region": "cn",
+      "name": {
+        "ko": "BYD",
+        "en": "BYD",
+        "ja": "BYD"
+      },
+      "role": {
+        "ko": "셀·완성차",
+        "en": "Cells & autos",
+        "ja": "セル・自動車"
+      }
+    },
+    {
+      "id": "gotion",
+      "region": "cn",
+      "name": {
+        "ko": "궈쉬안 하이테크",
+        "en": "Gotion High-Tech",
+        "ja": "国軒高科"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "tesla",
+      "region": "west",
+      "name": {
+        "ko": "테슬라",
+        "en": "Tesla",
+        "ja": "テスラ"
+      },
+      "role": {
+        "ko": "완성차·셀",
+        "en": "Autos & cells",
+        "ja": "自動車・セル"
+      }
+    },
+    {
+      "id": "northvolt",
+      "region": "west",
+      "name": {
+        "ko": "노스볼트",
+        "en": "Northvolt",
+        "ja": "ノースボルト"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    },
+    {
+      "id": "aesc",
+      "region": "jp",
+      "name": {
+        "ko": "AESC",
+        "en": "AESC",
+        "ja": "AESC"
+      },
+      "role": {
+        "ko": "셀",
+        "en": "Cells",
+        "ja": "セル"
+      }
+    }
+  ]
+}
