@@ -1,6 +1,237 @@
 {
   "issues": [
     {
+      "date": "2026-11-07",
+      "title": {
+        "ko": "중국 업체, 중국 밖 EV 배터리 점유율 56% 돌파, 전고체용 고분자 소재 공동 개발, 부즈 배터리팩 63만 개 리콜",
+        "en": "Chinese makers top 56% of non-China EV battery market, ISU and Ares team up on solid-state polymers, Bose recalls 630,000 battery packs",
+        "ja": "中国勢が中国外のEV電池シェア56%超に、全固体電池向け高分子材料の共同開発、ボーズが電池パック63万個をリコール"
+      },
+      "summary": {
+        "ko": "SNE리서치 집계에서 올해 1~9월 중국 밖 EV 배터리 시장의 중국 업체 점유율이 56.4%로 올랐고 한국 3사는 11.7%p 하락했습니다. 이 밖에 전고체용 고분자 소재 공동 개발 협약과 미국의 리튬이온 배터리팩 대규모 리콜 소식도 전합니다.",
+        "en": "SNE Research data show Chinese makers held 56.4% of the EV battery market outside China in January-September, while the Korean big three lost 11.7 points. We also cover a joint project on polymer materials for solid-state batteries and a large U.S. recall of lithium-ion battery packs.",
+        "ja": "SNEリサーチの集計では、1〜9月の中国外EV電池市場で中国メーカーのシェアが56.4%に上昇し、韓国3社は11.7ポイント低下しました。全固体電池向け高分子材料の共同開発と、米国での大規模なリチウムイオン電池パックのリコールも紹介します。"
+      },
+      "highlights": {
+        "ko": [
+          "중국 밖 EV 배터리 시장에서 중국 6개사가 56.4%를 차지했고, CATL은 33.7%, BYD는 10.8%입니다(SNE리서치).",
+          "ISU스페셜티케미칼과 에어리스 머티리얼즈가 전고체 배터리용 고분자 소재와 AI 최적화 도구를 함께 개발합니다.",
+          "미국 CPSC가 화재·과열 위험으로 부즈 스피커용 리튬이온 배터리팩 약 63만 개 리콜을 발표했습니다."
+        ],
+        "en": [
+          "Six Chinese makers hold 56.4% of the non-China EV battery market; CATL has 33.7% and BYD 10.8% (SNE Research).",
+          "ISU Specialty Chemical and Ares Materials will co-develop polymer materials and AI tools for solid-state batteries.",
+          "The U.S. CPSC announced a recall of about 634,759 Bose speaker lithium-ion battery packs over fire and overheating risks."
+        ],
+        "ja": [
+          "中国外のEV電池市場で中国6社が56.4%を占め、CATLは33.7%、BYDは10.8%です(SNEリサーチ)。",
+          "ISUスペシャルティケミカルとAres Materialsが、全固体電池向けの高分子材料とAI最適化ツールを共同開発します。",
+          "米CPSCが、発火・過熱の恐れがあるとして、ボーズのスピーカー用リチウムイオン電池パック約63万個のリコールを発表しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP(リン酸鉄リチウム)電池"
+        },
+        "desc": {
+          "ko": "양극재에 니켈·코발트 대신 철과 인산염을 쓰는 리튬이온 배터리입니다. 가격이 비교적 낮고 안전성이 높아 EV와 ESS(에너지저장장치)에서 쓰임새가 넓어지고 있습니다.",
+          "en": "An LFP battery is a lithium-ion battery whose cathode uses iron and phosphate instead of nickel and cobalt. It is relatively cheap and safe, so it is increasingly used in EVs and energy storage systems.",
+          "ja": "正極材にニッケルやコバルトの代わりに鉄とリン酸塩を使うリチウムイオン電池です。比較的安価で安全性が高く、EVや蓄電システムでの採用が広がっています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "non-china-ev-battery-share-20261105",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "중국 밖 EV 배터리 점유율",
+            "en": "Non-China EV battery share",
+            "ja": "中国外EV電池シェア"
+          },
+          "title": {
+            "ko": "중국 밖 EV 배터리 시장, 중국 6개사 점유율 56.4%…한국 3사는 11.7%p 하락",
+            "en": "Chinese makers take 56.4% of the non-China EV battery market as Korea's big three slip",
+            "ja": "中国外のEV電池市場で中国6社が56.4%、韓国3社は11.7ポイント低下"
+          },
+          "summary": {
+            "ko": "SNE리서치에 따르면 올해 1~9월 중국을 제외한 시장의 EV 배터리 사용량은 426.7GWh로 전년 대비 24.7% 늘었습니다. CATL은 143.7GWh(점유율 33.7%), BYD는 45.9GWh(10.8%)였고, 중국 업체 6곳(CATL·BYD·궈쉬안·SVOLT·CALB·EVE)을 합치면 56.4%였습니다. 한국 3사는 북미 수요 부진 속에 점유율이 전년보다 11.7%p 떨어졌으며, LFP 비중은 15.8%에서 27.7%로 높아졌습니다.",
+            "en": "SNE Research says EV battery use outside China reached 426.7 GWh in January-September, up 24.7% from a year earlier. CATL had 143.7 GWh (33.7% share) and BYD 45.9 GWh (10.8%), and six Chinese makers (CATL, BYD, Gotion, Svolt, CALB, Eve) together held 56.4%. The three Korean makers lost 11.7 points of share amid weak North American demand, and the LFP share rose from 15.8% to 27.7%.",
+            "ja": "SNEリサーチによると、1〜9月の中国を除く市場のEV電池使用量は426.7GWhで、前年比24.7%増でした。CATLは143.7GWh(シェア33.7%)、BYDは45.9GWh(10.8%)で、中国6社(CATL、BYD、国軒高科、SVOLT、CALB、EVE)の合計は56.4%でした。韓国3社は北米需要の低迷で前年より11.7ポイントシェアを落とし、LFPの比率は15.8%から27.7%に上昇しました。"
+          },
+          "background": {
+            "ko": "SNE리서치는 한국의 시장조사업체로, 전 세계 EV 탑재 배터리 사용량을 매달 집계합니다. 앞서 보도된 전 세계 기준 순위(CATL 39.1%, BYD 15.2%)와 달리, 이번 자료는 중국 시장을 뺀 '해외 시장'만 따로 본 것입니다. 중국 업체는 해외 공장과 BYD의 차량 수출 확대로 영향력을 넓히고 있고, 저가형 LFP 배터리 확산도 한 요인으로 꼽힙니다.",
+            "en": "SNE Research is a Korean market research firm that tracks EV battery use worldwide each month. Unlike the earlier global ranking (CATL 39.1%, BYD 15.2%), this data looks only at markets outside China. Chinese makers are growing through overseas plants and BYD's rising vehicle exports, and the spread of lower-cost LFP batteries is part of the picture.",
+            "ja": "SNEリサーチは韓国の市場調査会社で、世界のEV搭載電池の使用量を毎月集計しています。先に報じられた世界全体の順位(CATL 39.1%、BYD 15.2%)とは異なり、今回は中国市場を除いた「海外市場」だけを見たデータです。中国勢は海外工場やBYDの車両輸出拡大で存在感を高めており、低価格なLFP電池の普及も背景にあります。"
+          },
+          "companies": [
+            "catl",
+            "byd",
+            "gotion",
+            "lges",
+            "samsungsdi",
+            "skon"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "CnEVPost(SNE리서치 자료 인용)",
+            "date": "2026-11-05",
+            "url": "https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china/"
+          },
+          "related": [
+            {
+              "name": "The Korea Herald Business: CATL, BYD expand grip on non-China EV battery market",
+              "url": "https://biz.heraldcorp.com/article/10925282"
+            },
+            {
+              "name": "CarNewsChina: Chinese battery makers secure 56.4% share of overseas market",
+              "url": "https://carnewschina.com/2026/11/05/chinese-battery-makers-secure-56-4-share-of-overseas-market-in-first-three-quarters-of-2026/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "중국 밖 시장의 EV 배터리 사용량 자체가 늘고 있어 분리막 수요의 바탕은 커지고 있습니다. LFP 비중 확대는 LFP용 분리막 수요로 이어질 수 있으며, 건식·습식 모두 활용 여지가 있습니다.",
+              "en": "EV battery use outside China is growing, which supports overall separator demand. The rising LFP share could lift demand for LFP-grade separators, where both dry and wet types may find use.",
+              "ja": "中国外のEV電池使用量自体が伸びており、セパレータ需要の土台は広がっています。LFP比率の上昇はLFP向けセパレータ需要につながる可能性があり、乾式・湿式ともに活用の余地があります。"
+            },
+            "cons": {
+              "ko": "점유율이 중국 업체로 쏠리면 중국계 셀 업체와 가까운 현지 분리막 공급사에 유리해질 수 있고, 한국·일본·미국계 셀 업체를 주요 고객으로 둔 공급사에는 불리할 수 있습니다. LFP 중심 경쟁은 가격 압력을 키울 가능성도 있습니다.",
+              "en": "As share shifts toward Chinese cell makers, local separator suppliers close to them may benefit, while suppliers that rely on Korean, Japanese or U.S. cell makers could be at a disadvantage. A race centered on LFP may also add price pressure.",
+              "ja": "シェアが中国メーカーに偏ると、中国系セルメーカーに近い現地のセパレータ供給元に有利となり、韓国・日本・米国系セルメーカーを主要顧客とする供給元には不利となる可能性があります。LFP中心の競争は価格圧力を強めるおそれもあります。"
+            }
+          }
+        },
+        {
+          "id": "isu-ares-solid-state-polymer-20261105",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "ISU·에어리스 머티리얼즈",
+            "en": "ISU and Ares Materials",
+            "ja": "ISUとAres Materials"
+          },
+          "title": {
+            "ko": "ISU스페셜티케미칼·에어리스, 전고체 배터리용 고분자 소재 공동 개발",
+            "en": "ISU Specialty Chemical and Ares Materials to co-develop polymer materials for solid-state batteries",
+            "ja": "ISUスペシャルティケミカルとAres Materials、全固体電池向け高分子材料を共同開発"
+          },
+          "summary": {
+            "ko": "황화리튬을 생산하는 ISU스페셜티케미칼(한국 ISU그룹)과 미국 소재 AI 기업 에어리스 머티리얼즈가 전고체 배터리용 고분자 소재를 공동 개발하기로 했다고 발표했습니다. 에어리스가 고분자 배합과 이를 셀 시험 데이터에 맞춰 조정하는 AI 틀을 맡습니다. 협약 단계의 발표이며 양산 일정은 확인되지 않았습니다.",
+            "en": "ISU Specialty Chemical, a lithium sulfide producer in Korea's ISU Group, and U.S. materials-AI firm Ares Materials announced a plan to co-develop polymer materials for solid-state batteries. Ares will handle the polymer formulations and an AI framework that tunes them against cell test data. This is an agreement-stage announcement, and no mass-production timeline was confirmed.",
+            "ja": "硫化リチウムを生産するISUスペシャルティケミカル(韓国ISUグループ)と、米国の材料AI企業Ares Materialsが、全固体電池向けの高分子材料を共同開発すると発表しました。Aresは高分子の配合と、セル試験データに合わせてそれを調整するAIの枠組みを担当します。協業合意の段階の発表で、量産時期は確認できていません。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Batteries News(PR Newswire 보도자료 게재)",
+            "date": "2026-11-05",
+            "url": "https://batteriesnews.com/isu-specialty-chemical-and-ares-materials-to-co-develop-polymer-materials-for-solid-state-batteries"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "아직 소재 개발 협약 단계여서 단기적으로 분리막 수요에 미치는 영향은 크지 않을 것으로 보입니다.",
+              "en": "This is still a materials-development agreement, so the near-term effect on separator demand looks limited.",
+              "ja": "まだ材料開発の合意段階であり、短期的にセパレータ需要へ与える影響は大きくないとみられます。"
+            },
+            "cons": {
+              "ko": "전고체 배터리가 상용화되면 액체 전해질용 분리막의 필요성이 줄어들 가능성이 있어, 장기적으로는 전고체 소재 개발 동향을 계속 살필 필요가 있습니다.",
+              "en": "If solid-state batteries are commercialized, the need for separators in liquid-electrolyte cells may shrink over the long term, so progress in solid-state materials is worth watching.",
+              "ja": "全固体電池が実用化されれば、液系電解液向けセパレータの必要性が低下する可能性があり、長期的には全固体関連の材料開発の動向を注視する必要があります。"
+            }
+          }
+        },
+        {
+          "id": "bose-battery-pack-recall-20261105",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "부즈 배터리팩 리콜",
+            "en": "Bose battery pack recall",
+            "ja": "ボーズ電池パックのリコール"
+          },
+          "title": {
+            "ko": "미 CPSC, 부즈 S1 Pro 스피커 배터리팩 약 63만 개 리콜 발표",
+            "en": "U.S. CPSC announces recall of about 634,759 Bose S1 Pro speaker battery packs",
+            "ja": "米CPSC、ボーズS1 Proスピーカー用電池パック約63万個のリコールを発表"
+          },
+          "summary": {
+            "ko": "미국 소비자제품안전위원회(CPSC)는 11월 5일, 화재·과열 위험으로 부즈 S1 Pro·S1 Pro+ 스피커용 리튬이온 배터리팩 약 63만 4,759개를 리콜한다고 밝혔습니다. 녹거나 연기가 나거나 불이 난 사례가 7건 신고됐고 그중 6건은 재산 피해가 있었으며 부상자는 없었습니다. 사용자는 배터리팩을 빼고 교체품을 신청하면 되고, 리콜 배터리는 일반 쓰레기에 버리지 말라는 안내가 나왔습니다.",
+            "en": "On Nov. 5, the U.S. Consumer Product Safety Commission said about 634,759 lithium-ion battery packs for Bose S1 Pro and S1 Pro+ speakers are being recalled over fire and overheating hazards. Seven reports of melting, smoke or fire were logged, six with property damage and no injuries. Owners can remove the pack and register for a free replacement, and were told not to put recalled packs in household trash.",
+            "ja": "米消費者製品安全委員会(CPSC)は11月5日、発火・過熱の恐れがあるとして、ボーズのS1 Pro・S1 Pro+スピーカー用リチウムイオン電池パック約63万4,759個をリコールすると発表しました。溶解・発煙・発火の報告が7件あり、うち6件で物的被害が出ましたが、けが人はいませんでした。利用者はパックを取り外して無償交換を申し込めばよく、回収対象の電池は家庭ごみに出さないよう案内されています。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Environment+Energy Leader(CPSC 발표 인용)",
+            "date": "2026-11-06",
+            "url": "https://www.environmentenergyleader.com/articles/45522-energy-news-you-may-have-missed-nov-6-2026"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "확인한 보도에는 원인이 나와 있지 않아 분리막 사업과의 직접적인 연관은 확인되지 않습니다.",
+              "en": "The coverage I confirmed does not state a cause, so no direct link to the separator business can be established.",
+              "ja": "確認できた報道では原因が示されておらず、セパレータ事業との直接的な関係は確認できません。"
+            },
+            "cons": {
+              "ko": "다만 전지 안전 사고와 리콜이 이어지면 안전 규제와 셀 품질에 대한 관심이 커질 수 있습니다.",
+              "en": "Still, repeated battery safety incidents and recalls can raise attention to safety rules and cell quality.",
+              "ja": "ただし、電池の安全事故やリコールが続けば、安全規制やセル品質への関心が高まる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "avicenne-libridge-readiness-20261106",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "아비센·리브리지 평가 틀",
+            "en": "Avicenne-Li-Bridge framework",
+            "ja": "Avicenne・Li-Bridge評価枠組み"
+          },
+          "title": {
+            "ko": "아비센 에너지·리브리지, 배터리 기술·제조 성숙도 평가 기준 표준화",
+            "en": "Avicenne Energy and Li-Bridge standardize how battery programs gauge technology and manufacturing readiness",
+            "ja": "Avicenne EnergyとLi-Bridge、電池の技術・製造成熟度の評価基準を標準化"
+          },
+          "summary": {
+            "ko": "아비센 에너지가 미국 리튬 배터리 공급망 구축을 위한 민관 협의체 리브리지 및 업계 관계자와 함께 '준비도 평가 프레임워크'를 만들었다고 전문 매체가 보도했습니다. 기술성숙도(TRL)와 제조성숙도(MRL) 정의가 제각각이던 문제를 맞추는 것이 목적입니다. 업계 표준 제안 성격이며, 법적 규제는 아닙니다.",
+            "en": "A trade publication reports that Avicenne Energy, with Li-Bridge (a public-private alliance building a stronger U.S. lithium-battery supply chain) and industry stakeholders, built a Readiness Assessment Framework. It aims to align the inconsistent definitions of technology readiness levels (TRL) and manufacturing readiness levels (MRL). It is an industry standard proposal, not a legal regulation.",
+            "ja": "専門媒体の報道によると、Avicenne Energyは、米国のリチウム電池サプライチェーン強化を目指す官民連携組織Li-Bridgeや業界関係者と共に「Readiness Assessment Framework(成熟度評価の枠組み)」を作りました。ばらつきのあった技術成熟度(TRL)と製造成熟度(MRL)の定義をそろえるのが狙いです。業界標準の提案であり、法的な規制ではありません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Battery Technology(Informa)",
+            "date": "2026-11-06",
+            "url": "https://batterytechonline.com/battery-manufacturing/the-battery-industry-has-a-readiness-problem-this-framework-fixes-it-"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "성숙도 평가 기준이 통일되면 신소재·신공정의 평가가 투명해져 고객과의 논의가 쉬워질 가능성이 있습니다.",
+              "en": "A common readiness yardstick could make new materials and processes easier to evaluate and discuss with customers.",
+              "ja": "成熟度の評価基準が統一されれば、新素材・新工程の評価が明確になり、顧客との協議がしやすくなる可能性があります。"
+            },
+            "cons": {
+              "ko": "신규 공급사에 대한 평가 기준이 엄격해지면 인증 부담이 늘 수 있으나, 현재로서는 영향이 불확실합니다.",
+              "en": "Stricter evaluation of suppliers could add qualification effort, but the impact is uncertain for now.",
+              "ja": "サプライヤーへの評価が厳格化すれば認定の負担が増える可能性がありますが、現時点では影響は不確かです。"
+            }
+          }
+        }
+      ],
+      "edition": 4
+    },
+    {
       "date": "2026-11-06",
       "title": {
         "ko": "Group14 스페인 실리콘 음극재 공장 계획, 일본 에나크스 안전성 평가 거점 개설, 뉴욕 배터리 화재 증가",
