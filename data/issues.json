@@ -1,6 +1,266 @@
 {
   "issues": [
     {
+      "date": "2026-11-08",
+      "title": {
+        "ko": "분리막 수급 완화 조짐, 美 국방부 6K 2.5억 달러 융자 조건부 승인, 테슬라 사이버캡 40kWh 계획",
+        "en": "Separator supply eases slightly, Pentagon conditionally backs 6K with $250M loan, Tesla plans 40 kWh Cybercab pack",
+        "ja": "セパレータ需給はやや緩和、米国防総省が6Kに2.5億ドル融資を条件付き承認、テスラ・サイバーキャブは40kWh計画"
+      },
+      "summary": {
+        "ko": "중국 시장조사기관 SMM은 셀 업체들의 감산 영향으로 분리막 수급이 다소 느슨해졌다고 전했습니다. 미국에서는 배터리 소재 스타트업 6K가 국방부의 2억 5천만 달러 융자 조건부 승인을 받았다고 발표했고, 머스크는 사이버캡에 40kWh 팩을 계획한다고 밝혔습니다.",
+        "en": "Chinese market tracker SMM says separator supply and demand has eased a little as cell makers trim output. In the US, battery materials startup 6K announced conditional approval of a $250 million Pentagon loan, and Elon Musk said Tesla plans a 40 kWh pack for the Cybercab.",
+        "ja": "中国の市況調査会社SMMは、セルメーカーの生産調整でセパレータの需給がやや緩んだと伝えました。米国では電池材料スタートアップの6Kが国防総省から2.5億ドルの融資の条件付き承認を得たと発表し、マスク氏はサイバーキャブに40kWhパックを計画していると述べました。"
+      },
+      "highlights": {
+        "ko": [
+          "SMM: 분리막 가격은 보합이지만 셀 업체 감산으로 수급 긴장이 다소 풀렸고, 11월 하류 생산은 전월 대비 1~2% 감소 전망입니다.",
+          "6K는 테네시 공장용 2억 5천만 달러 국방부 융자의 '조건부' 승인을 받았다고 밝혔습니다(최종 확정 아님).",
+          "머스크는 사이버캡에 40kWh 팩을 계획한다고 X에 올렸지만 시기·가격 등 세부 내용은 없습니다."
+        ],
+        "en": [
+          "SMM: separator prices were flat, but cell makers' output cuts eased the tight supply slightly; November downstream output is expected to fall 1–2% from October.",
+          "6K said it won conditional approval for a $250M Pentagon loan for a Tennessee plant (not yet final).",
+          "Musk posted on X that a 40 kWh Cybercab pack is planned, but gave no timing or price."
+        ],
+        "ja": [
+          "SMM：セパレータ価格は横ばいですが、セルメーカーの減産で需給の逼迫がやや和らぎ、11月の下流生産は前月比1〜2%減の見通しです。",
+          "6Kはテネシー工場向けに国防総省から2.5億ドルの融資の「条件付き」承認を得たと発表しました（最終決定ではありません）。",
+          "マスク氏はサイバーキャブに40kWhパックを計画するとXに投稿しましたが、時期や価格などの詳細はありません。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP（リン酸鉄リチウム）電池"
+        },
+        "desc": {
+          "ko": "양극재에 니켈·코발트 대신 인산철을 쓰는 배터리로, 에너지 밀도는 낮지만 값이 싸고 수명이 긴 편입니다. 최근에는 전기차뿐 아니라 ESS(전력 저장 장치)용으로 수요가 늘고 있습니다.",
+          "en": "An LFP battery uses iron phosphate in the cathode instead of nickel and cobalt. It stores less energy for its size, but it is cheaper and tends to last longer, and demand is growing for both EVs and energy storage systems.",
+          "ja": "LFP電池は、正極材にニッケルやコバルトの代わりにリン酸鉄を使う電池です。エネルギー密度は低めですが、価格が安く寿命が長い傾向があり、EVだけでなく蓄電システム（ESS）向けにも需要が広がっています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "smm-separator-weekly-20261105",
+          "category": "material",
+          "format": "main",
+          "subject": {
+            "ko": "분리막 시장(중국)",
+            "en": "Separator market (China)",
+            "ja": "セパレータ市場（中国）"
+          },
+          "title": {
+            "ko": "SMM “분리막 가격 보합, 셀 업체 감산으로 수급 긴장 다소 완화”",
+            "en": "SMM: Separator prices flat as cell makers' output cuts ease supply tightness",
+            "ja": "SMM「セパレータ価格は横ばい、セルメーカーの減産で需給の逼迫がやや緩和」"
+          },
+          "summary": {
+            "ko": "중국 시장조사기관 SMM의 주간 리뷰(11월 5일자)에 따르면, 이번 주 분리막 주요 규격 가격은 지난주와 같았습니다. 하류 셀 업체들이 생산 일정을 줄이면서 분리막 구매 속도가 느려졌고, 분리막 업체의 납품 압박도 줄었다고 합니다. SMM은 11월 하류 생산이 전월보다 1~2% 줄 것으로 예상하며, 현실화하면 분리막 수요도 약해질 것이라고 전했습니다(SMM 전망).",
+            "en": "In its weekly review dated November 5, Chinese market tracker SMM said mainstream separator prices were unchanged from the previous week. Downstream cell makers have trimmed production schedules, so separator buying has slowed and delivery pressure on separator makers has eased. SMM expects downstream output to fall 1–2% in November from October, which would weaken separator demand if it happens (SMM's forecast).",
+            "ja": "中国の市況調査会社SMMの週次レビュー（11月5日付）によると、今週のセパレータ主要規格の価格は前週から変わりませんでした。下流のセルメーカーが生産計画を縮小したため、セパレータの調達ペースが鈍り、メーカーの納品プレッシャーも和らいだとのことです。SMMは11月の下流生産が前月比1〜2%減ると予想しており、実現すればセパレータ需要も弱まると伝えています（SMMの見通し）。"
+          },
+          "background": {
+            "ko": "분리막은 양극과 음극 사이에서 두 전극이 닿지 않게 막으면서 리튬 이온만 통과시키는 얇은 막으로, 셀 생산량에 따라 수요가 움직입니다. 그래서 셀 업체의 가동 계획은 분리막 업계의 가장 가까운 수요 지표로 읽힙니다. 이 기사는 중국 시장 기준이며, 중국 외 지역과 고객사의 상황은 다를 수 있습니다. 보도일은 11월 5일로 최근 48시간보다 조금 앞서지만, 분리막과 직접 관련된 최신 시황이라 톱으로 골랐습니다.",
+            "en": "A separator is a thin film that sits between the cathode and anode, keeping them from touching while letting lithium ions pass, so its demand follows cell output. That makes cell makers' production plans the closest demand signal for separator suppliers. This report covers the Chinese market; conditions outside China and at individual customers may differ. It was published on November 5, slightly before the 48-hour window, but we chose it as the lead because it is the most recent separator-specific market read we found.",
+            "ja": "セパレータは正極と負極の間で両極の接触を防ぎつつリチウムイオンだけを通す薄い膜で、需要はセルの生産量に連動します。そのためセルメーカーの稼働計画は、セパレータ業界にとって最も身近な需要の指標になります。この記事は中国市場の話であり、中国以外や個別の顧客の状況は異なる可能性があります。公開は11月5日で直近48時間よりやや前ですが、セパレータに直結する最新の市況として、トップに選びました。"
+          },
+          "companies": [],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "SMM (Shanghai Metals Market)",
+            "date": "2026-11-05",
+            "url": "https://news.metal.com/newscontent/104207406-smm-separator-weekly-review-prices-remained-stable-supply-demand-relationship-slightly-weakened"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "가격이 보합이어서 급격한 가격 하락 압력은 이번 주 보고되지 않았고, 납품 압박이 줄어 생산·재고 운영에는 여유가 생길 수 있습니다.",
+              "en": "Prices held flat, so no sharp price drop was reported this week, and lighter delivery pressure may give suppliers some room in production and inventory planning.",
+              "ja": "価格は横ばいで、今週は急激な値下がり圧力は報告されておらず、納品プレッシャーの低下により生産・在庫運営に余裕が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "셀 감산이 이어지면 습식·건식 분리막 모두 수요가 약해질 수 있고, 수급이 느슨해지면 중국 업체와의 가격 경쟁이 거세질 가능성이 있습니다. 다만 중국 시장 기준 보도라 Hipore·Celgard 고객사에 그대로 적용되는지는 불확실합니다.",
+              "en": "If cell output cuts continue, demand for both wet and dry separators could soften, and looser supply may sharpen price competition with Chinese makers. This is a China-market report, so it is uncertain how far it applies to Hipore and Celgard customers.",
+              "ja": "セルの減産が続けば湿式・乾式のセパレータ需要が弱まる可能性があり、需給が緩むと中国メーカーとの価格競争が強まるおそれもあります。ただし中国市場の報道であり、HiporeやCelgardの顧客にそのまま当てはまるかは不確実です。"
+            }
+          }
+        },
+        {
+          "id": "6k-pentagon-loan-20261106",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "6K(미국 소재 기업)",
+            "en": "6K (US materials startup)",
+            "ja": "6K（米国の材料企業）"
+          },
+          "title": {
+            "ko": "美 국방부, 배터리 소재 6K에 2억 5천만 달러 융자 조건부 승인",
+            "en": "Pentagon conditionally approves $250M loan for battery materials startup 6K",
+            "ja": "米国防総省、電池材料の6Kに2.5億ドルの融資を条件付き承認"
+          },
+          "summary": {
+            "ko": "미국 스타트업 6K는 목요일, 테네시주 공장 건설을 위한 2억 5천만 달러 국방부 융자의 조건부 승인을 받았다고 발표했습니다(회사 측 발표, TechCrunch 보도). 마이크로파로 금속을 플라즈마 상태로 만들어 양극재를 만드는 독자 공정을 쓰며, LFP 등 여러 종류에 적용할 수 있다고 회사는 설명합니다. 아직 조건부 승인 단계여서 최종 확정은 아닙니다.",
+            "en": "US startup 6K announced on Thursday that it won conditional approval for a $250 million Department of Defense loan to build a Tennessee factory (company announcement, reported by TechCrunch). Its process uses microwaves to turn metals into plasma and make cathode material, and the company says it can work for several chemistries, including LFP. The loan is only conditionally approved, so it is not final.",
+            "ja": "米国のスタートアップ6Kは木曜日、テネシー州の工場建設に向けた国防総省からの2.5億ドルの融資について条件付き承認を得たと発表しました（会社発表、TechCrunch報道）。マイクロ波で金属をプラズマ化して正極材を作る独自プロセスを使い、LFPなど複数の電池タイプに対応できると同社は説明しています。条件付き承認の段階で、最終決定ではありません。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "TechCrunch",
+            "date": "2026-11-06",
+            "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "중국 의존을 줄이려는 미국 내 소재 공급망 투자가 이어진다는 신호여서, 장기적으로 미국 현지 셀 생산 기반이 넓어지면 분리막 수요에도 간접적으로 도움이 될 수 있습니다.",
+              "en": "It signals continued US investment in non-Chinese materials supply chains; if US cell production grows over the long term, separator demand could benefit indirectly.",
+              "ja": "中国依存を減らす米国内の材料サプライチェーン投資が続く兆しで、長期的に米国内のセル生産基盤が広がれば、セパレータ需要にも間接的に追い風となる可能性があります。"
+            },
+            "cons": {
+              "ko": "양극재 공정에 관한 소식이어서 분리막 사업에 직접적인 영향은 거의 없고, 조건부 승인 단계라 실현 여부와 시기도 불확실합니다.",
+              "en": "This concerns cathode processing, so the direct effect on the separator business is small, and the timing and outcome of the conditional loan are uncertain.",
+              "ja": "正極材のプロセスに関する話で、セパレータ事業への直接的な影響はほとんどなく、条件付き承認の段階のため実現の可否や時期も不確実です。"
+            }
+          }
+        },
+        {
+          "id": "tesla-cybercab-40kwh-20261107",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "테슬라 사이버캡",
+            "en": "Tesla Cybercab",
+            "ja": "テスラ サイバーキャブ"
+          },
+          "title": {
+            "ko": "머스크 “사이버캡에 40kWh 팩 계획”…시기·가격은 미공개",
+            "en": "Musk: Tesla plans a 40 kWh pack for Cybercab, with no timing or price given",
+            "ja": "マスク氏「サイバーキャブに40kWhパックを計画」、時期・価格は未公表"
+          },
+          "summary": {
+            "ko": "일론 머스크가 11월 7일(토) X에서, 효율 개선으로 사이버캡에 40kWh 배터리 팩을 쓸 수 있게 될 것이며 '리퀴드 실버' 색상도 나온다고 밝혔다고 합니다. 이는 머스크 개인의 게시물 기반 보도(2차 매체 tech-insider 경유)이며, 출시 시기·주행거리·가격은 공개되지 않았습니다. 일부 매체가 확정처럼 다루고 있어 주의가 필요합니다.",
+            "en": "Elon Musk said on X on Saturday, November 7, that efficiency gains will allow a 40 kWh battery pack in the Cybercab, and that a Liquid Silver color is coming, according to a secondary report by tech-insider.org. This rests on a single social media post; no launch date, range or price was given. Some outlets present it as settled, so treat it with caution.",
+            "ja": "イーロン・マスク氏は11月7日（土）にXで、効率改善によりサイバーキャブに40kWhのバッテリーパックを搭載できるようになり、「リキッドシルバー」色も出ると述べたと伝えられています（二次情報のtech-insider.org経由）。これはマスク氏個人の投稿に基づく報道で、発売時期・航続距離・価格は公表されていません。一部メディアは確定事項のように扱っているため注意が必要です。"
+          },
+          "companies": [
+            "tesla"
+          ],
+          "materials": [],
+          "source": {
+            "name": "tech-insider.org",
+            "date": "2026-11-07",
+            "url": "https://tech-insider.org/cybercab-40-kwh-pack-liquid-silver-musk-plan-2026"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "로보택시 양산이 늘어나면 셀 수요가 생길 수 있지만, 이번 발표만으로는 규모를 알 수 없습니다.",
+              "en": "If robotaxi production grows, it could create cell demand, but this post alone does not show the scale.",
+              "ja": "ロボタクシーの量産が拡大すればセル需要が生まれる可能性がありますが、今回の投稿だけでは規模は分かりません。"
+            },
+            "cons": {
+              "ko": "팩 용량이 작아지면 차량 1대당 셀·분리막 사용량은 줄 수 있습니다. 셀 공급사나 생산 시기는 공개되지 않아 영향은 불확실합니다.",
+              "en": "A smaller pack could mean less cell and separator content per vehicle. The cell supplier and production timing are not disclosed, so the effect is uncertain.",
+              "ja": "パック容量が小さくなれば、1台あたりのセル・セパレータ使用量は減る可能性があります。セル供給元や生産時期は非公表で、影響は不確実です。"
+            }
+          }
+        },
+        {
+          "id": "korea-china-battery-forum-20261107",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "한중 배터리 협력 논의",
+            "en": "Korea–China battery cooperation",
+            "ja": "日中韓ではなく韓中の電池協力"
+          },
+          "title": {
+            "ko": "한중 과학기술 포럼서 “검증·산업화 단계 공동개발 여지” 언급…LFP 합작·소듐이온 사례 제시",
+            "en": "At China-Korea forum, professor says joint development is possible at verification and industrialization stages",
+            "ja": "韓中科学技術フォーラムで「検証・事業化段階では共同開発の余地」との発言、LFP合弁やナトリウムイオンの例も"
+          },
+          "summary": {
+            "ko": "중국 상하이과학기술대 김종명 교수는 11월 7일 상하이에서 열린 한중과학기술혁신발전포럼에서, 핵심 기술을 공유하기는 어렵지만 특정 기술의 검증·산업화 과정에는 공동개발 여지가 있다고 말했습니다(연합뉴스 인용 보도). 사례로 포스코퓨처엠의 LFP 양극재 합작과 LG화학의 소듐이온 공동개발이 거론됐습니다. 개인 교수의 견해로, 기업 간 새 계약이 발표된 것은 아닙니다.",
+            "en": "Professor Kim Jong-myung of Shanghai University of Science and Technology said at a China-Korea science forum in Shanghai on November 7 that sharing core technology is hard, but there is room for joint work on verifying and industrializing specific technologies (as cited from Yonhap). He pointed to POSCO Future M's LFP cathode joint venture and LG Chem's sodium-ion joint development as examples. These are one professor's views, not a new company agreement.",
+            "ja": "中国・上海科学技術大学の金鍾明教授は11月7日、上海で開かれた韓中科学技術革新発展フォーラムで、中核技術の共有は難しいものの、特定技術の検証や事業化の段階では共同開発の余地があると述べました（聯合ニュース引用の報道）。例として、ポスコフューチャーエムのLFP正極材の合弁とLG化学のナトリウムイオン電池の共同開発が挙げられました。一教授の見解であり、企業間の新たな契約の発表ではありません。"
+          },
+          "companies": [
+            "poscofm"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "글로벌이코노믹(연합뉴스 인용)",
+            "date": "2026-11-07",
+            "url": "https://g-enews.com/article/Industry/2026/11/2026110720572994963084322ec9_1"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "LFP·소듐이온 등 저가 전지가 ESS 수요와 함께 커지면 이들 전지에도 분리막이 쓰이므로 수요 기반이 넓어질 수 있습니다.",
+              "en": "If low-cost chemistries such as LFP and sodium-ion grow with energy storage demand, they also use separators, which could widen the demand base.",
+              "ja": "LFPやナトリウムイオンなど低価格電池がESS需要とともに拡大すれば、それらの電池にもセパレータが使われるため、需要の裾野が広がる可能性があります。"
+            },
+            "cons": {
+              "ko": "한중 협력이 깊어지면 중국 공급망 중심의 저가 전지 생산이 늘어, 분리막에서도 중국 업체와의 가격 경쟁이 거세질 수 있습니다. 이번 내용은 구체적인 계약이 아닌 전망 수준입니다.",
+              "en": "Deeper China-Korea ties could expand low-cost cell output built on Chinese supply chains, which may intensify price competition with Chinese separator makers. The remarks are an outlook, not a concrete deal.",
+              "ja": "韓中協力が深まれば中国のサプライチェーン中心の低価格電池の生産が増え、セパレータでも中国メーカーとの価格競争が強まる可能性があります。今回は具体的な契約ではなく見通しの段階です。"
+            }
+          }
+        },
+        {
+          "id": "acwa-battery-storage-20261106",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "ACWA(사우디 발전사)",
+            "en": "ACWA (Saudi power developer)",
+            "ja": "ACWA（サウジの発電事業者）"
+          },
+          "title": {
+            "ko": "ACWA, 1~9월 실적 공개…배터리 저장 용량 11.6GWh, 사우디 입찰 4건 중 3건 수주",
+            "en": "ACWA reports nine-month results: 11.6 GWh battery storage, three of four Saudi tenders won",
+            "ja": "ACWAが1〜9月期決算を発表、蓄電容量11.6GWh、サウジ入札4件中3件を獲得"
+          },
+          "summary": {
+            "ko": "사우디 ACWA는 1~9월 실적 발표에서 포트폴리오에 11.6GWh의 배터리 저장 용량이 포함돼 있다고 밝혔습니다(회사 측 발표, SolarQuarter 보도). 이 기간 배터리 저장 서비스 계약 3건을 맺어 개발 포트폴리오에 6GWh를 더했고, 사우디에서 경쟁 입찰로 나온 배터리 저장 프로젝트 4건 중 3건을 따냈다고 합니다. 회사는 배터리 저장을 핵심 성장 분야로 꼽았습니다.",
+            "en": "In its nine-month results, Saudi developer ACWA said its portfolio includes 11.6 GWh of battery energy storage capacity (company announcement, reported by SolarQuarter). It signed three battery storage service agreements in the period, adding 6 GWh to its development portfolio, and won three of the four battery storage projects awarded by competitive tender in Saudi Arabia. The company called battery storage a key growth area.",
+            "ja": "サウジのACWAは1〜9月期決算で、ポートフォリオに11.6GWhの蓄電容量が含まれると発表しました（会社発表、SolarQuarter報道）。期間中に蓄電サービス契約3件を結んで開発ポートフォリオに6GWhを加え、サウジで競争入札にかけられた蓄電プロジェクト4件のうち3件を獲得したとのことです。同社は蓄電を主要な成長分野と位置づけています。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "SolarQuarter",
+            "date": "2026-11-06",
+            "url": "https://solarquarter.com/2026/11/06/acwa-reports-stable-nine-month-net-income-with-98-2-gw-power-portfolio-and-11-6-gwh-battery-storage/"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "중동을 포함한 대형 ESS 프로젝트가 늘면 ESS용 셀 수요가 커지고, 그만큼 분리막 수요도 늘 수 있습니다.",
+              "en": "More large energy storage projects, including in the Middle East, could lift demand for ESS cells and, in turn, for separators.",
+              "ja": "中東を含む大型ESSプロジェクトが増えれば、ESS用セルの需要が高まり、セパレータ需要も増える可能性があります。"
+            },
+            "cons": {
+              "ko": "기사에는 어느 셀 업체가 공급하는지 나오지 않아 아사히카세이 고객사에 닿는지는 알 수 없습니다. ESS용은 가격 경쟁이 심해질 수 있습니다.",
+              "en": "The report does not say which cell makers will supply these projects, so it is unclear whether Asahi Kasei's customers benefit. ESS segments can also be price-competitive.",
+              "ja": "記事にはどのセルメーカーが供給するかが書かれておらず、旭化成の顧客に波及するかは分かりません。ESS向けは価格競争が激しくなる可能性もあります。"
+            }
+          }
+        }
+      ],
+      "edition": 5
+    },
+    {
       "date": "2026-11-07",
       "title": {
         "ko": "중국 업체, 중국 밖 EV 배터리 점유율 56% 돌파, 전고체용 고분자 소재 공동 개발, 부즈 배터리팩 63만 개 리콜",
