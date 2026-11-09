@@ -1,6 +1,286 @@
 {
   "issues": [
     {
+      "date": "2026-11-09",
+      "title": {
+        "ko": "도호쿠대 알루미늄 박 음극, CATL 리튬-공기 전지 연구, LG엔솔 ESS 입찰 불참",
+        "en": "Tohoku Univ. aluminum-foil anode, CATL lithium-air research, LGES skips ESS auction",
+        "ja": "東北大のアルミ箔負極、CATLのリチウム空気電池研究、LGエナジーソリューションのESS入札不参加"
+      },
+      "summary": {
+        "ko": "도호쿠대가 흑연과 구리박 없이 쓸 수 있는 알루미늄 합금 박 음극을 개발했다고 닛케이가 9일 보도했습니다. 한국 ESS 입찰 구도 변화, 인도 업체의 분리막 사업 진출 등 분리막 사업과 관련된 소식도 함께 정리했습니다.",
+        "en": "Nikkei reported on Nov 9 that Tohoku University developed an aluminum-alloy foil anode that does not need graphite or copper foil. The issue also covers items tied to the separator business, including a change in Korea's ESS auction field and an Indian company's move into separators.",
+        "ja": "東北大学が、黒鉛や銅箔を使わずに済むアルミ合金箔の負極を開発したと、日本経済新聞が9日に報じました。韓国のESS入札の構図の変化や、インド企業のセパレータ事業参入など、セパレータ事業に関わるニュースもまとめました。"
+      },
+      "highlights": {
+        "ko": [
+          "도호쿠대가 망간을 첨가한 알루미늄 박 음극을 개발했습니다. 현재 충방전 약 300회까지 가능하며, 아직 연구 단계입니다.",
+          "LG에너지솔루션이 한국의 제3차 ESS 중앙계약시장 입찰에 불참한다고 알려져, 삼성SDI와 SK온의 경쟁 구도가 됐다고 보도됐습니다.",
+          "인도 TCPL 패키징이 리튬이온 전지용 분리막 필름 사업을 위한 자회사를 설립했다고 전해졌습니다."
+        ],
+        "en": [
+          "Tohoku University developed an aluminum foil anode with added manganese. It can currently be charged and discharged about 300 times, and it is still at the research stage.",
+          "LG Energy Solution reportedly will not join Korea's third central ESS contract auction, leaving Samsung SDI and SK On as the main bidders, according to Korean media.",
+          "India's TCPL Packaging has set up a subsidiary for lithium-ion battery separator films, according to a market news report."
+        ],
+        "ja": [
+          "東北大学がマンガンを加えたアルミ箔の負極を開発しました。現状では約300回まで充放電でき、まだ研究段階です。",
+          "LGエナジーソリューションが韓国の第3次ESS中央契約市場の入札に参加しない見通しと報じられ、サムスンSDIとSK onが主な競争相手になりました。",
+          "インドのTCPLパッケージングが、リチウムイオン電池用セパレータフィルム事業のための子会社を設立したと伝えられました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "사이클 수명",
+          "en": "Cycle life",
+          "ja": "サイクル寿命"
+        },
+        "desc": {
+          "ko": "배터리를 충전하고 방전하는 것을 1회로 세었을 때, 용량이 크게 줄기 전까지 반복할 수 있는 횟수입니다. 오늘 기사의 알루미늄 박 음극은 현재 약 300회 수준으로, 실용화하려면 수명을 더 늘려야 합니다.",
+          "en": "Cycle life is how many times a battery can be charged and discharged, counting each full charge and discharge as one cycle, before its capacity drops sharply. The aluminum foil anode in today's news reaches about 300 cycles for now, so its life must be extended before it can be used in products.",
+          "ja": "サイクル寿命とは、充電と放電を1回として数えたとき、容量が大きく落ちるまでに繰り返せる回数のことです。本日のニュースのアルミ箔負極は現状で約300回程度で、実用化には寿命のさらなる延長が必要です。"
+        }
+      },
+      "stories": [
+        {
+          "id": "tohoku-aluminum-foil-anode-20261109",
+          "category": "material",
+          "format": "main",
+          "subject": {
+            "ko": "도호쿠대 알루미늄 박 음극",
+            "en": "Tohoku Univ. Al-foil anode",
+            "ja": "東北大 アルミ箔負極"
+          },
+          "title": {
+            "ko": "도호쿠대, 리튬이온 전지 음극용 알루미늄 합금 박 개발…제조 공정 줄일 가능성",
+            "en": "Tohoku University develops aluminum-alloy foil anode for lithium-ion batteries, which could cut manufacturing steps",
+            "ja": "東北大学、リチウムイオン電池の負極向けアルミ合金箔を開発　製造工程削減の可能性"
+          },
+          "summary": {
+            "ko": "도호쿠대 나카타 유키 조교 등 연구팀이 망간을 첨가한 알루미늄 박을 리튬이온 전지 음극으로 쓸 수 있도록 개발했다고 닛케이가 보도했습니다. 축전 용량은 유지하면서 충방전에 따른 열화를 억제했고, 현재는 최대 약 300회 충방전이 가능하다고 합니다. 연구 성과는 학술지 ‘Communications Materials’에 게재됐으며, 연구팀은 보호층을 더해 수명을 더 늘리고 싶다고 밝혔습니다.",
+            "en": "Nikkei reported that a Tohoku University team led by assistant professor Yuki Nakata developed a manganese-added aluminum foil that can serve as a lithium-ion battery anode. It keeps its storage capacity while limiting wear from repeated charging, and it currently handles up to about 300 cycles. The work was published in the journal Communications Materials, and the researchers say they want to extend its life further, for example by adding a protective layer.",
+            "ja": "東北大学の中田優樹助教らが、マンガンを添加したアルミ箔をリチウムイオン電池の負極に使えるよう開発したと、日本経済新聞が報じました。蓄電容量を保ちつつ、充放電による劣化を抑え、現状では最大300回程度まで充放電できるといいます。成果は学術誌「Communications Materials」に掲載され、研究チームは保護層の追加などで寿命をさらに延ばしたいとしています。"
+          },
+          "background": {
+            "ko": "현재 널리 쓰이는 리튬이온 전지의 음극에는 분말 형태의 흑연이 쓰이며, 이를 구리박·접착제 등과 조합하는 공정이 필요합니다. 그래서 제조 비용이 늘어나기 쉽고, 대체 재료 연구가 이어지고 있습니다. 이번 연구는 그 대안 중 하나이지만, 기사에 따르면 아직 실용화 이전의 연구 단계입니다.",
+            "en": "Most lithium-ion batteries today use powdered graphite for the anode, and it has to be combined with copper foil and binders in extra steps. This adds to manufacturing cost, so researchers are looking for alternative materials. This study is one such alternative, but according to the article it is still at the research stage, before practical use.",
+            "ja": "現在普及しているリチウムイオン電池の負極には粉末状の黒鉛が使われ、銅箔や接着剤などと組み合わせる工程が必要です。そのため製造コストがかさみやすく、代替材料の研究が続いています。今回の成果はその選択肢の一つですが、記事によればまだ実用化前の研究段階です。"
+          },
+          "companies": [],
+          "materials": [
+            "anode"
+          ],
+          "source": {
+            "name": "日本経済新聞",
+            "date": "2026-11-09",
+            "url": "https://www.nikkei.com/article/DGXZQOSG296RJ0Z21C26A0000000/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "이 음극도 액체 전해질을 쓰는 리튬이온 전지 구조라면 양극과 음극 사이를 분리하는 분리막이 필요할 것으로 보여, 전고체 전환과 달리 분리막 수요를 직접 줄이는 기술은 아닙니다. 전지 제조 비용이 낮아지면 전지 보급이 늘어 분리막 수요에도 간접적으로 도움이 될 가능성이 있습니다.",
+              "en": "If this anode is used in a lithium-ion cell with liquid electrolyte, a separator would likely still be needed between the electrodes, so unlike a switch to solid-state it does not directly remove separator demand. If cell costs fall, wider battery adoption could indirectly help separator demand.",
+              "ja": "この負極も液体電解質を使うリチウムイオン電池の構造であれば、電極間を隔てるセパレータは引き続き必要とみられ、全固体電池への移行のようにセパレータ需要を直接減らす技術ではありません。電池コストが下がれば電池の普及が進み、セパレータ需要にも間接的に追い風となる可能性があります。"
+            },
+            "cons": {
+              "ko": "합금계 음극은 충방전 시 부피가 변하기 쉬워 분리막에 가해지는 압력이나 요구 성능이 달라질 가능성이 있습니다. 다만 현재는 약 300회 수준의 연구 단계라 단기적 영향은 제한적일 것으로 보입니다.",
+              "en": "Alloy-type anodes tend to change volume during charging, which could change the pressure on separators and the performance they need. However, at about 300 cycles and still in research, the near-term effect looks limited.",
+              "ja": "合金系の負極は充放電で体積が変わりやすく、セパレータにかかる圧力や求められる性能が変わる可能性があります。ただし現状は約300回の研究段階であり、短期的な影響は限定的とみられます。"
+            }
+          }
+        },
+        {
+          "id": "lges-skips-korea-ess-auction-20261106",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "LG엔솔 ESS 입찰 불참",
+            "en": "LGES skips ESS auction",
+            "ja": "LGES ESS入札不参加"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 한국 제3차 ESS 중앙계약시장 입찰 불참…삼성SDI·SK온 경쟁 구도",
+            "en": "LG Energy Solution skips Korea's third central ESS contract auction; Samsung SDI and SK On set to compete",
+            "ja": "LGエナジーソリューション、韓国の第3次ESS中央契約市場入札に不参加　サムスンSDIとSK onの争いに"
+          },
+          "summary": {
+            "ko": "이데일리 보도에 따르면 LG에너지솔루션이 제3차 ESS 중앙계약시장 입찰에 참여하지 않겠다고 밝혔습니다(보도 기준 6일 전날). 이번 입찰은 총 1,180MW(저장용량 약 7.08GWh)로 역대 최대 규모이며, 매체는 가격 경쟁 부담이 불참 배경이라고 해석했습니다. 아직 입찰 결과는 나오지 않았고, 수주 배분은 업계 전망일 뿐입니다.",
+            "en": "Edaily reports that LG Energy Solution said it will not take part in the third central ESS contract auction (announced the day before the Nov 6 report). The auction totals 1,180 MW (about 7.08 GWh of storage), the largest so far, and the outlet interprets the pullout as a response to price-competition pressure. No result has been announced yet, and any split of the volume is only an industry forecast.",
+            "ja": "イーデイリーの報道によると、LGエナジーソリューションは第3次ESS中央契約市場の入札に参加しないと表明しました（6日付の報道の前日）。今回の入札は合計1,180MW（蓄電容量で約7.08GWh）と過去最大で、同紙は価格競争の負担が背景だと解釈しています。入札結果はまだ出ておらず、受注の配分は業界の見通しにすぎません。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi",
+            "skon"
+          ],
+          "materials": [],
+          "source": {
+            "name": "이데일리",
+            "date": "2026-11-06",
+            "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05418566645643096"
+          },
+          "related": [
+            {
+              "name": "톱스타뉴스: ESS 시장 커지는데 LG엔솔은 2조원 입찰 포기",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16269967"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "ESS용 셀 수요가 계속 커지고 있어 대형 입찰은 분리막 수요를 뒷받침하는 요인이 됩니다. 입찰 경쟁이 완화되면 셀 업체의 수익성이 개선되어 소재 조달에도 여유가 생길 가능성이 있습니다.",
+              "en": "Continued growth in ESS cell demand supports separator demand, and a large auction is part of that. If bidding pressure eases, cell makers' profits could improve, which may give them more room in materials purchasing.",
+              "ja": "ESS向けセル需要の拡大は、セパレータ需要を支える要因で、大型入札もその一部です。入札競争が和らげばセルメーカーの収益が改善し、材料調達にも余裕が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "이전 입찰에서 가격이 낮아졌다는 보도가 있어, 셀 업체의 원가 절감 압력이 소재 가격 협상으로 이어질 수 있습니다. 입찰 결과에 따라 고객사별 물량도 달라질 수 있습니다.",
+              "en": "Reports say prices fell in earlier rounds, so cell makers' cost-cutting pressure could carry over into materials price talks. Volumes by customer may also shift depending on the auction result.",
+              "ja": "前回までの入札で価格が下がったとの報道があり、セルメーカーのコスト削減圧力が材料価格の交渉に波及する可能性があります。入札結果次第で、顧客ごとの数量も変わる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "tcpl-separator-subsidiary-20261106",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "TCPL 패키징(인도)",
+            "en": "TCPL Packaging (India)",
+            "ja": "TCPLパッケージング（インド）"
+          },
+          "title": {
+            "ko": "인도 TCPL 패키징, 리튬이온 전지용 분리막 필름 자회사 설립",
+            "en": "India's TCPL Packaging forms subsidiary for lithium-ion battery separator films",
+            "ja": "インドのTCPLパッケージング、リチウムイオン電池用セパレータフィルムの子会社を設立"
+          },
+          "summary": {
+            "ko": "인도 포장재 업체 TCPL 패키징이 2026년 9월 24일 자회사 TCPL 에너지 머티리얼즈를 설립했다고 시장 뉴스 매체가 전했습니다. 자본금(수권자본) 1천만 루피로 시작하며, 전기차·대규모 ESS 등에 쓰일 분리막 필름을 만들 계획이라고 합니다. 양산 시기나 규모, 기술은 보도에서 확인되지 않아 초기 단계로 보입니다.",
+            "en": "A market news outlet reports that Indian packaging company TCPL Packaging set up a subsidiary, TCPL Energy Materials, on Sept 24, 2026. It starts with Rs 10 crore of authorised capital and plans to make separator films for uses such as EVs and grid-scale storage. The report does not give production timing, scale or technology, so the project looks to be at an early stage.",
+            "ja": "インドの包装資材メーカーTCPLパッケージングが、2026年9月24日に子会社TCPLエナジー・マテリアルズを設立したと、市況ニュースサイトが伝えました。授権資本は1,000万ルピーからで、EVや大規模蓄電などに使うセパレータフィルムを製造する計画といいます。量産時期や規模、技術は報道では確認できず、初期段階とみられます。"
+          },
+          "companies": [],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "Multibagg",
+            "date": "2026-11-06",
+            "url": "https://www.multibagg.ai/market-pulse/articles/tcpl-packaging-battery-materials-unit-ppt-cmw3no55y00i0jk2r7vbugehi"
+          },
+          "related": [
+            {
+              "name": "Whalesbook: TCPL Packaging Q2 실적과 분리막 진출",
+              "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/TCPL-Packaging-Q2-Profit-Jumps-58percent-to-Rs-453-Crore/6aec8290c6c6dccbb91574bb"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "분리막 사업에 새로 뛰어드는 기업이 나온다는 것은 인도를 포함한 지역의 전지 수요 확대 기대를 보여주는 신호로 읽을 수 있습니다. 현지 공급망 구축 움직임은 시장 전체의 성장 가능성을 시사합니다.",
+              "en": "A new entrant into separators can be read as a sign of expected battery demand growth in India and nearby regions. Efforts to build local supply chains also hint at the market's overall growth potential.",
+              "ja": "セパレータ事業への新規参入は、インドなどでの電池需要拡大への期待を示すシグナルと読めます。現地サプライチェーン構築の動きは、市場全体の成長余地も示唆します。"
+            },
+            "cons": {
+              "ko": "신규 참여자가 늘면 장기적으로 인도 등 일부 지역에서 현지 조달 요구와 가격 경쟁이 강해질 가능성이 있습니다. 다만 현재는 설립 단계이며, 제품 품질이나 양산 능력은 확인되지 않았습니다.",
+              "en": "More entrants could, over time, strengthen local-sourcing demands and price competition in some regions such as India. For now it is only at the setup stage, and product quality and mass-production ability have not been confirmed.",
+              "ja": "新規参入が増えれば、長期的にはインドなど一部地域で現地調達の要請や価格競争が強まる可能性があります。ただし現時点は設立段階で、製品品質や量産能力は確認されていません。"
+            }
+          }
+        },
+        {
+          "id": "catl-lithium-air-research-20261107",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 리튬-공기 전지",
+            "en": "CATL lithium-air",
+            "ja": "CATL リチウム空気電池"
+          },
+          "title": {
+            "ko": "CATL, 리튬-공기 전지를 장기 탐색 연구로 언급…상용화 일정은 없음",
+            "en": "CATL names lithium-air as long-term exploratory research, with no commercial timeline",
+            "ja": "CATL、リチウム空気電池を長期の探索研究と位置づけ　商用化の時期は示されず"
+          },
+          "summary": {
+            "ko": "카뉴스차이나는 CATL의 수석 과학자가 2026년 장비 파워하우스 포럼에서 리튬-공기 기술을 장기 연구 방향으로 언급했다고 전했습니다. 매체는 이를 상용 생산 일정이 없는 탐색 단계의 연구라고 설명했습니다. 이론상 주행거리가 최대 2,000km에 이를 수 있다는 보도도 있지만, 내구성과 실용화는 아직 큰 과제입니다.",
+            "en": "CarNewsChina reports that CATL's chief scientist named lithium-air technology as a long-term research direction at the 2026 Equipment Powerhouse Forum. The outlet describes it as exploratory research with no commercial production timeline. Some reports say the theoretical range could reach 2,000 km, but durability and practicality remain big hurdles.",
+            "ja": "カーニュースチャイナは、CATLのチーフサイエンティストが2026年の装備強国フォーラムで、リチウム空気電池を長期的な研究の方向性として挙げたと伝えました。同サイトは、商用生産の時期がない探索段階の研究だと説明しています。理論上の航続距離は最大2,000kmに達しうるとの報道もありますが、耐久性や実用化は大きな課題です。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "CarNewsChina",
+            "date": "2026-11-07",
+            "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/"
+          },
+          "related": [
+            {
+              "name": "Autoblog: World's Biggest EV Battery Maker Explores Theoretical 1,243-Mile Range",
+              "url": "https://autoblog.com/news/worlds-biggest-ev-battery-maker-explores-theoretical-1243-mile-range"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "기사에 따르면 CATL의 상용화 우선순위는 소듐이온과 전고체가 먼저이고 리튬-공기는 더 먼 연구 과제여서, 분리막 수요에 단기적인 직접 영향은 없을 것으로 보입니다.",
+              "en": "According to the article, CATL's nearer-term commercial focus is sodium-ion and all-solid-state, with lithium-air a more distant research topic, so a direct short-term effect on separator demand looks unlikely.",
+              "ja": "記事によれば、CATLの商用化では ナトリウムイオンと全固体が先で、リチウム空気はさらに先の研究課題であり、セパレータ需要への短期的な直接影響はないとみられます。"
+            },
+            "cons": {
+              "ko": "먼 미래에 리튬-공기가 실용화된다면 셀 구조가 지금과 크게 달라져 분리막의 역할도 바뀔 가능성이 있습니다. 현재로서는 확정된 계획이 없는 장기 관찰 사항입니다.",
+              "en": "If lithium-air ever becomes practical in the distant future, the cell structure would differ greatly from today's, which could change the role of separators. For now it is a long-term watch item with no firm plan.",
+              "ja": "遠い将来リチウム空気電池が実用化されれば、セル構造が現在と大きく変わり、セパレータの役割も変わる可能性があります。現時点では確定した計画のない、長期的なウォッチ項目です。"
+            }
+          }
+        },
+        {
+          "id": "dongfeng-catl-shenxing-gen3-20261109",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 3세대 션싱",
+            "en": "CATL Shenxing Gen 3",
+            "ja": "CATL 第3世代神行"
+          },
+          "title": {
+            "ko": "둥펑, CATL 3세대 션싱 급속충전 배터리 첫 탑재권 추진 보도(미확인)",
+            "en": "Dongfeng reportedly seeks first-launch rights to CATL's third-generation Shenxing fast-charge battery (unconfirmed)",
+            "ja": "東風、CATL第3世代「神行」急速充電電池の初搭載権を求めていると報道（未確認）"
+          },
+          "summary": {
+            "ko": "배터리 전문 주간 뉴스레터는 둥펑자동차가 CATL의 3세대 션싱 배터리의 첫 출시 권리를 확보하려 한다고 전했습니다. 다만 이는 ‘보도에 따르면’ 수준의 정보이며 확정된 계약이 아닙니다. 전하는 바로는 CATL은 이 배터리가 10%에서 80%까지 3분 44초, 완전 충전은 약 6분이 걸린다고 밝혔습니다(회사 측 발표).",
+            "en": "A weekly battery-industry newsletter says Dongfeng Motor is reportedly seeking first-launch rights to CATL's third-generation Shenxing battery. This is a report, not a confirmed contract. The newsletter says CATL states the battery charges from 10% to 80% in 3 minutes 44 seconds and fully in about 6 minutes (company claim).",
+            "ja": "電池業界の週刊ニュースレターは、東風汽車がCATLの第3世代「神行」電池の最初の搭載権を求めていると伝えました。ただし「報道によれば」の段階で、契約が確定したわけではありません。同誌によると、CATLはこの電池が10％から80％まで3分44秒、満充電まで約6分と説明しています（会社側の発表）。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "BatteryTech News & Updates 2026 #45 (Battery-Tech Network)",
+            "date": "2026-11-09",
+            "url": "https://battery-tech.net/batterytech-news-updates-2026-45/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "급속충전 전지는 발열이 커지기 쉬워 내열성과 안전성이 높은 분리막에 대한 관심을 높일 수 있습니다. 고성능 분리막 기술을 가진 공급사에는 기회가 될 가능성이 있습니다.",
+              "en": "Fast-charging cells tend to run hotter, which could raise interest in separators with strong heat resistance and safety. It may be an opportunity for suppliers with high-performance separator technology.",
+              "ja": "急速充電対応の電池は発熱が大きくなりやすく、耐熱性や安全性に優れたセパレータへの関心が高まる可能性があります。高性能セパレータの技術を持つ供給元には機会となる可能性があります。"
+            },
+            "cons": {
+              "ko": "CATL의 분리막 조달처나 사양은 기사에서 확인되지 않으며, CATL이 중국 내 공급망을 중시한다면 해외 업체의 참여 폭은 제한될 수 있습니다. 또 이번 내용은 미확정 보도입니다.",
+              "en": "The article does not say where CATL sources separators or what specifications it uses, and if CATL favors its China-based supply chain, room for overseas suppliers could be limited. This is also an unconfirmed report.",
+              "ja": "CATLのセパレータ調達先や仕様は記事で確認できず、CATLが中国国内のサプライチェーンを重視する場合、海外メーカーの参入余地は限られる可能性があります。また今回は未確定の報道です。"
+            }
+          }
+        }
+      ],
+      "edition": 6
+    },
+    {
       "date": "2026-11-08",
       "title": {
         "ko": "분리막 수급 완화 조짐, 美 국방부 6K 2.5억 달러 융자 조건부 승인, 테슬라 사이버캡 40kWh 계획",
