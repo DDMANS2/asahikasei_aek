@@ -1,6 +1,347 @@
 {
   "issues": [
     {
+      "date": "2026-11-10",
+      "title": {
+        "ko": "BMW, 삼성SDI·LG에너지솔루션 셀 추가 채택, KAIST 신형 분리막, 창안–CATL 75GWh 협력",
+        "en": "BMW adds Samsung SDI and LGES cells, KAIST's new separator, Changan–CATL 75 GWh tie-up",
+        "ja": "BMWがサムスンSDI・LGエナジーソリューションを追加採用、KAISTの新型セパレータ、長安–CATL 75GWh協力"
+      },
+      "summary": {
+        "ko": "BMW가 6세대 고전압 배터리용 셀 공급사로 삼성SDI(유럽)와 LG에너지솔루션(미국)을 추가했습니다. 분리막 구조로 리튬금속 전지의 급속충전 성능을 높인 KAIST 연구와, 창안과 CATL의 생산능력 확대 계획도 전해졌습니다.",
+        "en": "BMW has added Samsung SDI (Europe) and LG Energy Solution (US) as cell suppliers for its sixth-generation high-voltage batteries. Other news includes a KAIST separator design that improves fast charging in lithium-metal cells, and Changan's plan to expand capacity with CATL.",
+        "ja": "BMWが第6世代高電圧電池のセル供給元として、サムスンSDI（欧州）とLGエナジーソリューション（米国）を追加しました。セパレータ構造でリチウム金属電池の急速充電性能を高めたKAISTの研究や、長安とCATLの生産能力拡大計画も伝えられました。"
+      },
+      "highlights": {
+        "ko": [
+          "BMW가 Gen6 배터리 셀 공급사로 삼성SDI(유럽 생산)와 LG에너지솔루션(미국 생산)을 추가했습니다. 공급은 2020년대 후반 시작 예정이며 계약 규모는 공개되지 않았습니다.",
+          "KAIST 연구팀이 이온 이동 경로를 줄인 수직 배열 액정고분자 분리막을 개발했습니다. 리튬금속 전지로 4C 충전, 100회 후 용량 94% 유지를 확인했습니다(실험실 단계).",
+          "창안이 CATL과 합작 생산능력을 75GWh로 늘리고 전고체·소듐이온 전지도 협력하겠다고 밝혔습니다. 한국에서는 사용 후 배터리 원료 부족 문제가 불거졌습니다."
+        ],
+        "en": [
+          "BMW added Samsung SDI (made in Europe) and LG Energy Solution (made in the US) as Gen6 cell suppliers. Deliveries are expected from the late 2020s, and the contract size was not disclosed.",
+          "KAIST researchers built a vertically aligned liquid-crystal polymer separator that shortens ion paths. In a lithium-metal cell it kept 94% capacity after 100 cycles at 4C charging (lab stage).",
+          "Changan said it will raise joint capacity with CATL to 75 GWh and cooperate on solid-state and sodium-ion cells. In Korea, a shortage of used-battery feedstock is hurting recyclers."
+        ],
+        "ja": [
+          "BMWがGen6電池のセル供給元として、サムスンSDI（欧州生産）とLGエナジーソリューション（米国生産）を追加しました。供給は2020年代後半の開始予定で、契約規模は非公表です。",
+          "KAISTの研究チームが、イオンの通り道を短くする垂直配向の液晶高分子セパレータを開発しました。リチウム金属電池で4C充電・100回後に容量94%を維持しました（実験室段階）。",
+          "長安がCATLとの共同生産能力を75GWhに拡大し、全固体・ナトリウムイオン電池でも協力すると表明しました。韓国では使用済み電池の原料不足が課題になっています。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "굴곡도(Tortuosity)",
+          "en": "Tortuosity",
+          "ja": "屈曲度（トルチュオシティ）"
+        },
+        "desc": {
+          "ko": "분리막 같은 다공질 소재 안에서 리튬 이온이 이동할 때 얼마나 구불구불 돌아가야 하는지를 나타내는 값입니다. 값이 작을수록 이온이 빠르고 고르게 움직여 급속충전에 유리해질 수 있습니다.",
+          "en": "Tortuosity describes how winding the path is for lithium ions moving through a porous material such as a separator. A lower value can let ions move faster and more evenly, which may help fast charging.",
+          "ja": "セパレータのような多孔質材料の中で、リチウムイオンがどれだけ曲がりくねった道を通るかを表す指標です。値が小さいほどイオンが速く均一に動き、急速充電に有利になる可能性があります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "bmw-gen6-samsungsdi-lges-20261110",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "BMW 6세대 배터리 셀",
+            "en": "BMW Gen6 battery cells",
+            "ja": "BMW第6世代電池セル"
+          },
+          "title": {
+            "ko": "BMW, 6세대 배터리 셀 공급사로 삼성SDI·LG에너지솔루션 추가",
+            "en": "BMW adds Samsung SDI and LG Energy Solution as Gen6 cell suppliers",
+            "ja": "BMW、第6世代電池のセル供給元にサムスンSDIとLGエナジーソリューションを追加"
+          },
+          "summary": {
+            "ko": "BMW그룹이 현지 시간 9일 6세대 고전압 배터리용 셀 공급계약을 삼성SDI·LG에너지솔루션과 체결했다고 밝혔습니다. 삼성SDI는 유럽에서, LG에너지솔루션은 미국에서 생산한 셀을 2020년대 후반부터 공급할 예정입니다. 계약 규모와 물량은 공개되지 않았고, 셀 형태와 화학 조성도 BMW 발표에는 명시되지 않았다고 매체들은 전했습니다.",
+            "en": "BMW Group said on November 9 (local time) that it signed Gen6 high-voltage battery cell supply agreements with Samsung SDI and LG Energy Solution. Samsung SDI will supply cells made in Europe and LGES cells made in the US, with deliveries planned from the late 2020s. The contract size and volumes were not disclosed, and media noted that the cell format and chemistry were not specified in BMW's announcement.",
+            "ja": "BMWグループは現地時間9日、第6世代高電圧電池向けのセル供給契約をサムスンSDI、LGエナジーソリューションと結んだと発表しました。サムスンSDIは欧州で、LGESは米国で生産したセルを2020年代後半から供給する予定です。契約規模や数量は非公表で、セルの形状や化学組成もBMWの発表では示されていないと報じられています。"
+          },
+          "background": {
+            "ko": "BMW는 차량 생산 거점 가까이에서 셀을 조달하는 '로컬 포 로컬' 전략으로 공급망을 다변화하고 있습니다. electrive는 이번 결정으로 BMW가 유럽에서는 CATL·EVE에너지·삼성SDI 3사에서, 미국에서는 LG에너지솔루션에서 셀을 받게 된다고 전했습니다. Gen6는 신형 전기차 '노이어 클라쎄'용 배터리로, BMW는 기존 각형 NMC 셀보다 에너지 밀도가 약 20% 높다고 설명합니다.",
+            "en": "BMW is diversifying its supply chain through a 'local for local' approach that sources cells close to its vehicle plants. Electrive reports that BMW will now get cells from CATL, EVE Energy and Samsung SDI in Europe, and from LG Energy Solution in the US. Gen6 is the battery for the new Neue Klasse EVs, and BMW says its energy density is about 20% higher than earlier prismatic NMC cells.",
+            "ja": "BMWは、車両工場の近くでセルを調達する「ローカル・フォー・ローカル」方針で供給網を多様化しています。electriveによると、今回の決定でBMWは欧州ではCATL、EVEエナジー、サムスンSDIの3社、米国ではLGエナジーソリューションからセルを調達することになります。Gen6は新型EV「ノイエ・クラッセ」向けの電池で、BMWは従来の角形NMCセルよりエネルギー密度が約20%高いとしています。"
+          },
+          "companies": [
+            "samsungsdi",
+            "lges",
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "electrive.com",
+            "date": "2026-11-09",
+            "url": "https://www.electrive.com/2026/11/09/bmw-to-source-battery-cells-from-lges-and-samsung-sdi/"
+          },
+          "related": [
+            {
+              "name": "heise online: Local for Local – BMW localizes EV battery-cell sourcing",
+              "url": "https://www.heise.de/en/news/Local-for-Local-BMW-localizes-EV-battery-cell-sourcing-11517050.html"
+            },
+            {
+              "name": "파이낸셜뉴스: BMW, 삼성SDI·LG엔솔 배터리 추가 공급계약",
+              "url": "https://www.fnnews.com/news/202611101039459496"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "유럽·미국 현지 생산 셀 수요가 늘면 현지 공급 체제를 갖춘 분리막 업체에 기회가 될 수 있습니다. 북미에 생산 거점을 둔 업체에는 현지 조달 흐름이 유리하게 작용할 가능성이 있습니다.",
+              "en": "More demand for cells made in Europe and the US could create openings for separator makers with local supply. The local-sourcing trend may favor suppliers with production sites in North America.",
+              "ja": "欧州・米国で生産されるセルの需要が増えれば、現地供給体制を持つセパレータメーカーにとって機会になる可能性があります。北米に生産拠点を持つ企業には、現地調達の流れが追い風になる可能性があります。"
+            },
+            "cons": {
+              "ko": "분리막 공급사는 발표에 나오지 않았고 공급 개시도 2020년대 후반이라 물량 반영까지 시간이 걸립니다. 같은 BMW 공급망에 중국 셀 업체도 있어 분리막 조달처 경쟁이 이어질 수 있습니다.",
+              "en": "The announcement does not name separator suppliers, and deliveries start only in the late 2020s, so volume effects are distant. Chinese cell makers are also in BMW's supply chain, so competition over separator sourcing may continue.",
+              "ja": "発表ではセパレータの供給元は示されておらず、供給開始も2020年代後半のため、数量への反映は先になります。BMWの供給網には中国系セルメーカーも含まれ、セパレータ調達をめぐる競争が続く可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "kaist-aligned-lcp-separator-20261109",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "KAIST 액정고분자 분리막",
+            "en": "KAIST LCP separator",
+            "ja": "KAIST液晶高分子セパレータ"
+          },
+          "title": {
+            "ko": "KAIST, 수직 배열 분리막으로 리튬금속 전지 급속충전 성능 개선",
+            "en": "KAIST aligned separator improves fast charging of lithium-metal batteries",
+            "ja": "KAIST、垂直配向セパレータでリチウム金属電池の急速充電性能を改善"
+          },
+          "summary": {
+            "ko": "KAIST 연구팀이 이온 전도를 돕는 PEG 사슬을 넣고 수직으로 정렬한 액정고분자 분리막을 개발했습니다. 가로 배열 대비 이온 경로의 굴곡도가 약 2.5배 낮아졌고, 덴드라이트(바늘 모양 리튬) 성장도 억제됐다고 연구팀은 설명합니다. NCM811 양극을 쓴 리튬금속 전지에서 4C 충전, 100회 후 초기 용량의 94%를 유지했다고 보도됐습니다(실험실 결과).",
+            "en": "KAIST researchers developed a liquid-crystal polymer separator aligned vertically, with PEG chains that help lithium-ion transport. The team says ion-path tortuosity fell about 2.5-fold versus horizontal alignment and that dendrite growth was curbed. In a lithium-metal cell with an NCM811 cathode, it was reported to keep 94% of initial capacity after 100 cycles at 4C charging (lab result).",
+            "ja": "KAISTの研究チームが、イオン輸送を助けるPEG鎖を組み込み、垂直に配向させた液晶高分子セパレータを開発しました。水平配向に比べてイオン経路の屈曲度が約2.5分の1になり、デンドライト（針状リチウム）の成長も抑えられたと説明しています。NCM811正極を使ったリチウム金属電池で、4C充電・100回後に初期容量の94%を維持したと報じられています（実験室での結果）。"
+          },
+          "companies": [],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "TechXplore",
+            "date": "2026-11-09",
+            "url": "https://techxplore.com/news/2026-11-aligned-lithium-metal-battery-fast.html"
+          },
+          "related": [
+            {
+              "name": "Interesting Engineering: Lithium-metal battery charges in 15 minutes",
+              "url": "https://interestingengineering.com/energy/lithium-metal-battery-separator"
+            },
+            {
+              "name": "Kantan.News: Liquid Crystal Separator Enables 15-Minute Charging",
+              "url": "https://kantan.news/news/liquid-crystal-separator-enables-15-minute-charging-in-lithium-metal-batteries"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "분리막 구조만으로 이온 이동과 덴드라이트 억제를 개선할 수 있음을 보여, 기능성 분리막의 개발 여지가 크다는 점을 시사합니다. 차세대 전지에서도 분리막이 성능을 좌우하는 부품으로 남을 가능성이 있습니다.",
+              "en": "It suggests that separator structure alone can improve ion transport and dendrite suppression, pointing to room for functional separators. Separators may remain a performance-defining part even in next-generation cells.",
+              "ja": "セパレータの構造だけでイオン輸送とデンドライト抑制を改善できることを示し、機能性セパレータの開発余地が大きいことを示唆します。次世代電池でもセパレータが性能を左右する部品であり続ける可能性があります。"
+            },
+            "cons": {
+              "ko": "실험실 단계의 결과로 양산성·비용은 확인되지 않았고, 리튬금속 전지 자체의 상용화도 아직 멀 수 있습니다. 새로운 소재·구조가 기존 폴리올레핀 분리막을 대체하는 경쟁 기술로 발전할 가능성도 있습니다.",
+              "en": "This is a lab-stage result with no confirmed manufacturability or cost, and commercial lithium-metal batteries may still be far off. New materials and structures could also develop into competitors to today's polyolefin separators.",
+              "ja": "実験室段階の結果で量産性やコストは確認されておらず、リチウム金属電池自体の実用化もまだ先の可能性があります。新しい材料・構造が、現行のポリオレフィン系セパレータの競合技術に発展する可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "changan-catl-75gwh-20261109",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "창안–CATL 협력",
+            "en": "Changan–CATL tie-up",
+            "ja": "長安–CATL協力"
+          },
+          "title": {
+            "ko": "창안, CATL과 합작 생산능력 75GWh로 확대…전고체·소듐이온도 협력",
+            "en": "Changan to expand joint capacity with CATL to 75 GWh, with solid-state and sodium-ion cooperation",
+            "ja": "長安、CATLとの共同生産能力を75GWhへ拡大…全固体・ナトリウムイオンでも協力"
+          },
+          "summary": {
+            "ko": "중국 완성차 업체 창안이 CATL과의 협력을 심화해 공동 배터리 생산능력을 75GWh로 늘리고 전고체·소듐이온 전지 분야에서 협력하겠다고 밝혔습니다. 이 내용은 선전거래소 투자자 소통 플랫폼을 통해 공개된 회사 측 발표입니다. 중국 배터리 매체는 기존 50GWh 계획에 25GWh가 더해지는 것으로 전했으며, 구체적인 가동·양산 시기는 확인되지 않았습니다.",
+            "en": "Chinese automaker Changan said it will deepen its partnership with CATL, raising joint battery capacity to 75 GWh and cooperating on solid-state and sodium-ion cells. This is a company statement made on the Shenzhen Stock Exchange's investor interaction platform. A Chinese battery outlet reports it adds 25 GWh to an earlier 50 GWh plan, but start-up and mass-production timing were not confirmed.",
+            "ja": "中国の自動車メーカー長安は、CATLとの協力を深め、共同の電池生産能力を75GWhに拡大し、全固体電池とナトリウムイオン電池でも協力すると表明しました。これは深圳証券取引所の投資家交流プラットフォームで公表された会社側の発表です。中国の電池専門メディアは、従来の50GWh計画に25GWhが加わると伝えていますが、稼働・量産時期は確認されていません。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Batteries News",
+            "date": "2026-11-09",
+            "url": "https://batteriesnews.com/changan-and-catl-to-collaborate-on-1500-km-solid-state-cells-establish-75-gwh-battery-lines/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "생산능력이 25GWh 늘면 중국 내 셀 생산에 쓰이는 분리막 수요도 늘어날 수 있습니다. 소듐이온 전지도 분리막이 필요한 구조라 수요 저변이 넓어질 가능성이 있습니다.",
+              "en": "An extra 25 GWh of capacity could add to separator demand in cell production in China. Sodium-ion cells also use separators, so the demand base may broaden.",
+              "ja": "生産能力が25GWh増えれば、中国でのセル生産に使われるセパレータ需要も増える可能性があります。ナトリウムイオン電池もセパレータを使う構造のため、需要の裾野が広がる可能性があります。"
+            },
+            "cons": {
+              "ko": "CATL 중심의 중국 내 조달에서는 현지 분리막 업체가 유리하고 가격 경쟁도 심할 수 있습니다. 전고체 협력이 진전되면 장기적으로 분리막 필요성이 줄어들 가능성도 있으나, 시기는 불확실합니다.",
+              "en": "In CATL-centered sourcing in China, local separator makers may have an edge and price competition may be tough. If solid-state cooperation advances, the need for separators could shrink in the long run, though the timing is uncertain.",
+              "ja": "CATL中心の中国国内調達では現地セパレータメーカーが有利で、価格競争も厳しくなる可能性があります。全固体の協力が進めば、長期的にはセパレータの必要性が減る可能性もありますが、時期は不確実です。"
+            }
+          }
+        },
+        {
+          "id": "lges-repulse-ces2027-20261110",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "LG엔솔 리.펄스",
+            "en": "LGES Re.Pulse",
+            "ja": "LGES「Re.Pulse」"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 사용 후 배터리 진단 SW로 CES 2027 혁신상 수상",
+            "en": "LG Energy Solution wins CES 2027 Innovation Award for used-battery diagnostic software",
+            "ja": "LGエナジーソリューション、使用済み電池診断ソフトでCES 2027イノベーション賞を受賞"
+          },
+          "summary": {
+            "ko": "LG에너지솔루션이 9일 사용 후 배터리 진단 솔루션 '리.펄스(Re.Pulse)'로 CES 2027 혁신상을 받았다고 밝혔습니다. 회사 측 설명에 따르면 AI로 10분 이내에 상태를 진단하며, 기존 방식의 7시간 이상보다 크게 짧습니다. 셀 단위 분석으로 재사용·재제조·재활용 적합 여부를 판단할 수 있다고 합니다.",
+            "en": "LG Energy Solution said on November 9 that its used-battery diagnostic solution Re.Pulse won a CES 2027 Innovation Award. According to the company, the AI software diagnoses battery condition in under 10 minutes, versus more than 7 hours with the conventional method. Cell-level analysis is said to indicate whether a battery suits reuse, remanufacturing or recycling.",
+            "ja": "LGエナジーソリューションは9日、使用済み電池診断ソリューション「Re.Pulse」がCES 2027イノベーション賞を受賞したと発表しました。会社側の説明では、AIで10分以内に状態を診断でき、従来方式の7時間以上より大幅に短いとのことです。セル単位の分析で、再使用・再製造・リサイクルのどれに適しているか判断できるといいます。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi"
+          ],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "뉴스핌",
+            "date": "2026-11-10",
+            "url": "https://www.newspim.com/news/view/20261110000163"
+          },
+          "related": [
+            {
+              "name": "아주경제: 삼성SDI·LG엔솔, CES 2027 혁신상 나란히 수상",
+              "url": "https://www.ajunews.com/view/20261110102845574"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "사용 후 배터리의 재사용·순환 체계가 정비되면 배터리 산업 전반의 지속가능성 평가에 간접적으로 도움이 될 수 있습니다.",
+              "en": "A better reuse and circular system for used batteries may indirectly support sustainability perceptions across the battery industry.",
+              "ja": "使用済み電池の再使用・循環の仕組みが整えば、電池産業全体のサステナビリティ評価を間接的に後押しする可能性があります。"
+            },
+            "cons": {
+              "ko": "진단 소프트웨어 중심의 소식으로 분리막 수요나 경쟁 구도에 미치는 직접적인 영향은 거의 없습니다.",
+              "en": "This is a software-focused item with little direct effect on separator demand or competition.",
+              "ja": "診断ソフトが中心の話題で、セパレータの需要や競争環境への直接的な影響はほとんどありません。"
+            }
+          }
+        },
+        {
+          "id": "korea-used-battery-feedstock-shortage-20261110",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "한국 폐배터리 원료난",
+            "en": "Korea feedstock shortage",
+            "ja": "韓国の原料不足"
+          },
+          "title": {
+            "ko": "한국 재활용 업계 '원료 가뭄'…사용 후 배터리 물량 부족, 내년 사용후 배터리법 시행",
+            "en": "Korean recyclers face a feedstock shortage as used-battery supply lags; new law due next year",
+            "ja": "韓国のリサイクル業界で「原料不足」…使用済み電池の量が足りず、来年に関連法施行"
+          },
+          "summary": {
+            "ko": "그린포스트코리아는 전기차가 늘어도 국내 재활용 업체가 가동할 폐배터리 물량이 크게 부족하다고 보도했습니다. 산업통상부 전망으로 국내 사용 후 배터리 배출량은 2025년 8,321개에서 2030년 10만 7,500개로 약 13배 늘 것으로 예상됩니다. 현재는 제조 공정에서 나오는 스크랩에 주로 의존하며, 한국환경공단은 내년 시행되는 사용후 배터리법이 유통·거래 관리에 도움이 될 것으로 기대한다고 밝혔습니다.",
+            "en": "Greenpost Korea reports that Korean recyclers lack enough retired EV batteries to run their plants despite growing EV numbers. The industry ministry projects domestic used-battery output to rise about 13-fold, from 8,321 units in 2025 to 107,500 in 2030. Recyclers currently rely mainly on manufacturing scrap, and the Korea Environment Corporation expects a used-battery law taking effect next year to help manage distribution and trading.",
+            "ja": "グリーンポスト・コリアは、EVが増えても国内リサイクル企業が稼働させる廃電池が大きく不足していると報じました。産業通商部の見通しでは、国内の使用済み電池の排出量は2025年の8,321個から2030年に10万7,500個へ約13倍に増える見込みです。現在は製造工程で出るスクラップに主に頼っており、韓国環境公団は来年施行の使用済み電池法が流通・取引の管理に役立つと期待しています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "그린포스트코리아",
+            "date": "2026-11-10",
+            "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307979"
+          },
+          "related": [
+            {
+              "name": "Design News: EV Battery Recycling Faces Supply Gap",
+              "url": "https://www.designnews.com/automotive-engineering/ev-battery-recycling-faces-supply-gap-despite-strong-recovery-rates-for-critical-materials"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "제조 스크랩이 재활용 원료의 중심이라는 점은 셀 생산량·수율과 재활용이 연결돼 있음을 보여 주며, 장기적으로 순환 체계가 갖춰지면 배터리 산업의 지속가능성에 도움이 될 수 있습니다.",
+              "en": "Manufacturing scrap being the main feedstock shows that recycling is tied to cell output and yields, and a mature circular system could help the industry's sustainability over time.",
+              "ja": "製造スクラップがリサイクル原料の中心であることは、セル生産量や歩留まりとリサイクルが結びついていることを示します。将来的に循環の仕組みが整えば、産業の持続可能性に役立つ可能性があります。"
+            },
+            "cons": {
+              "ko": "재활용 업계의 원료난은 주로 금속 회수 문제로, 분리막 사업에 미치는 직접적인 영향은 제한적입니다.",
+              "en": "The shortage mainly concerns metal recovery, so its direct effect on the separator business is limited.",
+              "ja": "原料不足は主に金属回収の問題で、セパレータ事業への直接的な影響は限定的です。"
+            }
+          }
+        },
+        {
+          "id": "north-carolina-li-ion-trash-ban-20261109",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "노스캐롤라이나 배터리 규제",
+            "en": "North Carolina battery rule",
+            "ja": "ノースカロライナ州の電池規制"
+          },
+          "title": {
+            "ko": "미 노스캐롤라이나주, 12월 1일부터 리튬이온 전지 가정 쓰레기·재활용 배출 금지",
+            "en": "North Carolina bans lithium-ion batteries from household trash and recycling from Dec. 1",
+            "ja": "米ノースカロライナ州、12月1日から家庭ごみ・リサイクルへのリチウムイオン電池の排出を禁止"
+          },
+          "summary": {
+            "ko": "미국 노스캐롤라이나주에서 12월 1일부터 리튬이온 전지를 가정용 쓰레기나 재활용품에 넣는 것이 법으로 금지됩니다. 파손된 전지가 수거 차량이나 처리시설에서 열폭주를 일으켜 화재로 이어질 우려가 배경입니다. 지역 폐기물 담당자는 시설 화재에 대한 우려가 크다고 지역 방송에 말했습니다.",
+            "en": "From December 1, a new North Carolina law makes it illegal to put lithium-ion batteries in household trash or recycling bins. The concern is that damaged batteries can go into thermal runaway in collection trucks or processing facilities and start fires. A local waste official told a local TV station that fires at facilities are a constant worry.",
+            "ja": "米ノースカロライナ州では12月1日から、リチウムイオン電池を家庭ごみやリサイクルに出すことが法律で禁止されます。損傷した電池が収集車や処理施設で熱暴走を起こし、火災につながる懸念が背景にあります。地元の廃棄物担当者は、施設火災への不安が常にあると地元局に話しました。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "WECT",
+            "date": "2026-11-09",
+            "url": "https://wect.com/2026/11/09/lithium-ion-batteries-banned-household-trash-recycling-starting-dec-1"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "전지 폐기 시 화재 위험이 사회적으로 주목받으면서, 내열성 등 분리막의 안전 기능에 대한 관심이 높아질 수 있습니다.",
+              "en": "Public attention to battery fire risk at disposal may raise interest in separator safety features such as heat resistance.",
+              "ja": "電池廃棄時の火災リスクが注目されることで、耐熱性などセパレータの安全機能への関心が高まる可能性があります。"
+            },
+            "cons": {
+              "ko": "가정 쓰레기 분리 배출 규제는 분리막 수요나 경쟁 구도에 직접 영향을 주지 않으며, 규제 확산 시 소비자용 전지 취급 비용이 늘 수 있는 정도입니다.",
+              "en": "A household-waste rule does not directly affect separator demand or competition; at most it may raise handling costs for consumer batteries if similar rules spread.",
+              "ja": "家庭ごみの排出規制はセパレータの需要や競争環境に直接影響せず、同様の規制が広がった場合に消費者向け電池の取り扱いコストが増える程度です。"
+            }
+          }
+        }
+      ],
+      "edition": 7
+    },
+    {
       "date": "2026-11-09",
       "title": {
         "ko": "도호쿠대 알루미늄 박 음극, CATL 리튬-공기 전지 연구, LG엔솔 ESS 입찰 불참",
