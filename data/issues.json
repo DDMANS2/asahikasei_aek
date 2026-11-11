@@ -1,6 +1,267 @@
 {
   "issues": [
     {
+      "date": "2026-11-11",
+      "title": {
+        "ko": "소듐이온 전지 70GWh 공급계약 분석, 미 Appear 전고체 시생산, 삼성SDI AI 데이터센터용 배터리 CES 혁신상",
+        "en": "Sodium-ion supply deals top 70 GWh, Appear starts solid-state pre-production, Samsung SDI wins CES award for data-center battery",
+        "ja": "ナトリウムイオン電池の供給契約70GWh超、米Appearが全固体電池の試験生産、サムスンSDIのデータセンター向け電池がCES賞"
+      },
+      "summary": {
+        "ko": "우드맥킨지는 소듐이온 전지의 공급계약이 70GWh를 넘어 상업 생산 단계에 들어섰다고 분석했습니다. 미국 Appear의 전고체 전지 시생산, 삼성SDI의 CES 2027 혁신상 수상, 맥셀의 전고체 백업 모듈 양산도 함께 전해졌습니다.",
+        "en": "Wood Mackenzie says sodium-ion batteries have entered commercial production, with more than 70 GWh of supply agreements. Also in the news: Appear began pre-production of solid-state cells, Samsung SDI won a CES 2027 award, and Maxell started mass-producing solid-state backup modules.",
+        "ja": "ウッドマッケンジーは、ナトリウムイオン電池の供給契約が70GWhを超え、商業生産の段階に入ったと分析しました。米Appearの全固体電池の試験生産、サムスンSDIのCES 2027イノベーション賞受賞、マクセルの全固体電池バックアップモジュール量産も伝えられました。"
+      },
+      "highlights": {
+        "ko": [
+          "우드맥킨지 분석: 소듐이온 전지 공급계약 70GWh 초과, 연말까지 LFP와 셀 단위 원가 동등 전망",
+          "미국 Appear, 전고체 전지 시생산 착수…제한적 상업 생산은 2027년 중반, 본격 양산은 2028년 목표(회사 측 발표)",
+          "삼성SDI, AI 데이터센터용 UPS 각형 배터리로 CES 2027 혁신상 수상"
+        ],
+        "en": [
+          "Wood Mackenzie: sodium-ion supply deals exceed 70 GWh; cell-level cost parity with LFP expected by end of 2026",
+          "Appear (US) starts solid-state pre-production; limited sales in mid-2027 and full-scale output in 2028 are company targets",
+          "Samsung SDI wins a CES 2027 Innovation Award for a prismatic UPS battery for AI data centers"
+        ],
+        "ja": [
+          "ウッドマッケンジー分析：ナトリウムイオン電池の供給契約は70GWh超、2026年末までにセル単位でLFPとコスト同等になる見通し",
+          "米Appearが全固体電池の試験生産を開始。限定的な商用生産は2027年半ば、本格量産は2028年を目標（同社発表）",
+          "サムスンSDI、AIデータセンター向けUPS用角形電池でCES 2027イノベーション賞を受賞"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "소듐이온 전지",
+          "en": "Sodium-ion battery",
+          "ja": "ナトリウムイオン電池"
+        },
+        "desc": {
+          "ko": "리튬 대신 소듐(나트륨, 소금의 주성분)을 이온 이동에 쓰는 배터리입니다. 리튬 공급 부담을 줄일 수 있고 저온 성능이 좋다고 알려져 있지만, 같은 크기에서는 에너지 밀도가 낮은 편입니다.",
+          "en": "A sodium-ion battery uses sodium, a main part of table salt, instead of lithium to move charge. It can ease lithium supply worries and is known to work well in the cold, but it usually stores less energy for the same size.",
+          "ja": "リチウムの代わりにナトリウム（食塩の主成分）でイオンを動かす電池です。リチウムの供給リスクを抑えられ、低温に強いとされますが、同じ大きさでは蓄えられるエネルギーが小さい傾向があります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "woodmac-sodium-ion-70gwh-20261110",
+          "category": "nextgen",
+          "format": "main",
+          "subject": {
+            "ko": "소듐이온 전지",
+            "en": "Sodium-ion batteries",
+            "ja": "ナトリウムイオン電池"
+          },
+          "title": {
+            "ko": "우드맥킨지 “소듐이온 전지, 공급계약 70GWh 넘어 상업 생산 단계”",
+            "en": "Wood Mackenzie: sodium-ion batteries enter commercial production with 70+ GWh of supply deals",
+            "ja": "ウッドマッケンジー「ナトリウムイオン電池は供給契約70GWh超で商業生産段階に」"
+          },
+          "summary": {
+            "ko": "조사기관 우드맥킨지는 소듐이온 전지가 상업 생산 단계에 들어섰고 확보된 공급계약이 70GWh를 넘는다고 분석했습니다. 선도 업체들이 연말까지 셀 단위에서 LFP(리튬인산철) 전지와 원가가 비슷해질 것으로 내다봤지만, 완전한 가격 경쟁력 확보에는 시간이 걸린다고 봤습니다. 보도에 따르면 BYD는 중국에서 30GWh 생산능력을 계획 중이고, CATL은 올해 말까지 최소 1GWh의 소듐이온 출하를 목표로 합니다(각 사 계획).",
+            "en": "Research firm Wood Mackenzie says sodium-ion batteries are entering commercial production, with more than 70 GWh of supply agreements secured. It expects leading makers to reach cell-level cost parity with LFP (lithium iron phosphate) batteries by the end of 2026, though full cost competitiveness will take time. The report says BYD plans 30 GWh of capacity in China and CATL targets at least 1 GWh of sodium-ion shipments by year-end (company plans).",
+            "ja": "調査会社ウッドマッケンジーは、ナトリウムイオン電池が商業生産の段階に入り、確保された供給契約が70GWhを超えると分析しました。主要メーカーは年末までにセル単位でLFP（リン酸鉄リチウム）電池とコストが並ぶと見込まれますが、完全なコスト競争力の確保には時間がかかるとしています。報道によると、BYDは中国で30GWhの生産能力を計画し、CATLは年末までに最低1GWhのナトリウムイオン電池出荷を目指しています（各社の計画）。"
+          },
+          "background": {
+            "ko": "소듐이온 전지는 리튬 대신 소듐을 쓰기 때문에 리튬 가격과 공급망 변동의 영향을 덜 받는 대안으로 주목받아 왔습니다. 극한 온도에서의 성능이 좋다는 점도 강점으로 꼽힙니다. 다만 이번 내용은 분석 기관의 전망과 업체 계획이 섞여 있어, 실제 출하 규모와 가격은 앞으로 확인이 필요합니다.",
+            "en": "Sodium-ion batteries use sodium instead of lithium, so they have drawn attention as an option less exposed to lithium prices and supply chain swings. Good performance in extreme temperatures is another selling point. However, this report mixes an analyst outlook with company plans, so actual shipment volumes and prices still need to be confirmed.",
+            "ja": "ナトリウムイオン電池はリチウムの代わりにナトリウムを使うため、リチウム価格や供給網の変動の影響を受けにくい代替策として注目されてきました。極端な温度での性能が良い点も強みとされています。ただし今回は調査機関の見通しと各社の計画が混在しており、実際の出荷規模や価格は今後の確認が必要です。"
+          },
+          "companies": [
+            "catl",
+            "byd"
+          ],
+          "materials": [],
+          "source": {
+            "name": "SolarQuarter (Wood Mackenzie 분석 보도)",
+            "date": "2026-11-10",
+            "url": "https://solarquarter.com/2026/11/10/sodium-ion-batteries-gain-commercial-momentum-with-70-gwh-supply-agreements-as-lithium-alternative"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소듐이온 전지도 양극과 음극을 분리하는 분리막이 필요하므로, 셀 생산이 늘면 새로운 분리막 수요가 생길 수 있습니다.",
+              "en": "Sodium-ion cells also need a separator between the electrodes, so growing cell output could create new separator demand.",
+              "ja": "ナトリウムイオン電池も正極と負極を隔てるセパレータが必要なため、セル生産が増えれば新たなセパレータ需要が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "LFP와 원가를 맞추는 저가 중심 전지가 늘면 분리막에도 가격 인하 압력이 커지고, 일부 리튬이온 셀 수요를 잠식할 수 있습니다. 중국 업체 중심의 공급망이어서 현지 분리막 업체와의 경쟁도 심해질 수 있습니다.",
+              "en": "As low-cost cells aimed at LFP-level pricing grow, separators may face stronger price pressure, and some lithium-ion cell demand could be displaced. Since the supply chain is centered on Chinese makers, competition with local separator suppliers may also intensify.",
+              "ja": "LFP並みのコストを狙う低価格志向の電池が増えると、セパレータにも値下げ圧力が強まり、一部のリチウムイオン電池需要を奪う可能性があります。中国メーカー中心の供給網のため、現地セパレータメーカーとの競争も激しくなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "appear-solid-state-preproduction-20261110",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "Appear(미국)",
+            "en": "Appear Inc.",
+            "ja": "Appear（米国）"
+          },
+          "title": {
+            "ko": "미 Appear, 전고체 전지 시생산 시작…2027년 중반 제한 출시 목표",
+            "en": "Appear starts solid-state battery pre-production, targets limited launch in mid-2027",
+            "ja": "米Appear、全固体電池の試験生産を開始…2027年半ばの限定発売を目標"
+          },
+          "summary": {
+            "ko": "샌프란시스코의 전고체 전지 개발사 Appear는 오토바이·전기자전거·스쿠터에서 현장 시험을 마치고, 제조 파트너와 시생산에 들어갔다고 밝혔습니다. 제한적 상업 생산은 2027년 중반, 본격 양산은 2028년을 목표로 한다는 것이 회사 측 발표입니다. 아직 계획 단계이며 실제 출시 여부는 확인이 필요합니다.",
+            "en": "San Francisco-based solid-state battery developer Appear said it finished field trials on motorcycles, e-bikes and scooters and has begun pre-production with a manufacturing partner. The company says it aims for limited commercial production in mid-2027 and full-scale production in 2028. These are company targets, not confirmed launches.",
+            "ja": "サンフランシスコの全固体電池開発企業Appearは、オートバイ・電動自転車・スクーターでの実地試験を終え、製造パートナーと試験生産を始めたと発表しました。限定的な商用生産は2027年半ば、本格量産は2028年を目標とするというのが同社の発表です。まだ計画段階で、実際の発売は今後の確認が必要です。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "PR Newswire (Appear Inc. 보도자료)",
+            "date": "2026-11-10",
+            "url": "https://www.prnewswire.com/news-releases/appear-inc-begins-pre-production-of-solid-state-battery-targets-mid-2027-launch-302935415.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "현재는 이륜 모빌리티 중심의 소규모 계획이고 양산도 2027~2028년 목표라, 단기적으로 리튬이온 분리막 수요에 미치는 영향은 제한적일 수 있습니다.",
+              "en": "The plan is small-scale and focused on two-wheelers, with production targets in 2027–2028, so near-term impact on lithium-ion separator demand may be limited.",
+              "ja": "現時点では二輪モビリティ中心の小規模な計画で、量産目標も2027〜2028年のため、リチウムイオン電池用セパレータ需要への短期的な影響は限定的な可能性があります。"
+            },
+            "cons": {
+              "ko": "액체 전해질을 고체로 바꾸는 방식이 확산되면 장기적으로 분리막의 역할이 줄어들 가능성이 있어 기술 동향을 계속 살펴볼 필요가 있습니다.",
+              "en": "If replacing the liquid electrolyte with a solid one spreads, the role of separators could shrink over the long term, so the technology trend is worth watching.",
+              "ja": "液体電解質を固体に置き換える方式が広がれば、長期的にはセパレータの役割が小さくなる可能性があり、技術動向を見守る必要があります。"
+            }
+          }
+        },
+        {
+          "id": "samsungsdi-ces2027-ups-20261110",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "삼성SDI U8A3-UPS",
+            "en": "Samsung SDI U8A3-UPS",
+            "ja": "サムスンSDI U8A3-UPS"
+          },
+          "title": {
+            "ko": "삼성SDI, AI 데이터센터용 각형 배터리로 CES 2027 혁신상",
+            "en": "Samsung SDI wins CES 2027 Innovation Award for AI data-center prismatic battery",
+            "ja": "サムスンSDI、AIデータセンター向け角形電池でCES 2027イノベーション賞"
+          },
+          "summary": {
+            "ko": "투자 전문 매체 Investing.com에 따르면 미국 소비자기술협회(CTA)가 삼성SDI의 U8A3-UPS 각형 배터리를 CES 2027 혁신상(엔터프라이즈 기술 부문) 수상작으로 발표했습니다. AI 데이터센터용 제품으로, 전작보다 공간 효율이 33% 높다고 보도됐습니다. 3년 연속 CES 수상입니다.",
+            "en": "Investing.com reports that the Consumer Technology Association named Samsung SDI's U8A3-UPS prismatic battery a CES 2027 Innovation Award winner in the Enterprise Tech category. The product is designed for AI data centers and is reported to be 33% more space-efficient than its predecessor. It is the company's third straight year of CES recognition.",
+            "ja": "投資情報メディアInvesting.comによると、米消費者技術協会（CTA）は、サムスンSDIの角形電池「U8A3-UPS」をCES 2027イノベーション賞（エンタープライズ技術部門）の受賞製品として発表しました。AIデータセンター向けで、従来品より空間効率が33%高いと報じられています。CES受賞は3年連続です。"
+          },
+          "companies": [
+            "samsungsdi"
+          ],
+          "materials": [],
+          "source": {
+            "name": "Investing.com",
+            "date": "2026-11-10",
+            "url": "https://za.investing.com/news/stock-market-news/why-is-samsung-sdi-stock-rallying-today-93CH-4563754"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "AI 데이터센터의 UPS·백업 전력 수요가 늘면 각형 셀 수요, 나아가 분리막 수요에도 도움이 될 수 있습니다.",
+              "en": "Growing demand for UPS and backup power in AI data centers could support prismatic cell demand and, in turn, separator demand.",
+              "ja": "AIデータセンターのUPS・バックアップ電源の需要が増えれば、角形セル、ひいてはセパレータの需要を支える可能性があります。"
+            },
+            "cons": {
+              "ko": "수상 자체가 분리막 공급처 선정을 뜻하지는 않습니다. 과거 보도에서는 삼성SDI의 ESS 라인에 다른 분리막 업체가 공급한다는 내용도 있어, 고객사 내 경쟁 구도는 따로 확인해야 합니다.",
+              "en": "The award does not say which separator supplier is used. Earlier reports mentioned another separator maker supplying Samsung SDI's ESS lines, so competition inside this customer needs separate checking.",
+              "ja": "受賞そのものはセパレータの調達先を示すものではありません。過去の報道ではサムスンSDIのESSラインに他のセパレータメーカーが供給するとの内容もあり、顧客内の競争状況は別途確認が必要です。"
+            }
+          }
+        },
+        {
+          "id": "maxell-allsolid-backup-module-20261110",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "맥셀 전고체 백업 모듈",
+            "en": "Maxell solid-state backup module",
+            "ja": "マクセル 全固体電池バックアップモジュール"
+          },
+          "title": {
+            "ko": "맥셀, 산업기기용 전고체 전지 백업 모듈 양산·판매 개시",
+            "en": "Maxell begins mass production and sales of solid-state battery backup modules for industrial equipment",
+            "ja": "マクセル、産業機器向け全固体電池バックアップモジュールの量産・販売を開始"
+          },
+          "summary": {
+            "ko": "맥셀은 세라믹 패키지 전고체 전지(PSB401010H)를 넣은 백업 모듈을 양산해 11월 초부터 일본에서 산업기기용으로 판매한다고 밝혔습니다(회사 측 발표, 매체 보도). 모듈은 4개 모델이며, 기기의 유지보수 부담을 줄이는 것이 목적이라고 합니다.",
+            "en": "Maxell says it will mass-produce backup modules built around its ceramic-packaged solid-state battery (PSB401010H) and sell them in Japan for industrial equipment from early November (company announcement, as reported). There are four models, aimed at reducing maintenance work for equipment.",
+            "ja": "マクセルは、セラミックパッケージ全固体電池（PSB401010H）を搭載したバックアップモジュールを量産し、11月初めから国内で産業機器向けに販売開始すると発表しました（同社発表、メディア報道）。モデルは4種類で、機器の保守負担の軽減を狙っています。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Batteries News (맥셀 발표 보도)",
+            "date": "2026-11-10",
+            "url": "https://batteriesnews.com/maxell-begins-mass-production-of-all-solid-state-battery-backup-modules-for-industrial-equipment/"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "소형 백업 전원용 제품이어서 EV·ESS용 리튬이온 분리막 시장과는 직접 겹치지 않아 영향은 거의 없을 것으로 보입니다.",
+              "en": "This is a small backup-power product that does not directly overlap with the EV and ESS separator market, so the impact appears minimal.",
+              "ja": "小型バックアップ電源向けの製品で、EV・ESS用リチウムイオン電池セパレータ市場とは直接重ならず、影響はほとんどないとみられます。"
+            },
+            "cons": {
+              "ko": "전고체 전지가 실제 제품으로 양산·판매되는 사례가 늘고 있다는 점은 장기 기술 동향으로 참고할 만합니다.",
+              "en": "It is a reminder that solid-state cells are reaching real mass-produced products, a long-term trend to keep in mind.",
+              "ja": "全固体電池が実際の製品として量産・販売される例が増えている点は、長期的な技術動向として参考になります。"
+            }
+          }
+        },
+        {
+          "id": "cirba-recycling-event-20261109",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "서바 솔루션즈",
+            "en": "Cirba Solutions",
+            "ja": "Cirba Solutions"
+          },
+          "title": {
+            "ko": "미 Cirba Solutions, 11월 12일 애리조나서 무료 배터리 수거 행사 예고",
+            "en": "Cirba Solutions to hold free battery collection event in Arizona on Nov. 12",
+            "ja": "米Cirba Solutions、11月12日にアリゾナで無料の電池回収イベントを実施へ"
+          },
+          "summary": {
+            "ko": "북미 배터리 재활용 업체 Cirba Solutions는 미국 재활용의 날을 맞아 애리조나주 메사 시설에서 무료 배터리 수거 행사를 연다고 밝혔습니다(11월 12일 예정). 다양한 종류의 배터리와 손상·불량 배터리도 받는다고 합니다. 소비자 대상 인식 제고 활동입니다.",
+            "en": "North American battery recycler Cirba Solutions announced a free collection event at its Mesa, Arizona site for America Recycles Day, scheduled for Nov. 12. It says it will accept many battery types, including damaged and defective ones. The event is a consumer awareness effort.",
+            "ja": "北米の電池リサイクル企業Cirba Solutionsは、「アメリカ・リサイクルの日」に合わせ、アリゾナ州メサの施設で無料の電池回収イベントを開くと発表しました（11月12日予定）。さまざまな種類の電池のほか、損傷・不良の電池も受け付けるとしています。消費者向けの啓発活動です。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "PR Newswire (Cirba Solutions 보도자료)",
+            "date": "2026-11-09",
+            "url": "https://www.prnewswire.com/news-releases/celebrate-america-recycles-day-cirba-solutions-invites-greater-phoenix-community-to-recycle-batteries-for-free-on-nov-12-302933641.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "소규모 지역 행사로 분리막 사업에 직접적인 영향은 거의 없지만, 사용 후 배터리의 안전한 회수 확대는 업계 전반에 긍정적입니다.",
+              "en": "This is a small local event with little direct effect on the separator business, though safer collection of used batteries is generally positive for the industry.",
+              "ja": "小規模な地域イベントでセパレータ事業への直接の影響はほとんどありませんが、使用済み電池の安全な回収拡大は業界全体にとって前向きな動きです。"
+            },
+            "cons": {
+              "ko": "특별히 불리한 점은 없습니다.",
+              "en": "No notable downside.",
+              "ja": "特に不利な点はありません。"
+            }
+          }
+        }
+      ],
+      "edition": 8
+    },
+    {
       "date": "2026-11-10",
       "title": {
         "ko": "BMW, 삼성SDI·LG에너지솔루션 셀 추가 채택, KAIST 신형 분리막, 창안–CATL 75GWh 협력",
