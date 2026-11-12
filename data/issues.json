@@ -1,6 +1,276 @@
 {
   "issues": [
     {
+      "date": "2026-11-12",
+      "title": {
+        "ko": "퀀텀스케이프 전고체 'Osprey' 플랫폼, CATL 소듐이온·교환소 확대, 헝가리 한국 배터리 3사 규제 강화",
+        "en": "QuantumScape's Osprey solid-state platform, CATL's sodium-ion and swapping push, tighter scrutiny of Korean cell makers in Hungary",
+        "ja": "クアンタムスケープの全固体「Osprey」、CATLのナトリウムイオンと交換ステーション、ハンガリーで韓国電池メーカーへの監視強化"
+      },
+      "summary": {
+        "ko": "미국 퀀텀스케이프가 세라믹 분리막과 황화물 양극을 결합한 전고체 공동개발 플랫폼 'Osprey'를 공개했습니다. CATL은 배터리 교환소 확대가 소듐이온 전지 보급을 앞당길 것이라고 밝혔고, 헝가리에서는 SK온·삼성SDI에 대한 규제 당국의 감시가 강화되고 있다는 보도가 나왔습니다.",
+        "en": "QuantumScape unveiled Osprey, a collaborative all-solid-state platform that pairs a ceramic separator with sulfide cathodes. CATL said more battery-swapping stations will help sodium-ion adoption, and Bloomberg reported that regulators are paying closer attention to SK On and Samsung SDI in Hungary.",
+        "ja": "米クアンタムスケープが、セラミックセパレーターと硫化物系正極を組み合わせた全固体電池の共同開発プラットフォーム「Osprey」を発表しました。CATLは電池交換ステーションの拡大がナトリウムイオン電池の普及を後押しすると述べ、ハンガリーではSK On・サムスンSDIへの規制当局の監視が強まっていると報じられました。"
+      },
+      "highlights": {
+        "ko": [
+          "퀀텀스케이프가 세라믹 분리막 기반 전고체 공동개발 플랫폼 'Osprey'를 공개했습니다(회사 측 발표, 실험실 규모 검증 단계).",
+          "CATL은 중국 내 배터리 교환소 확대가 소듐이온 전지 보급에 도움이 될 것이라고 밝혔습니다.",
+          "블룸버그에 따르면 SK온이 헝가리 공장에서 안전·환경 위반으로 과태료를 받는 등 한국 배터리사에 대한 감시가 강화되고 있습니다."
+        ],
+        "en": [
+          "QuantumScape unveiled Osprey, a ceramic-separator-based all-solid-state development platform (company claim, lab-scale validation stage).",
+          "CATL said a wider network of battery-swapping stations in China will help sodium-ion batteries spread.",
+          "Bloomberg reports tighter scrutiny of Korean battery makers in Hungary, including a fine for SK On over safety and environmental violations."
+        ],
+        "ja": [
+          "クアンタムスケープが、セラミックセパレーターを使う全固体電池の共同開発プラットフォーム「Osprey」を発表しました（同社発表、ラボ規模での検証段階）。",
+          "CATLは、中国での電池交換ステーションの拡大がナトリウムイオン電池の普及に役立つと述べました。",
+          "ブルームバーグによると、SK Onがハンガリー工場で安全・環境違反により罰金を科されるなど、韓国電池メーカーへの監視が強まっています。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "반고체 전지",
+          "en": "Semi-solid-state battery",
+          "ja": "半固体電池"
+        },
+        "desc": {
+          "ko": "반고체 전지는 전해질이 완전한 고체가 아니라 액체가 일부 남아 있는 전지로, 준고체·하이브리드 고체 전지라고도 부릅니다. 완전한 전고체 전지로 가는 중간 단계로 여겨지지만, 아직 전고체 전지와는 다르다는 점을 구분해야 합니다.",
+          "en": "A semi-solid-state battery uses an electrolyte that is not fully solid and still contains some liquid; it is also called quasi-solid or hybrid solid-state. It is seen as a stepping stone to true all-solid-state batteries, but it is not the same thing.",
+          "ja": "半固体電池は、電解質が完全な固体ではなく一部に液体が残る電池で、準固体電池やハイブリッド固体電池とも呼ばれます。全固体電池への中間段階と見られていますが、全固体電池とは別のものとして区別する必要があります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "quantumscape-osprey-platform-20261111",
+          "category": "nextgen",
+          "format": "main",
+          "subject": {
+            "ko": "퀀텀스케이프 Osprey",
+            "en": "QuantumScape Osprey",
+            "ja": "クアンタムスケープ Osprey"
+          },
+          "title": {
+            "ko": "퀀텀스케이프, 세라믹 분리막+황화물 양극 전고체 공동개발 플랫폼 'Osprey' 공개",
+            "en": "QuantumScape unveils Osprey, an all-solid-state platform pairing a ceramic separator with sulfide cathodes",
+            "ja": "クアンタムスケープ、セラミックセパレーターと硫化物系正極の全固体電池プラットフォーム「Osprey」を発表"
+          },
+          "summary": {
+            "ko": "퀀텀스케이프(QS)가 자사 세라믹 분리막과 황화물 계열 양극을 결합한 전고체 전지 공동개발 플랫폼 'Osprey'를 공개했습니다. 파트너와의 협업과 실험실 규모 검증을 위한 플랫폼입니다. 회사 측 발표에 따르면 Osprey 셀은 약 1기압의 가압 조건에서 안정적으로 충방전을 반복했고, 이로써 시스템 차원의 복잡한 가압 장치가 필요 없어진다고 주장합니다(회사 측 주장, 제3자 검증은 확인하지 못했습니다).",
+            "en": "QuantumScape (QS) unveiled Osprey, a collaborative all-solid-state battery platform that combines its ceramic separator with sulfide-based cathodes. It is meant for joint development with partners and lab-scale validation. According to the company, Osprey cells cycled stably at about one atmosphere of pressure, which it says removes the need for complex pressure hardware at the system level (company claim; I could not find independent verification).",
+            "ja": "クアンタムスケープ（QS）は、自社のセラミックセパレーターと硫化物系正極を組み合わせた全固体電池の共同開発プラットフォーム「Osprey」を発表しました。パートナーとの協業とラボ規模での検証を目的としています。同社発表によると、Osprey セルは約1気圧の加圧条件で安定して充放電を繰り返し、システム側の複雑な加圧装置が不要になるとしています（同社の主張で、第三者による検証は確認できていません）。"
+          },
+          "background": {
+            "ko": "전고체 전지는 액체 전해질 대신 고체 전해질을 쓰는 차세대 전지로, 안전성과 에너지 밀도 향상이 기대됩니다. 다만 황화물 계열은 일반적으로 셀에 높은 압력을 가해야 해 시스템이 복잡해지는 점이 과제로 꼽혀 왔습니다. 이번 발표는 상용 양산이 아니라 협력사와 함께 개발하는 단계라는 점에 유의해야 합니다.",
+            "en": "All-solid-state batteries replace the liquid electrolyte with a solid one and are expected to improve safety and energy density. Sulfide-based designs have generally needed high pressure applied to the cell, which complicates the system. Note that this announcement is about a joint-development platform, not mass production.",
+            "ja": "全固体電池は液体電解質の代わりに固体電解質を使う次世代電池で、安全性やエネルギー密度の向上が期待されています。硫化物系は一般にセルに高い圧力をかける必要があり、システムが複雑になることが課題とされてきました。今回の発表は量産ではなく、パートナーと進める共同開発の段階である点に注意が必要です。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "separator",
+            "cathode"
+          ],
+          "source": {
+            "name": "BatteryTech Online",
+            "date": "2026-11-11",
+            "url": "https://batterytechonline.com/lithium-ion-batteries/quantumscape-unveils-osprey-collaborative-platform-for-all-solid-state-battery-development"
+          },
+          "related": [
+            {
+              "name": "Energy-Storage.News: Semi-solid state batteries for BESS",
+              "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "전고체 설계에서도 양극과 음극 사이를 나누는 '분리막'에 해당하는 층이 남아 있어, 분리막 기술(박막화·균일성·표면 처리 등)의 노하우가 응용될 여지가 있습니다.",
+              "en": "Even in this design a separator-like layer between the electrodes remains, so know-how in thin films, uniformity and surface treatment could be applicable.",
+              "ja": "この設計でも正極と負極を隔てる「セパレーター」に相当する層が残るため、薄膜化・均一性・表面処理などのセパレーター技術のノウハウが応用できる可能性があります。"
+            },
+            "cons": {
+              "ko": "이 분리막은 폴리올레핀 계열이 아닌 세라믹이라, 전고체가 보급되면 Hipore·Celgard 같은 기존 분리막의 수요가 줄어들 가능성이 있습니다. 다만 이번 단계는 실험실 규모 검증이어서 상용화 시기는 불확실합니다.",
+              "en": "The separator here is a ceramic, not a polyolefin film, so wider adoption of solid-state cells could reduce demand for conventional separators like Hipore and Celgard. However, this is lab-scale validation, and the timing of commercialization is uncertain.",
+              "ja": "このセパレーターはポリオレフィン系ではなくセラミックであるため、全固体電池が普及するとHiporeやCelgardのような従来型セパレーターの需要が減る可能性があります。ただし今回はラボ規模の検証段階で、商用化の時期は不透明です。"
+            }
+          }
+        },
+        {
+          "id": "catl-sodium-ion-swapping-stations-20261110",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 소듐이온",
+            "en": "CATL sodium-ion",
+            "ja": "CATLナトリウムイオン"
+          },
+          "title": {
+            "ko": "CATL “배터리 교환소 확대가 소듐이온 전지 보급 앞당길 것”",
+            "en": "CATL says more swapping stations will speed up sodium-ion adoption",
+            "ja": "CATL「交換ステーション拡大がナトリウムイオン電池の普及を後押し」"
+          },
+          "summary": {
+            "ko": "블룸버그에 따르면 CATL은 중국 전역에서 빠르게 늘고 있는 배터리 교환소 네트워크가 소듐이온 전지 채택을 앞당길 것이라고 밝혔습니다. 소듐이온 전지는 리튬이온의 대안으로 안전성·저비용·저온 성능이 장점으로 꼽히지만, 에너지 밀도가 낮다는 우려가 있습니다. 구체적인 시기나 물량은 확인하지 못했습니다.",
+            "en": "Bloomberg reports that CATL said the fast-growing network of battery-swapping stations across China will help speed up adoption of its sodium-ion batteries. Sodium-ion is seen as a safer, cheaper alternative to lithium-ion with good cold-weather performance, but there are concerns about energy density. I could not confirm specific timing or volumes.",
+            "ja": "ブルームバーグによると、CATLは中国全土で急速に広がる電池交換ステーション網が、同社のナトリウムイオン電池の採用を加速させると述べました。ナトリウムイオン電池はリチウムイオンの代替として、安全性・低コスト・低温性能が利点とされる一方、エネルギー密度への懸念があります。具体的な時期や数量は確認できませんでした。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "Bloomberg",
+            "date": "2026-11-10",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-10/catl-says-more-swapping-stations-to-help-its-sodium-battery-push"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소듐이온 전지도 일반적으로 양극과 음극을 나누는 분리막이 필요해, 보급이 늘면 분리막의 새로운 수요처가 될 가능성이 있습니다.",
+              "en": "Sodium-ion cells generally also need a separator, so wider adoption could create a new demand source for separators.",
+              "ja": "ナトリウムイオン電池も一般に正極と負極を隔てるセパレーターが必要なため、普及が進めばセパレーターの新たな需要先になる可能性があります。"
+            },
+            "cons": {
+              "ko": "소듐이온이 일부 용도에서 리튬이온 전지를 대체하면 리튬이온용 분리막 수요를 잠식할 수 있고, 중국 내 저가 분리막 경쟁이 이어질 수 있습니다. 소듐이온용으로 요구되는 분리막 사양은 아직 불확실합니다.",
+              "en": "If sodium-ion replaces lithium-ion in some uses, it could eat into demand for lithium-ion separators, and low-price competition in China could continue. The separator specs sodium-ion will require are still unclear.",
+              "ja": "ナトリウムイオンが一部用途でリチウムイオン電池を置き換えれば、リチウムイオン用セパレーターの需要を侵食する可能性があり、中国での低価格競争も続くかもしれません。ナトリウムイオン向けに求められるセパレーター仕様はまだ不透明です。"
+            }
+          }
+        },
+        {
+          "id": "hungary-korean-battery-scrutiny-20261111",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "헝가리 한국 배터리사",
+            "en": "Korean cell makers in Hungary",
+            "ja": "ハンガリーの韓国電池メーカー"
+          },
+          "title": {
+            "ko": "헝가리서 한국 배터리사 규제 감시 강화…SK온은 안전·환경 위반으로 과태료",
+            "en": "Korean battery makers face tougher scrutiny in Hungary; SK On fined over safety and environmental violations",
+            "ja": "ハンガリーで韓国電池メーカーへの監視強化、SK Onは安全・環境違反で罰金"
+          },
+          "summary": {
+            "ko": "블룸버그는 SK온과 삼성SDI가 수십억 달러를 투자한 유럽 거점 헝가리에서 한국 배터리사에 대한 규제 당국의 감시가 강화되고 있다고 보도했습니다. SK온은 이반차 공장의 작업장 안전·환경 위반으로 과태료를 받았고, 회사 측은 규정 준수를 강화하고 당국과 긴밀히 협력하겠다고 답했습니다. 처분의 세부 내용은 확인하지 못했습니다.",
+            "en": "Bloomberg reports that regulators are scrutinizing Korean battery makers more closely in Hungary, a key European hub where SK On and Samsung SDI have invested billions of dollars. SK On was fined for workplace-safety and environmental violations at its Ivancsa plant, and the company said it will strengthen compliance and work closely with authorities. I could not confirm details of the penalties.",
+            "ja": "ブルームバーグは、SK Onとサムスン SDIが数十億ドルを投じた欧州の拠点ハンガリーで、韓国電池メーカーへの規制当局の監視が強まっていると報じました。SK Onはイヴァンチャ工場での労働安全・環境違反で罰金を科され、同社はコンプライアンスを強化し当局と緊密に連携すると回答しました。処分の詳細は確認できていません。"
+          },
+          "companies": [
+            "skon",
+            "samsungsdi"
+          ],
+          "materials": [],
+          "source": {
+            "name": "Bloomberg",
+            "date": "2026-11-11",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-11/south-korean-battery-makers-face-greater-scrutiny-in-hungary"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "헝가리 같은 유럽 생산 거점에서 현지 환경·안전 기준이 엄격해지면, 품질·안전 신뢰성이 높은 소재를 안정적으로 공급하는 업체의 강점이 부각될 가능성이 있습니다.",
+              "en": "Stricter local environmental and safety standards at European production hubs like Hungary could favor suppliers that offer reliable quality and safety.",
+              "ja": "ハンガリーのような欧州の生産拠点で環境・安全基準が厳しくなれば、品質や安全面で信頼性の高い材料を安定供給できるメーカーの強みが際立つ可能性があります。"
+            },
+            "cons": {
+              "ko": "규제 강화가 현지 공장의 가동·증설 일정을 늦추면 유럽 셀 생산 확대에 맞춘 분리막 수요도 지연될 수 있습니다. 다만 이번 보도만으로 생산 차질 여부는 알 수 없습니다.",
+              "en": "If tighter rules delay operations or expansion at local plants, separator demand tied to European cell output could also slip. The report alone does not show whether production is disrupted.",
+              "ja": "規制強化で現地工場の稼働や増設が遅れれば、欧州のセル生産拡大に合わせたセパレーター需要も後ずれする可能性があります。ただし今回の報道だけでは生産への影響は分かりません。"
+            }
+          }
+        },
+        {
+          "id": "semi-solid-state-bess-potential-20261111",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "반고체 전지와 ESS",
+            "en": "Semi-solid cells for BESS",
+            "ja": "半固体電池とESS"
+          },
+          "title": {
+            "ko": "ESS용 반고체 전지의 가능성과 과제…“전고체와는 구분해야”",
+            "en": "Semi-solid-state batteries for energy storage: potential and challenges, and why they differ from true solid-state",
+            "ja": "蓄電システム向け半固体電池の可能性と課題、「全固体とは区別すべき」"
+          },
+          "summary": {
+            "ko": "Energy-Storage.News 기고문은 현재 '전고체'로 홍보되는 상당수가 실제로는 반고체(준고체) 전지이며, 완전한 전고체 전지는 아직 상용화되지 않았다고 짚었습니다. 중국 정부는 2030년 이후 전고체 기술의 양산 가능 단계를 목표로 하고 있고, CATL과 궈쉬안 등이 관련 기술을 개발 중이라고 전했습니다. 기고문 분석이며 신규 기업 발표는 아닙니다.",
+            "en": "An Energy-Storage.News feature points out that many batteries marketed as solid-state today are really semi-solid-state, and that true all-solid-state cells are not yet commercial. It says China has set targets to reach full manufacturability of solid-state technology from 2030 onward, with CATL and Gotion among the developers. This is an analysis piece, not a new company announcement.",
+            "ja": "Energy-Storage.Newsの寄稿記事は、現在「全固体」として宣伝されている電池の多くは実際には半固体（準固体）電池で、完全な全固体電池はまだ商用化されていないと指摘しています。中国政府は2030年以降に全固体技術の量産可能化を目標としており、CATLやGotion（国軒高科）などが開発していると伝えています。これは分析記事で、企業の新規発表ではありません。"
+          },
+          "companies": [
+            "catl",
+            "gotion"
+          ],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Energy-Storage.News",
+            "date": "2026-11-11",
+            "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "완전한 전고체의 본격 보급이 2030년 이후로 전망되어, 당분간은 액체 전해질 기반 리튬이온 전지와 분리막 수요가 이어질 가능성이 있습니다.",
+              "en": "With full solid-state manufacturability targeted from 2030 onward, liquid-electrolyte lithium-ion cells and their separators may stay in demand for some time.",
+              "ja": "完全な全固体の本格普及が2030年以降とされているため、当面は液体電解質を使うリチウムイオン電池とセパレーターの需要が続く可能性があります。"
+            },
+            "cons": {
+              "ko": "반고체 전지는 구조에 따라 분리막의 사양이나 사용량이 달라질 수 있고, 중국 업체가 ESS 시장에서 새로운 구조를 먼저 확산시킬 가능성이 있습니다. 어떤 영향이 나올지는 아직 불확실합니다.",
+              "en": "Depending on the design, semi-solid cells may change separator specifications or usage, and Chinese makers could spread new structures in the ESS market first. The actual effect is still uncertain.",
+              "ja": "半固体電池は構造によってセパレーターの仕様や使用量が変わる可能性があり、中国メーカーがESS市場で新しい構造を先に広げるかもしれません。実際の影響はまだ不透明です。"
+            }
+          }
+        },
+        {
+          "id": "lead-intelligent-battery-production-days-20261111",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "유럽 배터리 제조 동향",
+            "en": "Europe battery manufacturing",
+            "ja": "欧州の電池製造動向"
+          },
+          "title": {
+            "ko": "독일 아헨 '배터리 생산의 날' 2026…유럽, 증설에서 제조 안정성 강화로",
+            "en": "Battery Production Days 2026 in Aachen: Europe shifts from capacity expansion to resilient manufacturing",
+            "ja": "ドイツ・アーヘンで「Battery Production Days 2026」、欧州は増設から製造の強靭化へ"
+          },
+          "summary": {
+            "ko": "독일 아헨에서 RWTH 아헨대와 프라운호퍼가 공동 주최한 제2회 'Battery Production Days 2026'이 열렸습니다. 중국 장비업체 리드 인텔리전트(Lead Intelligent)의 보도자료는 유럽 배터리 산업이 구조 조정기를 지나며 생산능력 확대보다 탄력적인 제조 체제 구축으로 초점을 옮기고 있다고 소개했습니다. 장비업체의 홍보 성격 자료이므로 시장 전반의 사실로 단정하기는 어렵습니다.",
+            "en": "The second Battery Production Days 2026 took place in Aachen, Germany, co-organized by RWTH Aachen University and Fraunhofer battery institutes. A press release from equipment maker Lead Intelligent says Europe's battery industry is in a period of structural adjustment and is shifting from capacity expansion toward more resilient manufacturing. Because it is a vendor press release, it should not be read as a settled picture of the whole market.",
+            "ja": "ドイツ・アーヘンで、RWTHアーヘン工科大学とフラウンホーファー研究機構が共催する第2回「Battery Production Days 2026」が開かれました。装置メーカーのリード・インテリジェント（Lead Intelligent）のプレスリリースは、欧州の電池産業が構造調整期にあり、生産能力の拡大よりも強靭な製造体制づくりに軸足を移しつつあると紹介しています。装置メーカーの広報資料のため、市場全体の事実と断定することはできません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "PR Newswire (Manila Times)",
+            "date": "2026-11-11",
+            "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/lead-intelligent-shares-digital-manufacturing-insights-at-battery-production-days-2026-helping-european-gigafactories-drive-sustainable-profitability/2467235"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "유럽 공장이 수율·가동률 개선에 집중하면 안정적인 품질의 소재를 요구하는 흐름이 강해질 수 있습니다.",
+              "en": "If European plants focus on yield and uptime, demand for consistently high-quality materials may grow.",
+              "ja": "欧州の工場が歩留まりや稼働率の改善に注力すれば、品質が安定した材料への要求が強まる可能性があります。"
+            },
+            "cons": {
+              "ko": "구조 조정기라는 설명은 유럽의 신규 셀 증설이 둔화되어 분리막 수요 증가도 완만해질 수 있음을 시사합니다. 다만 이는 장비업체의 시각이며 분리막에 대한 직접적 언급은 없습니다.",
+              "en": "The talk of structural adjustment hints that new cell capacity in Europe may be slowing, which could temper separator demand growth. This is an equipment vendor's view with no direct mention of separators.",
+              "ja": "構造調整期という説明は、欧州でのセル新設が鈍り、セパレーター需要の伸びも緩やかになる可能性を示唆します。ただし装置メーカーの見方であり、セパレーターへの直接の言及はありません。"
+            }
+          }
+        }
+      ],
+      "edition": 9
+    },
+    {
       "date": "2026-11-11",
       "title": {
         "ko": "소듐이온 전지 70GWh 공급계약 분석, 미 Appear 전고체 시생산, 삼성SDI AI 데이터센터용 배터리 CES 혁신상",
