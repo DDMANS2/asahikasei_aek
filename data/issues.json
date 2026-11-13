@@ -1,6 +1,282 @@
 {
   "issues": [
     {
+      "date": "2026-11-13",
+      "title": {
+        "ko": "인도 블랙매스 수출 금지, 포스코퓨처엠 음극재 고객 확대, 3분 배터리 셀 진단",
+        "en": "India bans black mass exports, POSCO Future M widens anode customers, 3-minute cell health check",
+        "ja": "インドがブラックマス輸出を禁止、POSCOフューチャーエムの負極材顧客拡大、3分でできる電池セル診断"
+      },
+      "summary": {
+        "ko": "인도 정부가 11월 10일자로 리튬이온 전지 블랙매스 등 일부 배터리 폐기물의 수출을 금지했습니다. 한국에서는 포스코퓨처엠의 음극재 협력 확대가 보도됐고, 호주에서는 사용 후 배터리를 빠르게 진단하는 기술의 실증이 발표됐습니다.",
+        "en": "India banned exports of lithium-ion battery black mass and some other battery scrap, effective November 10. In Korea, reports covered POSCO Future M's wider anode partnerships, and in Australia a project to test a fast health check for used batteries was announced.",
+        "ja": "インド政府は11月10日付で、リチウムイオン電池のブラックマスなど一部の電池スクラップの輸出を禁止しました。韓国ではPOSCOフューチャーエムの負極材をめぐる協力拡大が報じられ、オーストラリアでは使用済み電池を素早く診断する技術の実証が発表されました。"
+      },
+      "highlights": {
+        "ko": [
+          "인도가 블랙매스(리튬이온 전지 재활용 중간 원료) 수출을 즉시 금지해 자국 내 재활용과 핵심광물 확보를 강화합니다.",
+          "포스코퓨처엠이 LG에너지솔루션과 양·음극재 공급 협력(MOU), 현대차그룹과 베트남 인조흑연 음극재 투자의향서(LOI)를 맺었다는 점이 보도됐습니다(모두 최종 계약 전 단계).",
+          "UNSW와 DY New Energy가 약 3분 만에 배터리 셀 상태를 확인해 재사용·재활용을 가르는 기술을 500개 이상으로 시험합니다."
+        ],
+        "en": [
+          "India immediately banned exports of black mass, an intermediate material from recycled Li-ion batteries, to strengthen domestic recycling and critical mineral supply.",
+          "POSCO Future M's MOU with LG Energy Solution on cathode and anode supply and its LOI with Hyundai Motor Group on Vietnamese synthetic graphite anodes were reported; both are pre-final-contract steps.",
+          "UNSW and DY New Energy will test a roughly 3-minute cell check, which decides reuse or recycling, on more than 500 batteries."
+        ],
+        "ja": [
+          "インドはリチウムイオン電池リサイクルの中間原料であるブラックマスの輸出を即時禁止し、国内リサイクルと重要鉱物の確保を強化します。",
+          "POSCOフューチャーエムがLGエナジーソリューションと正・負極材供給のMOU、現代自動車グループとベトナム人造黒鉛負極材のLOIを結んだことが報じられました（いずれも最終契約前の段階です）。",
+          "UNSWとDY New Energyが、約3分でセルの状態を確認し再利用かリサイクルかを判断する技術を500個以上の電池で試験します。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "블랙매스",
+          "en": "Black mass",
+          "ja": "ブラックマス"
+        },
+        "desc": {
+          "ko": "블랙매스는 사용 후 리튬이온 전지나 제조 불량품을 잘게 부숴 만든 검은 분말입니다. 리튬·코발트·니켈·망간 같은 금속이 들어 있어 재활용의 핵심 원료가 됩니다.",
+          "en": "Black mass is a black powder made by shredding used Li-ion batteries or factory scrap. It contains metals such as lithium, cobalt, nickel and manganese, so it is a key raw material for recycling.",
+          "ja": "ブラックマスは、使用済みのリチウムイオン電池や製造不良品を細かく砕いてつくる黒い粉末です。リチウム、コバルト、ニッケル、マンガンなどの金属を含み、リサイクルの重要な原料になります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "india-black-mass-export-ban-20261111",
+          "category": "policy",
+          "format": "main",
+          "subject": {
+            "ko": "인도 블랙매스 수출 금지",
+            "en": "India black mass export ban",
+            "ja": "インドのブラックマス輸出禁止"
+          },
+          "title": {
+            "ko": "인도, 리튬이온 전지 블랙매스 수출 즉시 금지",
+            "en": "India bans exports of Li-ion battery black mass with immediate effect",
+            "ja": "インド、リチウムイオン電池のブラックマス輸出を即時禁止"
+          },
+          "summary": {
+            "ko": "인도 정부가 리튬이온 전지 블랙매스 등 선별되지 않은 일부 배터리 폐기물·스크랩의 수출 정책을 '자유'에서 '금지'로 바꿨습니다. 11월 10일자 통지로 즉시 시행됐고, 납·카드뮴·수은을 포함하지 않는 품목이 대상이며 모든 배터리 관련 소재를 막는 전면 금지는 아닙니다. 보도에 따르면 리튬·코발트·니켈·망간을 자국 내에서 가공하도록 하려는 조치입니다.",
+            "en": "India changed the export status of certain unsorted battery waste and scrap, including Li-ion black mass, from \"free\" to \"prohibited.\" It took effect immediately under a notice dated November 10, and covers items that do not contain lead, cadmium or mercury; it is not a blanket ban on all battery-related materials. Reports say the aim is to keep lithium, cobalt, nickel and manganese for processing inside India.",
+            "ja": "インド政府は、選別されていないリチウムイオン電池のブラックマスなど一部の電池廃棄物・スクラップの輸出政策を「自由」から「禁止」に変更しました。11月10日付の通達で即時に発効し、鉛・カドミウム・水銀を含まない品目が対象で、電池関連素材すべてを止める全面禁止ではありません。報道によると、リチウム、コバルト、ニッケル、マンガンを国内で処理させる狙いです。"
+          },
+          "background": {
+            "ko": "블랙매스는 배터리 재활용 공정에서 금속을 회수하기 전 단계의 원료로, 지금까지는 해외 재활용업체로 수출되는 경우가 있었습니다. 이번 발표는 인도 내각이 핵심광물 가공 설비에 대한 설비투자 지원책을 승인한 흐름과 맞닿아 있다고 보도됐습니다. 각국이 폐배터리 원료를 자국에 묶어 두려는 움직임은 한국·유럽 등에서도 이어지고 있습니다.",
+            "en": "Black mass is the raw material produced before metals are recovered in battery recycling, and some of it had been exported to recyclers abroad. Reports link the move to the Indian cabinet's recent approval of capex support for critical mineral processing. Several countries, including in Europe and Asia, are also trying to keep used-battery feedstock at home.",
+            "ja": "ブラックマスは電池リサイクルで金属を回収する前段階の原料で、これまでは海外のリサイクル業者へ輸出される場合もありました。今回の措置は、インド内閣が重要鉱物の加工設備への設備投資支援策を承認した流れと関連すると報じられています。使用済み電池の原料を自国内にとどめようとする動きは、他の国でも見られます。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "Reuters (via Kitco)",
+            "date": "2026-11-11",
+            "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/india-bans-export-lithium-ion-battery-recycled-material"
+          },
+          "related": [
+            {
+              "name": "BigMint: India prohibits lithium ion battery black mass exports",
+              "url": "https://www.bigmint.co/insights/detail/india-prohibits-lithium-ion-battery-black-mass-exports-to-boost-domestic-recycling-807341"
+            },
+            {
+              "name": "Power Sector News Roundup for November 12, 2026",
+              "url": "https://powerpeakdigest.com/power-sector-news-roundup-for-november-12-2026/"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "인도가 국내 재활용과 핵심광물 확보를 강화하면 장기적으로 현지 배터리 공급망이 두터워져 분리막 수요에 간접적으로 도움이 될 수 있습니다.",
+              "en": "A stronger domestic recycling and critical mineral base could, over time, support India's local battery supply chain and indirectly help separator demand.",
+              "ja": "インドが国内リサイクルと重要鉱物の確保を強めれば、長期的に現地の電池サプライチェーンが厚くなり、セパレータ需要を間接的に支える可能性があります。"
+            },
+            "cons": {
+              "ko": "블랙매스는 금속 회수용 원료라 분리막 사업에 직접적인 영향은 거의 없습니다.",
+              "en": "Black mass is a feedstock for metal recovery, so the direct effect on the separator business looks small.",
+              "ja": "ブラックマスは金属回収用の原料であり、セパレータ事業への直接的な影響はほとんどないとみられます。"
+            }
+          }
+        },
+        {
+          "id": "poscofm-anode-expansion-20261111",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "포스코퓨처엠 음극재",
+            "en": "POSCO Future M anodes",
+            "ja": "POSCOフューチャーエム負極材"
+          },
+          "title": {
+            "ko": "포스코퓨처엠, LG엔솔·현대차그룹과 음극재 협력 확대…모두 최종 계약 전 단계",
+            "en": "POSCO Future M widens anode ties with LGES and Hyundai; both still pre-final-contract",
+            "ja": "POSCOフューチャーエム、LGエナジー・現代自動車グループと負極材で協力拡大（いずれも最終契約前）"
+          },
+          "summary": {
+            "ko": "딜사이트 보도에 따르면 포스코퓨처엠은 10월 30일 LG에너지솔루션과 2027~2033년 7년간 양·음극재 총 72만 톤 공급을 위한 MOU를 맺었고, 연내 정식 계약을 목표로 합니다. 또 11월 3일에는 현대차그룹과 베트남 인조흑연 음극재 사업에 대한 투자의향서(LOI)를 맺었으며, 현대차그룹이 약 1,000억 원 규모 지분투자를 검토하고 우선구매권을 확보하는 내용입니다. 베트남 공장은 2028년 양산이 목표입니다(모두 보도 기준).",
+            "en": "According to Dealsite, POSCO Future M signed an MOU with LG Energy Solution on October 30 covering 720,000 tons of cathode and anode materials over 2027–2033, with a formal contract targeted within the year. On November 3 it also signed a letter of intent with Hyundai Motor Group on its Vietnam synthetic graphite anode business: Hyundai is reviewing an equity investment of about 100 billion won and would gain priority purchase rights. The Vietnam plant targets mass production in 2028 (all per the report).",
+            "ja": "ディールサイトの報道によると、POSCOフューチャーエムは10月30日にLGエナジーソリューションと、2027〜2033年の7年間で正・負極材計72万トンを供給するMOUを結び、年内の正式契約を目指しています。また11月3日には現代自動車グループとベトナムの人造黒鉛負極材事業に関する投資意向書（LOI）を結び、現代側は約1,000億ウォンの出資を検討し優先購入権を確保する内容です。ベトナム工場は2028年の量産が目標です（いずれも報道ベース）。"
+          },
+          "companies": [
+            "poscofm",
+            "lges"
+          ],
+          "materials": [
+            "cathode",
+            "anode"
+          ],
+          "source": {
+            "name": "딜사이트",
+            "date": "2026-11-11",
+            "url": "https://dealsite.co.kr/articles/172435"
+          },
+          "related": [
+            {
+              "name": "이투데이: 포스코퓨처엠, LG엔솔과 7년간 양·음극재 72만t 공급 추진",
+              "url": "https://www.etoday.co.kr/news/view/2642410"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "LG에너지솔루션 등 고객의 소재 조달이 늘고 미국의 비중국산 소재 요건이 강화되는 흐름은, 비중국계 공급망을 갖춘 분리막 업체에 유리하게 작용할 수 있습니다.",
+              "en": "More material sourcing by customers such as LGES and tighter US rules on non-Chinese content could favor separator makers with non-Chinese supply chains.",
+              "ja": "LGエナジーソリューションなど顧客の素材調達が増え、米国で非中国産素材の要件が強まる流れは、中国以外のサプライチェーンを持つセパレータメーカーに有利に働く可能性があります。"
+            },
+            "cons": {
+              "ko": "양극재가 LFP로 옮겨 가고 ESS 비중이 커지면 셀에서 요구하는 분리막 사양과 가격 경쟁이 달라질 수 있습니다. 또한 MOU·LOI는 확정 계약이 아니어서 실제 물량은 불확실합니다.",
+              "en": "A shift toward LFP cathodes and more ESS could change separator specifications and price competition. The MOU and LOI are not final contracts, so actual volumes remain uncertain.",
+              "ja": "正極材のLFPシフトやESS比率の拡大により、セルが求めるセパレータ仕様や価格競争が変わる可能性があります。またMOUとLOIは確定契約ではないため、実際の数量は不確実です。"
+            }
+          }
+        },
+        {
+          "id": "unsw-dy-cell-health-check-20261113",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "UNSW·DY New Energy",
+            "en": "UNSW & DY New Energy",
+            "ja": "UNSWとDY New Energy"
+          },
+          "title": {
+            "ko": "약 3분 배터리 셀 진단, 500개 이상 실증…재사용·재활용 판단 지원",
+            "en": "3-minute cell health check to be tested on 500+ batteries to guide reuse or recycling",
+            "ja": "約3分のセル診断を500個以上で実証、再利用・リサイクルの判断を支援"
+          },
+          "summary": {
+            "ko": "호주 UNSW 연구진이 말레이시아 본사의 DY New Energy와 약 130만 호주달러 규모 프로젝트로, 짧은 시간에 셀 상태를 확인하는 기술을 500개 넘는 배터리로 실사용 환경에서 시험합니다. 이후 재활용 시설과 재사용 ESS에서 시범 적용하고, 머신러닝으로 재사용·재활용을 권고하는 의사결정 엔진도 개발할 계획입니다. 이번 발표는 연구·실증 계획이며 상용화 시기는 아직 나오지 않았습니다.",
+            "en": "Researchers at Australia's UNSW and Malaysia-based DY New Energy will test a quick cell-check technology on more than 500 batteries in real-world conditions, in a project worth about A$1.3 million. They plan pilots in recycling facilities and second-life storage, and will build a machine-learning engine that recommends reuse or recycling. This is a research and trial plan; no commercialization date was given.",
+            "ja": "オーストラリアのUNSWの研究チームが、マレーシア本社のDY New Energyと約130万豪ドルのプロジェクトで、短時間でセルの状態を確認する技術を500個超の電池で実環境試験します。その後、リサイクル施設や再利用型ESSで試行し、機械学習で再利用かリサイクルかを提案する判断エンジンも開発する計画です。研究・実証の計画であり、商用化の時期は示されていません。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "pv magazine Australia",
+            "date": "2026-11-13",
+            "url": "https://pv-magazine-australia.com/2026/11/13/three-minute-battery-cell-health-check-could-transform-recycling-and-second-life-potential"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "재사용 가능한 셀을 가려내는 기술이 퍼지면 정치적·환경적 요구가 큰 순환형 배터리 시장이 커질 수 있고, 그 속에서 안정된 품질의 소재 수요가 유지될 수 있습니다.",
+              "en": "If such screening spreads, the circular battery market could grow, and demand for consistently high-quality materials may continue.",
+              "ja": "こうした選別技術が広がれば循環型の電池市場が拡大し、安定した品質の素材への需要が続く可能性があります。"
+            },
+            "cons": {
+              "ko": "재사용이 늘면 신규 셀 수요 증가를 일부 늦출 수 있으나, 현 단계에서는 분리막 사업에 미치는 영향이 거의 없습니다.",
+              "en": "More reuse could slightly slow new-cell demand growth, but at this stage the effect on separators is very small.",
+              "ja": "再利用が増えれば新品セルの需要増をわずかに緩める可能性がありますが、現段階でセパレータ事業への影響はほとんどありません。"
+            }
+          }
+        },
+        {
+          "id": "revolta-sodium-ion-home-storage-20261112",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "독일 Revolta 소듐이온",
+            "en": "Revolta sodium-ion",
+            "ja": "独Revoltaのナトリウムイオン"
+          },
+          "title": {
+            "ko": "독일 Revolta, 첫 10kWh 소듐이온 가정용 저장장치 설치·가동",
+            "en": "Germany's Revolta commissions first 10 kWh sodium-ion home storage system",
+            "ja": "独Revolta、初の10kWhナトリウムイオン家庭用蓄電システムを設置・稼働"
+          },
+          "summary": {
+            "ko": "독일 스타트업 Revolta가 아샤펜부르크 인근 고객 현장에 첫 10kWh 소듐이온 가정용 배터리 저장장치를 설치해 가동을 시작했다고 합니다. 배터리 모듈 5개로 구성된 시스템입니다. 소규모 1건의 설치 사례로, 시장 확대 여부를 보여주는 수치는 기사에 없습니다.",
+            "en": "German startup Revolta has installed and commissioned its first 10 kWh sodium-ion home battery system at a customer site near Aschaffenburg. The system has five battery modules. It is a single small installation, and the article gives no figures on market scale.",
+            "ja": "ドイツのスタートアップRevoltaが、アシャッフェンブルク近郊の顧客先に初の10kWhナトリウムイオン家庭用蓄電システムを設置し、稼働を始めたと伝えられました。電池モジュール5個で構成されています。小規模な1件の設置事例で、市場拡大を示す数値は記事にありません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "TaiyangNews",
+            "date": "2026-11-12",
+            "url": "https://taiyangnews.info/storage/global-battery-storage-news-snippets-november-12-2026"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "소듐이온 전지도 일반적으로 양극과 음극을 나누는 분리막이 필요해, 보급되면 분리막 수요처가 넓어질 가능성이 있습니다.",
+              "en": "Sodium-ion cells generally also need a separator between electrodes, so wider adoption could open another demand area for separators.",
+              "ja": "ナトリウムイオン電池も一般に正負極を隔てるセパレータが必要で、普及すれば需要先が広がる可能性があります。"
+            },
+            "cons": {
+              "ko": "소규모 설치 1건이라 현재 영향은 미미하며, 장기적으로는 가정용 저장에서 리튬이온 전지와 경쟁할 수 있습니다.",
+              "en": "This is one small installation, so the present effect is minimal; over the long term sodium-ion could compete with Li-ion in home storage.",
+              "ja": "小規模な1件の設置であり現時点の影響は軽微です。長期的には家庭用蓄電でリチウムイオン電池と競合する可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "pai-kane-btr-gooree-bess-mou-20261112",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "Pai Kane·BTR 산하 Gooree",
+            "en": "Pai Kane & BTR's Gooree",
+            "ja": "Pai KaneとBTR傘下のGooree"
+          },
+          "title": {
+            "ko": "인도 Pai Kane, BTR 계열 Gooree와 2030년까지 5GW BESS MOU",
+            "en": "India's Pai Kane signs MoU with BTR unit Gooree for 5 GW of BESS by 2030",
+            "ja": "インドのPai Kane、BTR傘下のGooreeと2030年までに5GWのBESSでMoU"
+          },
+          "summary": {
+            "ko": "인도 Pai Kane 그룹의 청정에너지 사업 PKE와 BTR 신소재 그룹 계열의 선전 Gooree가 2030년까지 인도 시장에 5GW 규모 배터리 에너지저장시스템(BESS)을 공급하는 내용의 MOU를 맺었다고 보도됐습니다. 구속력 있는 확정 주문인지는 기사에 나와 있지 않아, 계획 단계의 합의로 봐야 합니다.",
+            "en": "Reports say Pai Kane Group's clean energy arm PKE and Shenzhen Gooree, part of BTR New Material Group, signed an MoU covering 5 GW of battery energy storage systems for the Indian market by 2030. The article does not say whether this is a binding order, so it should be seen as a plan-stage agreement.",
+            "ja": "インドPai Kaneグループのクリーンエネルギー事業PKEと、BTR新材料グループ傘下の深圳Gooreeが、2030年までにインド市場向けに5GW規模の電池エネルギー貯蔵システム（BESS）を扱うMoUを結んだと報じられました。拘束力のある確定注文かどうかは記事に記載がなく、計画段階の合意と捉えるべきです。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Power Peak Digest",
+            "date": "2026-11-12",
+            "url": "https://powerpeakdigest.com/power-sector-news-roundup-for-november-12-2026/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "인도의 ESS 수요가 실제로 늘면 셀 생산 확대를 통해 분리막 수요에도 연결될 수 있습니다.",
+              "en": "If India's ESS demand materializes, it could lead to more cell output and, in turn, separator demand.",
+              "ja": "インドのESS需要が実際に拡大すれば、セル生産の増加を通じてセパレータ需要にもつながる可能性があります。"
+            },
+            "cons": {
+              "ko": "MOU 단계이며 중국 계열 업체 중심의 공급망이라 일본 분리막 업체에 직접 연결될지는 불확실하고, 가격 경쟁이 심해질 수 있습니다.",
+              "en": "It is only an MoU with a China-linked supply chain, so it is unclear whether it benefits Japanese separator makers directly, and price competition could intensify.",
+              "ja": "MoU段階で、中国系企業中心のサプライチェーンであるため、日本のセパレータメーカーに直接つながるかは不確実で、価格競争が強まる可能性もあります。"
+            }
+          }
+        }
+      ],
+      "edition": 10
+    },
+    {
       "date": "2026-11-12",
       "title": {
         "ko": "퀀텀스케이프 전고체 'Osprey' 플랫폼, CATL 소듐이온·교환소 확대, 헝가리 한국 배터리 3사 규제 강화",
