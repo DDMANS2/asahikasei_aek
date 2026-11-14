@@ -1,6 +1,409 @@
 {
   "issues": [
     {
+      "date": "2026-11-14",
+      "title": {
+        "ko": "중국 배터리 소재 수출통제 2개월 유예, 레조낙 음극재 철수, 비중국 소재 공급망 재편",
+        "en": "China delays battery-material export controls, Resonac exits anode business, non-China supply chains shift",
+        "ja": "中国が電池材料の輸出規制を2か月猶予、レゾナックが負極材から撤退、非中国サプライチェーンの再編"
+      },
+      "summary": {
+        "ko": "중국이 배터리 소재·기술에 대한 신규 수출통제 시행을 내년 1월까지 미뤘고, 레조낙은 리튬이온 전지용 음극재 사업에서 철수한다고 밝혔습니다. 한국 소재 업계의 비중국 조달 확대, 미국 규제를 의식한 중국 소재 업체의 지분 구조 변경, BMW 미국 배터리 팩 공장 가동 등도 이어졌습니다.",
+        "en": "China has pushed back new export controls on battery materials and technology until January, and Resonac said it will leave the lithium-ion anode materials business. Other news covered Korean firms widening non-China sourcing, Chinese material makers changing ownership to match US rules, and BMW's new battery pack plant in the US.",
+        "ja": "中国は電池材料・技術に関する新たな輸出管理の実施を来年1月まで延期し、レゾナックはリチウムイオン電池用負極材事業から撤退すると発表しました。韓国の素材各社による非中国調達の拡大、米国の規制を意識した中国素材メーカーの株主構成変更、BMWの米国バッテリーパック工場の稼働なども報じられました。"
+      },
+      "highlights": {
+        "ko": [
+          "중국이 배터리 소재·기술 수출통제 시행을 2개월 유예했고, 인조흑연 음극재는 여전히 중국 의존도가 높습니다.",
+          "레조낙이 리튬이온 전지용 음극재 사업에서 철수합니다.",
+          "분리막은 중국 밖 시장 적재량이 올해 1~9월 43.0% 늘었다는 보도가 나왔습니다."
+        ],
+        "en": [
+          "China delayed its battery-material and technology export controls by two months, but artificial graphite anodes still depend heavily on China.",
+          "Resonac will exit the lithium-ion battery anode materials business.",
+          "A report says separator volumes outside China grew 43.0% in January–September 2026."
+        ],
+        "ja": [
+          "中国が電池材料・技術の輸出管理の実施を2か月猶予しましたが、人造黒鉛負極材は依然として中国依存度が高い状況です。",
+          "レゾナックがリチウムイオン電池用負極材事業から撤退します。",
+          "中国以外の市場でのセパレーター搭載量が2026年1〜9月に43.0%増えたと報じられました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "인조흑연 음극재",
+          "en": "Artificial graphite anode material",
+          "ja": "人造黒鉛負極材"
+        },
+        "desc": {
+          "ko": "배터리 안에서 충전 때 리튬 이온을 저장하는 음극의 재료로, 석유·석탄계 원료를 고온 처리해 만든 흑연입니다. 리튬이온 전지에 널리 쓰이지만 공급이 중국에 크게 치우쳐 있어 수출통제 뉴스에 자주 등장합니다.",
+          "en": "It is the material in a battery's negative electrode that holds lithium ions during charging, made by heat-treating petroleum- or coal-based raw materials into graphite. It is widely used in lithium-ion batteries, but supply is heavily concentrated in China, so it often appears in export-control news.",
+          "ja": "充電時にリチウムイオンを蓄える負極に使われる材料で、石油や石炭由来の原料を高温処理して作る黒鉛です。リチウムイオン電池に広く使われていますが、供給が中国に大きく偏っているため、輸出管理のニュースによく登場します。"
+        }
+      },
+      "stories": [
+        {
+          "id": "china-export-control-delay-graphite-20251111",
+          "category": "policy",
+          "format": "main",
+          "subject": {
+            "ko": "중국 수출통제 유예",
+            "en": "China export-control delay",
+            "ja": "中国の輸出管理猶予"
+          },
+          "title": {
+            "ko": "중국, 배터리 소재 수출통제 시행 내년 1월까지 유예…음극재 탈중국은 과제",
+            "en": "China delays battery-material export controls until January; anode supply remains the weak spot",
+            "ja": "中国、電池材料の輸出管理を来年1月まで猶予 負極材の脱中国が課題に"
+          },
+          "summary": {
+            "ko": "보도에 따르면 중국 상무부는 희토류, 리튬 배터리, 합성흑연 음극재 등에 대한 수출통제 시행을 내년 1월까지 추가로 미뤘습니다. 한국 업계는 양극재·분리막·전해액의 비중국 조달망은 갖췄다고 보지만, 인조흑연 음극재는 2025년 국내 수입액의 95.6%가 중국산이었다고 합니다(산업통상부 자료 인용). 유예는 일시적이어서 내년 1월 이후 시행 여부는 불확실합니다.",
+            "en": "According to reports, China's Ministry of Commerce extended the delay of export controls on rare earths, lithium batteries and synthetic graphite anode materials until January. Korean industry says non-China supply chains for cathodes, separators and electrolytes are fairly well built, but 95.6% of Korea's 2025 artificial graphite anode imports came from China (figure cited from Korea's trade ministry). The delay is temporary, and what happens after January is unclear.",
+            "ja": "報道によると、中国商務部は希土類、リチウム電池、合成黒鉛負極材などの輸出管理の実施を来年1月までさらに延期しました。韓国の業界では正極材・セパレーター・電解液の非中国調達網は整っているとみていますが、人造黒鉛負極材は2025年の韓国の輸入額の95.6%が中国産だったとされています（産業通商部資料の引用）。猶予は一時的で、1月以降に実施されるかどうかは不透明です。"
+          },
+          "background": {
+            "ko": "중국은 지난해 공고(2025년 제58호)로 에너지밀도 300Wh/kg 이상 리튬이온 전지, 일정 기준의 LFP 양극재, 삼원계 전구체, 인조흑연 음극재와 관련 장비·기술을 수출 허가 대상으로 정했습니다. 시행되면 중국 수출업체는 당국의 허가를 받아야 합니다. 2023년 12월부터 적용 중인 별도의 흑연 수출허가제는 이번 유예와 관계없이 유지됩니다.",
+            "en": "Last year China issued Announcement No. 58 (2025), which put lithium-ion batteries of 300 Wh/kg or more, certain LFP cathodes, ternary precursors, artificial graphite anodes, and related equipment and technology under export licensing. Once in force, Chinese exporters must get approval from the authorities. A separate graphite export licensing system, in place since December 2023, stays in effect regardless of this delay.",
+            "ja": "中国は昨年の公告（2025年第58号）で、エネルギー密度300Wh/kg以上のリチウムイオン電池、一定基準のLFP正極材、三元系前駆体、人造黒鉛負極材、関連する設備・技術を輸出許可の対象としました。実施されれば、中国の輸出企業は当局の許可が必要になります。2023年12月から続く別の黒鉛輸出許可制は、今回の猶予とは関係なく維持されます。"
+          },
+          "companies": [
+            "poscofm"
+          ],
+          "materials": [
+            "anode",
+            "cathode",
+            "separator"
+          ],
+          "source": {
+            "name": "글로벌이코노믹",
+            "date": "2026-11-11",
+            "url": "https://www.g-enews.com/article/Industry/2026/11/2026111115195767973084322ec9_1"
+          },
+          "related": [
+            {
+              "name": "글로벌이코노믹 - 中 수출 유예는 임시 숨통…EU 희토류 자립 난항",
+              "url": "https://g-enews.com/article/Global-Biz/2026/11/2026111201074123460c8c1c064d_1"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "보도 기준으로 분리막은 통제 대상 품목에 포함되어 있지 않고, 업계는 분리막의 비중국산 공급망이 비교적 잘 구축돼 있다고 평가합니다. 비중국 조달을 늘리려는 고객사에게 비중국 생산 분리막은 강점이 될 수 있습니다.",
+              "en": "Based on the report, separators are not among the controlled items, and industry sources say non-China separator supply chains are relatively well built. For customers trying to source outside China, separators made outside China could be an advantage.",
+              "ja": "報道によればセパレーターは規制対象品目に含まれておらず、業界は非中国のセパレーター供給網が比較的整っているとみています。中国以外での調達を増やしたい顧客にとって、中国外で生産されるセパレーターは強みになる可能性があります。"
+            },
+            "cons": {
+              "ko": "1월 이후 통제가 시행되면 전지·양극재·음극재 공급이 불안정해져 고객사의 셀 생산과 분리막 수요에 영향을 줄 수 있습니다. 규제 일정이 불확실해 고객사의 투자·발주 판단이 흔들릴 가능성도 있습니다.",
+              "en": "If the controls take effect after January, supply of cells, cathodes and anodes could become unstable, which may affect customers' cell output and separator demand. The uncertain timeline may also make customers' investment and ordering decisions less predictable.",
+              "ja": "1月以降に規制が実施された場合、電池・正極材・負極材の供給が不安定になり、顧客のセル生産やセパレーター需要に影響する可能性があります。規制時期が不透明なため、顧客の投資や発注判断が揺らぐ可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "resonac-exits-anode-business-20251113",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "레조낙 음극재 철수",
+            "en": "Resonac anode exit",
+            "ja": "レゾナック 負極材撤退"
+          },
+          "title": {
+            "ko": "레조낙, 리튬이온 전지용 음극재 사업에서 철수",
+            "en": "Resonac to withdraw from lithium-ion battery anode materials",
+            "ja": "レゾナック、リチウムイオン電池用負極材事業から撤退"
+          },
+          "summary": {
+            "ko": "레조낙홀딩스는 12일 연결 자회사 레조낙이 리튬이온 전지용 음극재 사업에서 철수한다고 발표했다고 일본 화학 전문지가 전했습니다. 제가 확인한 기사에는 철수 시기나 사유 등 세부 내용이 충분히 나오지 않았습니다. 같은 날 레조낙은 일·미·유럽 흑연 전극 사업을 AURELIUS에 양도한다는 소식도 별도로 보도됐습니다.",
+            "en": "Japan's Nikkan Chemical News reported that Resonac Holdings said on the 12th that its consolidated subsidiary Resonac will withdraw from the lithium-ion battery anode materials business. The article I could check does not give enough detail on timing or reasons. Separately, a transfer of Resonac's graphite electrode business in Japan, the US and Europe to AURELIUS was also reported the same day.",
+            "ja": "日刊ケミカルニュースによると、レゾナック・ホールディングスは12日、連結子会社のレゾナックがリチウムイオン電池用負極材事業から撤退すると発表しました。確認できた記事には撤退の時期や理由などの詳細は十分に書かれていません。同日、日米欧の黒鉛電極事業をAURELIUSに譲渡するという別の発表も報じられました。"
+          },
+          "companies": [],
+          "materials": [
+            "anode"
+          ],
+          "source": {
+            "name": "日刊ケミカルニュース",
+            "date": "2026-11-13",
+            "url": "https://chemical-news.com/2026/11/13/%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%83%E3%82%AF%E3%80%80%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E7%94%A8%E8%B2%A0%E6%A5%B5%E6%9D%90%E4%BA%8B%E6%A5%AD%E3%81%8B"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "분리막과 직접 경쟁하는 소재가 아니어서 직접적인 이점은 크지 않습니다. 다만 일본 내 소재 공급망 재편 움직임으로 참고할 만합니다.",
+              "en": "Anode materials do not compete directly with separators, so there is no major direct benefit. It is still a useful signal of how Japan's materials supply chain is being reshaped.",
+              "ja": "負極材はセパレーターと直接競合する素材ではないため、直接的なメリットは大きくありません。ただ、日本の素材サプライチェーン再編の動きとして参考になります。"
+            },
+            "cons": {
+              "ko": "일본 고객사의 음극재 조달 구조가 바뀔 경우 셀 생산 계획에 간접적인 영향이 나올 가능성은 있으나, 현재 정보만으로는 판단하기 어렵습니다.",
+              "en": "If Japanese customers' anode sourcing changes, there could be indirect effects on cell production plans, but the available information is not enough to judge.",
+              "ja": "日本の顧客の負極材調達が変わった場合、セル生産計画に間接的な影響が出る可能性はありますが、現時点の情報では判断が難しいです。"
+            }
+          }
+        },
+        {
+          "id": "korea-material-growth-separator-ex-china-20251112",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 밖 소재 적재량",
+            "en": "Material volumes outside China",
+            "ja": "中国外の材料搭載量"
+          },
+          "title": {
+            "ko": "배터리 4대 소재 모두 20%대 성장…중국 밖 분리막은 43.0% 증가, 한국 기업은 엇갈려",
+            "en": "All four battery materials grow in the 20% range; separators outside China up 43.0%, Korean firms mixed",
+            "ja": "電池4大素材がそろって20%台成長 中国外のセパレーターは43.0%増、韓国企業は明暗"
+          },
+          "summary": {
+            "ko": "ER 이코노믹리뷰는 올해 1~9월 양극재·음극재·전해액·분리막 4대 소재의 적재량이 모두 늘었다고 전했습니다. 중국을 제외한 시장에서는 양극재 31.2%, 음극재 28.8%, 전해액 36.1%, 분리막 43.0%로 글로벌 평균보다 높은 증가율이 나타났습니다. 다만 일부 한국 기업은 공급 물량이 줄거나 정체됐다고 합니다(수치의 집계 기관은 제가 읽은 부분에서 확인되지 않았습니다).",
+            "en": "ER Economic Review reported that volumes of all four main battery materials (cathode, anode, electrolyte, separator) rose in January–September 2026. Outside China, growth was 31.2% for cathodes, 28.8% for anodes, 36.1% for electrolytes and 43.0% for separators, above the global average. Some Korean suppliers saw flat or lower volumes; I could not confirm which organization compiled the figures in the part I read.",
+            "ja": "ER経済レビューは、2026年1〜9月に正極材・負極材・電解液・セパレーターの4大素材の搭載量がそろって増えたと伝えました。中国を除く市場では正極材31.2%、負極材28.8%、電解液36.1%、セパレーター43.0%と、世界平均を上回る伸びでした。一部の韓国企業は供給量が減少または横ばいだったとされます（数値の集計機関は、確認できた範囲では分かりませんでした）。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode",
+            "anode",
+            "electrolyte",
+            "separator"
+          ],
+          "source": {
+            "name": "ER 이코노믹리뷰",
+            "date": "2026-11-12",
+            "url": "https://www.econovill.com/news/articleView.html?idxno=756853"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "중국 밖 분리막 적재량이 4대 소재 중 가장 큰 폭으로 늘었다는 보도로, 비중국 시장의 분리막 수요가 커지고 있음을 시사합니다. 습식·건식 모두 수요 확대의 기회가 될 수 있습니다.",
+              "en": "The report says separator volume outside China grew the most among the four materials, suggesting rising demand in non-China markets. Both wet-process and dry-process separators could benefit.",
+              "ja": "中国外のセパレーター搭載量が4素材の中で最も大きく伸びたとの報道で、非中国市場での需要拡大を示唆します。湿式・乾式ともに需要拡大の機会となる可能性があります。"
+            },
+            "cons": {
+              "ko": "수요가 커지는 만큼 경쟁사의 증설과 가격 경쟁이 심해질 수 있습니다. LFP 확대처럼 셀 종류가 바뀌면 요구 사양이 달라질 가능성도 있습니다.",
+              "en": "As demand grows, competitors may expand capacity and price competition could intensify. A shift in cell types, such as more LFP, may also change the specifications customers ask for.",
+              "ja": "需要が伸びる分、競合の増設や価格競争が激しくなる可能性があります。LFP拡大のようにセルの種類が変わると、求められる仕様が変わる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "bmw-south-carolina-battery-plant-20251113",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "BMW 미국 배터리 공장",
+            "en": "BMW US battery plant",
+            "ja": "BMW米国電池工場"
+          },
+          "title": {
+            "ko": "BMW, 미 사우스캐롤라이나 우드러프 배터리 조립공장 가동 시작",
+            "en": "BMW starts up battery assembly plant in Woodruff, South Carolina",
+            "ja": "BMW、米サウスカロライナ州ウッドラフの電池組立工場が稼働"
+          },
+          "summary": {
+            "ko": "글로벌이코노믹이 현지 매체 SC 데일리 가제트 보도를 인용해, BMW가 11월 13일(현지시각) 우드러프 배터리 공장 가동을 시작했다고 전했습니다. 이 공장은 인근 그리어 차량 공장에 고전압 배터리 팩을 공급하며, 첫 적용 모델은 내년 초 출시 예정인 신형 iX5입니다. 기사에는 17억 달러 투자와 중국산 셀을 조립하는 방식도 언급됩니다(2차 보도 기준).",
+            "en": "Global Economic, citing local outlet SC Daily Gazette, reported that BMW began operating its Woodruff battery plant on November 13 (local time). The plant will supply high-voltage battery packs to the nearby Greer vehicle plant, and the first model is the new iX5, due on the market early next year. The article also mentions a $1.7 billion investment and an approach that assembles Chinese-made cells (secondhand report).",
+            "ja": "グローバル・エコノミックは現地メディアSCデイリー・ガゼットの報道を引用し、BMWが11月13日（現地時間）にウッドラフの電池工場の稼働を始めたと伝えました。工場は近隣のグリア車両工場に高電圧バッテリーパックを供給し、最初の搭載車は来年初めに発売予定の新型iX5です。記事には17億ドルの投資や、中国製セルを組み立てる方式への言及もあります（二次報道）。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "글로벌이코노믹",
+            "date": "2026-11-14",
+            "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111408284423132bd56fbc3c_1"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "북미에서 EV 팩 생산이 늘면 장기적으로 현지 셀 수요와 분리막 수요를 떠받칠 수 있습니다.",
+              "en": "More EV pack production in North America could support local cell demand and, over time, separator demand.",
+              "ja": "北米でEV用パック生産が増えれば、長期的には現地のセル需要、ひいてはセパレーター需要を支える可能性があります。"
+            },
+            "cons": {
+              "ko": "이 공장은 셀을 만드는 곳이 아니라 팩을 조립하는 곳이고 중국산 셀이 쓰인다고 보도돼, 북미 현지 셀·소재 수요로 바로 이어지지 않을 수 있습니다. 미국의 현지 조달·관세 규정 변화에도 영향받을 수 있습니다.",
+              "en": "The plant assembles packs rather than making cells, and Chinese-made cells are reportedly used, so it may not translate directly into North American cell or material demand. It could also be affected by changes in US local-content and tariff rules.",
+              "ja": "この工場はセルではなくパックを組み立てる拠点で、中国製セルが使われると報じられているため、北米のセル・素材需要に直結しない可能性があります。米国の現地調達要件や関税ルールの変更の影響も受け得ます。"
+            }
+          }
+        },
+        {
+          "id": "chinese-cathode-makers-restructure-us-rules-20251112",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 양극재사 지분 구조",
+            "en": "Chinese cathode makers' ownership",
+            "ja": "中国正極材メーカーの出資構造"
+          },
+          "title": {
+            "ko": "미국 규제 맞춰 지분 매각·운영권 이전하는 중국 양극재 업체들",
+            "en": "Chinese cathode makers sell stakes and shift operations to match US rules",
+            "ja": "米国の規制に合わせ、中国正極材メーカーが持ち分売却・運営権移管"
+          },
+          "summary": {
+            "ko": "디일렉은 로팔테크·롱바이·CNGR 등 중국 소재 업체가 한국·인도네시아에 생산기지를 두고 북미 시장을 노리고 있다고 12일 보도했습니다. 이 매체에 따르면 미국은 올해부터 중국산 소재의 원가 비중을 40% 이하로 제한하고 2030년에는 15%까지 낮출 예정이어서, 업체들이 지분을 팔거나 운영권을 넘기고 있습니다. 다만 매체는 이렇게 해도 중국의 영향력이 여전하다고 지적합니다.",
+            "en": "THE ELEC reported on the 12th that Chinese material makers such as Ropal Tech, Longbai and CNGR are building bases in Korea and Indonesia aimed at the North American market. The outlet says the US caps the cost share of Chinese-made materials at 40% from this year and 15% by 2030, so these firms are selling stakes or handing over operations. The outlet notes that Chinese influence still remains.",
+            "ja": "THE ELECは12日、ロパルテック、ロンバイ、CNGRなど中国の素材メーカーが韓国やインドネシアに生産拠点を設け、北米市場を狙っていると報じました。同誌によると、米国は今年から中国産素材のコスト比率を40%以下に制限し、2030年には15%まで下げる予定で、各社は持ち分売却や運営権の移管を進めています。ただし、それでも中国の影響力は残ると同誌は指摘しています。"
+          },
+          "companies": [
+            "tesla",
+            "panasonic"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "디일렉(THE ELEC)",
+            "date": "2026-11-12",
+            "url": "https://www.thelec.kr/news/articleView.html?idxno=65289"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "미국 규제가 소재의 '탈중국'을 압박하는 흐름은 비중국 생산 소재 공급자에게 유리하게 작용할 수 있습니다. 분리막도 비중국 생산 거점이 평가받을 가능성이 있습니다.",
+              "en": "US rules pushing materials away from China may favor suppliers that produce outside China, and non-China separator production sites could also be valued by customers.",
+              "ja": "米国の規制が素材の脱中国を促す流れは、中国外で生産する素材サプライヤーに有利に働く可能性があります。セパレーターでも非中国の生産拠点が評価される可能性があります。"
+            },
+            "cons": {
+              "ko": "기사는 이 기사의 대상이 양극재이며 분리막 직접 언급은 없습니다. 규제를 피하려는 중국계 업체의 우회 구조가 늘면 비중국 소재의 가격 경쟁이 심해질 수 있습니다.",
+              "en": "The article is about cathodes and does not mention separators directly. If Chinese-linked firms keep adopting such workaround structures, price competition among non-China materials could intensify.",
+              "ja": "記事の対象は正極材で、セパレーターへの直接の言及はありません。中国系企業の規制回避的な構造が増えれば、非中国素材の価格競争が激しくなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "steel-byproduct-lfp-silicon-anode-gas-20251113",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "제철 부산물 LFP·실리콘",
+            "en": "Steel byproducts for LFP",
+            "ja": "製鉄副産物のLFP活用"
+          },
+          "title": {
+            "ko": "제철소 부산물로 LFP 양극재를, 화학공장 가스로 실리콘 음극재 원료를",
+            "en": "Material makers tap steel byproducts for LFP cathodes and chemical-plant gas for silicon anodes",
+            "ja": "製鉄所の副産物でLFP正極材、化学工場のガスでシリコン負極材原料"
+          },
+          "summary": {
+            "ko": "시사저널e에 따르면 엘앤에프 계열은 산화철을 리튬·인산 원료와 직접 반응시켜 중간재 단계를 생략하는 LFP 제조법을 개발 중이며, 2028년 1분기 양산이 목표입니다. 포스코퓨처엠은 포스코 제철소의 산화철과 포스코홀딩스가 아르헨티나에서 확보한 리튬을 쓰는 구상을 추진합니다. OCI는 실리콘 음극재용 모노실란 가스를 군산공장에서 공급하는 방식을 소개했으며, 실제 공급 규모는 개발·고객 검증 이후 정해질 전망입니다.",
+            "en": "Sisa Journal e reports that an L&F group company is developing an LFP process that reacts iron oxide directly with lithium and phosphate sources, skipping an intermediate step, with mass production targeted for Q1 2028. POSCO Future M is pursuing a plan to use iron oxide from POSCO steel mills and lithium that POSCO Holdings secured in Argentina. OCI was described as supplying monosilane gas for silicon anodes from its Gunsan plant; actual volumes depend on development and customer qualification.",
+            "ja": "時事ジャーナルeによると、L&F系の企業は酸化鉄をリチウム・リン酸原料と直接反応させ、中間材の工程を省くLFP製法を開発中で、2028年第1四半期の量産を目指しています。ポスコフューチャーエムは、ポスコ製鉄所の酸化鉄とポスコホールディングスがアルゼンチンで確保したリチウムを使う構想を進めています。OCIはシリコン負極材向けのモノシランガスを群山工場から供給する方式を紹介しており、実際の供給規模は開発と顧客検証の後に決まる見通しです。"
+          },
+          "companies": [
+            "poscofm"
+          ],
+          "materials": [
+            "cathode",
+            "anode"
+          ],
+          "source": {
+            "name": "시사저널e",
+            "date": "2026-11-13",
+            "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425035"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "LFP 양극재 원가 절감 시도가 성공하면 LFP 셀의 가격 경쟁력이 높아져 장기적으로 분리막 수요를 뒷받침할 수 있습니다.",
+              "en": "If LFP cathode cost-cutting efforts succeed, LFP cells could become more price-competitive, which might support separator demand over the long term.",
+              "ja": "LFP正極材のコスト削減が成功すれば、LFPセルの価格競争力が高まり、長期的にはセパレーター需要を下支えする可能性があります。"
+            },
+            "cons": {
+              "ko": "양산은 2028년 이후 목표이고 고객 검증도 필요해 분리막 사업에 미치는 영향은 당분간 제한적일 것으로 보입니다. 셀 가격 하락 압력이 분리막 단가 협상에 영향을 줄 가능성은 있습니다.",
+              "en": "Mass production is a 2028 target and still needs customer qualification, so the near-term effect on separators looks limited. Downward pressure on cell prices might, however, influence separator pricing talks.",
+              "ja": "量産は2028年が目標で顧客検証も必要なため、セパレーター事業への当面の影響は限定的とみられます。ただ、セル価格の下押し圧力がセパレーターの価格交渉に影響する可能性はあります。"
+            }
+          }
+        },
+        {
+          "id": "catl-evtol-evt-aerotechnics-20251112",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL·EVT 에어로테크닉스",
+            "en": "CATL & EVT Aerotechnics",
+            "ja": "CATL・EVTエアロテクニクス"
+          },
+          "title": {
+            "ko": "CATL, EVT 에어로테크닉스와 eVTOL 독점 배터리 협력…이달 두 번째",
+            "en": "CATL becomes exclusive battery partner to eVTOL developer EVT Aerotechnics, its second such deal this month",
+            "ja": "CATL、eVTOL開発のEVTエアロテクニクスと電池の独占提携 今月2件目"
+          },
+          "summary": {
+            "ko": "CnEVPost에 따르면 EVT 에어로테크닉스와 CATL은 전략 협력 계약을 맺고 CATL을 독점 배터리 파트너로 지정했습니다. 이번 달 CATL의 두 번째 eVTOL 배터리 공급 계약이라고 합니다. CATL은 항공용 배터리의 감항(안전 인증) 검증도 넓히고 있다고 전해졌습니다.",
+            "en": "CnEVPost reports that EVT Aerotechnics and CATL signed a strategic cooperation agreement naming CATL the aircraft developer's exclusive battery partner. It is CATL's second eVTOL battery supply deal this month. CATL is also reported to be expanding airworthiness (aviation safety certification) validation for aviation batteries.",
+            "ja": "CnEVPostによると、EVTエアロテクニクスとCATLは戦略的協力契約を結び、CATLを独占的な電池パートナーに指定しました。今月CATLにとって2件目のeVTOL向け電池供給契約とのことです。CATLは航空用電池の耐空性（安全認証）の検証も広げていると伝えられています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "CnEVPost",
+            "date": "2026-11-12",
+            "url": "https://cnevpost.com/2026/11/12/catl-evtol-battery-partnership-evt"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "eVTOL·항공용은 높은 안전성과 출력 성능이 요구되는 분야라, 내열성 등 고성능 분리막의 새 수요처가 될 가능성이 있습니다.",
+              "en": "eVTOL and aviation use demands high safety and power performance, so it could become a new outlet for high-performance separators, for example with strong heat resistance.",
+              "ja": "eVTOLや航空用途は高い安全性と出力性能が求められる分野で、耐熱性などに優れた高性能セパレーターの新たな需要先になる可能性があります。"
+            },
+            "cons": {
+              "ko": "CATL이 항공 분야에서도 선점해 가면 고객 구도에서 중국 업체의 영향력이 커질 수 있습니다. 현재 시장 규모는 작고 사용할 분리막 사양도 알려지지 않았습니다.",
+              "en": "If CATL secures this field early, Chinese players could gain more influence in the customer landscape. The market is still small, and the separator specifications used are not known.",
+              "ja": "CATLが航空分野でも先行すれば、顧客構図で中国勢の影響力が強まる可能性があります。市場規模はまだ小さく、使われるセパレーターの仕様も分かっていません。"
+            }
+          }
+        },
+        {
+          "id": "lges-vertech-aeros-intelligence-20251112",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "LG엔솔 버텍 AEROS",
+            "en": "LGES Vertech AEROS",
+            "ja": "LGES Vertech AEROS"
+          },
+          "title": {
+            "ko": "LG에너지솔루션 버텍, ESS 데이터 분석 플랫폼 'AEROS Intelligence' 출시",
+            "en": "LG Energy Solution Vertech launches 'AEROS Intelligence' for storage data insights",
+            "ja": "LGエナジーソリューション・バーテック、蓄電データ分析「AEROS Intelligence」を発売"
+          },
+          "summary": {
+            "ko": "LG에너지솔루션 버텍은 11월 12일 ESS 운영 데이터를 분석해 운영 판단을 돕는 새 플랫폼 'AEROS Intelligence'를 출시했다고 밝혔습니다. 회사 측은 17년 넘는 ESS 운영 데이터와 배터리 설계 데이터를 결합했고, 이 중 에너지 옵티마이저가 충전 상태(SOC) 오차를 약 30~50% 줄인다고 설명했습니다(회사 측 발표). 하드웨어가 아닌 소프트웨어 제품입니다.",
+            "en": "LG Energy Solution Vertech said on November 12 that it launched 'AEROS Intelligence', a platform that analyzes energy storage system data to support operating decisions. The company says it combines more than 17 years of ESS operating data with battery design data, and that its Energy Optimizer reduces state-of-charge error by about 30–50% (company claim). It is a software product, not hardware.",
+            "ja": "LGエナジーソリューション・バーテックは11月12日、蓄電システム（ESS）の運用データを分析して運用判断を支援する新プラットフォーム「AEROS Intelligence」を発売したと発表しました。同社は17年以上のESS運用データと電池設計データを組み合わせ、そのうちエナジーオプティマイザーが充電状態（SOC）の誤差を約30〜50%減らすと説明しています（会社側発表）。ハードウェアではなくソフトウェア製品です。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [],
+          "source": {
+            "name": "LG Energy Solution Vertech (PR Newswire)",
+            "date": "2026-11-12",
+            "url": "https://www.prnewswire.com/news-releases/lg-energy-solution-vertech-launches-aeros-intelligence-to-turn-battery-data-into-actionable-insights-302937152.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "ESS 시장에서 셀 업체가 소프트웨어까지 확장하는 흐름은 ESS 투자 확대를 뒷받침하는 신호로, 간접적으로 셀 수요에 도움이 될 수 있습니다.",
+              "en": "Cell makers extending into software in the ESS market signals continued ESS investment, which could indirectly support cell demand.",
+              "ja": "ESS市場でセルメーカーがソフトウェアにまで事業を広げる動きはESS投資の継続を示すもので、間接的にセル需要の支えになる可能性があります。"
+            },
+            "cons": {
+              "ko": "소프트웨어 제품이라 분리막 사양이나 수요에 직접 영향을 주는 내용은 없습니다.",
+              "en": "As a software product, it has no direct bearing on separator specifications or demand.",
+              "ja": "ソフトウェア製品のため、セパレーターの仕様や需要に直接影響する内容はありません。"
+            }
+          }
+        }
+      ],
+      "edition": 11
+    },
+    {
       "date": "2026-11-13",
       "title": {
         "ko": "인도 블랙매스 수출 금지, 포스코퓨처엠 음극재 고객 확대, 3분 배터리 셀 진단",
