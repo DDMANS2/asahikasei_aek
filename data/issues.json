@@ -1,6 +1,234 @@
 {
   "issues": [
     {
+      "date": "2026-11-15",
+      "title": {
+        "ko": "팩토리얼 전고체 450Wh/kg 달성, 소듐이온 철망간 양극재 진전, 포항 배터리 엑스포 개막",
+        "en": "Factorial hits 450 Wh/kg with solid-state cells, a sodium-ion Fe-Mn cathode advance, Pohang battery expo opens",
+        "ja": "Factorialが全固体で450Wh/kg達成、ナトリウムイオン鉄マンガン正極の進展、浦項バッテリー展が開幕"
+      },
+      "summary": {
+        "ko": "미국 전고체 전지 기업 팩토리얼이 항공용 셀에서 450Wh/kg 목표를 달성했다고 회사 측이 밝혔습니다. 중국 연구진의 저비용 소듐이온 양극재 성과와 포항 배터리 엑스포 개막 소식도 함께 전합니다.",
+        "en": "US solid-state battery company Factorial said its aerospace cells reached the 450 Wh/kg target. This issue also covers a Chinese research result on a low-cost sodium-ion cathode and the opening of the Pohang battery expo.",
+        "ja": "米国の全固体電池企業Factorialが、航空向けセルで450Wh/kgの目標を達成したと発表しました。中国の研究チームによる低コストのナトリウムイオン正極の成果と、浦項のバッテリー展の開幕も紹介します。"
+      },
+      "highlights": {
+        "ko": [
+          "팩토리얼은 11월 10일 3분기 실적과 함께 항공용 셀 450Wh/kg 달성, 첫 상업 매출 발생을 발표했습니다(회사 측 발표).",
+          "중국과학원 다롄화학물리연구소는 소듐이온 전지용 철·망간 인산염 양극재의 성능을 개선했고, 100톤급 시험 라인을 가동했다고 SMM이 전했습니다.",
+          "포항에서 '국제 배터리 엑스포 2026'이 13일 개막해 15일까지 열리며, 포스코퓨처엠 관계자 등이 개막식에 참석했습니다."
+        ],
+        "en": [
+          "On Nov. 10, Factorial reported Q3 results, said its aerospace cells hit 450 Wh/kg, and said it booked its first commercial revenue (company statement).",
+          "SMM reported that the Dalian Institute of Chemical Physics improved an iron-manganese phosphate cathode for sodium-ion batteries and has a 100-tonne pilot line running.",
+          "The International Battery Expo 2026 opened in Pohang on Nov. 13 and runs through Nov. 15, with a POSCO Future M executive among the opening attendees."
+        ],
+        "ja": [
+          "Factorialは11月10日、第3四半期決算とともに、航空向けセルで450Wh/kgを達成し、初の商業売上を計上したと発表しました(同社発表)。",
+          "中国科学院大連化学物理研究所が、ナトリウムイオン電池用の鉄・マンガンリン酸塩正極を改良し、100トン級の試験ラインを稼働させたとSMMが報じました。",
+          "韓国・浦項で「国際バッテリーエキスポ2026」が13日に開幕し、15日まで開催されます。開会式にはポスコフューチャーエムの幹部らが出席しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "에너지 밀도(Wh/kg)",
+          "en": "Energy density (Wh/kg)",
+          "ja": "エネルギー密度(Wh/kg)"
+        },
+        "desc": {
+          "ko": "배터리 무게 1kg당 저장할 수 있는 전기 에너지의 양으로, 숫자가 클수록 같은 무게로 더 오래 쓸 수 있습니다. 전기차나 항공기처럼 무게가 중요한 용도에서 핵심 지표입니다.",
+          "en": "It shows how much electric energy a battery can store per kilogram of its weight. A higher number means longer use at the same weight, which matters a lot for EVs and aircraft.",
+          "ja": "電池の重さ1kgあたりに蓄えられる電気エネルギーの量です。数値が大きいほど同じ重さで長く使えるため、EVや航空機のように重さが重要な用途で大切な指標です。"
+        }
+      },
+      "stories": [
+        {
+          "id": "factorial-450whkg-aerospace-20261110",
+          "category": "nextgen",
+          "format": "main",
+          "subject": {
+            "ko": "팩토리얼(전고체)",
+            "en": "Factorial",
+            "ja": "Factorial(全固体)"
+          },
+          "title": {
+            "ko": "팩토리얼, 항공용 전고체·리튬금속 셀 450Wh/kg 달성…첫 상업 매출도 발생",
+            "en": "Factorial says aerospace cells reached 450 Wh/kg and it booked its first commercial revenue",
+            "ja": "Factorial、航空向けセルで450Wh/kgを達成、初の商業売上も計上"
+          },
+          "summary": {
+            "ko": "미국 전고체 전지 기업 팩토리얼은 11월 10일 3분기 실적을 발표하며, 항공용 프로그램 셀이 연말 목표였던 약 450Wh/kg에 예정보다 일찍 도달했다고 밝혔습니다. 회사는 2027년으로 잡았던 목표보다 앞서 첫 상업 매출도 기록했다고 설명했습니다. 모두 회사 측 발표 내용이며, 항공 분야의 초기 단계 성과라는 점에 유의해야 합니다.",
+            "en": "In its Q3 report on Nov. 10, US solid-state battery company Factorial said its aerospace program cells reached about 450 Wh/kg, ahead of a year-end target. It also said it booked its first commercial revenue earlier than its 2027 goal. These are company claims, and they come from an early stage in the aerospace market.",
+            "ja": "米国の全固体電池企業Factorialは11月10日の第3四半期決算で、航空向けプログラムのセルが年末目標だった約450Wh/kgに予定より早く到達したと発表しました。2027年の目標より早く、初の商業売上も計上したと説明しています。いずれも同社の発表で、航空分野での初期段階の成果である点に注意が必要です。"
+          },
+          "background": {
+            "ko": "에너지 밀도는 같은 무게로 얼마나 많은 전기를 담을 수 있는지를 나타내며, 항공기처럼 무게에 민감한 분야에서 특히 중요합니다. 전고체 전지는 액체 전해질을 고체로 바꾸는 방식으로, 안전성과 에너지 밀도를 높일 수 있다고 기대받지만 양산 비용과 내구성이 과제입니다. 팩토리얼은 자사 플랫폼 중 하나인 'Solstice'를 액체가 전혀 없는 전고체 전지로 소개하고 있습니다. 다만 이번 발표 시점은 11월 10일로, 이번 호의 48시간 기준보다 조금 앞섭니다.",
+            "en": "Energy density shows how much electricity a battery can hold for its weight, and it matters most for weight-sensitive uses such as aircraft. Solid-state batteries replace the liquid electrolyte with a solid one. They are expected to improve safety and energy density, but cost and durability at scale remain challenges. Factorial describes its 'Solstice' platform as an all-solid-state design with no liquid inside. Note that the release is dated Nov. 10, slightly earlier than our usual 48-hour window.",
+            "ja": "エネルギー密度は、同じ重さでどれだけ電気を蓄えられるかを示す指標で、航空機のように重さに敏感な分野で特に重要です。全固体電池は液体の電解質を固体に置き換える方式で、安全性とエネルギー密度の向上が期待されますが、量産時のコストや耐久性が課題です。Factorialは自社プラットフォームの「Solstice」を、液体を一切含まない全固体電池として紹介しています。なお、発表は11月10日で、通常の48時間の範囲より少し前です。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Factorial(GlobeNewswire 配信)",
+            "date": "2026-11-10",
+            "url": "https://www.globenewswire.com/news-release/2026/11/10/3400213/0/en/factorial-announces-third-quarter-2026-results-begins-generating-commercial-revenue-and-achieves-450-wh-kg-energy-density-target-for-aerospace-cells-ahead-of-plan.html"
+          },
+          "related": [
+            {
+              "name": "Factorial Q3 2026 決算説明会 書き起こし(Motley Fool)",
+              "url": "https://www.fool.com/earnings/call-transcripts/2026/11/10/factorial-energy-fac-q3-2026-earnings-call-transcript/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "현재는 항공 분야의 소량 납품 단계로, 리튬이온 전지용 분리막 수요를 당장 크게 흔들 규모로 보기는 어렵습니다. 개발 속도를 파악해 두는 것은 차세대 전지용 분리막·소재 전략을 검토하는 데 참고가 될 수 있습니다.",
+              "en": "For now this is small-volume aerospace supply, so it is unlikely to shake demand for Li-ion separators soon. Tracking the pace may still help in thinking about separator and material strategy for next-generation cells.",
+              "ja": "現時点は航空分野の少量供給の段階で、リチウムイオン電池用セパレータの需要をすぐに大きく揺るがす規模とは考えにくいです。開発の進み具合を把握しておくことは、次世代電池向けのセパレータ・材料戦略を考える参考になる可能性があります。"
+            },
+            "cons": {
+              "ko": "액체가 없는 전고체 방식이 확산되면 장기적으로 기존 분리막의 역할이 줄어들 수 있습니다. 에너지 밀도 경쟁이 항공·고성능 용도부터 빨라질 가능성도 있습니다.",
+              "en": "If all-solid-state designs with no liquid spread, the role of conventional separators could shrink over the long term. Competition on energy density may also speed up, starting with aviation and high-performance uses.",
+              "ja": "液体を含まない全固体方式が広がれば、長期的には従来型セパレータの役割が小さくなる可能性があります。エネルギー密度をめぐる競争が、航空や高性能用途から加速する可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "dicp-sodium-ion-femn-cathode-20261113",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "다롄화학물리연구소",
+            "en": "DICP (China)",
+            "ja": "大連化学物理研究所"
+          },
+          "title": {
+            "ko": "중국 연구진, 소듐이온 전지용 저가 철·망간 인산염 양극재 성능 개선",
+            "en": "Chinese team improves low-cost iron-manganese phosphate cathode for sodium-ion cells",
+            "ja": "中国の研究チーム、ナトリウムイオン電池用の低コスト鉄・マンガンリン酸塩正極を改良"
+          },
+          "summary": {
+            "ko": "중국과학원 다롄화학물리연구소는 산소 결함이 구조 열화를 일으키는 원인을 밝히고 이를 보완하는 방법을 제시했다고 합니다. SMM 보도에 따르면 첫 사이클 쿨롱 효율이 87.0%에서 97.0%로 올랐고, 하드카본과 짠 파우치 셀은 1C 조건 1,000사이클 후 용량의 93.6%를 유지했습니다. 100톤급 시험 라인이 가동 중이며 기업과의 사업화 협력도 시작됐다고 하지만, 연구팀 측 결과를 전한 보도로 독립 검증은 확인되지 않았습니다.",
+            "en": "Researchers at the Dalian Institute of Chemical Physics say they found how oxygen vacancies cause structural damage in this cathode and proposed a way to heal them. SMM reports that first-cycle efficiency rose from 87.0% to 97.0%, and pouch cells with hard carbon kept 93.6% capacity after 1,000 cycles at 1C. A 100-tonne pilot line is reportedly running with industry partners, but these are the team's results and independent verification was not found.",
+            "ja": "中国科学院大連化学物理研究所は、酸素欠陥が構造劣化を招く仕組みを明らかにし、それを補う手法を示したとしています。SMMの報道では、初回サイクルのクーロン効率が87.0%から97.0%に上がり、ハードカーボンと組んだパウチセルは1C条件で1,000サイクル後も容量の93.6%を保ちました。100トン級の試験ラインが稼働し、企業との事業化協力も始まったとのことですが、研究チーム側の結果を伝える報道で、独立した検証は確認できていません。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "SMM(Shanghai Metals Market)",
+            "date": "2026-11-12",
+            "url": "https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathode"
+          },
+          "related": [
+            {
+              "name": "Battery-News(ニュース一覧)",
+              "url": "https://battery-news.de/en/home/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소듐이온 전지도 일반적으로 양극과 음극을 분리하는 분리막이 필요하므로, 시장이 넓어지면 분리막의 새 용도가 생길 가능성이 있습니다.",
+              "en": "Sodium-ion cells generally also need a separator between the electrodes, so a wider market could open new uses for separators.",
+              "ja": "ナトリウムイオン電池でも一般に正極と負極を隔てるセパレータが必要なため、市場が広がればセパレータの新たな用途が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "저가 소듐이온 전지가 보급되면 일부 ESS·저가 용도에서 리튬이온 전지 수요와 겹쳐 가격 압력이 커질 수 있습니다. 아직 연구·시험 라인 단계라 영향은 불확실합니다.",
+              "en": "If low-cost sodium-ion cells spread, they could overlap with Li-ion demand in some storage and budget uses and add price pressure. The work is still at the research and pilot stage, so the effect is uncertain.",
+              "ja": "低コストのナトリウムイオン電池が普及すれば、一部の蓄電・低価格用途でリチウムイオン電池の需要と重なり、価格圧力が強まる可能性があります。まだ研究・試験ラインの段階であり、影響は不確実です。"
+            }
+          }
+        },
+        {
+          "id": "marposs-electrode-cutting-sensor-20261113",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "마르포스(전극 검사)",
+            "en": "Marposs",
+            "ja": "Marposs(電極工程)"
+          },
+          "title": {
+            "ko": "전극 제조 공정, 절단 공구의 미세 손상을 센서로 감지하는 기술 공개",
+            "en": "Marposs presents sensors that detect tiny damage to electrode cutting tools",
+            "ja": "電極製造で、切断工具の微小な損傷をセンサーで検知する技術"
+          },
+          "summary": {
+            "ko": "독일 Marposs는 전극을 자르는 공구의 손상을 센서로 감지하는 솔루션을 개발했다고 Battery-News가 전했습니다. 공구가 손상되면 전극 품질이 떨어지고 최악의 경우 안전 문제로 이어질 수 있다는 설명입니다. 확인한 것은 보도 요약 수준이며, 세부 성능 수치는 확인하지 못했습니다.",
+            "en": "Battery-News reports that Germany's Marposs developed a sensor-based solution to detect damage to the tools that cut battery electrodes. Damaged tools can hurt electrode quality and, in the worst case, create safety risks. Only the report's summary was available, so detailed performance figures are not confirmed.",
+            "ja": "ドイツのMarposs社が、電池の電極を切断する工具の損傷をセンサーで検知するソリューションを開発したとBattery-Newsが伝えました。工具が傷つくと電極の品質が下がり、最悪の場合は安全上の問題につながるという説明です。確認できたのは記事の要約部分のみで、詳細な性能数値は確認できていません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Battery-News",
+            "date": "2026-11-13",
+            "url": "https://battery-news.de/en/home/"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "제조 품질 관리 강화는 셀 불량 감소로 이어질 수 있어, 분리막 사용 환경의 안정성에도 간접적으로 도움이 될 수 있습니다.",
+              "en": "Tighter quality control in manufacturing may reduce cell defects, which could indirectly help the conditions in which separators operate.",
+              "ja": "製造品質管理の強化はセル不良の低減につながる可能性があり、セパレータが使われる環境の安定にも間接的に役立つ可能性があります。"
+            },
+            "cons": {
+              "ko": "분리막 사업에 직접적인 영향은 거의 없습니다.",
+              "en": "There is little direct effect on the separator business.",
+              "ja": "セパレータ事業への直接的な影響はほとんどありません。"
+            }
+          }
+        },
+        {
+          "id": "pohang-battery-expo-20261113",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "국제 배터리 엑스포 포항",
+            "en": "Pohang Battery Expo",
+            "ja": "浦項バッテリーエキスポ"
+          },
+          "title": {
+            "ko": "'국제 배터리 엑스포 2026 포항' 개막…15일까지 사흘간 개최",
+            "en": "International Battery Expo 2026 opens in Pohang, running three days through Nov. 15",
+            "ja": "「国際バッテリーエキスポ2026 浦項」が開幕、15日まで3日間開催"
+          },
+          "summary": {
+            "ko": "한국 이차전지 특화단지인 경북 포항에서 '국제 배터리 엑스포 2026 포항'이 13일 개막했습니다. 포항시 발표에 따르면 개막식에는 에코프로 대표, 포스코퓨처엠 에너지소재생산본부장 등 산·학·연·관 인사 500여 명이 참석했습니다. 행사는 15일까지 이어지며 강연 등 프로그램이 마련됐습니다. 신규 계약이나 투자 발표는 확인하지 못했습니다.",
+            "en": "The International Battery Expo 2026 opened on Nov. 13 in Pohang, a designated secondary-battery cluster in South Korea. According to the city, about 500 people from industry, academia, research and government attended, including Ecopro's CEO and a POSCO Future M energy materials executive. The event runs through Nov. 15 with talks and other programs. No new contracts or investments were confirmed.",
+            "ja": "韓国の二次電池特化団地がある慶尚北道・浦項で、「国際バッテリーエキスポ2026 浦項」が13日に開幕しました。浦項市の発表によると、開会式にはエコプロ代表やポスコフューチャーエムのエネルギー素材生産本部長ら、産学研官の関係者約500人が出席しました。会期は15日までで、講演などのプログラムが組まれています。新たな契約や投資の発表は確認できていません。"
+          },
+          "companies": [
+            "poscofm"
+          ],
+          "materials": [],
+          "source": {
+            "name": "스트레이트뉴스(포항시 발표 인용)",
+            "date": "2026-11-13",
+            "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315355"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "한국 소재·셀 업계의 동향과 고객사 관계자를 접하는 기회가 될 수 있습니다.",
+              "en": "It may offer a chance to see trends among Korean materials and cell makers and to meet customer-side people.",
+              "ja": "韓国の素材・セル業界の動向を把握したり、顧客側の関係者と接点を持ったりする機会になる可能性があります。"
+            },
+            "cons": {
+              "ko": "행사 개막 소식 자체는 분리막 수요나 경쟁 구도에 직접 영향을 주지 않습니다.",
+              "en": "The opening itself has no direct effect on separator demand or the competitive landscape.",
+              "ja": "開幕のニュース自体は、セパレータの需要や競争環境に直接の影響を与えません。"
+            }
+          }
+        }
+      ],
+      "edition": 12
+    },
+    {
       "date": "2026-11-14",
       "title": {
         "ko": "중국 배터리 소재 수출통제 2개월 유예, 레조낙 음극재 철수, 비중국 소재 공급망 재편",
