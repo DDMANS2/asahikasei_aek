@@ -1,6 +1,297 @@
 {
   "issues": [
     {
+      "date": "2026-11-16",
+      "title": {
+        "ko": "삼성SDI 미국 ESS용 LFP 16GWh 수주, 서울시 열폭주 실험, 일본 첫 상업 규모 배터리 리사이클",
+        "en": "Samsung SDI wins 16GWh US ESS LFP deal, Seoul thermal runaway test, Japan's first commercial-scale battery recycling plant",
+        "ja": "サムスンSDIが米ESS向けLFP 16GWhを受注、ソウル市の熱暴走実験、日本初の商業規模電池リサイクル設備"
+      },
+      "summary": {
+        "ko": "삼성SDI가 미국 ESS 전문기업 주피터파워와 약 16GWh 규모의 LFP 배터리 공급 계약을 맺었다고 16일 밝혔습니다. 그 밖에 충전율별 열폭주 실험 결과, 일본과 프랑스의 배터리 재활용 설비 가동 소식, 국내 3사의 ESS 전환 흐름을 전합니다.",
+        "en": "On November 16, Samsung SDI said it signed a deal to supply about 16GWh of LFP batteries to US energy storage firm Jupiter Power. This issue also covers a Seoul test on thermal runaway at different charge levels, new battery recycling plants in Japan and France, and the Korean makers' shift toward ESS.",
+        "ja": "サムスンSDIは16日、米国のESS専門企業ジュピター・パワーと約16GWhのLFP電池供給契約を結んだと発表しました。あわせて、充電率別の熱暴走実験、日本とフランスの電池リサイクル設備、韓国3社のESSシフトを取り上げます。"
+      },
+      "highlights": {
+        "ko": [
+          "삼성SDI, 美 주피터파워에 2029년부터 3년간 LFP 배터리 약 16GWh 공급(회사 측 발표)",
+          "서울시 실험: 충전율 100%에서는 열폭주·발화가 잦았고, 50% 이하에서는 관찰되지 않았습니다",
+          "스미토모금속광산이 일본 첫 상업 규모 배터리 리사이클 설비를 완공했고, 프랑스에서는 베올리아가 설비를 가동했습니다"
+        ],
+        "en": [
+          "Samsung SDI to supply about 16GWh of LFP batteries to US firm Jupiter Power for three years from 2029 (company announcement)",
+          "Seoul test: thermal runaway and fire were common at 100% charge but not seen at 50% or below",
+          "Sumitomo Metal Mining finished Japan's first commercial-scale battery recycling plant, and Veolia started a plant in France"
+        ],
+        "ja": [
+          "サムスンSDI、米ジュピター・パワーに2029年から3年間、LFP電池約16GWhを供給（同社発表）",
+          "ソウル市の実験では、充電率100%で熱暴走・発火が多く、50%以下では確認されませんでした",
+          "住友金属鉱山が日本初の商業規模の電池リサイクル設備を完成、フランスではヴェオリアが設備を稼働させました"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "열폭주",
+          "en": "Thermal runaway",
+          "ja": "熱暴走"
+        },
+        "desc": {
+          "ko": "배터리 내부 온도가 오르면서 열이 열을 부르는 연쇄 반응이 일어나 발화로 이어질 수 있는 현상입니다. 충전율이 높을수록 위험이 커질 수 있어, 분리막의 내열성 같은 안전 설계가 중요합니다.",
+          "en": "Thermal runaway is a chain reaction in which rising heat inside a battery causes even more heat, and it can lead to fire. The risk can be higher at a high charge level, which is why safety design such as heat-resistant separators matters.",
+          "ja": "電池内部の温度上昇が連鎖的にさらなる発熱を招き、発火につながることがある現象です。充電率が高いほどリスクが大きくなる可能性があり、セパレータの耐熱性などの安全設計が重要です。"
+        }
+      },
+      "stories": [
+        {
+          "id": "samsungsdi-jupiter-power-lfp-16gwh-20261116",
+          "category": "biz",
+          "format": "main",
+          "subject": {
+            "ko": "삼성SDI·주피터파워",
+            "en": "Samsung SDI / Jupiter Power",
+            "ja": "サムスンSDI／ジュピター・パワー"
+          },
+          "title": {
+            "ko": "삼성SDI, 美 주피터파워와 ESS용 LFP 배터리 16GWh 공급 계약",
+            "en": "Samsung SDI signs 16GWh LFP battery supply deal with US firm Jupiter Power",
+            "ja": "サムスンSDI、米ジュピター・パワーとESS向けLFP電池16GWhの供給契約"
+          },
+          "summary": {
+            "ko": "삼성SDI는 미국 법인 삼성SDI 아메리카가 주피터파워와 LFP(리튬인산철) 배터리 공급 계약을 맺었다고 16일 밝혔습니다(회사 측 발표). 공급 기간은 2029년부터 3년간이고 규모는 약 16GWh이며, 미국 인디애나주 스타플러스에너지 공장에서 생산할 예정입니다. 금액은 언론이 수조 원대로 추산했고, 기존 계약을 합친 두 회사 간 물량은 약 27GWh로 보도됐습니다.",
+            "en": "Samsung SDI said on November 16 that its US unit, Samsung SDI America, signed a supply deal for LFP (lithium iron phosphate) batteries with Jupiter Power (company announcement). Supply will run for three years from 2029 and total about 16GWh, made at the StarPlus Energy plant in Indiana. Media estimate the value at several trillion won, and the total with earlier contracts between the two firms is reported at about 27GWh.",
+            "ja": "サムスンSDIは16日、米国法人のサムスンSDIアメリカがジュピター・パワーとLFP（リン酸鉄リチウム）電池の供給契約を結んだと発表しました（同社発表）。供給は2029年から3年間で規模は約16GWh、米インディアナ州のスタープラス・エナジー工場で生産する予定です。金額は報道では数兆ウォン規模と推計され、既存契約を含む両社間の総量は約27GWhと伝えられています。"
+          },
+          "background": {
+            "ko": "ESS(에너지저장장치)는 전력망이나 데이터센터 등에서 전기를 저장해 두는 설비로, 최근 배터리 업계의 새 성장 시장입니다. 삼성SDI는 기존 삼원계 중심이던 ESS 사업을 LFP로 넓히고 있으며, 보도에 따르면 올해 10월까지 확보한 ESS 물량은 60GWh 이상이고 내년 상반기부터 인디애나 공장에 LFP 라인 2개를 추가 가동할 계획입니다. 한 주간 뉴스 모음에 따르면 올해 1~9월 전 세계 ESS 배터리 출하량은 전년 대비 73% 늘어난 779.9GWh였습니다(원 집계 기관은 확인하지 못했습니다).",
+            "en": "ESS (energy storage systems) store electricity for power grids and data centers, and have become a new growth market for battery makers. Samsung SDI is widening its ESS business, once centered on nickel-based cells, to LFP. Reports say it had secured over 60GWh of ESS orders by October and plans to add two LFP lines at its Indiana plant from the first half of next year. A weekly news roundup says global ESS battery shipments rose 73% to 779.9GWh in January–September (the original data source was not confirmed).",
+            "ja": "ESS（エネルギー貯蔵システム）は電力網やデータセンターなどで電気をためる設備で、電池業界の新たな成長市場です。サムスンSDIは、従来ニッケル系中心だったESS事業をLFPへ広げています。報道によると、10月までに確保したESS受注は60GWh超で、来年上半期からインディアナ工場でLFPラインを2本追加稼働させる計画です。週次ニュースまとめによると、1〜9月の世界のESS電池出荷量は前年比73%増の779.9GWhでした（元の集計機関は確認できていません）。"
+          },
+          "companies": [
+            "samsungsdi"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "한국아이닷컴(삼성SDI 발표 보도)",
+            "date": "2026-11-16",
+            "url": "https://www.hankooki.com/news/articleView.html?idxno=348572"
+          },
+          "related": [
+            {
+              "name": "스마트비즈: 삼성SDI, 美 주피터파워서 ESS 배터리 16GWh 추가 수주",
+              "url": "https://www.smartbizn.com/news/articleView.html?idxno=159493"
+            },
+            {
+              "name": "뉴스핌: [특징주] 삼성SDI, 美 ESS 대규모 수주 소식에 프리마켓 3%↑",
+              "url": "https://www.newspim.com/news/view/20261116000164"
+            },
+            {
+              "name": "BatteryTech News & Updates 2026 #46",
+              "url": "https://battery-tech.net/batterytech-news-updates-2026-46/"
+            }
+          ],
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "대형 ESS용 셀 공급이 늘면 셀 1개마다 들어가는 분리막 수요도 늘 수 있고, 미국 현지 생산 셀이라 북미에 생산 거점을 가진 분리막 업체에는 기회가 될 수 있습니다. 다만 어느 분리막 업체가 공급할지는 기사에 나와 있지 않습니다.",
+              "en": "More large ESS cell supply can mean more separator demand, since every cell needs one. Because the cells are made in the US, suppliers with North American production could see openings, although the article does not say which separator makers will supply them.",
+              "ja": "大型ESS向けセルの供給が増えれば、セル1個ごとに必要なセパレータの需要も増える可能性があります。米国内生産のセルであるため、北米に生産拠点を持つセパレータメーカーには機会になり得ますが、どのメーカーが供給するかは記事に書かれていません。"
+            },
+            "cons": {
+              "ko": "공급이 2029년부터라 수요 반영까지 시간이 걸리며, LFP ESS 시장은 중국 업체와의 가격 경쟁이 심해 분리막에도 원가 절감 압력이 이어질 수 있습니다. 현지 생산 요건 때문에 미국 내 경쟁 분리막 업체의 증설도 이어질 수 있습니다.",
+              "en": "Supply starts only in 2029, so any demand effect is years away. The LFP ESS market faces tough price competition with Chinese makers, which could keep cost pressure on separators, and local-production rules may also encourage rival separator expansion in the US.",
+              "ja": "供給開始は2029年からで、需要への反映には時間がかかります。LFPのESS市場は中国勢との価格競争が激しく、セパレータにもコスト低減の圧力が続く可能性があります。現地生産の要件から、米国内の競合セパレータメーカーの増設が進む可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "seoul-thermal-runaway-soc-test-20261116",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "서울시 열폭주 실험",
+            "en": "Seoul thermal runaway test",
+            "ja": "ソウル市の熱暴走実験"
+          },
+          "title": {
+            "ko": "서울시 실험: 리튬이온 배터리, 충전율 높을수록 열폭주·발화 위험↑",
+            "en": "Seoul test: higher charge level raises thermal runaway and fire risk in lithium-ion batteries",
+            "ja": "ソウル市の実験：リチウムイオン電池は充電率が高いほど熱暴走・発火のリスクが上昇"
+          },
+          "summary": {
+            "ko": "시중에서 파는 원통형(18650)과 파우치형 리튬이온 배터리를 충전율 30·50·70·100%로 맞춘 뒤 중앙부를 눌러 충격을 주는 실험입니다. 충전율 100%에서는 두 종류 모두 5개 중 4개에서 열폭주와 발화가 났고, 70%에서는 가스 배출이 나타났으며, 50%와 30%에서는 열폭주·발화가 관찰되지 않았습니다. 소형 소비자용 배터리를 대상으로 한 실험이며, 보도문에는 서울시 실험 결과로 소개됐습니다.",
+            "en": "The test used commercial cylindrical (18650) and pouch-type lithium-ion batteries set to 30%, 50%, 70% and 100% charge, then pressed at the center to simulate impact. At 100% charge, 4 of 5 cells of each type went into thermal runaway and fire; at 70%, venting was seen; at 50% and 30%, neither thermal runaway nor fire was observed. It covers small consumer cells and was reported as a Seoul city result.",
+            "ja": "市販の円筒型（18650）とパウチ型のリチウムイオン電池を充電率30・50・70・100%に調整し、中央部を押して衝撃を与える実験です。100%では両タイプとも5個中4個で熱暴走と発火が起き、70%ではガス排出（ベント）が見られ、50%と30%では熱暴走・発火は確認されませんでした。小型の民生用電池が対象で、ソウル市の実験結果として報じられています。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "데일리안(서울시 실험 결과 보도)",
+            "date": "2026-11-16",
+            "url": "https://www.dailian.co.kr/news/view/1715323/11%EC%9B%94-16%EC%9D%BC%EC%9B%94-%EC%98%A4%EB%8A%98-%EC%84%9C%EC%9A%B8%EC%8B%9C-%EB%A6%AC%ED%8A%AC%EC%9D%B4%EC%98%A8-2026"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "배터리 안전에 대한 관심이 높아지면, 열폭주를 늦추는 분리막의 내열성·셧다운 기능 같은 안전 성능이 더 주목받을 수 있습니다.",
+              "en": "Greater attention to battery safety could put more focus on separator safety features such as heat resistance and shutdown function, which help slow thermal runaway.",
+              "ja": "電池の安全性への関心が高まれば、熱暴走を遅らせるセパレータの耐熱性やシャットダウン機能などの安全性能が、より注目される可能性があります。"
+            },
+            "cons": {
+              "ko": "소형 소비자용 배터리 실험이어서 분리막 수요나 사업에 미치는 직접 영향은 작을 것으로 보입니다.",
+              "en": "Because the test used small consumer cells, its direct effect on separator demand or business looks limited.",
+              "ja": "小型の民生用電池での実験であり、セパレータの需要や事業への直接の影響は小さいとみられます。"
+            }
+          }
+        },
+        {
+          "id": "sumitomo-metal-mining-recycling-plant-20261113",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "스미토모금속광산",
+            "en": "Sumitomo Metal Mining",
+            "ja": "住友金属鉱山"
+          },
+          "title": {
+            "ko": "스미토모금속광산, 일본 첫 상업 규모 배터리 리사이클 설비 완공",
+            "en": "Sumitomo Metal Mining completes Japan's first commercial-scale battery recycling plant",
+            "ja": "住友金属鉱山、日本初の商業規模の電池リサイクル設備を完成"
+          },
+          "summary": {
+            "ko": "스미토모금속광산이 일본 최초의 상업 규모 배터리 리사이클 설비를 완공했다고 전문 매체가 13일 전했습니다. 에히메현 사이조의 도요 공장과 니이하마 니켈 공장에 있으며, 건식과 습식 공정을 함께 써서 블랙매스(폐배터리를 분쇄·선별한 금속 함유 분말)에서 니켈·코발트·리튬·구리를 회수합니다. 연간 처리 능력은 배터리 셀 환산 약 1만 톤이며, 현재는 시험 운전 중이고 일본 그린이노베이션 기금의 지원을 받았습니다.",
+            "en": "A trade outlet reported on November 13 that Sumitomo Metal Mining has completed what it calls Japan's first commercial-scale battery recycling facility. It is at the Toyo plants in Saijo and the Niihama nickel plant in Ehime, and it combines dry and wet processing to recover nickel, cobalt, lithium and copper from black mass (a metal-rich powder made by crushing and sorting used batteries). Annual capacity is about 10,000 tonnes in battery-cell terms; it is in trial operation and received support from Japan's Green Innovation Fund.",
+            "ja": "住友金属鉱山が、同社として日本初の商業規模の電池リサイクル設備を完成させたと、専門メディアが13日に報じました。愛媛県の西条の東予工場と新居浜ニッケル工場にあり、乾式と湿式を組み合わせて、ブラックマス（使用済み電池を破砕・選別して得た金属含有の粉）からニッケル、コバルト、リチウム、銅を回収します。年間処理能力は電池セル換算で約1万トンで、現在は試運転中、グリーンイノベーション基金の支援を受けています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling",
+            "cathode"
+          ],
+          "source": {
+            "name": "Recycling International",
+            "date": "2026-11-13",
+            "url": "https://recyclinginternational.com/commodities/battery-recycling/sumitomo-brings-japan-closer-to-battery-to-battery-recycling/65412"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "국내 재활용과 양극재 원료 순환이 진전되면 일본의 배터리 공급망 안정에 도움이 되고, 완성 셀 생산 기반을 지키는 데 간접적으로 도움이 될 수 있습니다.",
+              "en": "Progress in domestic recycling and cathode material loops could help stabilize Japan's battery supply chain, which may indirectly support the cell production base that separator makers depend on.",
+              "ja": "国内リサイクルと正極材原料の循環が進めば、日本の電池サプライチェーンの安定に役立ち、セパレータの需要先であるセル生産基盤を間接的に支える可能性があります。"
+            },
+            "cons": {
+              "ko": "이 설비는 니켈·코발트 등 금속 회수가 중심이라 분리막 사업과의 직접적인 접점은 기사에서 확인되지 않습니다.",
+              "en": "The plant focuses on recovering metals such as nickel and cobalt, and the article shows no direct link to the separator business.",
+              "ja": "この設備はニッケルやコバルトなど金属の回収が中心で、セパレータ事業との直接の接点は記事からは確認できません。"
+            }
+          }
+        },
+        {
+          "id": "veolia-grand-est-battery-recycling-20261112",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "베올리아 프랑스 설비",
+            "en": "Veolia France plant",
+            "ja": "ヴェオリア仏設備"
+          },
+          "title": {
+            "ko": "베올리아, 프랑스에 블랙매스 연 7,000톤 규모 배터리 금속 재활용 설비 가동",
+            "en": "Veolia launches French battery-metals recycling plant with nearly 7,000 tonnes of black mass a year",
+            "ja": "ヴェオリア、仏に年約7,000トンのブラックマスを処理する電池金属リサイクル設備を稼働"
+          },
+          "summary": {
+            "ko": "베올리아는 12일 프랑스 그랑에스트 지역에서 전기차 배터리 금속 재활용 설비를 가동했다고 밝혔습니다(회사 측 발표). 자체 습식 제련 기술로 블랙매스를 연 7,000톤 가까이(배터리 약 2만 톤 상당) 처리하고, 코발트·니켈·구리를 90% 넘게 회수할 수 있다고 합니다. 영국·벨기에·슬로베니아에서도 해체 거점 사업을 준비 중이며, 발표 시점은 48시간을 약간 넘지만 14일에도 후속 보도가 이어졌습니다.",
+            "en": "Veolia said on November 12 that it launched an EV battery-metals recycling plant in France's Grand Est region (company announcement). Using its own hydrometallurgical process, it can handle nearly 7,000 tonnes of black mass a year (about 20,000 tonnes of batteries) and recover over 90% of the cobalt, nickel and copper. It is also developing dismantling projects in the UK, Belgium and Slovenia. The announcement is slightly older than 48 hours, but follow-up coverage continued on November 14.",
+            "ja": "ヴェオリアは12日、フランスのグラン・テスト地域でEV電池の金属リサイクル設備を稼働させたと発表しました（同社発表）。独自の湿式製錬技術で、ブラックマスを年約7,000トン（電池約2万トン相当）処理でき、コバルト・ニッケル・銅を90%超回収できるとしています。英国・ベルギー・スロベニアでも解体拠点の事業を進めています。発表は48時間をやや超えますが、14日にも続報が出ています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "SMM(Shanghai Metals Market)",
+            "date": "2026-11-12",
+            "url": "https://news.metal.com/newscontent/65N3EUHFLPUCDNRIRY2WURG4JXMTG2KFJWLZ4YI-veolia-launches-french-battery-metals-recycling-facility-with-annual-black-mass-capacity-of-nearly-7000-tonnes"
+          },
+          "related": [
+            {
+              "name": "Latin Times: France EV battery recycling projects",
+              "url": "https://www.latintimes.com/france-ev-battery-recycling-projects-stall-601300"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "유럽에서 재활용 체계가 갖춰지면 역내 배터리 공급망 구축이 쉬워지고, 유럽 셀 생산이 이어지는 환경에는 도움이 될 수 있습니다.",
+              "en": "A working recycling chain in Europe could make it easier to build a regional battery supply chain, which may support the environment for European cell production.",
+              "ja": "欧州でリサイクル体制が整えば域内の電池サプライチェーン構築が進みやすくなり、欧州でのセル生産を支える環境につながる可能性があります。"
+            },
+            "cons": {
+              "ko": "회수 대상이 코발트·니켈·구리 등 금속이어서 분리막 수요에 직접 미치는 영향은 거의 없을 것으로 보입니다.",
+              "en": "The recovery targets are metals such as cobalt, nickel and copper, so the direct effect on separator demand appears minimal.",
+              "ja": "回収対象はコバルト・ニッケル・銅などの金属であり、セパレータ需要への直接の影響はほとんどないとみられます。"
+            }
+          }
+        },
+        {
+          "id": "korean-big3-ess-lfp-shift-20261113",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "K-배터리 3사 ESS 전환",
+            "en": "Korean big three's ESS shift",
+            "ja": "韓国電池3社のESSシフト"
+          },
+          "title": {
+            "ko": "배터리 3사, 美 EV 라인을 ESS용 LFP로 전환해 중국 저가 공세 대응",
+            "en": "Korea's big three battery makers convert US EV lines to LFP ESS to counter cheap Chinese rivals",
+            "ja": "韓国電池3社、米EVラインをESS向けLFPへ転換し中国の低価格攻勢に対応"
+          },
+          "summary": {
+            "ko": "13일 보도에 따르면 LG에너지솔루션·삼성SDI·SK온의 올해 1~3분기 합산 매출은 약 42조 원으로 전년보다 25% 늘었습니다(보도 집계). 삼성SDI는 미국 스타플러스에너지 공장의 EV용 각형 라인으로 ESS용 LFP 셀을 양산 중이고, SK온은 조지아 일부 라인을 ESS용 LFP에 쓰며 미국 네오볼타 파워와 9GWh 공급 계약을 맺었다고 합니다. SK온은 추가로 10GWh 이상의 수주를 협의 중이라고 하며, 이는 확정이 아닌 협의 단계입니다.",
+            "en": "A November 13 report says the combined January–September revenue of LG Energy Solution, Samsung SDI and SK On was about 42 trillion won, up 25% from a year earlier (the report's own tally). Samsung SDI is mass-producing LFP ESS cells on EV prismatic lines at its StarPlus Energy plant in the US, and SK On uses part of its Georgia lines for ESS LFP and signed a 9GWh supply deal with Neovolta Power. SK On is reportedly in talks for more than 10GWh of further orders, which are not yet confirmed.",
+            "ja": "13日の報道によると、LGエナジーソリューション、サムスンSDI、SK onの1〜9月の合計売上高は約42兆ウォンで、前年より25%増えました（報道側の集計）。サムスンSDIは米スタープラス・エナジー工場のEV向け角形ラインでESS向けLFPセルを量産中で、SK onはジョージア州の一部ラインをESS向けLFPに使い、米ネオボルタ・パワーと9GWhの供給契約を結んだとされています。SK onは追加で10GWh超の受注を協議中と伝えられていますが、確定ではありません。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi",
+            "skon"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "뉴스톱",
+            "date": "2026-11-13",
+            "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48964"
+          },
+          "related": [
+            {
+              "name": "파이낸셜포스트: K-배터리 3사, ESS 20년 보증…가격 경쟁서 '수명·안전성' 관건",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285763"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "EV 라인을 ESS로 돌려 가동률을 지키면 셀 생산량이 유지되고, 이는 분리막 수요를 떠받치는 요인이 될 수 있습니다. ESS는 긴 수명이 중요해 분리막의 품질과 안전 성능이 평가받을 여지도 있습니다.",
+              "en": "Shifting EV lines to ESS keeps factories busy and cell output steady, which can support separator demand. Because long life matters for ESS, separator quality and safety performance may also be valued.",
+              "ja": "EVラインをESSへ振り向けて稼働率を保てば、セル生産量が維持され、セパレータ需要を支える要因になり得ます。ESSでは長寿命が重視されるため、セパレータの品質や安全性能が評価される余地もあります。"
+            },
+            "cons": {
+              "ko": "중국 업체의 저가 공세 속에서 LFP ESS는 가격 경쟁이 심해 셀 업체의 원가 절감 요구가 분리막 가격에도 이어질 수 있습니다. EV용 고사양 분리막 수요가 ESS로 대체되는 정도는 기사에서 확인되지 않습니다.",
+              "en": "With cheap Chinese competition, LFP ESS is a price-driven market, and cell makers' cost-cutting demands could reach separator prices. The article does not show how far high-spec EV separator demand is being replaced by ESS demand.",
+              "ja": "中国勢の低価格攻勢の中でLFPのESSは価格競争が激しく、セルメーカーのコスト削減要求がセパレータ価格に及ぶ可能性があります。EV向けの高仕様セパレータ需要がESS向けにどの程度置き換わるかは、記事からは確認できません。"
+            }
+          }
+        }
+      ],
+      "edition": 13
+    },
+    {
       "date": "2026-11-15",
       "title": {
         "ko": "팩토리얼 전고체 450Wh/kg 달성, 소듐이온 철망간 양극재 진전, 포항 배터리 엑스포 개막",
