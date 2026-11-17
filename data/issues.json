@@ -1,6 +1,225 @@
 {
   "issues": [
     {
+      "date": "2026-11-17",
+      "title": {
+        "ko": "삼성SDI 美 RE+ 출품, 엠플러스 전고체 장비 수주, 중국 배터리 디지털 ID 도입 추진",
+        "en": "Samsung SDI at RE+, M-Plus wins solid-state equipment order, China plans battery digital IDs",
+        "ja": "サムスンSDIが米RE+に出展、エムプラスが全固体電池装置を受注、中国が電池デジタルID導入へ"
+      },
+      "summary": {
+        "ko": "삼성SDI가 17일부터 미국 RE+ 2026에 ESS·AI 데이터센터용 배터리를 선보입니다. 전고체 조립장비 수주, 반고체 전지 보조배터리 출시, 중국의 배터리 디지털 ID 도입 움직임도 이어졌습니다.",
+        "en": "Samsung SDI is showing ESS and AI data-center batteries at RE+ 2026 in the US from today. Other news includes a solid-state assembly equipment order, a semi-solid power bank launch in Japan, and China's plan for battery digital IDs.",
+        "ja": "サムスンSDIが17日から米国のRE+ 2026でESS・AIデータセンター向け電池を披露します。全固体電池の組立装置の受注、半固体電池モバイルバッテリーの発売、中国の電池デジタルID導入の動きも伝えられました。"
+      },
+      "highlights": {
+        "ko": [
+          "삼성SDI, 17~19일 美 RE+ 2026에서 ESS·UPS용 각형 배터리와 고출력 원통형 배터리 공개 예정",
+          "엠플러스, 글로벌 기업으로부터 200억원대 전고체 배터리 조립장비 수주(회사 측 발표)",
+          "중국, 전기차 배터리 팩 식별코드 등록 등 '디지털 ID' 도입 추진…재활용 유출 대응"
+        ],
+        "en": [
+          "Samsung SDI will show prismatic ESS/UPS batteries and a high-power cylindrical cell at RE+ 2026 (Nov 17–19).",
+          "M-Plus says it won a solid-state battery assembly equipment order worth about 20 billion won from a global company.",
+          "China plans a battery 'digital ID' with pack ID registration, aiming to curb leakage of used EV batteries."
+        ],
+        "ja": [
+          "サムスンSDIが17〜19日のRE+ 2026でESS・UPS向け角形電池と高出力円筒形電池を披露予定です。",
+          "エムプラス（韓国）が、海外企業から約200億ウォン規模の全固体電池組立装置を受注したと発表しました（会社発表）。",
+          "中国は電池パックの識別コード登録など「デジタルID」導入を進め、使用済みEV電池の流出対策を図ります。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "반고체 전지",
+          "en": "Semi-solid-state battery",
+          "ja": "半固体電池"
+        },
+        "desc": {
+          "ko": "전해질을 액체가 아닌 젤(겔) 상태로 만든 전지로, 액체 전해질 전지와 전고체 전지의 중간 형태로 불립니다. 엘레컴은 이 방식으로 사이클 수명이 늘었다고 설명합니다(회사 측 설명).",
+          "en": "A semi-solid-state battery uses a gel-like electrolyte instead of a liquid one, sitting between conventional liquid-electrolyte cells and all-solid-state cells. Elecom says this raises cycle life (company claim).",
+          "ja": "電解液をゲル状にした電池で、液体電解液の電池と全固体電池の中間的な形といわれます。エレコムはこの方式でサイクル寿命が延びたと説明しています（会社側の説明）。"
+        }
+      },
+      "stories": [
+        {
+          "id": "samsungsdi-re-plus-2026-20261117",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "삼성SDI RE+ 2026",
+            "en": "Samsung SDI at RE+",
+            "ja": "サムスンSDI RE+出展"
+          },
+          "title": {
+            "ko": "삼성SDI, 美 RE+ 2026 참가…ESS·AI 데이터센터용 배터리 총출동",
+            "en": "Samsung SDI to exhibit ESS and AI data-center batteries at RE+ 2026 in Las Vegas",
+            "ja": "サムスンSDI、米RE+ 2026に出展…ESS・AIデータセンター向け電池を披露"
+          },
+          "summary": {
+            "ko": "삼성SDI는 17~19일(현지시간) 미국 라스베이거스에서 열리는 북미 최대 신재생에너지 전시회 RE+ 2026에 참가한다고 15일 밝혔습니다. 북미에서 생산하는 ESS용 'SBB 2.0'의 공급을 본격화하고, UPS용 각형 배터리 'U8A3'를 북미에서 처음 공개합니다. 고출력 원통형 배터리도 함께 선보입니다. 안전성 관련 내용은 회사 측 주장입니다.",
+            "en": "Samsung SDI said on Nov 15 that it will join RE+ 2026, North America's largest renewable-energy show, in Las Vegas from Nov 17 to 19 (local time). It will highlight the ramp-up of its North America–made ESS product 'SBB 2.0' and show its 'U8A3' prismatic UPS battery in North America for the first time. A high-power cylindrical battery will also be on display. Safety claims come from the company.",
+            "ja": "サムスンSDIは15日、17〜19日（現地時間）に米ラスベガスで開かれる北米最大の再生可能エネルギー展示会RE+ 2026に出展すると発表しました。北米で生産するESS用「SBB 2.0」の供給本格化を打ち出し、UPS用角形電池「U8A3」を北米で初公開します。高出力の円筒形電池も展示します。安全性に関する内容は会社側の主張です。"
+          },
+          "background": {
+            "ko": "ESS(에너지저장장치)는 재생에너지 발전의 남는 전기를 저장해 필요할 때 쓰는 설비입니다. 최근 AI 데이터센터의 전력 수요가 늘면서 ESS와 UPS(무정전전원장치)용 배터리가 전기차 부진을 보완할 성장 분야로 주목받고 있습니다. 이 전시회에서 발표되는 내용은 대부분 제품 소개이며, 실제 수주·출하 규모는 별도 확인이 필요합니다.",
+            "en": "ESS (energy storage systems) store surplus renewable power for later use. As AI data centers need more electricity, batteries for ESS and UPS (uninterruptible power supply) are drawing attention as a growth area alongside EVs. Much of what is shown at trade fairs is product introduction, so actual order and shipment volumes need separate confirmation.",
+            "ja": "ESS（エネルギー貯蔵システム）は、再生可能エネルギーの余剰電力をためて必要なときに使う設備です。AIデータセンターの電力需要が増えるなか、ESSやUPS（無停電電源装置）向け電池はEVを補う成長分野として注目されています。展示会での発表は製品紹介が中心で、実際の受注・出荷規模は別途確認が必要です。"
+          },
+          "companies": [
+            "samsungsdi"
+          ],
+          "materials": [],
+          "source": {
+            "name": "파이낸셜뉴스",
+            "date": "2026-11-15",
+            "url": "https://www.fnnews.com/news/202611151103099896"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "ESS·데이터센터용 각형 셀 수요가 늘면 셀 한 개당 분리막 사용량이 이어져 분리막 수요에 우호적일 수 있습니다. 북미 생산 확대는 현지 공급 체제를 갖춘 분리막 업체에 기회가 될 수 있습니다.",
+              "en": "Growing demand for prismatic ESS and data-center cells could support separator volumes, since every cell needs one. Expanding North American production may favor separator makers with local supply.",
+              "ja": "ESS・データセンター向け角形セルの需要が増えれば、セルごとに分離膜が必要なため分離膜需要の追い風になる可能性があります。北米での生産拡大は、現地供給体制を持つ分離膜メーカーに機会となる可能性があります。"
+            },
+            "cons": {
+              "ko": "기사만으로는 분리막 조달처가 확인되지 않으며, ESS용은 가격 경쟁이 심해 분리막 단가 인하 압력이 커질 수 있습니다.",
+              "en": "The article does not say who supplies the separators, and price competition in ESS could increase pressure on separator prices.",
+              "ja": "記事からは分離膜の調達先は分かりません。ESS向けは価格競争が激しく、分離膜の価格引き下げ圧力が強まる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "mplus-solid-state-equipment-order-20261116",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "엠플러스 전고체 장비",
+            "en": "M-Plus solid-state order",
+            "ja": "エムプラス 全固体装置"
+          },
+          "title": {
+            "ko": "엠플러스, 글로벌 기업서 200억원대 전고체 배터리 장비 수주",
+            "en": "M-Plus wins ~20 billion won solid-state battery equipment order from global firm",
+            "ja": "エムプラス、海外企業から約200億ウォンの全固体電池装置を受注"
+          },
+          "summary": {
+            "ko": "2차전지 조립장비 업체 엠플러스가 글로벌 기업으로부터 200억원대 전고체 배터리 조립·전극라인 장비를 수주했다고 밝혔습니다(회사 측 발표). 회사는 전고체 조립장비 분야에서 해외 고객 공급 실적을 확보한 점이 의미라고 설명했습니다. 고객사 이름은 확인되지 않았고, 추가 수주는 기대일 뿐 확정이 아닙니다.",
+            "en": "Battery assembly-equipment maker M-Plus said it won an order of about 20 billion won for solid-state battery assembly and electrode line equipment from a global company (company announcement). It called this a first supply record in solid-state assembly equipment for an overseas customer. The customer was not named, and further orders are only hoped for, not confirmed.",
+            "ja": "二次電池の組立装置メーカーのエムプラス（韓国）が、海外企業から約200億ウォン規模の全固体電池の組立・電極ライン装置を受注したと発表しました（会社発表）。同社は、全固体電池の組立装置分野で海外顧客への納入実績を得た点に意義があるとしています。顧客名は確認できず、追加受注はあくまで期待で確定ではありません。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "파이낸셜뉴스",
+            "date": "2026-11-16",
+            "url": "https://www.fnnews.com/news/202611160844070909"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "전고체 장비 투자가 이어지는 것은 차세대 전지 개발이 계속 진행 중임을 보여 주며, 반고체 등 과도기 전지에는 분리막이 계속 쓰일 수 있습니다.",
+              "en": "Continued equipment investment shows next-generation cell development is moving on, and transitional designs such as semi-solid cells may still use separators.",
+              "ja": "全固体電池向け装置への投資が続くことは次世代電池の開発が進んでいる証拠で、半固体など過渡的な電池では分離膜が引き続き使われる可能性があります。"
+            },
+            "cons": {
+              "ko": "전고체 양산이 현실화되면 액체 전해질용 분리막의 필요성이 줄어들 수 있습니다. 다만 이번 수주 규모와 양산 시점은 불분명해 영향은 아직 제한적일 수 있습니다.",
+              "en": "If solid-state cells reach mass production, demand for separators designed for liquid electrolytes could shrink. The order size and production timing are unclear, so the near-term effect may be limited.",
+              "ja": "全固体電池が量産に至れば、液体電解液用の分離膜の必要性が減る可能性があります。ただし今回の規模や量産時期は不明で、短期的な影響は限定的かもしれません。"
+            }
+          }
+        },
+        {
+          "id": "elecom-semi-solid-power-bank-20261117",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "엘레컴 반고체 배터리",
+            "en": "Elecom semi-solid bank",
+            "ja": "エレコム 半固体電池"
+          },
+          "title": {
+            "ko": "엘레컴, 반고체 전지 채용 1만mAh 보조배터리 11월 중순 발売",
+            "en": "Elecom launches 10,000mAh power bank using semi-solid-state battery",
+            "ja": "エレコム、半固体電池採用の1万mAhモバイルバッテリーを発売"
+          },
+          "summary": {
+            "ko": "일본 엘레컴이 반고체 전지를 쓴 용량 1만mAh의 케이블 일체형 보조배터리 'DE-C102-10K'를 11월 중순부터 판매합니다. 예상 가격은 7,480엔입니다. 회사 측은 전해액을 겔 상태로 만들어 화학적 안정성이 높아져 사이클 수명이 기존 리튬이온 전지의 약 500회에서 약 2,000회로 늘었다고 설명합니다.",
+            "en": "Japan's Elecom will sell a 10,000mAh cable-integrated power bank, the 'DE-C102-10K', using a semi-solid-state battery from mid-November. The expected price is 7,480 yen. The company says a gel-like electrolyte improves chemical stability, raising cycle life from about 500 in conventional lithium-ion cells to about 2,000.",
+            "ja": "エレコムは、半固体電池を採用した容量1万mAhのケーブル一体型モバイルバッテリー「DE-C102-10K」を11月中旬から発売します。想定価格は7,480円です。同社は、電解液をゲル状にして化学的安定性が高まり、サイクル寿命が従来のリチウムイオン電池の約500回から約2,000回になったと説明しています。"
+          },
+          "companies": [],
+          "materials": [
+            "electrolyte"
+          ],
+          "source": {
+            "name": "INTERNET Watch",
+            "date": "2026-11-17",
+            "url": "https://internet.watch.impress.co.jp/docs/news/2155863.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "반고체 전지가 소비자 제품에 쓰이면 겔 전해질 계열 셀에서도 분리막 기술이 요구될 가능성이 있습니다.",
+              "en": "As semi-solid cells reach consumer products, gel-electrolyte designs may still call for separator technology.",
+              "ja": "半固体電池が消費者向け製品に使われることで、ゲル電解質系のセルでも分離膜の技術が求められる可能性があります。"
+            },
+            "cons": {
+              "ko": "기사에는 분리막 사용 여부가 나오지 않으며, 소형 보조배터리 단일 제품이라 분리막 사업에 미치는 영향은 크지 않아 보입니다.",
+              "en": "The article does not mention separators, and a single small power bank is unlikely to move the separator business much.",
+              "ja": "記事には分離膜への言及がなく、小型モバイルバッテリー1製品であるため分離膜事業への影響は大きくないとみられます。"
+            }
+          }
+        },
+        {
+          "id": "china-battery-digital-id-recycling-20261117",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 배터리 디지털 ID",
+            "en": "China battery digital ID",
+            "ja": "中国 電池デジタルID"
+          },
+          "title": {
+            "ko": "중국, 전기차 배터리에 '디지털 ID' 도입 추진…사용 후 배터리 비정규 유출 대응",
+            "en": "China moves to introduce 'digital IDs' for EV batteries to curb off-book flow of used packs",
+            "ja": "中国、EV電池に「デジタルID」導入へ…使用済み電池の非正規流出に対応"
+          },
+          "summary": {
+            "ko": "36Kr 재팬 보도에 따르면 중국에서는 차량용 전지의 대량 폐기에 따른 재활용 문제가 심각해지고 있으며, 전지별 '디지털 ID' 도입이 추진되고 있습니다. 자동차 제조사는 차량 형식 인증 관리 시스템에 배터리 팩 식별코드를 등록해야 하고, 제조사·제조일·정격 에너지·보증기간·양극재 종류 등의 정보가 차량 소유자에게 제공됩니다. 도입 예정 내용으로, 시행 세부 사항은 원문 확인이 필요합니다.",
+            "en": "According to 36Kr Japan, China's growing volume of discarded EV batteries is creating recycling problems, and a per-battery 'digital ID' is being introduced. Automakers must register pack ID codes in the vehicle type-approval management system, and owners will get details such as manufacturer, production date, rated energy, warranty period and cathode type. This is a planned measure; implementation details should be checked in the original report.",
+            "ja": "36Kr Japanの報道によると、中国では車載電池の大量廃棄に伴うリサイクル問題が深刻化しており、電池ごとの「デジタルID」導入が進められます。自動車メーカーは車両の型式認証に関する管理システムで電池パックの識別コードを登録する必要があり、メーカー、製造日、定格エネルギー、保証期間、正極材の種類などの情報が車両所有者に提供されます。導入予定の内容で、実施の詳細は原文での確認が必要です。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling",
+            "cathode"
+          ],
+          "source": {
+            "name": "36Kr Japan(Yahoo!ニュース)",
+            "date": "2026-11-17",
+            "url": "https://news.yahoo.co.jp/articles/d5cabf6bb8edce7fc1d567805ef3a2a4af3aa108"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "배터리 이력 관리가 강화되면 재활용 체계가 정비되어 장기적으로 소재 순환과 규제 대응이 쉬워질 수 있습니다.",
+              "en": "Stronger battery traceability may organize recycling and ease material circulation and compliance over the long term.",
+              "ja": "電池の履歴管理が強化されれば、リサイクル体制が整い、中長期的に素材循環や規制対応が進めやすくなる可能性があります。"
+            },
+            "cons": {
+              "ko": "기사 내용은 분리막과 직접 관련이 거의 없으며, 분리막은 회수 소재로서 가치가 낮아 이번 제도의 직접 효과는 제한적일 수 있습니다.",
+              "en": "The report has little direct link to separators, which hold little recovery value, so the direct effect is likely limited.",
+              "ja": "記事は分離膜との直接の関連が薄く、分離膜は回収素材としての価値が低いため、直接的な効果は限定的とみられます。"
+            }
+          }
+        }
+      ],
+      "edition": 14
+    },
+    {
       "date": "2026-11-16",
       "title": {
         "ko": "삼성SDI 미국 ESS용 LFP 16GWh 수주, 서울시 열폭주 실험, 일본 첫 상업 규모 배터리 리사이클",
