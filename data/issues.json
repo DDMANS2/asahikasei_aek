@@ -1,6 +1,374 @@
 {
   "issues": [
     {
+      "date": "2026-11-18",
+      "title": {
+        "ko": "LG엔솔 빠진 韓 ESS 최대 입찰, BYD 12분 충전 시연, 중국 GEM 폐배터리 5만t 처리",
+        "en": "Korea's biggest ESS tender without LG Energy Solution, BYD's 12-minute charging demo, GEM's 50,000 t of battery recycling",
+        "ja": "LGエナジーソリューション不在の韓国ESS最大入札、BYDの12分充電デモ、中国GEMの廃電池5万トン処理"
+      },
+      "summary": {
+        "ko": "정부가 발주한 역대 최대 규모의 국내 ESS 입찰에서 LG에너지솔루션이 빠지면서 삼성SDI와 SK온의 2파전이 됐습니다. 이 밖에 BYD의 저온 급속충전 시연, 중국 GEM의 폐배터리 처리 실적, 베트남의 ESS 가격 상한 등이 전해졌습니다.",
+        "en": "LG Energy Solution has stayed out of Korea's largest-ever government ESS tender, which leaves Samsung SDI and SK On as the two main rivals. Other news includes BYD's cold-weather fast-charging demo, GEM's battery recycling volume in China and Vietnam's first price cap for standalone storage.",
+        "ja": "政府が発注した韓国で過去最大のESS入札にLGエナジーソリューションが参加せず、サムスンSDIとSK onの2社の争いになりました。ほかに、BYDの低温急速充電デモ、中国GEMの廃電池処理実績、ベトナムのESS価格上限なども報じられました。"
+      },
+      "highlights": {
+        "ko": [
+          "국내 제3차 ESS 중앙계약시장 입찰(1.18GW, 약 2조원)은 LG에너지솔루션 불참으로 삼성SDI와 SK온의 경쟁 구도가 됐습니다.",
+          "BYD는 영하 30도 환경에서 12분 만에 잔량 약 10%를 70%까지 충전할 수 있다고 밝혔고, 중국 GEM은 올해 9개월간 폐배터리 5만t 이상을 처리했다고 밝혔습니다.",
+          "베트남은 독립형 ESS의 발전 가격 상한을 처음 정했고, 미국 노스캐롤라이나는 12월 1일부터 리튬이온 배터리의 가정용 쓰레기 배출을 금지합니다."
+        ],
+        "en": [
+          "Korea's third ESS central contract market tender (1.18 GW, about 2 trillion won) is now a contest between Samsung SDI and SK On because LG Energy Solution did not take part.",
+          "BYD says its car can charge from about 10% to 70% in 12 minutes at minus 30°C, and China's GEM says it processed more than 50,000 t of spent batteries in nine months.",
+          "Vietnam set its first price ceiling for standalone battery storage, and North Carolina will ban lithium-ion batteries from household trash from December 1."
+        ],
+        "ja": [
+          "韓国の第3次ESS中央契約市場入札(1.18GW、約2兆ウォン)は、LGエナジーソリューションの不参加でサムスンSDIとSK onの競争になりました。",
+          "BYDはマイナス30度の環境で残量約10%から70%まで12分で充電できると説明し、中国のGEMは今年1〜9月に使用済み電池5万トン超を処理したと発表しました。",
+          "ベトナムは独立型蓄電システムの発電価格上限を初めて定め、米ノースカロライナ州は12月1日からリチウムイオン電池の家庭ごみへの廃棄を禁止します。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP(リン酸鉄リチウム)電池"
+        },
+        "desc": {
+          "ko": "양극재에 리튬인산철을 쓰는 배터리로, 니켈·코발트계보다 열에 안정적인 것으로 평가되고 가격 면에서도 유리해 ESS에 많이 쓰입니다. 에너지 밀도는 일반적으로 낮은 편이라 최근에는 ESS와 보급형 전기차를 중심으로 확대되고 있습니다.",
+          "en": "An LFP battery uses lithium iron phosphate as the cathode material. It is seen as more heat-stable and cheaper than nickel- or cobalt-based types, so it is widely used for energy storage. Its energy density is generally lower, so it is mainly growing in energy storage and lower-priced EVs.",
+          "ja": "LFP電池は、正極材にリン酸鉄リチウムを使う電池です。ニッケル系やコバルト系より熱に安定で価格面でも有利とされ、蓄電システム(ESS)に多く使われます。エネルギー密度は一般に低めのため、ESSや普及価格帯のEVを中心に広がっています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "korea-ess-tender-lges-out-20251118",
+          "category": "biz",
+          "format": "main",
+          "subject": {
+            "ko": "韓 제3차 ESS 입찰",
+            "en": "Korea 3rd ESS tender",
+            "ja": "韓国第3次ESS入札"
+          },
+          "title": {
+            "ko": "LG엔솔 빠진 국내 최대 ESS 입찰, 삼성SDI·SK온 2파전으로",
+            "en": "Korea's biggest ESS tender goes to a Samsung SDI vs SK On race as LG Energy Solution sits out",
+            "ja": "LGエナジー不在の韓国最大ESS入札、サムスンSDIとSK onの一騎打ちに"
+          },
+          "summary": {
+            "ko": "정부가 발주한 제3차 ESS 중앙계약시장 입찰은 1.18GW(약 2조원) 규모로 역대 최대입니다. 보도에 따르면 LG에너지솔루션이 수익성 저하를 이유로 불참했고, 삼성SDI와 SK온이 경쟁하게 됐습니다. 11일 서류 접수가 마감됐으며, 최종 낙찰 물량과 공급가격은 아직 공개되지 않았습니다.",
+            "en": "The third government-run ESS central contract market tender is the largest so far at 1.18 GW (about 2 trillion won). Media reports say LG Energy Solution stayed out because of weak profitability, so Samsung SDI and SK On are the main rivals. Documents were due on November 11, and the awarded volumes and supply prices have not been disclosed yet.",
+            "ja": "政府が発注した第3次ESS中央契約市場入札は1.18GW(約2兆ウォン)で、過去最大規模です。報道によると、LGエナジーソリューションは収益性の低下を理由に参加せず、サムスンSDIとSK onが競うことになりました。書類受付は11日に締め切られ、最終的な落札量と供給価格はまだ公表されていません。"
+          },
+          "background": {
+            "ko": "ESS 중앙계약시장은 정부가 장기 계약으로 ESS 설비를 확보하는 입찰 방식입니다. 앞선 1·2차 입찰에서는 삼성SDI가 누적 629MW로 앞섰고, 2차에서는 SK온이 가장 높은 점유율을 기록했다고 보도됐습니다. 삼성SDI는 NCA 계열 각형 배터리, SK온은 국내 생산 LFP 배터리를 앞세우고 있어 두 방식의 대결로도 주목받습니다.",
+            "en": "The ESS central contract market is a bidding system in which the government secures storage capacity through long-term contracts. In the first two rounds Samsung SDI led with a cumulative 629 MW, and reports say SK On took the biggest share in the second round. Samsung SDI is pushing NCA-type prismatic cells and SK On is pushing domestically made LFP cells, so the tender is also seen as a contest between the two approaches.",
+            "ja": "ESS中央契約市場は、政府が長期契約でESS設備を確保する入札方式です。第1・2次入札ではサムスンSDIが累計629MWで先行し、第2次ではSK onが最も高いシェアを得たと報じられています。サムスンSDIはNCA系の角形電池、SK onは国内生産のLFP電池を前面に出しており、2つの方式の対決としても注目されています。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi",
+            "skon"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "디지털데일리",
+            "date": "2026-11-17",
+            "url": "https://www.ddaily.co.kr/page/view/2026111714434566873"
+          },
+          "related": [
+            {
+              "name": "이투데이: LG엔솔 빠진 역대 최대 ESS 입찰",
+              "url": "https://www.etoday.co.kr/news/view/2646318"
+            },
+            {
+              "name": "톱스타뉴스: 삼성SDI 美 ESS 수주와 국내 2조원 입찰",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16279435"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "역대 최대 규모의 ESS 입찰이어서 낙찰 후 셀 생산이 늘면 NCA계·LFP계 모두 분리막 수요를 받쳐줄 수 있습니다. 국내 셀 업체의 가동률 방어에도 도움이 될 수 있습니다.",
+              "en": "Because this is the largest ESS tender so far, cell output after the award could support separator demand for both NCA and LFP cells. It may also help Korean cell makers keep their plants busy.",
+              "ja": "過去最大規模のESS入札のため、落札後にセル生産が増えれば、NCA系・LFP系のどちらでもセパレータ需要を下支えする可能性があります。韓国セルメーカーの稼働率維持にもつながる可能性があります。"
+            },
+            "cons": {
+              "ko": "분석에서는 두 업체의 저가 입찰 경쟁이 다시 벌어질 수 있다고 봅니다. 셀 가격 압박이 커지면 분리막을 포함한 소재 단가 인하 요구로 이어질 가능성이 있습니다.",
+              "en": "Analysts say the two bidders could again compete on low prices. Stronger pressure on cell prices may lead to requests for lower material prices, including separators.",
+              "ja": "分析では、2社が再び低価格で競う可能性が指摘されています。セル価格への圧力が強まれば、セパレータを含む材料の値下げ要請につながる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "byd-12min-cold-charging-20251118",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "BYD 저온 급속충전",
+            "en": "BYD cold fast charge",
+            "ja": "BYD低温急速充電"
+          },
+          "title": {
+            "ko": "BYD, 영하 30도에서 12분 만에 10%→70% 충전 시연",
+            "en": "BYD shows 10% to 70% charging in 12 minutes at minus 30°C",
+            "ja": "BYD、マイナス30度で12分間に10%→70%の充電をデモ"
+          },
+          "summary": {
+            "ko": "BYD 관계자는 영하 30도 저온실에서 24시간 이상 식힌 전기차를 12분 만에 잔량 약 10%에서 70%까지 충전할 수 있다고 설명했습니다. 이는 회사 측 설명이며, 현장에서는 배터리 관통 시험도 함께 진행됐다고 합니다.",
+            "en": "A BYD representative said a car cooled for more than 24 hours in a minus 30°C chamber can be charged from about 10% to 70% in 12 minutes. This is the company's own claim, and a battery penetration test was also being run on site.",
+            "ja": "BYD関係者は、マイナス30度の低温室に24時間以上置いて冷やした電気自動車を、12分で残量約10%から70%まで充電できると説明しました。これは同社の説明で、現場では電池の貫通試験も行われていたとのことです。"
+          },
+          "companies": [
+            "byd"
+          ],
+          "materials": [],
+          "source": {
+            "name": "이데일리",
+            "date": "2026-11-17",
+            "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04949526645646704"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "고출력 충전과 저온 환경에서는 발열·안전 요구가 높아져 내열성과 품질이 높은 분리막의 중요성이 커질 수 있습니다.",
+              "en": "High-power charging and cold-weather use raise heat and safety demands, which could make heat-resistant, high-quality separators more important.",
+              "ja": "高出力充電や低温環境では発熱・安全への要求が高まり、耐熱性や品質の高いセパレータの重要性が増す可能性があります。"
+            },
+            "cons": {
+              "ko": "BYD의 급속충전 기술이 알려져도 어떤 분리막이 쓰였는지는 기사에서 확인되지 않아, 아사히카세이의 수요로 직결된다고 보기는 어렵습니다. 중국 셀 업체와의 기술 경쟁이 심해질 수도 있습니다.",
+              "en": "The article does not say which separators are used, so it is hard to link this directly to demand for Asahi Kasei. Technology competition with Chinese cell makers could also intensify.",
+              "ja": "記事ではどのセパレータが使われているかは確認できず、旭化成の需要に直結するとは言いにくい状況です。中国セルメーカーとの技術競争が激しくなる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "gem-recycling-50000t-20251118",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 GEM 재활용",
+            "en": "China's GEM recycling",
+            "ja": "中国GEMのリサイクル"
+          },
+          "title": {
+            "ko": "중국 GEM, 올해 9개월간 폐배터리 5만t 이상 처리",
+            "en": "China's GEM processed over 50,000 t of spent batteries in nine months",
+            "ja": "中国GEM、今年1〜9月に使用済み電池5万トン超を処理"
+          },
+          "summary": {
+            "ko": "중국 재활용 기업 GEM이 2026년 첫 9개월 동안 사용후 전력 배터리 5만t 이상을 처리했다고 밝혔습니다. 중국 매체 가스구 보도를 인용한 한국 매체 기사에 따르면, 완성차 업계는 회수·재활용을 포함한 순환형 공급망을 추진하고 있습니다. 다만 IEA는 재활용 산업이 아직 제조 공정에서 나오는 폐기물에 크게 의존한다고 분석했습니다.",
+            "en": "China's recycler GEM says it processed more than 50,000 t of spent power batteries in the first nine months of 2026. A Korean report citing the Chinese outlet Gasgoo says carmakers are moving toward circular supply chains that include collection and recycling. The IEA notes, however, that the recycling industry still relies heavily on waste from manufacturing.",
+            "ja": "中国のリサイクル企業GEMは、2026年1〜9月に使用済み動力電池5万トン超を処理したと発表しました。中国メディアGasgooの報道を引用した韓国メディアの記事によると、自動車業界は回収・リサイクルを含む循環型サプライチェーンを進めています。ただしIEAは、リサイクル産業はまだ製造工程で出る廃棄物に大きく依存していると分析しています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "글로벌이코노믹(가스구 보도 인용)",
+            "date": "2026-11-18",
+            "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111804355286832bd56fbc3c_1"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "재활용 확대는 폐전지 처리 인프라를 키워 업계의 지속가능성 요구에 대응하는 데 도움이 되지만, 분리막 사업에 미치는 직접 영향은 크지 않습니다.",
+              "en": "More recycling builds end-of-life infrastructure and helps the industry meet sustainability demands, but the direct effect on the separator business looks small.",
+              "ja": "リサイクル拡大は使用済み電池の処理基盤を整え、業界の持続可能性への要請に応えるうえで役立ちますが、セパレータ事業への直接的な影響は小さいと見られます。"
+            },
+            "cons": {
+              "ko": "회수 대상은 주로 금속 자원이어서 불리한 점도 거의 없습니다.",
+              "en": "Recovery focuses mainly on metals, so there is little direct downside either.",
+              "ja": "回収の対象は主に金属資源のため、直接の不利な点もほとんどありません。"
+            }
+          }
+        },
+        {
+          "id": "moment-energy-nova-20251118",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "Moment Energy Nova",
+            "en": "Moment Energy Nova",
+            "ja": "Moment Energy「Nova」"
+          },
+          "title": {
+            "ko": "미 Moment Energy, 재사용 EV 배터리 활용한 ESS 'Nova' 공개",
+            "en": "Moment Energy unveils 'Nova', a storage system built from repurposed EV batteries",
+            "ja": "米Moment Energy、再利用EV電池を使う蓄電システム「Nova」を発表"
+          },
+          "summary": {
+            "ko": "Moment Energy가 17일 미국 RE+ 전시회에서 사용 후 전기차 배터리를 재활용한 차세대 ESS 'Nova'를 공개했습니다. 회사 측 발표에 따르면 노후한 배터리 팩만 교체할 수 있는 구조여서 전체 시스템을 바꿀 필요가 없습니다. 회사는 UL 인증 취득도 언급했습니다.",
+            "en": "On November 17 at the RE+ show in the US, Moment Energy unveiled Nova, a next-generation storage system made from used EV batteries. The company says its design lets operators replace only aging battery packs instead of the whole system. The company also mentioned UL certification.",
+            "ja": "Moment Energyは17日、米国のRE+展示会で、使用済みEV電池を再利用した次世代蓄電システム「Nova」を発表しました。同社の発表によると、劣化した電池パックだけを交換できる構造で、システム全体を入れ替える必要がありません。同社はUL認証の取得にも触れています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "Moment Energy(GlobeNewswire 보도자료)",
+            "date": "2026-11-17",
+            "url": "https://www.globenewswire.com/news-release/2026/11/17/3404673/0/en/moment-energy-unveils-nova-the-next-generation-battery-energy-storage-system-made-from-ev-batteries.html"
+          },
+          "related": [
+            {
+              "name": "Manila Times(보도자료 전재)",
+              "url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/moment-energy-unveils-nova-the-next-generation-battery-energy-storage-system-made-from-ev-batteries/2472196"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "재사용 배터리 시장이 커져도 그 안의 셀에는 분리막이 쓰이므로, 안전·신뢰성 관점에서 고품질 분리막의 가치가 부각될 수 있습니다.",
+              "en": "Repurposed packs still contain separators, so a growing second-life market could highlight the value of high-quality separators for safety and reliability.",
+              "ja": "再利用電池市場が広がっても、その中のセルにはセパレータが使われるため、安全性・信頼性の面で高品質セパレータの価値が注目される可能性があります。"
+            },
+            "cons": {
+              "ko": "재사용 ESS가 늘면 신품 셀 수요 일부를 대체할 가능성이 있으나, 이 기사만으로 그 규모를 판단하기는 어렵습니다.",
+              "en": "Wider use of second-life storage could replace some demand for new cells, but this article alone does not show how large that effect would be.",
+              "ja": "再利用ESSが増えれば新品セル需要の一部を代替する可能性はありますが、この記事だけではその規模は判断できません。"
+            }
+          }
+        },
+        {
+          "id": "vietnam-bess-price-cap-20251118",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "베트남 ESS 가격 상한",
+            "en": "Vietnam BESS price cap",
+            "ja": "ベトナムESS価格上限"
+          },
+          "title": {
+            "ko": "베트남, 독립형 ESS의 발전 가격 상한을 처음 확정",
+            "en": "Vietnam sets its first price ceiling for standalone battery storage",
+            "ja": "ベトナム、独立型蓄電システムの発電価格上限を初めて決定"
+          },
+          "summary": {
+            "ko": "베트남 산업통상부가 11일 서명한 결정으로 독립형 계통연계 ESS의 최대 발전 가격을 kWh당 3,209.98동(부가세 제외, 약 0.125달러)으로 정했습니다. 결정은 즉시 시행됐습니다. 가격 산정에는 최소 8,000회 충방전과 연간 용량 열화 2% 이하라는 가정이 쓰였습니다.",
+            "en": "A decision signed on November 11 by Vietnam's Ministry of Industry and Trade sets the maximum generation price for standalone grid-connected storage at VND 3,209.98 per kWh, excluding VAT (about $0.125). It took effect immediately. The calculation assumes at least 8,000 charge-discharge cycles and annual capacity loss of no more than 2%.",
+            "ja": "ベトナム商工省が11日に署名した決定で、独立型の系統接続蓄電システムの最大発電価格が、1kWhあたり3,209.98ドン(付加価値税別、約0.125ドル)と定められました。決定は直ちに施行されました。価格の算定には、最低8,000回の充放電と年間容量劣化2%以下という前提が使われています。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "ESS News",
+            "date": "2026-11-17",
+            "url": "https://www.ess-news.com/2026/11/17/vietnam-finalizes-2026-storage-pricing-under-two-part-tariff-as-curtailment-pressure-grows/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "독립형 ESS의 가격 체계가 갖춰지면 동남아에서 ESS 프로젝트가 늘어 셀 수요가 커질 가능성이 있습니다. 8,000회 이상 사이클 가정은 수명과 신뢰성이 높은 셀 부품의 가치를 높일 수 있습니다.",
+              "en": "A clear pricing framework could lead to more storage projects in Southeast Asia and more cell demand. The assumption of 8,000+ cycles could raise the value of long-life, reliable cell components.",
+              "ja": "独立型ESSの価格枠組みが整えば、東南アジアでESS案件が増え、セル需要が伸びる可能性があります。8,000回以上のサイクルという前提は、長寿命で信頼性の高いセル部材の価値を高める可能性があります。"
+            },
+            "cons": {
+              "ko": "가격 상한이 있으면 사업자가 시스템 원가를 낮추려 해 저가 셀 중심의 조달로 기울 수 있고, 이는 소재 가격 압박으로 이어질 가능성이 있습니다.",
+              "en": "A price ceiling may push developers to cut system costs and favor low-cost cells, which could add pressure on material prices.",
+              "ja": "価格上限があると、事業者がシステムコストを抑えようとして低価格セル中心の調達に傾く可能性があり、材料価格への圧力につながるかもしれません。"
+            }
+          }
+        },
+        {
+          "id": "cobalt-outlook-memory-chip-20251118",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "코발트 수요 전망",
+            "en": "Cobalt demand outlook",
+            "ja": "コバルト需要見通し"
+          },
+          "title": {
+            "ko": "메모리 반도체 가격 급등이 전자기기 수요를 눌러 코발트 전망 악화",
+            "en": "Soaring memory chip costs dim cobalt outlook by hurting gadget demand",
+            "ja": "メモリ半導体の高騰が電子機器需要を圧迫、コバルトの見通しが悪化"
+          },
+          "summary": {
+            "ko": "블룸버그는 AI 수요로 메모리 반도체 가격이 오르면서 스마트폰 등 전자기기 판매가 눌리고 있고, 그 영향으로 중국의 코발트 수요가 약해지고 있다고 전했습니다. 세계 코발트 대부분은 중국에서 정제되며, 그중 약 4분의 1이 휴대기기용 배터리의 코발트산리튬(LCO)이 된다고 합니다.",
+            "en": "Bloomberg reports that soaring memory chip prices, driven by AI demand, are hurting sales of smartphones and other gadgets, and that this is weakening Chinese demand for cobalt. Most of the world's cobalt is refined in China, and about a quarter of that goes into lithium cobalt oxide (LCO) for portable-device batteries.",
+            "ja": "ブルームバーグは、AI需要でメモリ半導体の価格が上がりスマートフォンなど電子機器の販売が圧迫され、その影響で中国のコバルト需要が弱まっていると伝えました。世界のコバルトの大半は中国で精製され、そのうち約4分の1が携帯機器向け電池のコバルト酸リチウム(LCO)になるとされています。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "Bloomberg",
+            "date": "2026-11-17",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "EV·ESS용 배터리는 코발트 비중이 낮은 LFP 등으로도 확대되고 있어, 이번 소비자 전자기기 부진이 분리막의 주력 수요 전체를 흔든다고 보기는 어렵습니다.",
+              "en": "EV and ESS batteries are also growing with low-cobalt types such as LFP, so weak consumer electronics alone is unlikely to shake the core of separator demand.",
+              "ja": "EV・ESS向け電池はコバルト比率の低いLFPなどでも拡大しており、今回の消費者向け電子機器の不振だけでセパレータの主力需要全体が揺らぐとは考えにくいです。"
+            },
+            "cons": {
+              "ko": "스마트폰·태블릿 등 소형 전지 수요가 약해지면 소형 셀용 분리막 출하에 부담이 될 수 있습니다.",
+              "en": "Weaker demand for small cells in phones and tablets could weigh on separator shipments for small-format cells.",
+              "ja": "スマートフォンやタブレットなど小型電池の需要が弱まれば、小型セル向けセパレータの出荷に重荷となる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "north-carolina-li-ion-trash-ban-20251118",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "美 노스캐롤라이나 법",
+            "en": "North Carolina law",
+            "ja": "米ノースカロライナ州法"
+          },
+          "title": {
+            "ko": "미 노스캐롤라이나, 12월 1일부터 리튬이온 배터리 가정용 쓰레기 배출 금지",
+            "en": "North Carolina bans lithium-ion batteries in household trash from December 1",
+            "ja": "米ノースカロライナ州、12月1日からリチウムイオン電池の家庭ごみ廃棄を禁止"
+          },
+          "summary": {
+            "ko": "노스캐롤라이나주 소방청에 따르면 2026년 12월 1일부터 리튬이온 배터리를 가정용 쓰레기와 지자체 매립지에 버리는 것이 법으로 금지됩니다. 화재를 막기 위한 조치이며, 소방청은 주민에게 지정된 수거 프로그램이나 유해폐기물 수거 시설을 이용하라고 권고했습니다.",
+            "en": "According to the North Carolina Office of State Fire Marshal, a new law from December 1, 2026 bans throwing lithium-ion batteries into household trash and municipal landfills. It aims to prevent fires, and the office urges residents to use approved battery recycling programs or hazardous waste collection sites.",
+            "ja": "ノースカロライナ州消防局によると、2026年12月1日からリチウムイオン電池を家庭ごみや自治体の埋立地に捨てることが法律で禁止されます。火災を防ぐための措置で、同局は住民に、認定された回収プログラムや有害廃棄物の回収施設を使うよう呼びかけています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "WCTI12",
+            "date": "2026-11-17",
+            "url": "https://wcti12.com/news/local/new-nc-law-bans-lithium-ion-batteries-from-household-trash-starting-dec-1"
+          },
+          "related": [
+            {
+              "name": "WXII12: 노스캐롤라이나 신법 관련 보도",
+              "url": "https://www.wxii12.com/article/nc-law-bans-lithium-batteries-in-trash-landfills/74455294"
+            }
+          ],
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "전지 화재에 대한 사회적 관심이 이어지는 가운데, 안전성을 높이는 분리막의 역할이 다시 주목받을 수 있습니다.",
+              "en": "As public attention to battery fires continues, the role of separators in improving safety could draw renewed attention.",
+              "ja": "電池火災への社会的関心が続くなか、安全性を高めるセパレータの役割が改めて注目される可能性があります。"
+            },
+            "cons": {
+              "ko": "폐기·수거 규제 자체는 분리막 수요에 직접 영향을 주지 않아 불리한 점은 거의 없습니다.",
+              "en": "A disposal rule does not directly affect separator demand, so there is little direct downside.",
+              "ja": "廃棄・回収の規制自体はセパレータ需要に直接影響しないため、不利な点はほとんどありません。"
+            }
+          }
+        }
+      ],
+      "edition": 15
+    },
+    {
       "date": "2026-11-17",
       "title": {
         "ko": "삼성SDI 美 RE+ 출품, 엠플러스 전고체 장비 수주, 중국 배터리 디지털 ID 도입 추진",
