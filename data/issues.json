@@ -1,6 +1,327 @@
 {
   "issues": [
     {
+      "date": "2026-11-19",
+      "title": {
+        "ko": "포드 미국산 LFP 셀 첫 출하, LG엔솔 미국 전고체 특허, 삼성SDI ESS용 AI 화재 예방",
+        "en": "Ford ships first US-made LFP cells, LGES wins US solid-state patent, Samsung SDI adds AI fire prevention to ESS",
+        "ja": "フォード米国産LFPセル初出荷、LGエナジーソリューションの米国全固体特許、サムスンSDIがESSにAI火災予防"
+      },
+      "summary": {
+        "ko": "포드가 CATL 기술 라이선스로 만든 LFP 각형 셀을 미국 미시간 공장에서 처음 출하했습니다. LG에너지솔루션의 미국 전고체 특허 등록, 포스코그룹의 CATL 리튬 공급 계약, 삼성SDI의 ESS용 AI 화재 예방 소프트웨어 발표도 이어졌습니다.",
+        "en": "Ford began shipping the first LFP prismatic cells made at its Michigan plant with technology licensed from CATL. LG Energy Solution's US solid-state patent, POSCO Group's lithium supply deal with CATL and Samsung SDI's AI fire-prevention software for ESS also made news.",
+        "ja": "フォードがCATLの技術ライセンスで作ったLFP角形セルを、米ミシガン工場から初めて出荷しました。LGエナジーソリューションの米国全固体特許登録、ポスコグループとCATLのリチウム供給契約、サムスンSDIのESS向けAI火災予防ソフトの発表も続きました。"
+      },
+      "highlights": {
+        "ko": [
+          "포드가 미시간 공장에서 CATL 라이선스 기술로 만든 LFP 셀의 첫 출하를 시작했습니다(회사 측 발표).",
+          "LG에너지솔루션이 미국에서 전고체 전지 특허를 등록했고, 중국 GEM은 전고체용 양극재 톤 단위 출하를 밝혔습니다.",
+          "포스코그룹은 CATL과 리튬 3년 공급 계약을, 삼성SDI는 ESS용 AI 화재 예방 소프트웨어를 발표했습니다."
+        ],
+        "en": [
+          "Ford said it has started shipping the first LFP cells made at its Michigan plant using CATL-licensed technology.",
+          "LG Energy Solution registered a US solid-state battery patent, and China's GEM said it shipped tonne-scale cathode material for solid-state cells.",
+          "POSCO Group announced a three-year lithium supply deal with CATL, and Samsung SDI announced AI fire-prevention software for ESS."
+        ],
+        "ja": [
+          "フォードが、CATLのライセンス技術で作ったLFPセルをミシガン工場から初出荷したと発表しました(同社発表)。",
+          "LGエナジーソリューションが米国で全固体電池の特許を登録し、中国のGEMは全固体向け正極材のトン単位出荷を明らかにしました。",
+          "ポスコグループはCATLとリチウム3年供給契約を、サムスンSDIはESS向けAI火災予防ソフトを発表しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 전지",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP(リン酸鉄リチウム)電池"
+        },
+        "desc": {
+          "ko": "양극재에 철과 인산염을 쓰는 리튬이온 전지로, 니켈·코발트를 쓰지 않아 상대적으로 싸고 안전성이 높은 편입니다. 전기차 보급형 모델과 에너지저장장치(ESS)에 많이 쓰입니다.",
+          "en": "An LFP battery uses iron and phosphate in its cathode instead of nickel and cobalt, so it is generally cheaper and considered safer. It is widely used in budget EVs and energy storage systems (ESS).",
+          "ja": "正極材に鉄とリン酸塩を使うリチウムイオン電池で、ニッケルやコバルトを使わないため比較的安価で、安全性も高いとされます。普及価格帯のEVや定置用蓄電システム(ESS)で広く使われています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "ford-michigan-lfp-first-cells-20261118",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "포드 미시간 LFP 셀",
+            "en": "Ford Michigan LFP cells",
+            "ja": "フォードのLFPセル"
+          },
+          "title": {
+            "ko": "포드, 미시간 공장에서 CATL 라이선스 LFP 셀 첫 출하",
+            "en": "Ford ships first LFP cells from Michigan plant using CATL-licensed technology",
+            "ja": "フォード、ミシガン工場でCATLライセンスのLFPセルを初出荷"
+          },
+          "summary": {
+            "ko": "포드가 미시간주 마샬 공장에서 만든 LFP 각형 셀의 첫 출하를 시작했다고 밝혔습니다. 셀은 켄터키주 루이빌 조립공장으로 보내져 신형 전기 픽업 '페이텀' 시제품에 쓰입니다. 포드는 니켈·코발트를 쓰지 않아 기존 셀보다 저렴하다고 설명했습니다.",
+            "en": "Ford said it has begun shipping the first LFP prismatic cells made at its Marshall, Michigan plant. The cells go to the Louisville Assembly Plant in Kentucky for prototypes of its new Fathom electric pickup. Ford says they cost less because they use no nickel or cobalt.",
+            "ja": "フォードは、ミシガン州マーシャル工場で作ったLFP角形セルの初出荷を始めたと明らかにしました。セルはケンタッキー州ルイビルの組立工場に送られ、新型電動ピックアップ「ファゾム」の試作車に使われます。フォードは、ニッケルとコバルトを使わないため従来のセルより安いと説明しています。"
+          },
+          "background": {
+            "ko": "포드는 이 계약을 합작사가 아닌 '제한적 기술 라이선스 및 서비스 계약'이라고 설명하며, 공장은 포드가 전액 소유합니다. 회사 측은 생산 라인이 분당 40셀을 만들 수 있다고 밝혔습니다. 한편 미 교통장관이 9월 초 보낸 서한에서 외국 적대국 기술 의존에 우려를 표한 것으로 보도되는 등 정치적 논란도 있습니다.",
+            "en": "Ford calls the deal a limited technology-licensing and services agreement, not a joint venture, and says it fully owns the plant. The company says the lines can make 40 cells per minute. Reports also note political controversy, including a September letter from the US Transportation Secretary raising concern about reliance on foreign-adversary technology.",
+            "ja": "フォードはこの契約を合弁ではなく「限定的な技術ライセンス・サービス契約」と説明し、工場は同社が全額所有しています。同社は生産ラインが毎分40セルを作れるとしています。一方、米運輸長官が9月初めの書簡で外国の敵対国技術への依存に懸念を示したと報じられるなど、政治的な論争もあります。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "UPI",
+            "date": "2026-11-18",
+            "url": "https://www.upi.com/Top_News/US/2026/11/18/michigan-lfp-batteries/7811795033924"
+          },
+          "related": [
+            {
+              "name": "CarNewsChina: Ford bets on CATL know-how",
+              "url": "https://carnewschina.com/2026/11/19/ford-bets-on-catl-know-how-to-bring-cheap-lfp-batteries-to-u-s-evs/"
+            },
+            {
+              "name": "Yahoo Finance: Ford is 'officially in the battery business'",
+              "url": "https://finance.yahoo.com/markets/stocks/article/ford-is-officially-in-the-battery-business-as-its-first-fathom-cells-ship--built-on-chinese-tech-185120961.html"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "미국 내 LFP 셀 생산이 본격화되면 북미 현지의 분리막 수요가 늘어날 수 있습니다. 현지 공급이 가능한 분리막 업체에는 기회가 될 가능성이 있습니다.",
+              "en": "Local LFP cell production in the US could add to North American separator demand. Separator makers able to supply locally may find opportunities.",
+              "ja": "米国内でLFPセル生産が本格化すれば、北米の分離膜需要が増える可能性があります。現地供給できる分離膜メーカーには機会になる可能性があります。"
+            },
+            "cons": {
+              "ko": "기사에는 분리막 조달처가 나와 있지 않으며, CATL 기술 기반이라 공급망이 기존 CATL 계열 업체 중심으로 구성될 가능성도 있습니다. 정치적 논란이 커지면 사업 계획이 흔들릴 수도 있습니다.",
+              "en": "The reports do not name a separator supplier, and a CATL-based design may lead to a supply chain built around CATL's usual partners. Growing political scrutiny could also affect the project.",
+              "ja": "記事には分離膜の調達先が書かれておらず、CATL技術ベースのため供給網が従来のCATL系取引先中心になる可能性もあります。政治的な論争が強まれば計画に影響することも考えられます。"
+            }
+          }
+        },
+        {
+          "id": "lges-us-solid-state-patent-20261119",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "LG엔솔 전고체 특허",
+            "en": "LGES solid-state patent",
+            "ja": "LGESの全固体特許"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 미국에서 전고체 전지 특허 등록",
+            "en": "LG Energy Solution registers solid-state battery patent in the US",
+            "ja": "LGエナジーソリューション、米国で全固体電池の特許を登録"
+          },
+          "summary": {
+            "ko": "업계와 미국 특허청 자료를 인용한 보도에 따르면 LG에너지솔루션은 17일 '전고체 리튬 이차전지 및 그 제조 방법' 특허를 등록했습니다. 양극과 음극 사이에 고체 전해질을 두는 구조입니다. 같은 기사는 삼성SDI·SK온이 2027~2029년 양산을 목표로 하고, CATL·도요타도 주도권 경쟁에 나서고 있다고 전했습니다.",
+            "en": "Citing industry and US Patent Office data, a report says LG Energy Solution registered a patent titled for a solid-state lithium secondary battery and its manufacturing method on the 17th. It places a solid electrolyte between the cathode and anode. The article adds that Samsung SDI and SK On target mass production in 2027–2029, while CATL and Toyota also compete for the lead.",
+            "ja": "業界や米特許庁の資料を引用した報道によると、LGエナジーソリューションは17日に全固体リチウム二次電池とその製造方法の特許を登録しました。正極と負極の間に固体電解質を置く構造です。同記事は、サムスンSDIとSK onが2027〜2029年の量産を目指し、CATLやトヨタも主導権を争っていると伝えています。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi",
+            "skon",
+            "catl",
+            "toyota"
+          ],
+          "materials": [
+            "solidstate",
+            "electrolyte"
+          ],
+          "source": {
+            "name": "한국신용신문",
+            "date": "2026-11-19",
+            "url": "https://www.creditnews.kr/news/articleView.html?idxno=32706"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "특허 등록은 양산 확정이 아니며, 당분간은 액체 전해질 기반 리튬이온 전지가 시장의 중심으로 남을 가능성이 큽니다. 그동안 분리막 수요는 유지될 수 있습니다.",
+              "en": "A patent is not a mass-production decision, and liquid-electrolyte lithium-ion cells are likely to remain mainstream for now. Separator demand could hold up in the meantime.",
+              "ja": "特許登録は量産決定ではなく、当面は液系電解質のリチウムイオン電池が主流であり続ける可能性が高いです。その間、分離膜需要は維持される可能性があります。"
+            },
+            "cons": {
+              "ko": "전고체 전지는 고체 전해질이 분리막 역할을 대신하는 구조가 많아, 장기적으로 분리막 필요성이 줄 수 있습니다. 대형 셀 업체들의 개발 경쟁은 이런 전환 가능성을 보여 줍니다.",
+              "en": "Many solid-state designs use the solid electrolyte in place of a separator, so long-term separator needs could shrink. The race among major cell makers points to this possible shift.",
+              "ja": "全固体電池は固体電解質が分離膜の役割を担う設計が多く、長期的には分離膜の必要性が減る可能性があります。大手セルメーカーの開発競争は、その転換の可能性を示しています。"
+            }
+          }
+        },
+        {
+          "id": "gem-solid-state-cathode-tonne-shipment-20261119",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "GEM 전고체용 양극재",
+            "en": "GEM solid-state cathode",
+            "ja": "GEMの全固体向け正極材"
+          },
+          "title": {
+            "ko": "중국 GEM, 전고체용 양극재 톤 단위 상용 출하 달성 주장",
+            "en": "China's GEM says it has shipped tonne-scale cathode material for solid-state batteries",
+            "ja": "中国GEM、全固体向け正極材のトン単位出荷を達成と説明"
+          },
+          "summary": {
+            "ko": "중국 전구체·재활용 기업 GEM(格林美)이 전고체 배터리용 핵심 양극재에서 기술적 돌파구를 마련했고 톤 단위 상용 출하를 이뤘다고 밝혔습니다. 17일 투자자 소통 플랫폼 답변을 통해 알려진 회사 측 발표로, 독립적으로 검증된 내용은 아닙니다. 폐기물 재활용부터 전구체·양극재까지 잇는 순환형 밸류체인을 강점으로 내세웠습니다.",
+            "en": "China's GEM, a precursor and recycling company, says it achieved a technical breakthrough in a key cathode material for solid-state batteries and made tonne-scale commercial shipments. This is the company's own statement on an investor platform on the 17th, and it is not independently verified. GEM stressed its circular value chain from waste recycling to precursor and cathode production.",
+            "ja": "中国の前駆体・リサイクル企業GEM(格林美)は、全固体電池向けの主要な正極材で技術的な進展があり、トン単位の商業出荷を達成したと明らかにしました。17日の投資家向けプラットフォームでの回答で示された同社発表で、第三者による検証はされていません。廃棄物リサイクルから前駆体・正極材までつなぐ循環型バリューチェーンを強みとしています。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "cathode",
+            "recycling"
+          ],
+          "source": {
+            "name": "더구루",
+            "date": "2026-11-19",
+            "url": "https://www.theguru.co.kr/news/article.html?no=109912"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "톤 단위는 아직 시험·소량 단계로 보여, 전고체가 곧바로 시장을 바꾼다고 보기는 어렵습니다. 당분간 기존 리튬이온 전지용 분리막 수요에 미치는 영향은 제한적일 수 있습니다.",
+              "en": "Tonne-scale shipments look like an early, small-volume stage, so solid-state is unlikely to reshape the market right away. The near-term effect on demand for separators in current lithium-ion cells may be limited.",
+              "ja": "トン単位は試験・少量段階とみられ、全固体がすぐ市場を変えるとは考えにくいです。当面、既存リチウムイオン電池向け分離膜需要への影響は限定的な可能性があります。"
+            },
+            "cons": {
+              "ko": "중국 소재 업체의 전고체 소재 개발이 빨라지면 차세대 전지로의 전환 압력이 커질 수 있습니다. 분리막이 필요 없는 구조가 확대되면 장기 수요에 부담이 될 가능성이 있습니다.",
+              "en": "Faster solid-state materials work by Chinese suppliers could raise pressure toward next-generation cells. If designs that need no separator spread, long-term demand could come under pressure.",
+              "ja": "中国の素材メーカーの全固体素材開発が加速すれば、次世代電池への転換圧力が高まる可能性があります。分離膜を必要としない構造が広がれば、長期需要の負担になるかもしれません。"
+            }
+          }
+        },
+        {
+          "id": "posco-catl-lithium-supply-20261118",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "포스코그룹-CATL 리튬",
+            "en": "POSCO Group–CATL lithium",
+            "ja": "ポスコ・CATLリチウム"
+          },
+          "title": {
+            "ko": "포스코그룹, CATL과 2026~2028년 리튬 공급 계약",
+            "en": "POSCO Group signs lithium supply deal with CATL for 2026–2028",
+            "ja": "ポスコグループ、CATLと2026〜2028年のリチウム供給契約"
+          },
+          "summary": {
+            "ko": "포스코그룹은 2026년부터 2028년까지 3년간 CATL에 전기차 배터리용 리튬을 공급하는 계약을 맺었다고 18일 밝혔습니다. 회사 측에 따르면 공급은 이미 진행 중입니다. 계약 규모는 보도에서 확인되지 않았습니다.",
+            "en": "POSCO Group said on the 18th that it signed a contract to supply lithium for EV batteries to CATL for three years, 2026 to 2028. The company says supply is already under way. The contract value was not given in the report.",
+            "ja": "ポスコグループは18日、2026年から2028年までの3年間、CATLにEV電池用リチウムを供給する契約を結んだと発表しました。同社によると供給はすでに始まっています。契約規模は報道では確認できませんでした。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "아시아경제",
+            "date": "2026-11-18",
+            "url": "https://view.asiae.co.kr/article/2026111816020047950"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "리튬 공급 계약이라 분리막 사업에 직접적인 영향은 거의 없습니다. 다만 CATL의 생산 기반이 이어진다는 점은 배터리 수요 측면의 간접 신호로 볼 수 있습니다.",
+              "en": "This is a lithium supply deal, so it has little direct effect on the separator business. It can be read as an indirect sign that CATL's production base continues.",
+              "ja": "リチウム供給契約であり、分離膜事業への直接の影響はほぼありません。ただCATLの生産基盤が続くことを示す間接的なシグナルとは言えます。"
+            },
+            "cons": {
+              "ko": "원료 조달이 안정되면 CATL의 비용 경쟁력이 유지될 수 있어, 분리막 시장의 가격 경쟁 환경은 이어질 가능성이 있습니다.",
+              "en": "Stable raw material supply may help CATL keep its cost edge, so price competition in the separator market could continue.",
+              "ja": "原料調達が安定すればCATLのコスト競争力が保たれ、分離膜市場の価格競争が続く可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "samsung-sdi-ai-fire-prevention-ess-20261119",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "삼성SDI ESS AI 화재예방",
+            "en": "Samsung SDI ESS AI safety",
+            "ja": "サムスンSDI ESS AI火災予防"
+          },
+          "title": {
+            "ko": "삼성SDI, ESS 배터리에 AI 화재 예방 소프트웨어 적용",
+            "en": "Samsung SDI adds AI fire-prevention software to its ESS batteries",
+            "ja": "サムスンSDI、ESS用電池にAI火災予防ソフトを適用"
+          },
+          "summary": {
+            "ko": "삼성SDI는 ESS용 배터리 솔루션 '삼성 배터리 박스(SBB)'에 AI 화재 예방 소프트웨어 '삼성 배터리 인텔리전스(SBI)'를 적용한다고 19일 발표했습니다. 회사 측은 국내외 약 1,400곳 ESS 설치 현장의 운영 데이터를 학습시켰고, 이상 징후를 최소 3일 전에 감지할 수 있다고 밝혔습니다. 이 성능은 회사 측 주장입니다.",
+            "en": "On the 19th, Samsung SDI announced that its ESS battery solution, the Samsung Battery Box (SBB), will use an AI fire-prevention software called Samsung Battery Intelligence (SBI). The company says the AI was trained on operating data from about 1,400 ESS sites at home and abroad and can spot warning signs at least three days ahead. That performance is the company's own claim.",
+            "ja": "サムスンSDIは19日、ESS向け電池ソリューション「サムスン・バッテリー・ボックス(SBB)」に、AI火災予防ソフト「サムスン・バッテリー・インテリジェンス(SBI)」を適用すると発表しました。同社は、国内外約1,400カ所のESS設置現場の運用データで学習させ、異常の兆候を最低3日前に検知できるとしています。この性能は同社の主張です。"
+          },
+          "companies": [
+            "samsungsdi"
+          ],
+          "materials": [],
+          "source": {
+            "name": "위키트리",
+            "date": "2026-11-19",
+            "url": "https://www.wikitree.co.kr/articles/1175854"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "ESS 안전에 대한 관심이 높아질수록 내열성·안전성이 높은 분리막의 가치가 부각될 수 있습니다. ESS용 셀 수요가 이어지면 분리막 수요에도 도움이 될 수 있습니다.",
+              "en": "As attention on ESS safety grows, separators with high heat resistance and safety may get more attention. Continued ESS cell demand could also support separator demand.",
+              "ja": "ESSの安全への関心が高まるほど、耐熱性・安全性の高い分離膜の価値が注目される可能性があります。ESS向けセル需要が続けば分離膜需要の追い風にもなり得ます。"
+            },
+            "cons": {
+              "ko": "이번 발표는 소프트웨어 중심이라 분리막 사양이나 물량이 직접 바뀌는 것은 아닙니다. 소프트웨어로 안전을 보완하면 소재 차별화의 설득력이 상대적으로 약해질 수도 있습니다.",
+              "en": "The announcement is software-focused and does not directly change separator specs or volumes. If software covers safety needs, the case for material differentiation could become somewhat weaker.",
+              "ja": "今回の発表はソフトウェア中心で、分離膜の仕様や数量が直接変わるわけではありません。ソフトで安全を補えば、素材での差別化の訴求力が相対的に弱まる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "europe-ev-registrations-2m-october-20261118",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "유럽 전기차 등록",
+            "en": "Europe EV registrations",
+            "ja": "欧州EV登録台数"
+          },
+          "title": {
+            "ko": "유럽 18개 시장 전기차 등록, 10월까지 233만 대…전년 대비 40.7%↑",
+            "en": "Europe's EV registrations reach 2.33 million through October, up 40.7%",
+            "ja": "欧州18市場のEV登録、10月までに233万台、前年比40.7%増"
+          },
+          "summary": {
+            "ko": "뉴오토모티브와 E-Mobility Europe의 10월 보고서에 따르면 유럽 18개 시장의 올해 1~10월 전기차 등록은 2,334,832대로 전년 대비 40.7% 늘었습니다. 10월 한 달은 295,252대로 60.9% 증가했고, 신차 중 순수 전기차 비중은 32.1%였습니다. 독일과 프랑스가 10월 등록의 절반 넘게 차지했습니다.",
+            "en": "The October bulletin from New AutoMotive and E-Mobility Europe shows 2,334,832 electric cars registered in 18 European markets from January to October, up 40.7% year on year. October alone saw 295,252 registrations, up 60.9%, and battery-electric cars took 32.1% of new car registrations. Germany and France made up more than half of October's total.",
+            "ja": "ニューオートモーティブとE-Mobility Europeの10月版報告によると、欧州18市場の今年1〜10月のEV登録は2,334,832台で、前年比40.7%増でした。10月単月は295,252台で60.9%増、新車に占めるバッテリーEVの比率は32.1%でした。ドイツとフランスが10月登録の半分超を占めました。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "The EV Report",
+            "date": "2026-11-18",
+            "url": "https://theevreport.com/europe-electric-car-sales-2-million-october-2026"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "유럽 전기차 판매가 늘면 배터리 셀 수요와 함께 분리막 수요도 커질 수 있습니다. 유럽 현지 공급망을 강화하려는 흐름에서 기회가 생길 가능성이 있습니다.",
+              "en": "Rising EV sales in Europe could lift cell demand and, with it, separator demand. Efforts to build local supply chains in Europe may create opportunities.",
+              "ja": "欧州のEV販売が伸びればセル需要とともに分離膜需要も拡大する可能性があります。欧州域内の供給網強化の動きは機会につながるかもしれません。"
+            },
+            "cons": {
+              "ko": "수요 확대는 경쟁사의 증설과 가격 경쟁을 부를 수 있습니다. 또한 등록 대수는 분리막 출하량과 직접 연결되지 않아 해석에 주의가 필요합니다.",
+              "en": "Stronger demand can invite rival capacity additions and price competition. Registrations also do not map directly to separator shipments, so they should be read with care.",
+              "ja": "需要拡大は競合の増設や価格競争を招く可能性があります。また登録台数は分離膜の出荷量と直結しないため、解釈には注意が必要です。"
+            }
+          }
+        }
+      ],
+      "edition": 16
+    },
+    {
       "date": "2026-11-18",
       "title": {
         "ko": "LG엔솔 빠진 韓 ESS 최대 입찰, BYD 12분 충전 시연, 중국 GEM 폐배터리 5만t 처리",
