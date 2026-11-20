@@ -1,6 +1,366 @@
 {
   "issues": [
     {
+      "date": "2026-11-20",
+      "title": {
+        "ko": "중국 10월 배터리 장착량 사상 최고, CATL 데이터센터 진출 협의, 궈쉬안 전고체 파일럿 수율 90%",
+        "en": "China's October battery installations hit a record, CATL eyes data centers, Gotion's solid-state pilot line hits 90% yield",
+        "ja": "中国の10月バッテリー搭載量が過去最高、CATLがデータセンター進出を協議、国軒高科の全固体パイロットラインで歩留まり90%"
+      },
+      "summary": {
+        "ko": "중국의 10월 동력전지 장착량이 99.4GWh로 사상 최고를 기록했고, LFP 비중도 86.9%로 역대 최고였습니다. CATL의 AI 데이터센터 진출 협의, 전고체 파일럿 라인 진전, EU 배터리 여권 준비, 한국 3사의 대응 전략 등도 함께 전합니다.",
+        "en": "China's EV battery installations reached a record 99.4 GWh in October, and the LFP share also hit a record 86.9%. The issue also covers CATL's talks on AI data centers, progress at a solid-state pilot line, EU battery passport preparations and Korean makers' response to Chinese LFP.",
+        "ja": "中国の10月の動力電池搭載量は99.4GWhと過去最高になり、LFPの比率も86.9%で過去最高でした。CATLのAIデータセンター進出協議、全固体電池パイロットラインの進展、EUバッテリーパスポートの準備、韓国3社の対応策もお伝えします。"
+      },
+      "highlights": {
+        "ko": [
+          "중국 10월 전기차 배터리 장착량 99.4GWh(전년 대비 18.2%↑), LFP 비중 86.9%로 모두 사상 최고였습니다.",
+          "CATL 회장이 AI 데이터센터용 에너지 인프라 공급을 협의 중이라고 밝혔습니다(고객·프로젝트는 미공개).",
+          "궈쉬안 하이테크가 0.2GWh 전고체 파일럿 라인의 셀 수율이 90%라고 밝혔다고 전해졌습니다."
+        ],
+        "en": [
+          "China's October EV battery installations were 99.4 GWh (up 18.2% year on year), and the LFP share of 86.9% was also a record.",
+          "CATL's chairman said the company is in talks to supply energy infrastructure for AI data centers (customers and projects not disclosed).",
+          "Gotion High-tech reportedly said its 0.2 GWh all-solid-state pilot line reached a 90% cell yield."
+        ],
+        "ja": [
+          "中国の10月のEV用電池搭載量は99.4GWh（前年比18.2%増）、LFP比率は86.9%で、いずれも過去最高でした。",
+          "CATLの会長が、AIデータセンター向けのエネルギーインフラ供給を協議中だと明らかにしました（顧客・案件は非公表）。",
+          "国軒高科が、0.2GWhの全固体パイロットラインでセル歩留まりが90%に達したと開示したと伝えられています。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP（リン酸鉄リチウム）電池"
+        },
+        "desc": {
+          "ko": "양극재에 니켈·코발트 대신 철과 인산염을 쓰는 리튬이온 배터리입니다. 가격이 싸고 안전성이 높은 편이어서 중국 전기차와 ESS에서 빠르게 비중이 커지고 있습니다.",
+          "en": "This is a lithium-ion battery that uses iron and phosphate in the cathode instead of nickel and cobalt. It is relatively cheap and safe, so its share is growing quickly in Chinese EVs and energy storage.",
+          "ja": "正極材にニッケルやコバルトではなく鉄とリン酸塩を使うリチウムイオン電池です。価格が安く安全性が高いため、中国のEVや蓄電システムで急速にシェアが拡大しています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "china-oct-battery-installations-record-20261120",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "중국 10월 배터리 장착량",
+            "en": "China October installations",
+            "ja": "中国10月の搭載量"
+          },
+          "title": {
+            "ko": "중국 10월 동력전지 장착량 99.4GWh로 사상 최고…LFP 비중 86.9%",
+            "en": "China's October EV battery installations hit a record 99.4 GWh, with LFP at 86.9%",
+            "ja": "中国の10月動力電池搭載量が過去最高の99.4GWh、LFP比率は86.9%"
+          },
+          "summary": {
+            "ko": "중국자동차배터리혁신연맹(CABIA)이 19일 발표한 자료에 따르면, 10월 중국 내 동력전지 장착량은 99.4GWh로 전년 동월보다 18.2%, 전월보다 14.0% 늘었습니다. LFP 배터리는 86.3GWh로 비중이 86.9%까지 올라 역대 최고였고, 삼원계(NCM 등)는 12.9%로 월간 기준 최저였습니다. 업체별로는 CATL이 39.60GWh(점유율 40.00%), BYD가 21.36%, 궈쉬안 하이테크가 6.05%였습니다.",
+            "en": "Data released on Nov. 19 by the China Automotive Battery Innovation Alliance (CABIA) shows October installations in China were 99.4 GWh, up 18.2% from a year earlier and 14.0% from September. LFP batteries made up 86.3 GWh, a record 86.9% share, while ternary (NCM-type) batteries fell to 12.9%, the lowest monthly level on record. CATL led with 39.60 GWh (40.00% share), followed by BYD at 21.36% and Gotion High-tech at 6.05%.",
+            "ja": "中国自動車動力電池イノベーションアライアンス（CABIA）が19日に公表したデータによると、10月の中国国内の動力電池搭載量は99.4GWhで、前年同月比18.2%増、前月比14.0%増でした。LFP電池は86.3GWhでシェア86.9%と過去最高になり、三元系（NCMなど）は12.9%と月間で最低でした。メーカー別ではCATLが39.60GWh（シェア40.00%）、BYDが21.36%、国軒高科が6.05%でした。"
+          },
+          "background": {
+            "ko": "'장착량'은 그달에 실제로 차량에 탑재된 배터리 용량을 뜻하며, 시장 흐름을 보는 대표 지표입니다. 1~10월 누적은 675.6GWh로 전년 동기 대비 16.9% 늘었고, 이 기간 CATL의 누적 점유율은 43.55%였습니다. 중국에서는 가격 경쟁력이 높은 LFP로의 쏠림이 계속되고 있다는 점이 이번 수치에서도 확인됩니다.",
+            "en": "\"Installations\" means the battery capacity actually fitted into vehicles in a given month, and it is a common gauge of market trends. Cumulative installations from January to October were 675.6 GWh, up 16.9% year on year, and CATL's share over that period was 43.55%. The figures show that China's shift toward cost-competitive LFP is continuing.",
+            "ja": "「搭載量」とはその月に実際に車へ搭載された電池容量のことで、市場動向を見る代表的な指標です。1〜10月の累計は675.6GWhで前年同期比16.9%増、この期間のCATLの累計シェアは43.55%でした。価格競争力のあるLFPへの集中が続いていることが、今回の数字からも分かります。"
+          },
+          "companies": [
+            "catl",
+            "byd",
+            "gotion"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "CnEVPost",
+            "date": "2026-11-19",
+            "url": "https://cnevpost.com/2026/11/19/china-oct-2026-power-battery-installations/"
+          },
+          "related": [
+            {
+              "name": "CnEVPost: Top battery makers' share in China in October 2026",
+              "url": "https://cnevpost.com/2026/11/19/top-battery-makers-share-china-oct-2026/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "세계 최대 시장인 중국에서 배터리 장착량이 늘면 셀 생산이 늘어, 분리막 전체 수요를 떠받칠 수 있습니다.",
+              "en": "Higher installations in China, the world's largest market, mean more cell output, which can support overall separator demand.",
+              "ja": "世界最大の市場である中国で搭載量が増えればセル生産も増え、セパレータ全体の需要を下支えする可能性があります。"
+            },
+            "cons": {
+              "ko": "수요 증가가 CATL·BYD 등 중국 업체에 집중되어 있어 중국 현지 분리막 업체와의 가격 경쟁이 이어질 수 있고, 외국 업체가 공급망에 진입하기는 쉽지 않을 수 있습니다. LFP 중심의 저가 경쟁도 부담이 될 수 있습니다.",
+              "en": "Growth is concentrated at Chinese makers such as CATL and BYD, so price competition with local Chinese separator suppliers may continue and it may be hard for foreign suppliers to enter their supply chains. The low-cost, LFP-centered competition could also add pressure.",
+              "ja": "需要の伸びはCATLやBYDなど中国メーカーに集中しているため、中国現地のセパレータメーカーとの価格競争が続く可能性があり、外資系が供給網に入り込むのは容易でないかもしれません。LFP中心の低価格競争も負担になる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "catl-ai-data-center-talks-20261120",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL",
+            "en": "CATL",
+            "ja": "CATL"
+          },
+          "title": {
+            "ko": "CATL 회장 \"AI 데이터센터용 에너지 인프라 공급 협의 중\"",
+            "en": "CATL chairman says company is in talks to power AI data centers",
+            "ja": "CATL会長「AIデータセンター向けエネルギーインフラの供給を協議中」"
+          },
+          "summary": {
+            "ko": "블룸버그에 따르면 CATL의 쩡위췬 회장은 인터뷰에서 여러 프로젝트에 에너지 인프라를 공급하는 방안을 협의 중이라고 밝혔습니다. 고객과 프로젝트는 공개하지 않았고, 중국 AI 데이터센터의 중심지인 내몽골에 회사를 이미 등록했다고 합니다. 협의 단계이며 확정된 계약은 아닙니다.",
+            "en": "Bloomberg reports that CATL Chairman Robin Zeng said in an interview that the company is in talks to supply energy infrastructure for several projects. He did not name customers or projects, but said CATL has already registered a company in Inner Mongolia, a main hub for AI data centers in China. These are talks, not confirmed contracts.",
+            "ja": "ブルームバーグによると、CATLの曽毓群会長はインタビューで、複数のプロジェクトへのエネルギーインフラ供給を協議中だと述べました。顧客や案件は明らかにせず、中国のAIデータセンターの中心地である内モンゴルに会社をすでに登記したとのことです。協議段階であり、確定した契約ではありません。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "Bloomberg",
+            "date": "2026-11-18",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "데이터센터용 축전 수요가 현실화되면 대형 ESS 셀 생산이 늘어 분리막 수요가 추가로 생길 가능성이 있습니다.",
+              "en": "If data-center storage demand materializes, large ESS cell output could rise and create additional separator demand.",
+              "ja": "データセンター向け蓄電の需要が現実になれば、大型ESS用セルの生産が増え、セパレータ需要が上積みされる可能性があります。"
+            },
+            "cons": {
+              "ko": "프로젝트 규모와 시기가 불확실하고, CATL이 주로 중국 내 공급망을 쓸 경우 해외 분리막 업체의 수혜는 제한적일 수 있습니다.",
+              "en": "The size and timing of projects are uncertain, and if CATL mainly relies on its China-based supply chain, the benefit for overseas separator makers could be limited.",
+              "ja": "案件の規模や時期は不確実で、CATLが主に中国国内の供給網を使う場合、海外のセパレータメーカーへの恩恵は限定的かもしれません。"
+            }
+          }
+        },
+        {
+          "id": "gotion-solid-state-pilot-yield-20261120",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "궈쉬안 전고체 파일럿",
+            "en": "Gotion solid-state pilot",
+            "ja": "国軒高科の全固体"
+          },
+          "title": {
+            "ko": "궈쉬안 하이테크, 0.2GWh 전고체 파일럿 라인 셀 수율 90% 공개",
+            "en": "Gotion High-tech reports 90% cell yield on 0.2 GWh all-solid-state pilot line",
+            "ja": "国軒高科、0.2GWh全固体パイロットラインでセル歩留まり90%を開示"
+          },
+          "summary": {
+            "ko": "중국 시장조사 매체 SMM의 주간 정리에 따르면, 궈쉬안 하이테크는 12일 0.2GWh 규모 전고체 파일럿 라인이 안정적으로 가동 중이며 셀 수율이 90%라고 공개했습니다(회사 측 발표). 같은 주 WeLion은 Yubang Power와 반고체·전고체 기술을 ESS와 중국 외 시장에 도입하는 전략 협약을 17일 맺었다고 합니다. 모두 파일럿 단계이며 본격 양산은 아닙니다.",
+            "en": "According to a weekly roundup by Chinese market tracker SMM, Gotion High-tech disclosed on Nov. 12 that its 0.2 GWh all-solid-state pilot line is running stably with a 90% cell yield (company-stated). The same roundup says WeLion signed a strategic agreement with Yubang Power on Nov. 17 to bring hybrid solid-liquid and all-solid-state technology to energy storage and markets outside China. These are pilot-stage steps, not full mass production.",
+            "ja": "中国の市況メディアSMMの週次まとめによると、国軒高科は12日、0.2GWh規模の全固体パイロットラインが安定稼働しており、セル歩留まりは90%だと開示しました（会社側の発表）。同じ週にWeLionがYubang Powerと、半固体・全固体技術を蓄電や中国国外市場に導入する戦略協定を17日に結んだとのことです。いずれもパイロット段階で、本格量産ではありません。"
+          },
+          "companies": [
+            "gotion"
+          ],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "SMM (Shanghai Metals Market)",
+            "date": "2026-11-19",
+            "url": "https://news.metal.com/newscontent/EJ5YYSHMZ7WU36AEGH3DJWZ4HHLZNKFWDW32CDI-solid-state-battery-gwh-scale-production-line-launched-sulphide-and-lithium-rich-manganese-based-prices-under-pressure"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "반고체 전지는 구조에 따라 분리막 등 기존 소재를 일부 쓰는 경우가 있어, 전환 초기에는 기존 분리막 기술이 활용될 여지가 있습니다.",
+              "en": "Depending on design, semi-solid cells may still use some conventional materials such as separators, so existing separator technology may find a role in the early transition.",
+              "ja": "半固体電池は設計によってはセパレータなど従来材料を一部使うことがあり、移行初期には既存のセパレータ技術が活用される余地があります。"
+            },
+            "cons": {
+              "ko": "전고체는 고체 전해질층이 분리막 역할을 대신할 수 있어, 수율이 올라 상용화가 앞당겨지면 장기적으로 분리막 수요에 불리할 수 있습니다. 다만 현재는 0.2GWh 파일럿 규모입니다.",
+              "en": "In all-solid-state cells, the solid electrolyte layer can take over the separator's role, so rising yields that speed up commercialization could weigh on long-term separator demand. For now, though, this is a 0.2 GWh pilot.",
+              "ja": "全固体では固体電解質層がセパレータの役割を担える可能性があり、歩留まりの向上で実用化が早まれば、長期的にはセパレータ需要に不利となる可能性があります。ただし現時点は0.2GWhのパイロット規模です。"
+            }
+          }
+        },
+        {
+          "id": "eu-dpp-registry-guidance-20261120",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "EU 배터리 여권",
+            "en": "EU battery passport",
+            "ja": "EUバッテリーパスポート"
+          },
+          "title": {
+            "ko": "EU집행위, DPP 레지스트리 연동 기술 가이드 공개…2027년 배터리 여권 대비",
+            "en": "European Commission publishes technical guidance for the DPP registry ahead of 2027 battery passports",
+            "ja": "欧州委員会、DPPレジストリ連携の技術ガイダンスを公開、2027年のバッテリーパスポートに備え"
+          },
+          "summary": {
+            "ko": "일본 매체 Circular Economy Hub에 따르면 유럽집행위원회는 16일, 제품 정보를 디지털로 기록하는 디지털 제품 여권(DPP)을 EU 전역에서 등록하는 'DPP 레지스트리'에 기업이 자사 시스템을 연결하기 위한 기술 자료를 공개했습니다. 2027년 배터리 여권 등록 준비를 돕는 조치로 소개됐습니다.",
+            "en": "Japanese outlet Circular Economy Hub reports that on Nov. 16 the European Commission released technical material that companies need to connect their own systems to the \"DPP registry,\" the EU-wide system for digital product passports. It is presented as support for preparing to register battery passports in 2027.",
+            "ja": "Circular Economy Hubによると、欧州委員会は16日、製品情報をデジタルで記録するデジタル製品パスポート（DPP）をEU全域で登録する「DPPレジストリ」について、企業が自社システムを接続するための技術資料を公開しました。2027年のバッテリーパスポート登録に向けた準備を後押しするものとして紹介されています。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "Circular Economy Hub",
+            "date": "2026-11-19",
+            "url": "https://cehub.jp/news/eu-dpp-registry-technical-guidance/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소재 이력과 품질 데이터를 체계적으로 제공할 수 있는 업체는 유럽 고객사의 요구에 대응하기 쉬워 신뢰 면에서 이점이 될 수 있습니다.",
+              "en": "Suppliers that can provide material history and quality data in an organized way may find it easier to meet European customers' requests, which could help build trust.",
+              "ja": "素材の履歴や品質データを体系的に提供できるメーカーは、欧州顧客の要請に応えやすく、信頼面で強みになる可能性があります。"
+            },
+            "cons": {
+              "ko": "고객사를 통한 정보 제공 요구가 늘 수 있어 데이터 관리와 시스템 대응 부담이 커질 수 있습니다.",
+              "en": "Requests for data through customers may increase, which could raise the burden of data management and system readiness.",
+              "ja": "顧客を通じた情報提供の要請が増える可能性があり、データ管理やシステム対応の負担が増すかもしれません。"
+            }
+          }
+        },
+        {
+          "id": "lges-2027-executive-reshuffle-20261120",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "LG에너지솔루션",
+            "en": "LG Energy Solution",
+            "ja": "LGエナジーソリューション"
+          },
+          "title": {
+            "ko": "LG에너지솔루션, 2027년 임원 인사…차세대 전지 R&D·북미 품질 조직 강화",
+            "en": "LG Energy Solution announces 2027 executive promotions, bolstering next-gen R&D and North American quality teams",
+            "ja": "LGエナジーソリューション、2027年役員人事を発表、次世代電池R&Dと北米品質組織を強化"
+          },
+          "summary": {
+            "ko": "LG에너지솔루션은 19일 이사회에서 부사장 승진 1명, 전무 승진 4명, 상무 신규 선임 6명 등 총 11명의 승진안을 의결했다고 밝혔습니다(회사 측 발표). 회사는 사업 구조 전환과 품질·R&D 경쟁력 강화에 초점을 둔 인사라고 설명했습니다. 마케팅·PM 조직 강화, 차세대 전지 개발·양산 준비를 위한 R&D 조직 확대, 북미 현지 품질 조직 강화도 함께 단행했습니다.",
+            "en": "LG Energy Solution said its board approved 11 promotions on Nov. 19: one vice president, four senior managing directors and six newly appointed executives (company announcement). The company described the moves as focused on shifting its business structure and strengthening quality and R&D. It also strengthened its marketing/PM organization, expanded R&D for next-generation cells, and reinforced its North American quality team.",
+            "ja": "LGエナジーソリューションは19日の取締役会で、副社長昇進1人、専務昇進4人、常務新規選任6人の計11人の昇進案を決議したと発表しました（会社側の発表）。会社は、事業構造の転換と品質・R&D競争力の強化に焦点を当てた人事だと説明しています。マーケティング・PM組織の強化、次世代電池の開発・量産準備に向けたR&D組織の拡大、北米現地の品質組織の強化も併せて行いました。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [],
+          "source": {
+            "name": "LG에너지솔루션 (BATTERY INSIDE)",
+            "date": "2026-11-19",
+            "url": "https://inside.lgensol.com/2026/11/lg%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98-2027%EB%85%84-%EC%A0%95%EA%B8%B0-%EC%9E%84%EC%9B%90%EC%9D%B8%EC%82%AC/"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "고객사의 품질 조직 강화와 차세대 전지 R&D 확대는 부품·소재에 대한 요구 수준 변화로 이어질 수 있어 동향을 지켜볼 필요가 있으며, 직접적인 영향은 크지 않습니다.",
+              "en": "A stronger quality organization and wider next-gen R&D at a customer could change requirements for components and materials, so it is worth watching, but the direct impact is small.",
+              "ja": "顧客の品質組織の強化や次世代電池R&Dの拡大は、部材・素材への要求水準の変化につながる可能性があり注視は必要ですが、直接の影響は大きくありません。"
+            },
+            "cons": {
+              "ko": "분리막 사업에 직접적으로 불리한 내용은 이번 발표에서 확인되지 않았습니다.",
+              "en": "Nothing in this announcement directly works against the separator business.",
+              "ja": "今回の発表からは、セパレータ事業に直接不利となる内容は確認できませんでした。"
+            }
+          }
+        },
+        {
+          "id": "k-battery-response-to-chinese-lfp-20261120",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "K배터리 3사의 대응",
+            "en": "Korean makers' response",
+            "ja": "韓国3社の対応"
+          },
+          "title": {
+            "ko": "국내 배터리 3사, ESS·LMR·전고체로 중국 LFP 공세에 대응(보도)",
+            "en": "Korea's big three battery makers turn to ESS, LMR and solid-state to counter Chinese LFP (report)",
+            "ja": "韓国電池3社、ESS・LMR・全固体で中国LFPの攻勢に対応（報道）"
+          },
+          "summary": {
+            "ko": "네이트뉴스에 게재된 기사는 LG에너지솔루션·삼성SDI·SK온이 전기차 부진 속에서 ESS용 배터리 판매를 늘리며 버티고 있고, LFP를 앞세운 중국 업체가 삼원계 시장까지 공략한다고 전했습니다. LG에너지솔루션은 폴란드 공장 중심의 고전압 미드니켈과 GM 합작 얼티엄셀즈의 LMR 각형 전지 생산을 추진 중이라고 합니다. 삼성SDI는 내년 전고체 전지 양산을 목표로 한다고 보도됐으며, 이는 계획이지 확정된 실적이 아닙니다.",
+            "en": "An article carried on Nate News says LG Energy Solution, Samsung SDI and SK On are leaning on ESS battery sales amid weak EV demand, while Chinese makers with LFP are now targeting the ternary market too. It reports that LG Energy Solution is pushing high-voltage mid-nickel cells from its Poland plant and plans LMR prismatic cells through its GM joint venture Ultium Cells. Samsung SDI is reported to aim for solid-state mass production next year, which is a goal, not a confirmed result.",
+            "ja": "ニュース配信サイトNateに掲載された記事は、LGエナジーソリューション、サムスンSDI、SK onがEV低迷のなかでESS用電池の販売を増やして耐えており、LFPを武器にする中国勢が三元系市場にも攻勢をかけていると伝えました。LGエナジーソリューションはポーランド工場を中心にハイボルテージ・ミッドニッケルを拡販し、GMとの合弁Ultium CellsでLMR角形電池の生産を進めているとのことです。サムスンSDIは来年の全固体電池の量産を目指すと報じられていますが、これは目標であり確定した実績ではありません。"
+          },
+          "companies": [
+            "lges",
+            "samsungsdi",
+            "skon",
+            "catl"
+          ],
+          "materials": [
+            "solidstate",
+            "cathode"
+          ],
+          "source": {
+            "name": "Nate News (네이트 뉴스)",
+            "date": "2026-11-18",
+            "url": "https://m.news.nate.com/view/20261118n01389"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "한국 셀 업체가 ESS와 LMR·미드니켈 등 새 제품으로 생산을 유지·확대하면 해당 셀에 쓰이는 분리막 수요가 이어질 가능성이 있습니다.",
+              "en": "If Korean cell makers sustain or expand output with ESS and new products such as LMR and mid-nickel, demand for the separators used in those cells could continue.",
+              "ja": "韓国セルメーカーがESSやLMR・ミッドニッケルなどの新製品で生産を維持・拡大すれば、それらのセルに使われるセパレータの需要が続く可能性があります。"
+            },
+            "cons": {
+              "ko": "중국 LFP 업체가 점유율을 넓히면 중국 현지 소재 공급망으로 수요가 이동할 수 있고, 삼성SDI 등의 전고체 양산이 현실화되면 장기적으로 분리막 필요성이 줄어들 가능성도 있습니다.",
+              "en": "If Chinese LFP makers keep gaining share, demand could shift toward China's local materials supply chain, and if solid-state mass production such as Samsung SDI's becomes reality, the need for separators could shrink over the long term.",
+              "ja": "中国LFPメーカーがシェアを広げれば、需要が中国現地の素材供給網へ移る可能性があり、サムスンSDIなどの全固体量産が現実になれば、長期的にはセパレータの必要性が減る可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "korea-small-drone-battery-standard-20261120",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "소형드론 배터리 표준",
+            "en": "Small-drone battery standard",
+            "ja": "小型ドローン電池の規格"
+          },
+          "title": {
+            "ko": "국표원, 소형드론 배터리 국가표준 제정 추진…국방부와 공급망 안정화",
+            "en": "Korea's standards agency moves to set a national standard for small-drone batteries",
+            "ja": "韓国の国家技術標準院、小型ドローン用電池の国家規格の制定を推進"
+          },
+          "summary": {
+            "ko": "시민행정신문에 따르면 산업통상부 국가기술표준원이 국방부와 함께 소형드론 배터리 국가표준 제정을 추진합니다. 핵심 부품의 공급망을 안정시키고 국내 기업이 해외 시장에 참여할 기반을 마련하는 것이 목적이라고 소개됐습니다. 구체적인 규격 내용과 시기는 검색 결과에서 확인하지 못했습니다.",
+            "en": "Citizen Administration News reports that Korea's Agency for Technology and Standards, under the industry ministry, is working with the defense ministry to set a national standard for small-drone batteries. The stated aims are to stabilize the supply chain for key components and lay the groundwork for Korean firms to enter overseas markets. I could not confirm the detailed specifications or timing.",
+            "ja": "市民行政新聞によると、産業通商部の国家技術標準院が国防部と協力して、小型ドローン用電池の国家規格の制定を進めます。重要部品の供給網の安定と、国内企業が海外市場に参入するための基盤づくりが目的と紹介されています。具体的な規格内容や時期は確認できませんでした。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "시민행정신문",
+            "date": "2026-11-19",
+            "url": "https://www.citizenadmnews.co.kr/news/article.html?no=1495334"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "드론용 소형 전지의 규격이 정리되면 새로운 용도 수요에 대응하기 쉬워질 수 있으나, 세부 내용이 확인되지 않아 분리막 사업에 미치는 영향은 불확실합니다.",
+              "en": "A clearer standard for small drone cells could make it easier to address a new use case, but details are unconfirmed, so the effect on the separator business is uncertain.",
+              "ja": "ドローン用小型電池の規格が整理されれば新用途の需要に対応しやすくなる可能性はありますが、詳細が未確認のため、セパレータ事業への影響は不確実です。"
+            },
+            "cons": {
+              "ko": "현 단계에서 분리막 사업에 직접적으로 불리한 요소는 확인되지 않았습니다.",
+              "en": "No direct negative factor for the separator business is evident at this stage.",
+              "ja": "現段階でセパレータ事業に直接不利となる要素は確認できません。"
+            }
+          }
+        }
+      ],
+      "edition": 17
+    },
+    {
       "date": "2026-11-19",
       "title": {
         "ko": "포드 미국산 LFP 셀 첫 출하, LG엔솔 미국 전고체 특허, 삼성SDI ESS용 AI 화재 예방",
