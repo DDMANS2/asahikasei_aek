@@ -1,6 +1,311 @@
 {
   "issues": [
     {
+      "date": "2026-11-21",
+      "title": {
+        "ko": "BMW 'LFP 중국 밖 확대', 히타치 전고체 품질평가 기술, 일본 사용 후 배터리 JIS 제정",
+        "en": "BMW to expand LFP beyond China, Hitachi's solid-state quality tools, Japan's used-battery JIS",
+        "ja": "BMWがLFPを中国外へ拡大、日立の全固体電池品質評価技術、使用済み電池のJIS制定"
+      },
+      "summary": {
+        "ko": "BMW 임원이 중국 밖에서도 저가형 LFP 배터리 채택을 늘리겠다고 밝혔습니다. 일본에서는 전고체 전지의 품질 평가 기술과 사용 후 EV 배터리의 평가 JIS가 같은 날 나왔습니다.",
+        "en": "A BMW executive said the company will use more low-cost LFP batteries outside China. In Japan, a quality-evaluation technology for solid-state batteries and a new JIS standard for used EV batteries were announced on the same day.",
+        "ja": "BMWの幹部が、中国以外でも低コストのLFP電池の採用を広げると明らかにしました。日本では、全固体電池の品質評価技術と、使用済みEV電池の評価JISが同じ日に発表されました。"
+      },
+      "highlights": {
+        "ko": [
+          "BMW가 중국 밖에서도 LFP 배터리 사용을 늘릴 준비를 하고 있다고 보도됐습니다(시장·시기는 미공개).",
+          "히타치가 전고체 전지 제조 중 섞일 수 있는 금속 이물의 영향을 분석하는 기술을 개발했다고 발표했습니다.",
+          "일본규격협회가 사용 후 EV 배터리의 안전성·성능 평가 JIS를 제정했습니다."
+        ],
+        "en": [
+          "BMW is reportedly preparing to use more LFP batteries outside China, but has not named markets or timing.",
+          "Hitachi announced a technology to analyze how metal contaminants from manufacturing affect solid-state batteries.",
+          "The Japanese Standards Association issued a JIS standard for evaluating the safety and performance of used EV batteries."
+        ],
+        "ja": [
+          "BMWが中国以外でもLFP電池の採用拡大を準備していると報じられました（市場・時期は未公表）。",
+          "日立が、全固体電池の製造工程で混入し得る金属異物の影響を分析・解析する技術を開発したと発表しました。",
+          "日本規格協会が、使用済みEV電池の安全性・性能評価に関するJISを制定しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 배터리",
+          "en": "LFP (lithium iron phosphate) battery",
+          "ja": "LFP（リン酸鉄リチウム）電池"
+        },
+        "desc": {
+          "ko": "양극재에 리튬인산철을 쓰는 리튬이온 배터리로, 니켈·코발트계(NMC)보다 값이 싼 편입니다. 대신 같은 크기라면 에너지 밀도가 낮아 주행거리가 짧아지는 경향이 있습니다.",
+          "en": "An LFP battery is a lithium-ion battery whose cathode uses lithium iron phosphate, and it is generally cheaper than nickel-cobalt types (NMC). The trade-off is lower energy density, so the driving range tends to be shorter for the same size.",
+          "ja": "LFP電池は正極材にリン酸鉄リチウムを使うリチウムイオン電池で、ニッケル・コバルト系（NMC）より安価とされます。その代わり、同じサイズならエネルギー密度が低く、航続距離が短くなりやすい特徴があります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "bmw-lfp-beyond-china-20261120",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "BMW LFP 배터리",
+            "en": "BMW LFP batteries",
+            "ja": "BMWのLFP電池"
+          },
+          "title": {
+            "ko": "BMW, 중국 밖에서도 저가형 LFP 배터리 확대 준비",
+            "en": "BMW preparing to expand cheaper LFP batteries outside China",
+            "ja": "BMW、中国以外でも低コストLFP電池の拡大を準備"
+          },
+          "summary": {
+            "ko": "BMW 임원이 중국 이외 지역에서도 LFP 배터리 사용을 늘릴 준비를 하고 있다고 확인했다고 BMW 전문 매체가 전했습니다. 다만 어느 시장에, 언제 첫 모델이 나올지는 밝혀지지 않았습니다. 이번 보도는 임원 발언에 기반한 것으로, 구체적 계획은 확정되지 않았습니다.",
+            "en": "A BMW-focused outlet reports that a BMW executive confirmed the company is preparing to use more LFP batteries outside China. The markets and the timing of the first models were not disclosed. The report rests on an executive's remarks, so concrete plans are not yet confirmed.",
+            "ja": "BMW専門メディアは、BMWの幹部が中国以外の地域でもLFP電池の利用拡大を準備していると認めたと伝えました。対象市場や最初のモデルの時期は明らかにされていません。幹部の発言に基づく報道で、具体的な計画は確定していません。"
+          },
+          "background": {
+            "ko": "LFP는 니켈·코발트계(NMC)보다 값이 싼 반면 에너지 밀도가 낮아 같은 크기라면 주행거리가 짧습니다. 그동안 LFP는 중국 시장에서 특히 많이 쓰여 왔고, 서방 완성차 업체도 보급형 전기차용으로 채택을 넓히는 흐름입니다. 해당 보도는 BMW가 신형 '노이어 클라쎄' 일부 모델에 LFP를 쓰기로 이미 밝혔다고도 언급했습니다.",
+            "en": "LFP is cheaper than nickel-cobalt types (NMC) but has lower energy density, so the range is shorter for the same pack size. LFP has been especially common in China, and Western automakers have been widening its use for more affordable EVs. The report also notes that BMW had already confirmed LFP for some Neue Klasse models.",
+            "ja": "LFPはニッケル・コバルト系（NMC）より安価ですが、エネルギー密度が低く、同じ大きさなら航続距離が短くなります。これまでLFPは特に中国で多く使われ、欧米の自動車メーカーも普及価格帯のEV向けに採用を広げる流れにあります。報道は、BMWが新型「ノイエ・クラッセ」の一部モデルでLFPを使うことをすでに確認していたとも伝えています。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "BMWBLOG",
+            "date": "2026-11-20",
+            "url": "https://bmwblog.com/2026/11/20/bmw-offer-cheaper-lfp-batteries-outside-china"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "보급형 EV에서 LFP 채택이 늘면 전기차용 셀 수요 확대로 이어져 분리막 수요에도 도움이 될 수 있습니다. LFP 셀도 분리막이 필요하기 때문입니다.",
+              "en": "More LFP in affordable EVs could lift cell demand, which may support separator demand, since LFP cells also need separators.",
+              "ja": "普及価格帯のEVでLFP採用が増えればセル需要が広がり、分離膜の需要にも追い風となる可能性があります。LFPセルにも分離膜が必要だからです。"
+            },
+            "cons": {
+              "ko": "LFP 중심 시장에서는 셀 가격 압력이 커져 분리막에도 원가 인하 요구가 강해질 수 있습니다. 또한 LFP 셀 공급이 중국계 업체 중심이라면 고객 구성이 달라질 가능성이 있습니다.",
+              "en": "A shift to LFP could raise cost pressure on cells and, in turn, push for lower separator prices. If LFP supply is led by Chinese makers, the customer mix could also change.",
+              "ja": "LFP中心の市場ではセルの価格圧力が強まり、分離膜にもコスト低減要求が強まる可能性があります。また、LFPセルの供給が中国系メーカー中心になれば、顧客構成が変わる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "prologium-nasa-battery-workshop-20261120",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "프롤로지움",
+            "en": "ProLogium",
+            "ja": "ProLogium"
+          },
+          "title": {
+            "ko": "프롤로지움, NASA 항공우주 배터리 워크숍에서 '배터리 팩 2.0' 발표",
+            "en": "ProLogium presents Battery Pack 2.0 at NASA aerospace battery workshop",
+            "ja": "ProLogium、NASAの航空宇宙バッテリーワークショップで「Battery Pack 2.0」を発表"
+          },
+          "summary": {
+            "ko": "대만의 차세대 전지 업체 프롤로지움이 미국 앨라배마주에서 열린 NASA 항공우주 배터리 워크숍에 처음 참가해 우주·달 인프라용 차세대 전지를 소개했다고 보도자료로 밝혔습니다. 회사 측 발표에 따르면 누적 출하량은 240만 셀을 넘었고, 프랑스 됭케르크 제2 기가팩토리는 2026년 2월 1단계 착공식을 열고 설계·건설을 진행 중입니다.",
+            "en": "Taiwan-based next-generation battery maker ProLogium said in a press release that it appeared for the first time at the NASA Aerospace Battery Workshop in Alabama and presented its battery for space and lunar uses. According to the company, cumulative shipments exceed 2.4 million cells, and its second gigafactory in Dunkirk, France, held a first-phase groundbreaking in February 2026 and is now in design and construction.",
+            "ja": "台湾の次世代電池メーカーProLogiumは、米アラバマ州で開かれたNASA航空宇宙バッテリーワークショップに初めて参加し、宇宙・月面インフラ向けの次世代電池を紹介したとプレスリリースで発表しました。会社側の発表によると、累計出荷は240万セルを超え、フランス・ダンケルクの第2ギガファクトリーは2026年2月に第1期の起工式を行い、設計・建設を進めています。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "electrolyte"
+          ],
+          "source": {
+            "name": "GlobeNewswire(ProLogium 보도자료, Manila Times 게재)",
+            "date": "2026-11-20",
+            "url": "https://manilatimes.net/2026/11/20/tmt-newswire/globenewswire/prologium-presents-battery-pack-20-at-nasa-aerospace-battery-workshop-for-space-missions-and-lunar-infrastructure/2474987"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "회사는 고체·액체 전지의 장점을 결합한 방식이라고 설명하고 있어, 액체 전해질을 일부 쓰는 구조라면 분리막 기술이 응용될 여지가 있을 수 있습니다(기사에서 확인된 내용은 아닙니다).",
+              "en": "The company describes a design combining solid-state and liquid battery traits; if liquid electrolyte is partly used, separator know-how might still apply (this is not confirmed in the release).",
+              "ja": "同社は固体電池と液系電池の長所を組み合わせた方式と説明しており、液系電解質を一部使う構造であれば分離膜の技術が活用される余地があるかもしれません（発表では確認されていません）。"
+            },
+            "cons": {
+              "ko": "차세대 전지가 양산 규모로 커지면 장기적으로 분리막의 필요성이 줄어들 가능성이 있습니다. 다만 이번 발표는 우주 등 특수 용도 중심이라 단기 영향은 제한적일 수 있습니다.",
+              "en": "If next-generation cells scale up, the need for separators could shrink in the long run. This announcement focuses on niche uses such as space, so the near-term effect may be limited.",
+              "ja": "次世代電池が量産規模に拡大すれば、長期的には分離膜の必要性が減る可能性があります。ただし今回は宇宙など特殊用途が中心で、短期的な影響は限定的かもしれません。"
+            }
+          }
+        },
+        {
+          "id": "hitachi-solid-state-quality-eval-20261120",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "히타치 전고체 평가기술",
+            "en": "Hitachi solid-state analysis",
+            "ja": "日立 全固体電池の評価技術"
+          },
+          "title": {
+            "ko": "히타치, 전고체 전지의 금속 이물 영향 분석·해석 기술 개발",
+            "en": "Hitachi develops analysis technology for metal contaminants in solid-state batteries",
+            "ja": "日立、全固体電池の金属異物の影響を分析・解析する技術を開発"
+          },
+          "summary": {
+            "ko": "히타치와 히타치하이테크는 전고체 전지의 실용화·양산에 필요한 품질 평가를 돕기 위해, 제조 공정에서 섞일 수 있는 금속 이물이 성능에 주는 영향을 분석하는 기술을 개발했다고 11월 20일 발표했습니다(회사 측 발표). 양산 단계에서 확인해야 할 항목을 정리하는 데 도움이 된다는 설명입니다.",
+            "en": "Hitachi and Hitachi High-Tech announced on November 20 that they developed a technology to analyze how metal contaminants that can enter during manufacturing affect solid-state battery performance (company announcement). They say it helps organize the items to check at mass-production stage.",
+            "ja": "日立と日立ハイテクは11月20日、全固体電池の実用化・量産化に向けた品質評価を支えるため、製造工程で混入し得る金属異物が性能に与える影響を分析・解析する技術を開発したと発表しました（会社発表）。量産時に確認すべき項目の整理を支援するとしています。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "日立製作所(PR TIMES)",
+            "date": "2026-11-20",
+            "url": "https://prtimes.jp/main/html/rd/p/000000093.000152541.html"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "금속 이물 관리는 현재의 리튬이온 전지에서도 안전성의 핵심 과제이므로, 이물 평가 기술의 발전은 분리막의 품질 관리 요구와도 맞닿아 있을 수 있습니다.",
+              "en": "Controlling metal contaminants is also a key safety issue for today's lithium-ion cells, so progress in evaluation methods may relate to separator quality-control needs.",
+              "ja": "金属異物の管理は現行のリチウムイオン電池でも安全性の重要課題であり、評価技術の進展は分離膜の品質管理ニーズとも関わる可能性があります。"
+            },
+            "cons": {
+              "ko": "전고체 전지의 양산 준비가 진척되는 신호로 읽힐 수 있어, 장기적으로 분리막 수요를 줄일 수 있는 방향의 기술 진전입니다. 다만 상용화 시점과 규모는 아직 불확실합니다.",
+              "en": "It can be read as a sign that solid-state mass production is being prepared, a long-term trend that could reduce separator demand. The timing and scale of commercialization remain uncertain.",
+              "ja": "全固体電池の量産準備が進む兆しとも読め、長期的には分離膜需要を減らし得る方向の技術進展です。ただし、実用化の時期や規模はまだ不確実です。"
+            }
+          }
+        },
+        {
+          "id": "jis-used-ev-battery-evaluation-20261120",
+          "category": "recycle",
+          "format": "brief",
+          "subject": {
+            "ko": "사용 후 EV 배터리 JIS",
+            "en": "Used EV battery JIS",
+            "ja": "使用済みEV電池のJIS"
+          },
+          "title": {
+            "ko": "일본규격협회, 사용 후 EV 배터리의 안전성·성능 평가 JIS 제정",
+            "en": "Japanese Standards Association issues JIS for used EV battery evaluation",
+            "ja": "日本規格協会、使用済みEV電池の安全性・性能評価基準のJISを制定"
+          },
+          "summary": {
+            "ko": "일본규격협회가 11월 20일, 사용 후 차량용 리튬이온 배터리의 객관적인 안전성·성능 평가 기준을 담은 JIS를 제정했다고 밝혔습니다. 일본이 제안한 국제규격(IEC)과 완전히 맞춘 것이며, 중대 고장 이력과 충방전·온도 이력 데이터로 남은 성능과 수명을 판정하는 기준이 포함됩니다. 재사용(리퍼포즈) 평가 기준을 명확히 해 순환경제를 뒷받침한다는 취지입니다.",
+            "en": "The Japanese Standards Association said on November 20 that it issued a JIS standard with objective safety and performance criteria for used vehicle lithium-ion batteries. It is fully aligned with an international IEC standard originating from Japan, and includes criteria to judge remaining performance and lifetime from past serious-fault records and charge/discharge and temperature history. The aim is to clarify evaluation for reuse (repurposing) and support a circular economy.",
+            "ja": "日本規格協会は11月20日、使用済みの車載リチウムイオン電池について、客観的な安全性・性能評価基準を定めたJISを制定したと発表しました。日本発の国際規格（IEC）に完全整合しており、重故障の履歴や充放電・温度履歴データから残存性能や寿命を判定する基準が含まれます。二次利用（リパーパス）の評価基準を明確にし、循環型経済を後押しする狙いです。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "日本規格協会(PR TIMES)",
+            "date": "2026-11-20",
+            "url": "https://prtimes.jp/main/html/rd/p/000000617.000004052.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "재사용 시장의 기준이 정비되면 배터리의 사용 기간이 늘어 전체 배터리 시장의 신뢰도가 높아질 수 있으나, 분리막 수요에 직접 주는 영향은 작아 보입니다.",
+              "en": "Clearer reuse standards could build trust in the wider battery market, but the direct effect on separator demand looks small.",
+              "ja": "二次利用の基準が整えば電池市場全体の信頼性は高まり得ますが、分離膜需要への直接的な影響は小さいとみられます。"
+            },
+            "cons": {
+              "ko": "재사용이 늘면 신규 셀 수요 일부를 대체할 수 있으나, 그 규모는 이번 발표만으로는 알 수 없습니다.",
+              "en": "More reuse could replace part of new-cell demand, but this announcement does not show how large that effect would be.",
+              "ja": "二次利用が広がれば新品セル需要の一部を代替する可能性がありますが、その規模は今回の発表だけでは分かりません。"
+            }
+          }
+        },
+        {
+          "id": "smm-solid-state-weekly-20261120",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "전고체 주간 동향(SMM)",
+            "en": "Solid-state weekly (SMM)",
+            "ja": "全固体電池の週次動向(SMM)"
+          },
+          "title": {
+            "ko": "중국 전고체 업계 주간 동향: GWh급 라인 가동 보도, 황화물계 소재 가격은 하락",
+            "en": "China solid-state weekly: GWh-scale line reported, sulphide material price pulls back",
+            "ja": "中国の全固体電池週次動向：GWh級ラインの稼働、硫化物系材料価格は下落"
+          },
+          "summary": {
+            "ko": "상하이 금속시장(SMM)의 주간 리뷰는 11월 12~19일 기간 전고체 업계에서 GWh급 생산 라인 가동이 있었고, 소재 가격은 엇갈렸다고 정리했습니다. 황화물계 원료 P₂S₅는 19일 시세로 톤당 7만 2,400위안이었고 전주보다 내렸습니다. 또 WeLion이 11월 17일 Yubang Power와 하이브리드 고체·액체 및 전고체 기술을 ESS 등에 도입하는 전략 협력 협약을 맺었다고 전했습니다.",
+            "en": "A weekly review by Shanghai Metals Market (SMM) covering Nov 12–19 says a GWh-scale solid-state production line was launched and material prices diverged. The sulphide-route raw material P₂S₅ was quoted at 72,400 yuan per tonne on Nov 19, with the sulphide route pulling back from the prior week. It also says WeLion signed a strategic cooperation agreement with Yubang Power on Nov 17 to bring hybrid solid-liquid and all-solid-state technology to energy storage and other uses.",
+            "ja": "上海金属市場（SMM）の週次レビューは、11月12〜19日に全固体電池分野でGWh級の生産ラインが稼働し、材料価格は方向感が分かれたと整理しました。硫化物系原料のP₂S₅は19日の相場で1トン当たり7万2,400元で、硫化物系は前週から下落したとしています。また、WeLionが11月17日にYubang Powerと、固液ハイブリッドおよび全固体電池技術を蓄電などへ導入する戦略提携を結んだと伝えています。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "electrolyte",
+            "cathode"
+          ],
+          "source": {
+            "name": "Shanghai Metals Market (SMM)",
+            "date": "2026-11-20",
+            "url": "https://news.metal.com/newscontent/EJ5YYSHMZ7WU36AEGH3DJWZ4HHLZNKFWDW32CDI-solid-state-battery-gwh-scale-production-line-launched-sulphide-and-lithium-rich-manganese-based-prices-under-pressure"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "고체·액체를 섞은 '하이브리드' 방식이 당분간 이어진다면 액체 전해질 기반 전지와 분리막의 활용 범위가 남을 수 있습니다(확정된 내용은 아닙니다).",
+              "en": "If hybrid solid-liquid designs continue for a while, there may still be room for liquid-electrolyte cells and separators (not confirmed).",
+              "ja": "固液ハイブリッド方式がしばらく続くなら、液系電解質の電池や分離膜が活用される余地は残るかもしれません（確定した内容ではありません）。"
+            },
+            "cons": {
+              "ko": "GWh급 라인과 소재 준비가 진척되는 흐름은 장기적으로 분리막이 필요 없는 전고체 전지로의 전환 가능성을 높일 수 있습니다. 다만 상용화 규모와 시점은 여전히 불확실합니다.",
+              "en": "Progress on GWh-scale lines and materials may raise, over the long run, the chance of a shift to all-solid-state cells that need no separator. Commercial scale and timing remain uncertain.",
+              "ja": "GWh級ラインや材料の準備が進む流れは、長期的には分離膜を必要としない全固体電池への転換の可能性を高めるかもしれません。ただし、商用化の規模や時期は依然として不確実です。"
+            }
+          }
+        },
+        {
+          "id": "catl-li-auto-rumor-20261120",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL·리오토 관계설",
+            "en": "CATL–Li Auto rumors",
+            "ja": "CATLと理想汽車の関係報道"
+          },
+          "title": {
+            "ko": "[루머] 리오토와 CATL '결별설' 확산…중국 매체, 신왕다 자체 배터리 채택 언급",
+            "en": "[Rumor] Reports of a Li Auto–CATL split spread; Chinese media mention Sunwoda's own battery",
+            "ja": "【噂】理想汽車とCATLの「関係見直し説」が拡大、中国メディアは欣旺達の電池採用に言及"
+          },
+          "summary": {
+            "ko": "신랑(Sina) 신에너지차 핫이슈 정리 기사는 최근 이틀 사이 리오토와 CATL이 관계를 정리한다는 소문이 커지고 있다고 전했습니다. 기사에는 리오토 i6의 배터리 공급 문제, CATL이 리오토 등급을 낮췄다는 주장, 리오토가 신왕다(Sunwoda)의 자체 개발 배터리를 늘린다는 내용이 거론됩니다. 모두 당사자가 확인한 사실이 아닌 소문·주장 단계이며, 기사 자체도 진위를 가리기 어렵다고 밝혔습니다.",
+            "en": "A Sina roundup on China's new-energy-vehicle news says rumors that Li Auto and CATL are distancing themselves have grown over the past two days. It mentions battery supply problems for the Li Auto i6, a claim that CATL downgraded Li Auto's rating, and Li Auto adding Sunwoda's in-house battery. None of this is confirmed by the companies; it is at the rumor/claim stage, and the article itself says it is hard to tell what is true.",
+            "ja": "新浪（Sina）の新エネルギー車ホットトピックまとめ記事は、ここ2日ほど、理想汽車とCATLが距離を置いているという噂が強まっていると伝えました。記事には、理想i6の電池供給の問題、CATLが理想の格付けを引き下げたという主張、理想が欣旺達（Sunwoda）の自社開発電池を増やすという内容が挙げられています。いずれも当事者が確認した事実ではなく、噂・主張の段階で、記事自身も真偽の判別は難しいとしています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "新浪新闻(Sina)",
+            "date": "2026-11-20",
+            "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vjse.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "공급처 다변화가 진행되면 중국 내 셀 업체 간 경쟁이 달라질 수 있으나, 소문 단계라 분리막 사업에 주는 이점은 판단하기 어렵습니다.",
+              "en": "If supplier diversification happens, competition among Chinese cell makers could shift, but at the rumor stage any benefit for separators is hard to judge.",
+              "ja": "調達先の多様化が進めば中国のセルメーカー間の競争が変わる可能性がありますが、噂の段階であり、分離膜事業への利点は判断しにくい状況です。"
+            },
+            "cons": {
+              "ko": "고객 구성이 바뀌면 셀 업체별 분리막 조달 구조에도 영향이 생길 수 있으나, 확인된 사실이 없어 영향은 불확실합니다.",
+              "en": "A change in customer mix could affect how each cell maker sources separators, but nothing is confirmed, so the effect is uncertain.",
+              "ja": "顧客構成が変われば、セルメーカーごとの分離膜調達にも影響が出る可能性がありますが、確認された事実がなく、影響は不確実です。"
+            }
+          }
+        }
+      ],
+      "edition": 18
+    },
+    {
       "date": "2026-11-20",
       "title": {
         "ko": "중국 10월 배터리 장착량 사상 최고, CATL 데이터센터 진출 협의, 궈쉬안 전고체 파일럿 수율 90%",
