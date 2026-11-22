@@ -1,6 +1,224 @@
 {
   "issues": [
     {
+      "date": "2026-11-22",
+      "title": {
+        "ko": "한국 배터리 소재 3분기 실적 엇갈려, 홍콩 폐배터리 부담금 추진, 뉴욕 e-바이크 화재 규제 논의",
+        "en": "Korean battery materials post mixed Q3 results, Hong Kong plans EV battery recycling levy, New York weighs e-bike battery rules",
+        "ja": "韓国の電池素材は第3四半期が明暗、香港が使用済みEV電池の回収賦課金を計画、NYがeバイク電池の規制を議論"
+      },
+      "summary": {
+        "ko": "디일렉 분석에 따르면 한국 배터리 소재 17개 업체 중 3분기 흑자는 6곳이었고, 분리막 기업은 적자가 이어졌습니다. 홍콩은 폐EV 배터리 회수 부담금 도입을 추진하고, 뉴욕시의회는 리튬이온 배터리 화재가 늘자 긴급 청문회를 열었습니다.",
+        "en": "A THE ELEC analysis found only 6 of 17 Korean battery-material makers were profitable in Q3, and separator makers kept losing money. Hong Kong plans a recycling levy on EV batteries, and the New York City Council held an emergency hearing on lithium-ion battery fires.",
+        "ja": "THE ELECの分析では、韓国の電池素材企業17社のうち第3四半期に黒字だったのは6社で、セパレーター企業は赤字が続きました。香港は使用済みEV電池の回収賦課金を計画し、ニューヨーク市議会はリチウムイオン電池火災の増加を受けて緊急公聴会を開きました。"
+      },
+      "highlights": {
+        "ko": [
+          "한국 배터리 소재 17곳 중 3분기 흑자는 6곳이며, 양극재는 5곳 중 4곳이 이익을 냈지만 분리막·동박은 적자가 이어졌습니다(디일렉 분석).",
+          "홍콩은 2028년부터 EV 배터리 한 개당 약 3,000홍콩달러의 회수 부담금(공급업체 부담)을 부과하는 안을 내놨습니다(보도, 계획 단계).",
+          "뉴욕시는 올해 리튬이온 배터리 화재가 406건으로 늘자 e-바이크 보관·배터리 안전 규제 강화를 논의했습니다."
+        ],
+        "en": [
+          "Only 6 of 17 Korean battery-material makers were profitable in Q3. Four of five cathode makers made a profit, but separator and copper-foil makers kept posting losses (THE ELEC analysis).",
+          "Hong Kong has proposed a recycling levy of about HK$3,000 per EV battery from 2028, paid by suppliers (media report, still a plan).",
+          "New York City reported 406 lithium-ion battery fires this year, and city lawmakers discussed tougher e-bike storage and battery safety rules."
+        ],
+        "ja": [
+          "韓国の電池素材17社のうち第3四半期の黒字は6社でした。正極材は5社中4社が黒字でしたが、セパレーターと銅箔は赤字が続きました(THE ELEC分析)。",
+          "香港は2028年から、EV電池1個あたり約3,000香港ドルの回収賦課金(供給業者が負担)を課す案を示しました(報道、計画段階)。",
+          "ニューヨーク市では今年のリチウムイオン電池火災が406件に増え、市議会がeバイクの保管と電池安全の規制強化を議論しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "리튬인산철(LFP)",
+          "en": "LFP (lithium iron phosphate)",
+          "ja": "リン酸鉄リチウム(LFP)"
+        },
+        "desc": {
+          "ko": "LFP는 니켈·코발트 대신 철과 인산염을 쓰는 양극재 계열로, 상대적으로 값이 싸고 안정성이 높다고 알려져 있습니다. 최근 ESS(에너지저장장치)용 배터리를 중심으로 채택이 늘고 있습니다.",
+          "en": "LFP is a type of cathode material that uses iron and phosphate instead of nickel and cobalt. It is generally known to be cheaper and more stable, and it is increasingly used in energy storage system (ESS) batteries.",
+          "ja": "LFPはニッケルやコバルトの代わりに鉄とリン酸塩を使う正極材の種類で、比較的安価で安定性が高いとされています。最近はESS(定置型蓄電システム)用電池を中心に採用が広がっています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "korea-battery-materials-q3-20261120",
+          "category": "material",
+          "format": "main",
+          "subject": {
+            "ko": "한국 배터리 소재 3분기",
+            "en": "Korea materials Q3",
+            "ja": "韓国素材の第3四半期"
+          },
+          "title": {
+            "ko": "한국 배터리 소재 17곳 중 3분기 흑자 6곳…양극재는 선방, 분리막·동박은 적자",
+            "en": "Only 6 of 17 Korean battery-material makers profitable in Q3; cathode holds up, separators and copper foil lose money",
+            "ja": "韓国の電池素材17社中、第3四半期の黒字は6社 正極材は健闘、セパレーターと銅箔は赤字"
+          },
+          "summary": {
+            "ko": "전문매체 디일렉이 국내 배터리 소재 17개사의 2026년 3분기 실적을 분석했습니다. 흑자는 6곳에 그쳤고, 양극재 5곳 중 4곳은 이익을 냈지만 동박과 분리막 기업은 적자가 이어졌다고 합니다. 포스코퓨처엠은 매출이 4.6% 줄었지만 영업이익은 23.2% 늘었다고 보도됐습니다.",
+            "en": "The trade outlet THE ELEC analyzed Q3 2026 results of 17 Korean battery-material companies. Only 6 were profitable: four of five cathode makers made money, while copper-foil and separator makers stayed in the red. POSCO Future M's sales fell 4.6% but operating profit rose 23.2%, according to the report.",
+            "ja": "専門メディアのTHE ELECが、韓国の電池素材17社の2026年第3四半期決算を分析しました。黒字は6社にとどまり、正極材5社のうち4社は利益を出した一方、銅箔とセパレーターの企業は赤字が続いたと伝えています。POSCOフューチャーエムは売上高が4.6%減ったものの、営業利益は23.2%増えたと報じられました。"
+          },
+          "background": {
+            "ko": "국내 배터리 3사가 ESS용 LFP 배터리 사업을 넓히면서 소재 공급망도 LFP 쪽으로 확대되고 있습니다. 보도에 따르면 엘앤에프는 12만t, 포스코퓨처엠은 합작법인을 포함해 최대 15만5천t, 에코프로비엠은 5만t 규모의 LFP 양극재 증설을 계획하고 있어, 합산하면 연 40만t에 가까울 전망입니다. 다만 이는 각사의 목표·계획이며 확정된 생산량이 아닙니다.",
+            "en": "As Korea's three big cell makers expand LFP batteries for energy storage (ESS), the materials supply chain is also shifting toward LFP. The report says L&F aims for 120,000 t, POSCO Future M up to 155,000 t including joint ventures, and EcoPro BM plans a 50,000 t expansion, adding up to nearly 400,000 t a year. These are company targets and plans, not confirmed output.",
+            "ja": "韓国の電池大手3社がESS向けLFP電池を広げる中、素材のサプライチェーンもLFPへ拡大しています。報道によると、エルアンドエフは12万トン、POSCOフューチャーエムは合弁を含め最大15.5万トン、エコプロBMは5万トンの増設を計画しており、合計で年40万トン近くになる見通しです。ただし各社の目標・計画であり、確定した生産量ではありません。"
+          },
+          "companies": [
+            "poscofm",
+            "ecoprobm"
+          ],
+          "materials": [
+            "cathode",
+            "separator"
+          ],
+          "source": {
+            "name": "THE ELEC(디일렉)",
+            "date": "2026-11-20",
+            "url": "https://www.thelec.kr/news/articleView.html?idxno=65723"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "배터리 3사의 ESS용 LFP 확대는 셀 생산량 증가로 이어질 수 있어, LFP 셀에도 필요한 분리막의 중장기 수요에 우호적일 수 있습니다.",
+              "en": "The Korean cell makers' push into LFP for ESS could raise cell output, which may support medium- to long-term demand for separators, since LFP cells also need them.",
+              "ja": "電池大手3社のESS向けLFP拡大はセル生産量の増加につながる可能性があり、LFPセルにも必要なセパレーターの中長期的な需要に追い風となる可能性があります。"
+            },
+            "cons": {
+              "ko": "분리막 기업의 적자가 이어졌다는 점은 시장의 가격 압박이나 공급 과잉이 계속되고 있을 가능성을 시사합니다. 경쟁사의 수익성이 낮으면 저가 경쟁이 심해질 수도 있습니다.",
+              "en": "Continued losses at separator makers hint that price pressure or oversupply may persist in the market. Weak profitability among rivals could also intensify low-price competition.",
+              "ja": "セパレーター企業の赤字継続は、市場で価格圧力や供給過剰が続いている可能性を示唆します。競合の収益性が低いと、低価格競争が激しくなる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "hongkong-ev-battery-recycling-levy-20261120",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "홍콩 EV 배터리 부담금",
+            "en": "HK EV battery levy",
+            "ja": "香港のEV電池賦課金"
+          },
+          "title": {
+            "ko": "홍콩, 폐EV 배터리 회수 부담금 추진…2028년 시행 계획, 공급업체가 부담",
+            "en": "Hong Kong plans recycling levy on EV batteries from 2028, to be paid by suppliers",
+            "ja": "香港、使用済みEV電池の回収賦課金を計画 2028年実施予定、供給業者が負担"
+          },
+          "summary": {
+            "ko": "중국 매체가 남화조보(SCMP) 보도를 인용해, 홍콩이 EV 배터리 한 개당 약 3,000홍콩달러의 회수 부담금을 부과할 계획이라고 전했습니다. 비용은 차량 소유자가 아니라 공급업체가 내며, 홍콩 환경보호서는 2028년 시행 후 단계적으로 올려 2043년에는 약 15,000홍콩달러(통상 500kg 배터리 기준)가 된다고 밝혔다고 합니다. 현재는 계획 단계이며 확정된 제도는 아닙니다.",
+            "en": "Chinese media, citing the South China Morning Post, report that Hong Kong plans to charge a recycling levy of about HK$3,000 per EV battery. Suppliers, not car owners, would pay. The Environmental Protection Department reportedly said it would start in 2028 and rise gradually to about HK$15,000 by 2043 for a typical 500 kg battery. This is still a plan, not a finalized rule.",
+            "ja": "中国メディアが南華早報(SCMP)の報道を引用し、香港がEV電池1個あたり約3,000香港ドルの回収賦課金を課す計画だと伝えました。負担するのは車の所有者ではなく供給業者で、環境保護署は2028年に開始後、段階的に引き上げ、2043年には一般的な500kgの電池で約15,000香港ドルになると説明したとのことです。現時点は計画段階で、確定した制度ではありません。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling"
+          ],
+          "source": {
+            "name": "新浪新闻(南华早报·观察者网 인용 보도)",
+            "date": "2026-11-21",
+            "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908voiy.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "회수·재활용 체계가 정비되면 사용 후 배터리의 관리 인식이 높아질 수 있지만, 분리막 사업에 미치는 직접 영향은 작아 보입니다.",
+              "en": "A more organized recovery and recycling system may raise awareness of end-of-life batteries, but the direct effect on the separator business looks small.",
+              "ja": "回収・リサイクル体制が整えば使用済み電池への関心が高まる可能性はありますが、セパレーター事業への直接的な影響は小さいとみられます。"
+            },
+            "cons": {
+              "ko": "직접적인 불리한 점은 거의 없습니다.",
+              "en": "There is little direct downside.",
+              "ja": "直接的な不利な点はほとんどありません。"
+            }
+          }
+        },
+        {
+          "id": "nyc-ebike-battery-fire-rules-20261121",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "뉴욕 e-바이크 배터리",
+            "en": "NYC e-bike batteries",
+            "ja": "NYのeバイク電池"
+          },
+          "title": {
+            "ko": "뉴욕시의회, e-바이크 배터리 화재 급증에 긴급 청문회…보관·안전 규제 강화 논의",
+            "en": "New York City Council holds emergency hearing on e-bike battery fires, weighs tougher storage and safety rules",
+            "ja": "ニューヨーク市議会、eバイク電池火災の急増で緊急公聴会 保管・安全規制の強化を議論"
+          },
+          "summary": {
+            "ko": "로이터에 따르면 최근 뉴욕의 두 화재로 10명이 숨졌고 그중 적어도 한 건은 e-바이크 배터리가 원인으로 확인돼, 시의회가 금요일에 긴급 청문회를 열었습니다. 소방당국 수치로 리튬이온 배터리 화재는 11월 초까지 406건으로 지난해 같은 기간(241건)보다 크게 늘었습니다. 규제는 아직 논의 단계이며 확정된 내용은 아닙니다.",
+            "en": "Reuters reports that two recent New York fires killed 10 people, and at least one was traced to e-bike batteries, so the City Council held an emergency hearing on Friday. Fire Department figures cited at the hearing show 406 lithium-ion battery fires through early November, up from 241 a year earlier. The rules are still under discussion and nothing has been finalized.",
+            "ja": "ロイターによると、ニューヨークで最近起きた2件の火災で10人が亡くなり、少なくとも1件はeバイクの電池が原因と判断されたため、市議会が金曜日に緊急公聴会を開きました。消防局の数字では、リチウムイオン電池火災は11月上旬までに406件と、前年同期の241件から大幅に増えています。規制はまだ議論の段階で、確定した内容ではありません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Reuters(U.S. News 게재)",
+            "date": "2026-11-21",
+            "url": "https://usnews.com/news/top-news/articles/2026-11-21/as-e-bike-battery-fires-mount-new-york-weighs-tougher-restrictions"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "배터리 안전 기준이 강화되면 내부 단락 방지에 관여하는 분리막의 안전 성능이 더 중시될 수 있습니다. 다만 이번 보도는 화재 원인을 분리막과 연결하고 있지 않습니다.",
+              "en": "Tougher battery safety standards could put more weight on separator safety performance, which helps prevent internal short circuits. This report, however, does not link the fires to separators.",
+              "ja": "電池の安全基準が強化されれば、内部短絡の防止に関わるセパレーターの安全性能がより重視される可能性があります。ただし今回の報道は火災原因をセパレーターと結びつけていません。"
+            },
+            "cons": {
+              "ko": "화재 증가로 리튬이온 배터리 전반의 이미지가 나빠지거나 소형 모빌리티 규제가 강해지면 관련 수요가 위축될 수 있습니다.",
+              "en": "If fires hurt the image of lithium-ion batteries or lead to stricter micromobility rules, related demand could weaken.",
+              "ja": "火災の増加でリチウムイオン電池全般のイメージが悪化したり、小型モビリティへの規制が強まったりすれば、関連需要が弱まる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "ja-ess-battery-passport-20261121",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "JA ESS 배터리 여권",
+            "en": "JA ESS battery passport",
+            "ja": "JA ESSの電池パスポート"
+          },
+          "title": {
+            "ko": "JA ESS, EU 규제 대비용 자체 배터리 여권 플랫폼 출시",
+            "en": "JA ESS launches in-house battery passport platform for EU rules",
+            "ja": "JA ESS、EU規制対応の自社開発バッテリーパスポート基盤を発表"
+          },
+          "summary": {
+            "ko": "JA ESS는 11월 21일 보도자료로, 수명 주기 정보 관리를 돕고 EU의 새 규제 요건에 대비하도록 설계한 자체 개발 배터리 여권 플랫폼을 출시했다고 밝혔습니다. 회사 측 발표에 따르면 자체 클라우드에서 운영하고, 사내 전담팀이 데이터 정책·접근 권한·향후 업데이트를 관리합니다.",
+            "en": "In a press release dated November 21, JA ESS said it launched a self-developed battery passport platform to help manage lifecycle information and prepare for new EU requirements. According to the company, it runs on its own cloud, with an in-house team managing data policy, access rights and future updates.",
+            "ja": "JA ESSは11月21日のプレスリリースで、ライフサイクル情報の管理を支援し、EUの新たな規制要件に備えるための自社開発のバッテリーパスポート基盤を公開したと発表しました。会社側の発表によると、自社クラウドで運用し、社内の専任チームがデータ方針・アクセス権限・今後の更新を管理します。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "데일리연합(PR Newswire 배포 보도자료)",
+            "date": "2026-11-21",
+            "url": "https://www.dailyan.com/news/article.html?no=785056"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "배터리 여권 대응이 업계에서 구체화되는 흐름이며, 추적성·품질 데이터를 갖춘 소재 공급사에는 설명하기 쉬운 환경이 될 수 있습니다.",
+              "en": "Battery passport tools are becoming more concrete in the industry, which may make it easier for material suppliers with good traceability and quality data to respond to customers.",
+              "ja": "バッテリーパスポート対応が業界で具体化しており、トレーサビリティや品質データを備えた素材メーカーには対応しやすい環境になる可能性があります。"
+            },
+            "cons": {
+              "ko": "고객사가 소재 단계 정보 제출을 요구하면 데이터 관리 부담이 늘어날 수 있지만, 이번 발표 자체의 직접 영향은 제한적입니다.",
+              "en": "If customers ask for material-level data, the data-management workload could grow, though the direct effect of this announcement itself is limited.",
+              "ja": "顧客から素材段階の情報提出を求められれば、データ管理の負担が増える可能性がありますが、今回の発表自体の直接的な影響は限定的です。"
+            }
+          }
+        }
+      ],
+      "edition": 19
+    },
+    {
       "date": "2026-11-21",
       "title": {
         "ko": "BMW 'LFP 중국 밖 확대', 히타치 전고체 품질평가 기술, 일본 사용 후 배터리 JIS 제정",
