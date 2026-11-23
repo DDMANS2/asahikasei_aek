@@ -1,6 +1,228 @@
 {
   "issues": [
     {
+      "date": "2026-11-23",
+      "title": {
+        "ko": "니오 배터리 교환망 개방, 인도 ESS 시장 실행 단계, 나트륨이온 스쿠터 시험",
+        "en": "NIO opens its battery-swap network, India's storage market moves to execution, sodium-ion scooter trials",
+        "ja": "NIOが電池交換網を開放、インド蓄電池市場は実行段階へ、ナトリウムイオン電動スクーターの試験"
+      },
+      "summary": {
+        "ko": "중국 니오가 2027년부터 다른 완성차에도 배터리 교환망을 열기로 했고, 인도 ESS 시장은 입찰에서 실제 구축 단계로 넘어가고 있다는 분석이 나왔습니다. 인도 E-Went의 나트륨이온 스쿠터 시험 계획과 실라·파나소닉의 실리콘 음극재 계약(19일 보도)도 함께 정리했습니다.",
+        "en": "China's NIO will open its battery-swap network to other automakers from 2027, and a rating agency says India's energy storage market is moving from tenders to real projects. We also cover India's E-Went sodium-ion scooter trials and the Sila–Panasonic silicon anode deal (reported on Nov 19).",
+        "ja": "中国のNIOが2027年から他社の自動車メーカーにも電池交換網を開放する方針を示し、インドの蓄電池市場は入札から実行の段階に移りつつあるとの分析が出ました。インドE-Wentのナトリウムイオン・スクーター試験計画と、シラ・パナソニックのシリコン負極材契約(19日報道)もまとめました。"
+      },
+      "highlights": {
+        "ko": [
+          "니오, 2027년부터 온보 표준 팩 기반 배터리 교환망을 타사 전기차에 개방한다고 밝혔습니다(보도).",
+          "인도 ICRA, 인도 ESS 시장이 입찰에서 실행 단계로 가지만 배터리 가격 반등·루피 약세가 부담이라고 분석했습니다.",
+          "인도 E-Went는 12월경 나트륨이온 스쿠터 시험을 시작할 계획입니다."
+        ],
+        "en": [
+          "NIO said it will open its swap network to other automakers from 2027 using Onvo's standard pack (as reported).",
+          "India's ICRA says the storage market is moving from tenders to execution, but rising battery prices and a weaker rupee are risks.",
+          "India's E-Went plans to start sodium-ion scooter trials around December."
+        ],
+        "ja": [
+          "NIOは2027年からオンボの標準パックを軸に、他社EVにも電池交換網を開放すると表明しました(報道)。",
+          "インドのICRAは、蓄電池市場は入札から実行段階に進む一方、電池価格の反発とルピー安がリスクだと分析しました。",
+          "インドのE-Wentは12月ごろにナトリウムイオン・スクーターの試験を始める計画です。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "배터리 스와핑(교환식)",
+          "en": "Battery swapping",
+          "ja": "バッテリー交換方式(スワップ)"
+        },
+        "desc": {
+          "ko": "충전 대신 방전된 배터리 팩을 교환소에서 충전된 팩으로 바꿔 끼우는 방식입니다. 여러 차종이 같은 규격의 팩을 써야 하므로 팩 표준화가 핵심입니다.",
+          "en": "Instead of charging, a driver swaps an empty battery pack for a charged one at a station. Because many car models must share the same pack, standardization is the key.",
+          "ja": "充電する代わりに、交換ステーションで空の電池パックを充電済みのパックに付け替える方式です。多くの車種が同じ規格のパックを使う必要があるため、標準化がカギになります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "nio-opens-battery-swap-network-20261123",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "니오 배터리 교환망",
+            "en": "NIO battery swap",
+            "ja": "NIO電池交換網"
+          },
+          "title": {
+            "ko": "니오, 2027년 타사 전기차에 배터리 교환망 개방…CATL과 표준 경쟁",
+            "en": "NIO to open battery-swap network to other automakers in 2027, setting up a standards race with CATL",
+            "ja": "NIO、2027年に他社EVへ電池交換網を開放…CATLと標準化競争へ"
+          },
+          "summary": {
+            "ko": "보도에 따르면 니오 윌리엄 리 CEO는 중국 사용자 간담회에서 2027년부터 하위 브랜드 온보의 표준 배터리 팩을 앞세워 교환망을 타사 완성차에도 연다고 밝혔습니다. 같은 보도는 니오 교환소가 4,236개 가동 중이고, CATL의 '초코스왑'은 2027년 6,000개를 목표로 추격하고 있다고 전했습니다. 개방 계획은 발표 단계이며 실제 참여 업체와 규모는 아직 확인되지 않았습니다.",
+            "en": "According to the report, NIO CEO William Li said at a user event in China that, from 2027, the network will serve other automakers' cars using the standard pack of its sub-brand Onvo. The report says NIO runs 4,236 swap stations, while CATL's Choco-Swap is chasing with a target of 6,000 in 2027. This is a stated plan; which partners will join and at what scale is not yet confirmed.",
+            "ja": "報道によると、NIOのウィリアム・リーCEOは中国のユーザー向け会合で、2027年からサブブランド「オンボ」の標準電池パックを軸に、交換網を他社の車にも開く方針を明らかにしました。同報道は、NIOの交換ステーションが4,236か所稼働し、CATLの「チョコスワップ」が2027年に6,000か所を目標に追い上げていると伝えています。これは表明された計画の段階で、参加企業や規模はまだ確認されていません。"
+          },
+          "background": {
+            "ko": "배터리 교환은 충전 시간을 줄이는 방식으로, 여러 차종이 같은 규격의 팩을 공유해야 효과가 커집니다. 중국에서는 니오와 CATL이 각자의 교환 표준을 넓히려 경쟁하고 있습니다. 같은 보도에 따르면 지리홀딩이 니오 파워 지분 30% 인수에 합의했고, 2030년 교환소 1만 개를 공동 추진한다고 합니다.",
+            "en": "Swapping cuts the waiting time compared with charging, and it works best when many models share one pack standard. In China, NIO and CATL are competing to spread their own swap standards. The same report says Geely Holding agreed to take a 30% stake in NIO Power and that the two aim for 10,000 stations by 2030.",
+            "ja": "電池交換は充電待ち時間を短縮する方式で、多くの車種が同じ規格のパックを共有するほど効果が高まります。中国ではNIOとCATLがそれぞれの交換標準を広げようと競っています。同報道によると、吉利控股集団がNIOパワーの株式30%の取得で合意し、2030年に1万か所の交換ステーションを共同で目指すとされています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "글로벌이코노믹(Electrive 계열 보도 인용: Electric Vehicles 보도)",
+            "date": "2026-11-23",
+            "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112307015778782bd56fbc3c_1"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "교환식 팩은 충방전을 자주 반복하고 대형 팩이 늘어날 수 있어, 셀 수요와 함께 분리막 수요가 늘어날 가능성이 있습니다. 교환 팩은 안전성과 내구성 요구가 높아 고품질 분리막에 기회가 될 수 있습니다.",
+              "en": "Swappable packs may be cycled often and the number of packs could grow, which could lift cell demand and, with it, separator demand. High safety and durability needs for swap packs could also favor high-quality separators.",
+              "ja": "交換式パックは充放電を頻繁に繰り返し、パック数も増える可能性があり、セル需要とともに分離膜需要が増える可能性があります。安全性・耐久性への要求が高く、高品質な分離膜に追い風となる可能性もあります。"
+            },
+            "cons": {
+              "ko": "교환 표준이 NIO와 CATL 등 소수 대형 사업자에 쏠리면 셀 업체와 소재 공급망의 협상력이 한쪽으로 기울어 가격 압력이 커질 수 있습니다. 또한 같은 보도 기준으로 LFP 등 저가 화학계 활용이 늘면 소재 단가 경쟁이 심해질 수 있습니다.",
+              "en": "If swap standards concentrate around a few large players like NIO and CATL, bargaining power may tilt toward them and raise price pressure on suppliers. Wider use of low-cost chemistries such as LFP could also intensify material price competition.",
+              "ja": "交換標準がNIOやCATLなど少数の大手に集中すると、交渉力が偏り、サプライヤーへの価格圧力が強まる可能性があります。LFPなど低コスト系の採用が広がれば、材料の価格競争も激しくなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "india-bess-icra-procurement-20261122",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "인도 ESS 시장(ICRA)",
+            "en": "India BESS market (ICRA)",
+            "ja": "インド蓄電池市場(ICRA)"
+          },
+          "title": {
+            "ko": "ICRA \"인도 ESS, 입찰에서 실행 단계로…배터리 조달이 사업성 좌우\"",
+            "en": "ICRA: India's battery storage is moving from tenders to execution, and procurement will decide project viability",
+            "ja": "ICRA「インドの蓄電池は入札から実行へ、電池調達が事業性を左右」"
+          },
+          "summary": {
+            "ko": "인도 신용평가사 ICRA는 보고서에서 인도 BESS 시장이 입찰 중심에서 실제 구축 단계로 넘어가고 있다고 밝혔습니다. 2023·2025·2026년에 발표된 보조금(VGF) 지원 규모는 합계 135.8GWh입니다. 다만 배터리 가격 반등, 루피 약세, 공격적인 입찰가 때문에 적기 조달과 장기 계약이 중요하다고 지적했습니다.",
+            "en": "Rating agency ICRA said in a report that India's battery energy storage (BESS) market is shifting from tenders to actual deployment. Viability Gap Funding schemes announced in 2023, 2025 and 2026 cover a combined 135.8 GWh. It warned that rebounding battery prices, a weaker rupee and aggressive bids make timely procurement and long-term contracts important.",
+            "ja": "インドの格付け会社ICRAは報告書で、同国の蓄電池(BESS)市場が入札中心から実際の導入段階へ移りつつあると述べました。2023年・2025年・2026年に発表されたVGF(採算補填)支援の合計は135.8GWhです。一方、電池価格の反発、ルピー安、強気の入札価格により、適時の調達と長期契約が重要になると指摘しました。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Business Standard",
+            "date": "2026-11-22",
+            "url": "https://www.business-standard.com/industry/news/battery-procurement-key-to-project-viability-amid-grid-congestion-icra-126112200519_1.html"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "정부 지원을 받는 대규모 ESS 도입이 이어지면 셀 수요, 나아가 분리막 수요가 늘어날 가능성이 있습니다.",
+              "en": "Large, subsidy-backed storage rollouts could lift cell demand and, in turn, separator demand.",
+              "ja": "政府支援を受けた大規模な蓄電池導入が続けば、セル需要、ひいては分離膜需要が増える可能性があります。"
+            },
+            "cons": {
+              "ko": "전지 가격 압박과 공격적 입찰은 셀 업체의 원가 절감 요구로 이어져 소재 가격 압력이 커질 수 있습니다. 인도 시장은 저가 중국산 셀 비중이 높을 수 있어 고급 분리막의 차별화가 어려울 수 있습니다.",
+              "en": "Price pressure and aggressive bidding may push cell makers to demand lower material costs. If low-priced cells dominate, it may be harder to differentiate premium separators.",
+              "ja": "価格圧力や強気の入札はセルメーカーのコスト削減要求につながり、材料への価格圧力が強まる可能性があります。低価格セルが中心になると、高機能分離膜の差別化が難しくなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "ewent-sodium-ion-scooter-trial-20261122",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "E-Went 나트륨이온",
+            "en": "E-Went sodium-ion",
+            "ja": "E-Went ナトリウムイオン"
+          },
+          "title": {
+            "ko": "인도 E-Went, 12월부터 나트륨이온 스쿠터 시험 운행 계획",
+            "en": "India's E-Went plans sodium-ion scooter trials from December",
+            "ja": "インドのE-Went、12月からナトリウムイオン・スクーターを試験へ"
+          },
+          "summary": {
+            "ko": "인도 전기이륜차 브랜드 E-Went가 12월경 나트륨이온 배터리를 쓴 스쿠터 시험을 시작할 계획이라고 Business Standard가 보도했습니다. 일부 차량을 시험용으로 투입한다는 내용으로, 대중 시장 공략을 노린다고 전했습니다. 시험 계획 단계이며 양산·판매 시기는 확인되지 않았습니다.",
+            "en": "Business Standard reports that Indian EV brand E-Went plans to begin trials of sodium-ion-powered scooters around December, deploying some vehicles for testing. The company is eyeing the mass market. This is a trial plan; mass production and sales timing are not confirmed.",
+            "ja": "インドの電動二輪ブランドE-Wentが、12月ごろにナトリウムイオン電池搭載のスクーターの試験を始める計画だと、Business Standardが報じました。一部の車両を試験用に投入し、大衆市場を狙うとしています。試験計画の段階で、量産・販売時期は確認されていません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Business Standard",
+            "date": "2026-11-22",
+            "url": "https://business-standard.com/companies/news/ev-brand-e-went-eyes-mass-market-to-test-sodium-ion-batteries-from-dec-126112200161_1.html"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "나트륨이온 전지도 일반적으로 양극과 음극을 분리하는 분리막이 필요해, 보급이 늘면 새로운 분리막 수요가 생길 가능성이 있습니다.",
+              "en": "Sodium-ion cells generally still need a separator between the electrodes, so wider adoption could create new separator demand.",
+              "ja": "ナトリウムイオン電池も一般に正負極を隔てる分離膜が必要で、普及すれば新たな分離膜需要が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "시험 단계라 단기 영향은 작고, 리튬이온 전지를 대체하면 수요가 일부 이동할 수 있습니다.",
+              "en": "It is only a trial, so near-term impact is small, and any shift away from lithium-ion could move some demand.",
+              "ja": "試験段階のため短期的な影響は小さく、リチウムイオン電池を置き換える場合は需要の一部が移る可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "sila-panasonic-silicon-anode-offtake-20261119",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "실라·파나소닉 음극재",
+            "en": "Sila–Panasonic anode",
+            "ja": "シラ・パナソニック負極材"
+          },
+          "title": {
+            "ko": "실라, 파나소닉에 실리콘 음극재 공급…최대 10억 달러 규모 계약(19일 보도)",
+            "en": "Sila to supply silicon anode to Panasonic Energy in deal worth up to $1B (reported Nov 19)",
+            "ja": "シラ、パナソニックエナジーにシリコン負極材を供給…最大10億ドル規模(19日報道)"
+          },
+          "summary": {
+            "ko": "미국 소재 기업 실라는 워싱턴주 모지스레이크 공장에서 만든 실리콘-카본 음극재 '타이탄 실리콘'을 파나소닉 에너지에 공급하는 다년 계약을 맺었습니다. 실라(회사 측 발표)에 따르면 잠재 규모는 10억 달러를 넘을 수 있습니다. 다만 공급은 고객사 인증을 거친 뒤 이뤄지는 조건이며, 이 건은 48시간 범위보다 약간 앞선 11월 19일 보도입니다.",
+            "en": "US materials firm Sila signed a multi-year deal to supply Panasonic Energy with its silicon-carbon anode material, Titan Silicon, made at its Moses Lake, Washington plant. According to Sila (company statement), the potential value could exceed $1 billion. Supply depends on customer qualification, and this item was reported Nov 19, slightly before the 48-hour window.",
+            "ja": "米素材企業シラは、ワシントン州モーゼスレイク工場で生産するシリコンカーボン負極材「タイタン・シリコン」をパナソニックエナジーに供給する複数年契約を結びました。シラ(会社側発表)によると、潜在規模は10億ドルを超える可能性があります。供給は顧客の認定後が前提で、本件は48時間の範囲よりやや前の11月19日の報道です。"
+          },
+          "companies": [
+            "panasonic"
+          ],
+          "materials": [
+            "anode"
+          ],
+          "source": {
+            "name": "electrive.com",
+            "date": "2026-11-19",
+            "url": "https://www.electrive.com/2026/11/19/sila-secures-billion-dollar-offtake-agreement-with-panasonic/"
+          },
+          "related": [
+            {
+              "name": "C&EN: Sila's $1 billion deal signals momentum for silicon anodes",
+              "url": "https://cen.acs.org/energy/energy-storage-/sila-nanotechnologies-panasonic-energy-silicon-anode-battery/104/web/2026/11"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "고에너지 셀 생산이 북미에서 늘면 셀당 분리막 사용이 이어질 가능성이 있고, 고성능 셀에는 내열성·안전성이 높은 분리막 수요가 생길 수 있습니다.",
+              "en": "More high-energy cell production in North America could sustain separator use, and high-performance cells may call for separators with strong heat resistance and safety.",
+              "ja": "北米で高エネルギーセルの生産が増えれば分離膜の使用が続く可能性があり、高性能セルでは耐熱性・安全性に優れた分離膜の需要が生まれる可能性があります。"
+            },
+            "cons": {
+              "ko": "실리콘 음극은 충방전 시 팽창이 커서 분리막에 새로운 요구가 생길 수 있고, 북미 현지 소재 조달 흐름이 강해지면 해외 공급사에 불리할 수 있습니다.",
+              "en": "Silicon anodes expand more during cycling, which may place new demands on separators, and a stronger push for local North American sourcing could disadvantage overseas suppliers.",
+              "ja": "シリコン負極は充放電時の膨張が大きく、分離膜への新たな要求が生じる可能性があります。北米での現地調達の流れが強まれば、海外供給元に不利になる可能性もあります。"
+            }
+          }
+        }
+      ],
+      "edition": 20
+    },
+    {
       "date": "2026-11-22",
       "title": {
         "ko": "한국 배터리 소재 3분기 실적 엇갈려, 홍콩 폐배터리 부담금 추진, 뉴욕 e-바이크 화재 규제 논의",
