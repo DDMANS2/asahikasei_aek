@@ -1,6 +1,328 @@
 {
   "issues": [
     {
+      "date": "2026-11-24",
+      "title": {
+        "ko": "BASF 배터리 재활용 사업 매각, CATL 점유율 6개월 연속 하락 조사, 중국 고액혼합 전고체 11.4GWh 전망",
+        "en": "BASF sells battery recycling unit, survey shows CATL's China share slipping, China sees 11.4 GWh of hybrid solid-state cells",
+        "ja": "BASFが電池リサイクル事業を売却、CATLの中国シェア低下の調査、中国の固液ハイブリッド電池は11.4GWh見通し"
+      },
+      "summary": {
+        "ko": "BASF가 배터리 재활용 사업을 스타트업 cylib에 매각하고 양극재에 집중하기로 했습니다. 중국에서는 고액혼합 전고체 출하 전망과 CATL의 점유율·생산계획 관련 조사 결과가 나왔습니다.",
+        "en": "BASF agreed to sell its battery recycling business to the startup cylib and will focus on cathode materials. In China, a new report put hybrid solid-state shipments at 11.4 GWh this year, and a survey pointed to a softer CATL.",
+        "ja": "BASFは電池リサイクル事業をスタートアップのcylibに売却し、正極材に集中します。中国では固液ハイブリッド電池の出荷見通しと、CATLのシェア・生産計画に関する調査が出ました。"
+      },
+      "highlights": {
+        "ko": [
+          "BASF가 11월 20일 배터리 재활용 사업을 cylib에 넘기는 계약을 맺었고, 양극재에 집중합니다(마감은 2027년 예정).",
+          "중국 전고체 산업 백서는 올해 고액혼합 전지 출하를 11.4GWh로 전망했고, 전고체 셀은 아직 양산 문턱 아래라고 평가했습니다.",
+          "CATL의 중국 승용 점유율이 10월 40%로 6개월 연속 내렸다는 조사가 나왔지만, 회사가 확인한 내용은 아닙니다."
+        ],
+        "en": [
+          "On Nov 20, BASF signed a deal to hand its battery recycling business to cylib and will focus on cathode materials. Closing is planned for 2027.",
+          "A China solid-state industry blue book projects 11.4 GWh of hybrid solid-liquid cell shipments this year. It says all-solid-state cells are still below the mass-production threshold.",
+          "A survey says CATL's share of batteries in Chinese vehicles fell to 40% in October, a sixth monthly drop. CATL has not confirmed it."
+        ],
+        "ja": [
+          "BASFは11月20日、電池リサイクル事業をcylibに譲渡する契約を結び、正極材に集中します（完了は2027年予定）。",
+          "中国の全固体電池産業ブルーブックは、今年の固液ハイブリッド電池の出荷を11.4GWhと予測し、全固体セルはまだ量産の水準に届いていないとしています。",
+          "CATLの中国車載電池シェアは10月に40%となり6か月連続で低下したとの調査が出ましたが、同社が確認した内容ではありません。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "고액혼합 전지(반고체 전지)",
+          "en": "Hybrid solid-liquid battery",
+          "ja": "固液ハイブリッド電池（半固体電池）"
+        },
+        "desc": {
+          "ko": "고체 전해질과 소량의 액체 전해질을 함께 쓰는 전지로, 완전한 전고체 전지로 가는 중간 단계로 불립니다. 중국에서는 이미 차량 적용까지 이어지며 상용화가 시작됐다는 평가가 나옵니다.",
+          "en": "This battery uses a solid electrolyte together with a small amount of liquid electrolyte. It is often seen as a step toward all-solid-state batteries, and in China it is reported to be entering commercial use.",
+          "ja": "固体電解質と少量の液体電解質を併用する電池で、全固体電池へ向かう中間段階とされます。中国では車両への搭載まで進み、商用化が始まったと報じられています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "basf-sells-recycling-to-cylib-20261124",
+          "category": "recycle",
+          "format": "main",
+          "subject": {
+            "ko": "BASF·cylib",
+            "en": "BASF / cylib",
+            "ja": "BASF・cylib"
+          },
+          "title": {
+            "ko": "BASF, 배터리 재활용 사업을 cylib에 매각…양극재에 집중",
+            "en": "BASF sells battery recycling business to cylib, focuses on cathode materials",
+            "ja": "BASF、電池リサイクル事業をcylibに売却…正極材に集中"
+          },
+          "summary": {
+            "ko": "BASF는 11월 20일 배터리 재활용 사업을 독일 스타트업 cylib에 넘기는 계약을 맺었다고 23일 밝혔습니다. 유럽·북미 사업과 독일 슈바르츠하이데의 블랙매스 생산 설비 등이 포함되며, 마감은 2027년으로 예정돼 있습니다. BASF는 배터리 소재 사업을 양극재 중심으로 재편한다고 설명했습니다.",
+            "en": "BASF said on Nov 23 that it signed a deal on Nov 20 to sell its battery recycling business to the German startup cylib. The deal covers the Europe and North America activities and the black mass plant at Schwarzheide, Germany, and is planned to close in 2027. BASF says it will focus its battery materials business on cathode materials.",
+            "ja": "BASFは11月23日、11月20日にドイツのスタートアップcylibへ電池リサイクル事業を譲渡する契約を結んだと発表しました。欧州・北米の事業とドイツ・シュヴァルツハイデのブラックマス製造設備などが対象で、完了は2027年の予定です。BASFは電池材料事業を正極材中心に絞るとしています。"
+          },
+          "background": {
+            "ko": "블랙매스는 폐배터리를 분쇄해 얻는 검은 분말로, 니켈·코발트·리튬 등 유가금속 회수의 원료가 됩니다. 블룸버그에 따르면 BASF는 2030년까지 배터리 소재에 최대 45억 유로를 투자할 계획이었지만, 전기차 보급 둔화와 중국·미국과의 경쟁으로 전략을 재검토했습니다. cylib는 자사 수계 공법으로 리튬이온 배터리 원료의 약 90%를 회수할 수 있다고 밝혔는데, 이는 회사 측 주장입니다.",
+            "en": "Black mass is the dark powder made by shredding used batteries, and it is the raw material for recovering metals such as nickel, cobalt and lithium. Bloomberg reports that BASF had planned to invest up to €4.5 billion in battery materials through 2030, but rethought its strategy as EV adoption slowed and competition from China and the US grew. cylib says its water-based process can recover about 90% of the raw materials in lithium-ion batteries; this is the company's own claim.",
+            "ja": "ブラックマスは使用済み電池を粉砕して得られる黒い粉で、ニッケル・コバルト・リチウムなどを回収する原料になります。ブルームバーグによると、BASFは2030年までに電池材料へ最大45億ユーロを投じる計画でしたが、EV普及の鈍化や中国・米国との競争を受けて戦略を見直しました。cylibは自社の水系プロセスで電池原料の約90%を回収できるとしていますが、これは同社の主張です。"
+          },
+          "companies": [],
+          "materials": [
+            "recycling",
+            "cathode"
+          ],
+          "source": {
+            "name": "BASF 공식 보도자료",
+            "date": "2026-11-23",
+            "url": "https://www.basf.com/global/en/media/news-releases/2026/11/p-26-192"
+          },
+          "related": [
+            {
+              "name": "Bloomberg: BASF Scales Back Battery Ambitions With Recycling Business Sale",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-23/basf-scales-back-battery-ambitions-with-recycling-business-sale"
+            },
+            {
+              "name": "electrive: Aachen startup Cylib acquires BASF's battery recycling business",
+              "url": "https://www.electrive.com/2026/11/23/aachen-startup-cylib-acquires-basfs-battery-recycling-business/"
+            },
+            {
+              "name": "Battery-News: BASF verkauft Batterierecycling-Geschäft an cylib",
+              "url": "https://battery-news.de/2026/11/23/basf-verkauft-batterierecycling-geschaeft-an-cylib"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "재활용 사업이 전문 기업으로 모이면 유럽의 폐배터리 처리 체계가 정비돼 배터리 순환 공급망 구축에 도움이 될 수 있습니다. 다만 분리막은 일반적으로 회수 대상 금속이 아니어서 직접적 이점은 크지 않을 수 있습니다.",
+              "en": "If recycling moves to a specialist, Europe's used-battery handling could become better organized, which may help build a circular battery supply chain. Separators are generally not a metal recovered in recycling, so the direct benefit may be small.",
+              "ja": "リサイクルが専業企業に集約されれば、欧州の使用済み電池の処理体制が整い、電池の循環型サプライチェーン構築に役立つ可能性があります。ただしセパレータは一般に回収対象の金属ではないため、直接的な利点は小さい可能性があります。"
+            },
+            "cons": {
+              "ko": "유럽 대형 화학사가 배터리 소재 투자를 줄이는 흐름은 현지 전기차·배터리 수요 둔화를 반영하는 것일 수 있어, 유럽 현지 셀 생산과 분리막 수요 전망에는 부담이 될 수 있습니다.",
+              "en": "A large European chemical company scaling back battery materials investment may reflect slower local EV and battery demand. That could weigh on the outlook for European cell production and separator demand.",
+              "ja": "欧州の大手化学企業が電池材料への投資を絞る動きは、現地のEV・電池需要の鈍化を映している可能性があり、欧州でのセル生産やセパレータ需要の見通しに重しとなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "china-solid-state-blue-book-20261124",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 전고체 백서",
+            "en": "China solid-state blue book",
+            "ja": "中国全固体ブルーブック"
+          },
+          "title": {
+            "ko": "중국 전고체 백서, 올해 고액혼합 전지 출하 11.4GWh 전망",
+            "en": "China solid-state blue book sees 11.4 GWh of hybrid solid-liquid shipments this year",
+            "ja": "中国全固体ブルーブック、今年の固液ハイブリッド電池出荷は11.4GWh見通し"
+          },
+          "summary": {
+            "ko": "11월 20일 열린 중국 배터리 산업 서밋(CBIS2026)에서 '2026 중국 전고체 배터리 산업 백서'가 공개됐습니다. 백서는 고액혼합 전지가 소재부터 차량 적용까지 공급 사슬을 갖췄고 올해 출하가 11.4GWh로 예상된다고 봤습니다. 완전 전고체 셀은 차량 시료 검증을 통과했지만 양산 문턱 아래이고, 셀 가격은 Wh당 약 2.8위안이라고 SMM이 전했습니다.",
+            "en": "A 2026 China solid-state battery industry blue book was released at the CBIS2026 summit on Nov 20. It says hybrid solid-liquid batteries now have a full chain from materials to vehicles, with 11.4 GWh of shipments expected this year. All-solid-state cells have passed vehicle sample tests but remain below the mass-production threshold, at about RMB 2.8/Wh, SMM reported.",
+            "ja": "11月20日の中国電池産業サミット（CBIS2026）で「2026中国全固体電池産業ブルーブック」が公表されました。固液ハイブリッド電池は材料から車両搭載まで供給網がつながり、今年の出荷は11.4GWhと見込まれるとしています。全固体セルは車両サンプル検証を通過したものの量産の水準には届かず、価格は約2.8元/Whだとスマートメタル（SMM）が伝えました。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "Shanghai Metals Market (SMM)",
+            "date": "2026-11-23",
+            "url": "https://news.metal.com/newscontent/3ENOX3D4WG7RUN6X5YRPZMYOIUYDO5FSR244JRA-solid-state-hybrid-solid-liquid-batteries-enter-commercialization-2026-shipments-seen-at-114-gwh"
+          },
+          "related": [
+            {
+              "name": "Gasgoo: Polymer-Based Solid-State Batteries Poised to Replace Liquid Electrolytes (CBIS2026)",
+              "url": "https://autonews.gasgoo.com/articles/news/polymer-based-solid-state-batteries-poised-to-replace-liquid-electrolytes-2123775029359394816"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "고액혼합 전지는 액체 전해질을 일부 남기므로, 구조에 따라 분리막(또는 고체 전해질 코팅 분리막)이 계속 쓰일 수 있습니다. 전고체 셀이 아직 양산 문턱 아래라는 평가도 당분간 액체 전해질 기반 수요가 이어질 가능성을 시사합니다.",
+              "en": "Hybrid cells keep some liquid electrolyte, so separators (or separators coated with solid electrolyte) may still be used depending on the design. The view that all-solid-state cells are still below mass production suggests liquid-electrolyte demand may continue for some time.",
+              "ja": "固液ハイブリッド電池は液体電解質を一部残すため、設計によってはセパレータ（または固体電解質コート品）が引き続き使われる可能性があります。全固体セルがまだ量産水準に届いていないという評価は、当面は液系電池の需要が続く可能性も示唆します。"
+            },
+            "cons": {
+              "ko": "고액혼합 전지가 늘고 이후 완전 전고체로 이어지면 분리막 사용량이나 요구 사양이 바뀔 수 있습니다. 2027~2028년에 수익성 격차가 벌어질 것이라는 전망도 업계 재편 가능성을 보여줍니다.",
+              "en": "If hybrid cells grow and later lead to all-solid-state designs, separator volumes or specifications could change. The report's expectation of diverging margins in 2027–2028 also hints at possible industry reshuffling.",
+              "ja": "ハイブリッド電池が増え、その先に全固体化が進めば、セパレータの使用量や求められる仕様が変わる可能性があります。2027〜2028年に収益性の差が広がるとの見方も、業界再編の可能性を示しています。"
+            }
+          }
+        },
+        {
+          "id": "catl-china-share-slips-20261124",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL",
+            "en": "CATL",
+            "ja": "CATL"
+          },
+          "title": {
+            "ko": "CATL 중국 점유율 10월 40%로 6개월 연속 하락…11월 감산 조사(미확인)",
+            "en": "CATL's China share falls to 40% in October, sixth straight drop; November output-cut survey unconfirmed",
+            "ja": "CATLの中国シェア、10月は40%で6か月連続低下…11月減産の調査（未確認）"
+          },
+          "summary": {
+            "ko": "보도에 따르면 중국 차량용 배터리에서 CATL의 점유율이 10월 40%로 내려 6개월 연속 줄었습니다. 시티그룹 보고서가 인용한 ZE Consulting 조사는 ESS 수요 둔화로 11월 생산계획이 줄었다고 전했습니다. 다만 CATL은 이를 확인하지 않았고, 조사는 실제 생산이 아닌 계획치를 본 것입니다.",
+            "en": "A report says CATL's share of batteries in Chinese vehicles fell to 40% in October, a sixth straight monthly decline. A ZE Consulting survey cited by Citigroup pointed to a lower November production plan because of softer energy-storage demand. CATL has not confirmed this, and the survey tracks planned rather than actual output.",
+            "ja": "報道によると、中国の車載電池でのCATLのシェアは10月に40%となり、6か月連続で低下しました。シティグループが引用したZE Consultingの調査は、蓄電（ESS）需要の鈍化で11月の生産計画が縮小したと伝えています。ただしCATLは確認しておらず、調査は実績ではなく計画を見たものです。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "boerse-global.de (ad-hoc-news)",
+            "date": "2026-11-23",
+            "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/catl-s-china-battery-share-slips-a-sixth-straight-month-as-output-plans-meet-a-storage-slowdown/70545574"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "CATL 점유율이 낮아지면 중국 내 다른 셀 업체로 수요가 분산돼 분리막 고객이 다양해질 수 있습니다. 또 이번 내용은 미확인 조사여서 일시적 조정일 가능성도 있습니다.",
+              "en": "A lower CATL share could spread demand to other cell makers in China, possibly diversifying separator customers. The data is an unconfirmed survey, so it may also be a temporary adjustment.",
+              "ja": "CATLのシェアが下がれば、中国の他のセルメーカーへ需要が分散し、セパレータの顧客が多様化する可能性があります。また未確認の調査であり、一時的な調整にとどまる可能性もあります。"
+            },
+            "cons": {
+              "ko": "ESS 수요 둔화로 업계 전반의 11월 생산계획이 줄었다는 조사(TD 조사에서 전월 대비 약 5% 감소)가 사실이라면 셀 생산량과 분리막 수요에 부담이 될 수 있습니다.",
+              "en": "If the survey is right that sector-wide November production plans fell about 5% month on month because of softer storage demand, cell output and separator demand could come under pressure.",
+              "ja": "ESS需要の鈍化で11月の業界全体の生産計画が前月比約5%減ったという調査（TD調べ）が事実なら、セル生産量とセパレータ需要の重しになる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "catl-dual-battery-heavy-trucks-20261124",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 중대형 트럭",
+            "en": "CATL heavy trucks",
+            "ja": "CATL大型トラック"
+          },
+          "title": {
+            "ko": "CATL, 중대형 트럭용 듀얼 배터리 시스템…1만3천 대분 계약 보도",
+            "en": "CATL dual-battery system for heavy trucks reportedly covers 13,000 vehicles",
+            "ja": "CATL、大型トラック向けデュアル電池システム…1万3千台分の契約と報道"
+          },
+          "summary": {
+            "ko": "보도에 따르면 CATL은 11월 18일 중대형 전기트럭용 '1+X' 듀얼 배터리 시스템을 소개하고, 중국 물류사 14곳과 1만3천 대 규모의 초기 상업 계약을 맺었습니다. 교환식 섀시 배터리에 77kWh 보조 팩을 더한 구조이며, CATL은 사용 가능한 방전 깊이가 약 70%에서 95% 이상으로 늘어난다고 주장합니다. 교환소는 올해 말까지 900곳, 2027년까지 2,000곳을 세우는 것이 계획으로, 확정된 실적이 아닙니다.",
+            "en": "A report says CATL presented a '1+X' dual-battery system for heavy electric trucks on Nov 18, with initial commercial agreements covering 13,000 trucks at 14 Chinese logistics firms. It pairs a swappable chassis battery with a 77 kWh auxiliary pack, and CATL claims usable depth of discharge rises from about 70% to over 95%. The plan is 900 swap stations by year-end and 2,000 through 2027; these are targets, not completed results.",
+            "ja": "報道によると、CATLは11月18日に大型電動トラック向け「1+X」デュアル電池システムを紹介し、中国の物流会社14社と1万3千台規模の初期商業契約を結びました。交換式シャシー電池に77kWhの補助パックを組み合わせる構成で、CATLは使用可能な放電深度が約70%から95%超に上がると主張しています。交換ステーションは年末までに900か所、2027年までに2,000か所が計画で、確定した実績ではありません。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "ad-hoc-news.de (East Asia Brief 인용)",
+            "date": "2026-11-23",
+            "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/contemporary-amperex-technology-stock-catl-targets-13-000-trucks/70546160"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "트럭은 대용량 팩을 쓰므로 계획대로 보급되면 셀 수요, 나아가 분리막 수요를 늘릴 수 있습니다. 상용차용 셀은 안전성과 내구성 요구가 높아 고품질 분리막이 평가받을 여지도 있습니다.",
+              "en": "Trucks use large packs, so if the rollout goes as planned it could raise cell demand and, in turn, separator demand. Commercial-vehicle cells need high safety and durability, which may leave room for high-quality separators.",
+              "ja": "トラックは大容量パックを使うため、計画通り普及すればセル需要、ひいてはセパレータ需要を押し上げる可能性があります。商用車用セルは安全性と耐久性への要求が高く、高品質なセパレータが評価される余地もあります。"
+            },
+            "cons": {
+              "ko": "계약은 초기 단계이고 교환소 확대는 계획이어서 실제 물량은 불확실합니다. 또 중국 내 수요는 현지 공급망 중심이라 해외 분리막 업체에 직접 돌아오는 몫은 제한적일 수 있습니다.",
+              "en": "The agreements are at an early stage and the station rollout is only planned, so actual volumes are uncertain. Demand in China is mostly served by local supply chains, so the share reaching overseas separator makers may be limited.",
+              "ja": "契約は初期段階で、交換ステーションの拡大も計画段階のため、実際の数量は不透明です。また中国国内の需要は現地サプライチェーン中心のため、海外のセパレータメーカーに直接回る分は限られる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "cbak-cylindrical-rank-expansion-20261124",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CBAK 에너지",
+            "en": "CBAK Energy",
+            "ja": "CBAKエナジー"
+          },
+          "title": {
+            "ko": "CBAK 에너지, 중국 대형 원통형 전지 출하 4위 주장…난징 6GWh 증설 계획",
+            "en": "CBAK Energy says it ranks fourth in China for large cylindrical cells, plans 6 GWh expansion",
+            "ja": "CBAKエナジー、中国の大型円筒形電池出荷で4位と発表…南京で6GWh増設計画"
+          },
+          "summary": {
+            "ko": "중국 배터리 업체 CBAK 에너지는 23일 올해 1~9월 중국 대형 원통형 전지 출하량에서 4위에 올랐다고 밝혔습니다. 회사 측 발표에 따르면 LFP 셀 매출은 1~9월 전년 대비 152.78% 늘었습니다. 연말까지 난징 공장에 연 6GWh 생산능력을 추가할 계획입니다.",
+            "en": "China-based CBAK Energy said on Nov 23 it ranked fourth in China for large cylindrical battery shipments in the first nine months of 2026. According to the company, its LFP cell revenue rose 152.78% year on year over the nine months. It plans to add 6 GWh of annual cell capacity at its Nanjing site by year-end.",
+            "ja": "中国の電池メーカーCBAKエナジーは11月23日、2026年1〜9月の中国の大型円筒形電池出荷で4位になったと発表しました。同社発表によると、LFPセルの売上は1〜9月で前年同期比152.78%増でした。年末までに南京工場で年6GWhの生産能力を追加する計画です。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "CBAK Energy (GlobeNewswire 보도자료)",
+            "date": "2026-11-23",
+            "url": "https://www.globenewswire.com/news-release/2026/11/23/3408421/0/en/cbak-energy-rises-to-fourth-in-china-for-large-cylindrical-battery-shipments-through-september-2026.html"
+          },
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "중견 셀 업체의 증설은 셀 생산량 증가로 이어져 분리막 수요를 늘릴 수 있습니다. 대형 원통형 셀은 새로운 용도로 시장이 커지는 분야여서 분리막 판매처가 넓어질 여지가 있습니다.",
+              "en": "A mid-sized cell maker adding capacity can mean more cell output and more separator demand. Large cylindrical cells are a growing segment, which may widen the market for separators.",
+              "ja": "中堅セルメーカーの増設はセル生産量の増加につながり、セパレータ需要を押し上げる可能性があります。大型円筒形セルは拡大中の分野で、セパレータの販路が広がる余地があります。"
+            },
+            "cons": {
+              "ko": "중국 업체의 증설은 현지 분리막 업체 위주로 조달될 가능성이 높고, 순위와 매출은 회사 측 주장이어서 실제 수요 규모는 불확실합니다. LFP 셀 증가는 가격 경쟁 압력으로 이어질 수도 있습니다.",
+              "en": "Chinese makers' expansions are likely to be sourced mainly from local separator suppliers, and the ranking and revenue figures are company claims, so real demand is uncertain. Growth in LFP cells may also add price pressure.",
+              "ja": "中国メーカーの増設は現地のセパレータメーカーから調達される可能性が高く、順位や売上は同社の主張のため実際の需要規模は不確かです。LFPセルの拡大は価格競争の圧力につながる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "nanofiber-nitrate-separator-lithium-metal-20261124",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "나노섬유 분리막 연구",
+            "en": "Nanofiber separator study",
+            "ja": "ナノファイバーセパレータ研究"
+          },
+          "title": {
+            "ko": "질산염 방출 나노섬유 분리막, 리튬메탈 전지의 사이클 후 부식 억제 연구",
+            "en": "Nitrate-releasing nanofiber separator curbs post-cycle corrosion in lithium metal batteries, study says",
+            "ja": "硝酸塩を放出するナノファイバーセパレータ、リチウム金属電池のサイクル後腐食を抑制と研究"
+          },
+          "summary": {
+            "ko": "연구진이 폴리아크릴로니트릴 나노섬유에 질산은과 질산비스무트를 넣은 전기방사 분리막을 개발했다고 11월 23일 보도됐습니다. 이 분리막은 리튬메탈 전지에서 사이클 이후 진행되는 부식을 억제하고 보관 수명(캘린더 수명)을 늘렸다고 합니다. 이온 전도도와 리튬이온 수송 특성도 개선됐다는 실험 결과이며, 실험실 단계의 연구입니다.",
+            "en": "A Nov 23 report describes researchers who made an electrospun separator from polyacrylonitrile nanofibers containing silver nitrate and bismuth nitrate. The separator is said to suppress corrosion that appears after cycling in lithium metal batteries and to extend calendar life. Tests also showed better ionic conductivity and lithium-ion transport; this is lab-stage research.",
+            "ja": "研究チームが、ポリアクリロニトリルのナノファイバーに硝酸銀と硝酸ビスマスを組み込んだ電界紡糸セパレータを開発したと11月23日に報じられました。リチウム金属電池でサイクル後に進む腐食を抑え、カレンダー寿命（保存寿命）を延ばしたとしています。イオン伝導度やリチウムイオン輸送特性の改善も実験で示されていますが、実験室段階の研究です。"
+          },
+          "companies": [],
+          "materials": [
+            "separator",
+            "anode"
+          ],
+          "source": {
+            "name": "Bioengineer.org (Scienmag 인용)",
+            "date": "2026-11-23",
+            "url": "https://bioengineer.org/dual-nitrate-nanofiber-separators-suppress-post-cycle-corrosion-in-lithium-metal-batteries"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "분리막이 단순한 격리막을 넘어 첨가제를 공급해 수명을 늘리는 '기능성 분리막'으로 진화할 수 있음을 보여줍니다. 리튬메탈 전지 등 차세대 전지에서 분리막의 부가가치가 커질 가능성이 있습니다.",
+              "en": "It shows separators may evolve beyond a simple barrier into functional parts that deliver additives and extend life. This could raise the value of separators in next-generation cells such as lithium metal batteries.",
+              "ja": "セパレータが単なる隔離材にとどまらず、添加剤を供給して寿命を延ばす「機能性セパレータ」へ進化し得ることを示しています。リチウム金属電池など次世代電池でセパレータの付加価値が高まる可能性があります。"
+            },
+            "cons": {
+              "ko": "전기방사 나노섬유는 현재 주력인 폴리올레핀 습식·건식 분리막과 제조 방식이 달라 새로운 경쟁 기술이 될 수 있습니다. 다만 대량 생산과 비용 검증이 필요한 실험실 단계라 단기 영향은 제한적입니다.",
+              "en": "Electrospun nanofibers are made differently from today's polyolefin wet- and dry-process separators and could become a competing technology. It is still lab-stage and needs proof at scale and cost, so the short-term effect looks limited.",
+              "ja": "電界紡糸ナノファイバーは、現在の主力であるポリオレフィン系の湿式・乾式セパレータとは製法が異なり、競合技術になり得ます。ただし量産性とコストの検証が必要な実験室段階で、短期的な影響は限定的とみられます。"
+            }
+          }
+        }
+      ],
+      "edition": 21
+    },
+    {
       "date": "2026-11-23",
       "title": {
         "ko": "니오 배터리 교환망 개방, 인도 ESS 시장 실행 단계, 나트륨이온 스쿠터 시험",
