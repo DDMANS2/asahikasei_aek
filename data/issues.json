@@ -1,6 +1,241 @@
 {
   "issues": [
     {
+      "date": "2026-11-25",
+      "title": {
+        "ko": "BASF, CATL에 독일산 양극재 납품 개시, 앵커 보조배터리 화재 주의보, 배터리 소재주 강세",
+        "en": "BASF starts German cathode supply to CATL, Anchor power bank fire warning, battery materials stocks rise",
+        "ja": "BASFがCATLへ独産正極材の出荷開始、アンカー製モバイルバッテリー火災の注意喚起、電池材料株が上昇"
+      },
+      "summary": {
+        "ko": "BASF가 독일 슈바르츠하이데 공장에서 CATL로 양극재 납품을 시작했다고 발표했습니다. 일본에서는 리콜 대상 모바일 배터리 화재로 소비자청이 사용 중지를 당부했고, 한국에서는 ESS 기대 속에 배터리 소재 관련주가 올랐습니다.",
+        "en": "BASF said it has begun cathode material deliveries to CATL from its Schwarzheide plant in Germany. In Japan, the Consumer Affairs Agency urged people to stop using a recalled power bank after a fire, and in Korea battery materials stocks rose on hopes tied to energy storage.",
+        "ja": "BASFは独シュヴァルツハイデ工場からCATLへの正極材の出荷を始めたと発表しました。日本では回収対象のモバイルバッテリーで火災が起き、消費者庁が使用中止を呼びかけ、韓国ではESS拡大への期待から電池材料関連株が上昇しました。"
+      },
+      "highlights": {
+        "ko": [
+          "BASF가 독일 공장에서 CATL로 양극재 첫 납품을 시작했습니다(회사 측 발표).",
+          "일본 소비자청이 리콜 대상 앵커 모바일 배터리 약 40만 대 중 미회수분의 사용 중지를 당부했습니다.",
+          "한국 2차전지 소재 관련주가 24일 강세를 보였고, ESS 시장 확대 기대가 배경으로 거론됩니다."
+        ],
+        "en": [
+          "BASF has started first cathode deliveries to CATL from its German plant (company announcement).",
+          "Japan's Consumer Affairs Agency urged users of recalled Anchor power banks, about 400,000 units in the recall, to stop using them.",
+          "Korean battery materials stocks rose on Nov. 24, with growing energy storage (ESS) demand cited as a backdrop."
+        ],
+        "ja": [
+          "BASFが独工場からCATLへ正極材の初出荷を始めました（同社発表）。",
+          "消費者庁が、回収対象の約40万台のアンカー製モバイルバッテリーについて、未回収分の使用中止を呼びかけました。",
+          "韓国の2次電池材料関連株が24日に上昇し、ESS市場拡大への期待が背景として挙げられています。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "양극활물질(CAM)",
+          "en": "Cathode active material (CAM)",
+          "ja": "正極活物質（CAM）"
+        },
+        "desc": {
+          "ko": "양극활물질은 배터리 양극에서 리튬 이온을 담고 내보내며 용량과 출력을 크게 좌우하는 핵심 소재입니다. 니켈·코발트·망간이나 인산철 등 종류에 따라 배터리 성격이 달라집니다.",
+          "en": "Cathode active material is the key ingredient in a battery's positive electrode that stores and releases lithium ions. It strongly affects capacity and power, and the type, such as nickel-cobalt-manganese or iron phosphate, changes the battery's character.",
+          "ja": "正極活物質は、電池の正極でリチウムイオンを出し入れし、容量や出力を大きく左右する中核材料です。ニッケル・コバルト・マンガン系やリン酸鉄系など、種類によって電池の特性が変わります。"
+        }
+      },
+      "stories": [
+        {
+          "id": "basf-catl-cathode-delivery-20261125",
+          "category": "material",
+          "format": "main",
+          "subject": {
+            "ko": "BASF·CATL 양극재 납품",
+            "en": "BASF–CATL cathode supply",
+            "ja": "BASF・CATL 正極材供給"
+          },
+          "title": {
+            "ko": "BASF, 독일 슈바르츠하이데 공장에서 CATL로 양극재 납품 개시",
+            "en": "BASF starts cathode deliveries to CATL from its German plant",
+            "ja": "BASF、独シュヴァルツハイデ工場からCATLへ正極材の出荷開始"
+          },
+          "summary": {
+            "ko": "BASF는 독일 슈바르츠하이데 공장에서 CATL로 양극재(CAM)의 첫 납품을 시작했다고 밝혔습니다. 중국 창사 공장에서도 CATL에 공급하고 있다고 합니다. 물량·가격·소재 종류는 공개되지 않았고, CATL 측 확인은 이번 검색에서 찾지 못했습니다.",
+            "en": "BASF said it has made its first cathode active material (CAM) deliveries to CATL from its Schwarzheide plant in Germany. It also supplies CATL from its Changsha plant in China. Volume, price and chemistry were not disclosed, and I did not find a CATL confirmation.",
+            "ja": "BASFは、独シュヴァルツハイデ工場からCATLへ正極材（CAM）の初出荷を始めたと発表しました。中国・長沙工場からもCATLに供給しているとのことです。数量・価格・材料の種類は非公表で、CATL側の確認は今回の検索では見つかりませんでした。"
+          },
+          "background": {
+            "ko": "이번 납품은 2025년 7월에 맺은 글로벌 기본 계약에 따른 것으로, CATL 사양에 맞춘 제품을 독일에서 양산 체제로 옮겼다고 합니다. 현지 생산은 운송 거리를 줄이고 유럽 내 공급 안정성을 높이는 효과가 있다는 설명입니다. BASF는 앞서 배터리 재활용 사업을 cylib에 매각하고 양극재에 집중하기로 했습니다.",
+            "en": "The deliveries follow a global framework agreement signed in July 2025, and BASF says it moved a CATL-tailored product into production in Germany. Local production shortens transport routes and supports supply security in Europe. BASF has also agreed to sell its recycling business to cylib to focus on cathode materials.",
+            "ja": "今回の出荷は2025年7月に結んだグローバル基本契約に基づくもので、CATL仕様の製品をドイツで量産に移したとされています。現地生産により輸送距離が短くなり、欧州での供給安定性が高まるとの説明です。BASFは先に電池リサイクル事業をcylibへ売却し、正極材に集中する方針を示しています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "electrive",
+            "date": "2026-11-24",
+            "url": "https://www.electrive.com/2026/11/24/basf-supplies-catl-cam-shipments-from-schwarzheide-have-begun/"
+          },
+          "related": [
+            {
+              "name": "Process Worldwide (BASF発表の掲載)",
+              "url": "https://process-worldwide.com/basf-begins-delivery-of-battery-materials-to-catl-a-e57587d38610f4ab74bcb89d54a9ad1c"
+            },
+            {
+              "name": "Automotive World",
+              "url": "https://www.automotiveworld.com/news/basf-starts-cathode-supply-to-catl-from-german-plant/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "CATL이 유럽에서 소재를 현지 조달하는 흐름은 유럽 내 셀 생산 확대와 연결될 수 있어, 현지 공급 체제를 갖춘 분리막에도 기회가 될 수 있습니다.",
+              "en": "CATL sourcing materials locally in Europe may be linked to more cell production there, which could create openings for separators supplied from regional bases.",
+              "ja": "CATLが欧州で材料を現地調達する動きは、欧州での電池生産拡大につながる可能性があり、現地供給体制を持つセパレータにも機会となる可能性があります。"
+            },
+            "cons": {
+              "ko": "CATL이 소재 전반의 현지화·공급망 재편을 진행하면 분리막도 기존 협력사나 중국계 업체 중심으로 조달될 가능성이 있어, 신규 진입 경쟁이 심해질 수 있습니다.",
+              "en": "If CATL localizes its materials supply chain broadly, separators may also be sourced mainly from existing or Chinese partners, which could intensify competition for new business.",
+              "ja": "CATLが材料全般の現地化やサプライチェーン再編を進めれば、セパレータも既存の取引先や中国系メーカー中心で調達される可能性があり、新規参入の競争が厳しくなるかもしれません。"
+            }
+          }
+        },
+        {
+          "id": "anchor-power-bank-fire-recall-20261125",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "앵커 모바일 배터리 리콜",
+            "en": "Anchor power bank recall",
+            "ja": "アンカー製バッテリー回収"
+          },
+          "title": {
+            "ko": "일본 소비자청, 리콜 대상 앵커 모바일 배터리 화재로 사용 중지 당부",
+            "en": "Japan agency urges users to stop using recalled Anchor power bank after fire",
+            "ja": "消費者庁、回収対象のアンカー製モバイルバッテリー火災で使用中止を呼びかけ"
+          },
+          "summary": {
+            "ko": "일본 소비자청은 앵커 재팬이 회수·교환을 진행 중인 모바일 배터리(형번 A1257)가 지난달 14일 도쿄에서 화재를 일으켰다고 발표했습니다. 대상은 약 40만 대이며 19일 기준 약 18만 대가 회수되지 않았습니다. 내부 단락 우려가 있어 보유자는 즉시 사용을 중지하고 연락해 달라고 당부했습니다(TV 보도 기준).",
+            "en": "Japan's Consumer Affairs Agency said a power bank (model A1257) under recall by Anchor Japan caught fire in Tokyo on the 14th of last month. About 400,000 units are covered, and about 180,000 had not been returned as of the 19th. The agency warned of a possible internal short circuit and asked owners to stop using it right away (per a TV news report).",
+            "ja": "消費者庁は、アンカー・ジャパンが回収・交換を進めているモバイルバッテリー（型番A1257）が、先月14日に東京都内で発火したと発表しました。対象は約40万台で、19日時点で約18万台が未回収です。電池内部でのショートの恐れがあるとして、持っている場合は直ちに使用を中止するよう呼びかけています（テレビ報道ベース）。"
+          },
+          "companies": [],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "Yahoo!ニュース(テレビ朝日系 ANN)",
+            "date": "2026-11-24",
+            "url": "https://news.yahoo.co.jp/articles/5a118148b894cfda7fdf1e47b01ac5907699e66e"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "소비자용 전지의 화재 사고가 이어지면 안전성과 내열성을 갖춘 분리막의 가치가 다시 주목받을 수 있습니다.",
+              "en": "Repeated fires in consumer batteries may renew attention on the value of separators with strong safety and heat resistance.",
+              "ja": "民生用電池の発火事故が続けば、安全性や耐熱性に優れたセパレータの価値が改めて注目される可能性があります。"
+            },
+            "cons": {
+              "ko": "보도에는 화재 원인이 분리막인지 여부가 나와 있지 않으며, 리콜·규제 강화는 소비자용 전지 시장 전반의 신뢰와 수요에 부담이 될 수 있습니다.",
+              "en": "The report does not say whether a separator was involved, and recalls or tighter rules could weigh on trust and demand in the consumer battery market.",
+              "ja": "報道では原因がセパレータかどうかは示されておらず、回収や規制強化は民生用電池市場全体の信頼や需要の重荷になる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "korea-battery-materials-stocks-rally-20261125",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "韓 배터리 소재주 강세",
+            "en": "Korean materials stocks rally",
+            "ja": "韓国電池材料株の上昇"
+          },
+          "title": {
+            "ko": "에코프로비엠 등 배터리 소재 관련주 강세…업황 회복 기대 부각",
+            "en": "Ecopro BM and other battery materials stocks rise on recovery hopes",
+            "ja": "エコプロBMなど電池材料関連株が上昇、市況回復への期待"
+          },
+          "summary": {
+            "ko": "국내 매체 핀포인트뉴스에 따르면 24일 2차전지 소재·부품 관련주가 강한 오름세를 보였습니다. 기사는 ESS 시장 확대 등을 상승 배경으로 들며 업황 회복 기대를 전했습니다. 주가 움직임은 기대감을 반영한 것으로, 실적 개선이 확정됐다는 뜻은 아닙니다.",
+            "en": "Pinpoint News in Korea reported that battery materials and parts stocks rose strongly on Nov. 24. It cited expanding energy storage (ESS) demand, among other factors, and spoke of hopes for an industry recovery. Share moves reflect expectations and do not confirm better earnings.",
+            "ja": "韓国メディアのピンポイントニュースによると、24日に2次電池の材料・部品関連株が大きく上昇しました。ESS市場の拡大などを背景に挙げ、業況回復への期待を伝えています。株価の動きは期待を映したもので、業績改善が確定したわけではありません。"
+          },
+          "companies": [
+            "ecoprobm"
+          ],
+          "materials": [
+            "cathode",
+            "anode",
+            "separator"
+          ],
+          "source": {
+            "name": "핀포인트뉴스",
+            "date": "2026-11-24",
+            "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507488"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "ESS 시장 확대 기대는 셀 생산과 분리막 수요를 뒷받침할 수 있는 요인입니다.",
+              "en": "Expectations of ESS market growth could support cell output and, in turn, separator demand.",
+              "ja": "ESS市場拡大への期待は、セル生産とセパレータ需要を下支えする要因になり得ます。"
+            },
+            "cons": {
+              "ko": "주가 상승은 기대 중심이라 실제 수주와 가동률로 이어질지는 불확실하며, 소재 업계 전반의 가격 경쟁은 계속될 수 있습니다.",
+              "en": "The rally is expectation-driven, so it is unclear whether it will turn into orders and utilization, and price competition across materials may continue.",
+              "ja": "株価上昇は期待が中心で、実際の受注や稼働率につながるかは不確実であり、材料業界全体の価格競争は続く可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "battery-symposium-japan-sodium-dry-20261125",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "제67회 전지토론회",
+            "en": "67th Battery Symposium",
+            "ja": "第67回電池討論会"
+          },
+          "title": {
+            "ko": "일본 전지토론회 개막…나트륨이온 전지 건식 공정 연구 등 발표",
+            "en": "Japan's Battery Symposium under way, with sodium-ion dry-process research on the agenda",
+            "ja": "電池討論会が開催中、ナトリウムイオン電池の乾式プロセス研究などを発表"
+          },
+          "summary": {
+            "ko": "제67회 전지토론회가 11월 24~26일 요코하마 파시피코 요코하마 노스에서 열리고 있습니다. 장치 업체 파우렉스는 25일 아침 나트륨이온 전지의 건식(드라이) 제조를 위한 교반 혼합 조립 장치 연구 발표를 예고했습니다. 또 히타치 하이테크와 전고체 전지용 양극활물질 코팅 공정을 공동 실증했다고 밝혔습니다(회사 측 안내).",
+            "en": "The 67th Battery Symposium is being held Nov. 24–26 at Pacifico Yokohama North. Equipment maker Powrex plans a talk on the morning of the 25th about granulation and mixing equipment for dry manufacturing of sodium-ion batteries. It also says it ran a joint demonstration with Hitachi High-Tech on cathode coating for all-solid-state batteries (company notice).",
+            "ja": "第67回電池討論会が11月24〜26日にパシフィコ横浜ノースで開催されています。装置メーカーのパウレックは、25日朝にナトリウムイオン電池の乾式製造に向けた撹拌混合造粒装置の研究発表を予定しています。また、日立ハイテクと全固体電池用正極活物質のコーティング工程を共同実証したとも案内しています（同社案内）。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "cathode"
+          ],
+          "source": {
+            "name": "Powrex(파우렉스)",
+            "date": "2026-11-24",
+            "url": "https://www.powrex.co.jp/post/2026%E5%B9%B411%E6%9C%8824%E6%97%A5-26%E6%97%A5-%E7%AC%AC67%E5%9B%9E%E9%9B%BB%E6%B1%A0%E8%A8%8E%E8%AB%96%E4%BC%9A%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E4%BC%9A%E5%A0%B4%EF%BC%9A%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%82%B3%E6%A8%AA%E6%B5%9C%E3%83%8E%E3%83%BC%E3%82%B9"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "나트륨이온 등 새 전지도 일반적으로 분리막이 필요해, 제조 공정 연구가 활발해지면 분리막 적용 기회가 넓어질 수 있습니다.",
+              "en": "New cell types such as sodium-ion generally still need separators, so active process research could widen opportunities for separator use.",
+              "ja": "ナトリウムイオンなど新型電池も一般にセパレータを必要とするため、製造プロセス研究の活発化は適用機会を広げる可能性があります。"
+            },
+            "cons": {
+              "ko": "전고체 전지는 분리막 의존도를 낮출 가능성이 있고, 건식 공정 등 제조법 변화는 요구 물성을 바꿀 수 있어 지속적인 대응이 필요합니다.",
+              "en": "All-solid-state cells could reduce reliance on separators, and shifts such as dry processes may change required properties, so continued adaptation is needed.",
+              "ja": "全固体電池はセパレータへの依存を下げる可能性があり、乾式プロセスなど製法の変化は求められる物性を変えるかもしれないため、継続的な対応が必要です。"
+            }
+          }
+        }
+      ],
+      "edition": 22
+    },
+    {
       "date": "2026-11-24",
       "title": {
         "ko": "BASF 배터리 재활용 사업 매각, CATL 점유율 6개월 연속 하락 조사, 중국 고액혼합 전고체 11.4GWh 전망",
