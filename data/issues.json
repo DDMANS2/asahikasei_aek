@@ -1,6 +1,324 @@
 {
   "issues": [
     {
+      "date": "2026-11-26",
+      "title": {
+        "ko": "LG엔솔 LMR 양산라인 준비 보도, 美 배터리 연합 백악관 회의, 엘레콤 안전 강화 배터리",
+        "en": "LG Energy Solution reportedly prepares LMR lines, US battery coalition meets White House, Elecom launches safer battery",
+        "ja": "LGエナジーソリューションのLMR量産ライン準備報道、米電池連合のホワイトハウス会合、エレコムの安全強化バッテリー"
+      },
+      "summary": {
+        "ko": "LG에너지솔루션이 GM 향으로 미국 테네시에서 LMR 각형 배터리 양산라인을 준비 중이라는 보도가 나왔습니다. 미국 배터리 업계 연합의 백악관 회의, SES AI의 특허 소송, 분리막 신소재를 쓴 일본 모바일 배터리 출시 소식도 이어졌습니다.",
+        "en": "Korean media report that LG Energy Solution is preparing mass-production lines for LMR prismatic batteries in Tennessee for GM. Other news includes a US battery coalition meeting at the White House, a patent suit by SES AI, and a Japanese power bank that uses a new separator material.",
+        "ja": "LGエナジーソリューションが、GM向けに米テネシー州でLMR角形電池の量産ラインを準備しているとの報道がありました。米電池業界連合のホワイトハウス会合、SES AIの特許訴訟、セパレーター新素材を使った日本のモバイルバッテリー発売も伝えられました。"
+      },
+      "highlights": {
+        "ko": [
+          "LG에너지솔루션이 2028년 양산을 목표로 LMR 각형 배터리 라인을 준비 중이라고 업계를 인용해 보도됐습니다(회사 공식 발표는 확인되지 않았습니다).",
+          "미국 배터리 리더십 연합이 지난 20일 백악관 관계자와 만나 나트륨 배터리 등 자국 공급망 구축을 논의했다고 25일 보도됐습니다.",
+          "엘레콤이 세라믹 코팅 분리막 등 안전 설계를 적용한 모바일 배터리를 12월부터 발매한다고 밝혔습니다."
+        ],
+        "en": [
+          "Industry sources say LG Energy Solution is preparing LMR prismatic battery lines aimed at 2028 production; the company has not confirmed this publicly.",
+          "A US battery coalition met White House officials on Nov. 20 to discuss domestic supply chains including sodium batteries, according to a Nov. 25 report.",
+          "Elecom said it will launch a power bank in December with safety features such as a ceramic-coated, deformation-resistant separator."
+        ],
+        "ja": [
+          "LGエナジーソリューションが2028年量産を目指しLMR角形電池ラインを準備中と、業界関係者を引用して報じられました（会社の公式発表は確認できていません）。",
+          "米電池リーダーシップ連合が20日にホワイトハウス関係者と会い、ナトリウム電池など国内サプライチェーン構築を議論したと25日に報じられました。",
+          "エレコムが、セラミックコーティングのセパレーターなど安全設計を採用したモバイルバッテリーを12月から発売すると発表しました。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LMR(리튬망간리치) 배터리",
+          "en": "LMR (lithium manganese-rich) battery",
+          "ja": "LMR（リチウムマンガンリッチ）電池"
+        },
+        "desc": {
+          "ko": "양극재에 리튬과 망간을 많이 넣어 에너지 밀도를 높이면서 니켈·코발트 사용을 줄이려는 배터리입니다. 충방전을 반복하면 전압이 떨어지는 단점이 있어 소재 개선이 과제입니다.",
+          "en": "An LMR battery uses a cathode rich in lithium and manganese, aiming for higher energy density with less nickel and cobalt. Its voltage tends to fade over repeated charging, so materials need improvement.",
+          "ja": "LMR電池は、正極にリチウムとマンガンを多く使い、ニッケルやコバルトを減らしながらエネルギー密度を高めようとする電池です。充放電を繰り返すと電圧が下がる弱点があり、材料の改良が課題です。"
+        }
+      },
+      "stories": [
+        {
+          "id": "lges-lmr-prismatic-lines-20261126",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "LG에너지솔루션",
+            "en": "LG Energy Solution",
+            "ja": "LGエナジーソリューション"
+          },
+          "title": {
+            "ko": "LG엔솔, 美 테네시에 LMR 각형 배터리 양산라인 준비…2028년 양산 목표(보도)",
+            "en": "LG Energy Solution reportedly preparing LMR prismatic battery lines in Tennessee, targeting 2028",
+            "ja": "LGエナジー、米テネシーでLMR角形電池の量産ライン準備か…2028年量産目標（報道）"
+          },
+          "summary": {
+            "ko": "디일렉은 25일 업계를 인용해 LG에너지솔루션이 주요 협력사와 LMR 각형 배터리 양산라인 구축을 협의 중이며 곧 장비 입찰을 시작할 것이라고 보도했습니다. 생산지는 GM과의 합작사 얼티엄셀즈의 테네시 스프링힐 공장이고, 2028년 양산 시작에 라인 8개를 4개씩 나눠 투자하는 방식이 거론됩니다. 회사의 공식 발표가 아니라 업계 관계자발 보도이므로 계획은 바뀔 수 있습니다.",
+            "en": "On Nov. 25, THE ELEC reported, citing industry sources, that LG Energy Solution is talking with key suppliers about LMR prismatic battery lines and will soon start equipment bidding. Production would be at the Spring Hill, Tennessee plant of its GM joint venture Ultium Cells, with mass production in 2028 and eight lines built in two batches of four. This is an industry-source report, not an official company announcement, so plans may change.",
+            "ja": "THE ELECは25日、業界関係者の話として、LGエナジーソリューションが主要協力会社とLMR角形電池の量産ライン構築を協議しており、近く設備入札を始めると報じました。生産拠点はGMとの合弁Ultium Cellsのテネシー州スプリングヒル工場で、2028年量産開始、8ラインを4ラインずつ2回に分けて投資する案が伝えられています。会社の公式発表ではなく業界関係者発の報道のため、計画は変わる可能性があります。"
+          },
+          "background": {
+            "ko": "LMR는 양극재의 리튬·망간 비율을 높여 니켈·코발트 의존을 줄이는 방식으로, 중국 LFP 대비 에너지 밀도 우위가 장점으로 거론됩니다. 다만 첫 충전 때 리튬 일부가 사라지고 충방전을 반복하면 전압이 떨어지는 문제가 있습니다. 보도에 따르면 LG에너지솔루션은 양극재 코팅과 실리콘 음극재 적용, 분리막·전해질·첨가제 조성 조정으로 이를 해결했다고 합니다.",
+            "en": "LMR raises the share of lithium and manganese in the cathode to reduce reliance on nickel and cobalt, and is often discussed as offering higher energy density than Chinese LFP. Its known problems are some lithium loss at first charge and voltage fade over repeated cycles. According to the reports, LG Energy Solution addressed these with cathode coating, silicon anodes, and adjusted separator, electrolyte and additive recipes.",
+            "ja": "LMRは正極のリチウム・マンガン比率を高めてニッケル・コバルト依存を減らす方式で、中国のLFPよりエネルギー密度で優位になり得ると言われます。一方、初回充電でリチウムの一部が失われ、充放電を繰り返すと電圧が下がる課題があります。報道によると、LGエナジーソリューションは正極コーティング、シリコン負極、セパレーター・電解液・添加剤の組成調整でこれに対処したとのことです。"
+          },
+          "companies": [
+            "lges"
+          ],
+          "materials": [
+            "cathode",
+            "anode",
+            "separator",
+            "electrolyte"
+          ],
+          "source": {
+            "name": "디일렉(THE ELEC)",
+            "date": "2026-11-25",
+            "url": "https://www.thelec.kr/news/articleView.html?idxno=65893"
+          },
+          "related": [
+            {
+              "name": "한국신용신문: LG엔솔, 美 테네시 공장서 차세대 LMR 각형 양산",
+              "url": "https://www.creditnews.kr/news/articleView.html?idxno=32925"
+            },
+            {
+              "name": "Battery-News.de: LG Energy Solution Reportedly Prepares LMR Battery Production Lines",
+              "url": "https://battery-news.de/en/home/"
+            }
+          ],
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "라인이 8개까지 늘면 북미 셀 생산에 따른 분리막 수요가 늘 수 있습니다. 보도에서 분리막 조성도 성능 개선 요소로 언급돼, 고성능 분리막 채택 기회가 될 가능성이 있습니다.",
+              "en": "If up to eight lines are built, separator demand tied to North American cell production could grow. The report also names separator recipe as part of the fix, which may open room for high-performance separators.",
+              "ja": "ラインが最大8本まで増えれば、北米のセル生産に伴うセパレーター需要が増える可能性があります。報道ではセパレーターの組成も改良要素として挙げられており、高性能品採用の機会になり得ます。"
+            },
+            "cons": {
+              "ko": "투자는 GM의 전기차 판매에 따라 4개씩 나눠 진행될 수 있어 시점과 규모가 불확실합니다. 어떤 분리막 공급사가 채택될지도 알려지지 않았습니다.",
+              "en": "Investment may be split into two batches depending on GM's EV sales, so timing and scale are uncertain. Which separator suppliers would be chosen is not known.",
+              "ja": "投資はGMのEV販売次第で4ラインずつに分けられる可能性があり、時期と規模は不確実です。どのセパレーター供給元が採用されるかも明らかになっていません。"
+            }
+          }
+        },
+        {
+          "id": "ablc-white-house-sodium-20261126",
+          "category": "policy",
+          "format": "brief",
+          "subject": {
+            "ko": "美 배터리 리더십 연합",
+            "en": "US battery coalition (ABLC)",
+            "ja": "米電池リーダーシップ連合"
+          },
+          "title": {
+            "ko": "美 배터리 리더십 연합, 백악관서 나트륨 배터리 개발 논의…세제·금융 지원 요구 관측",
+            "en": "US battery coalition meets White House on sodium batteries; tax and financing support seen as the ask",
+            "ja": "米電池リーダーシップ連合がホワイトハウスでナトリウム電池を協議、税制・金融支援を求めるとの見方"
+          },
+          "summary": {
+            "ko": "더 구루는 25일, 미국 배터리 리더십 연합(ABLC) 소속 기업 경영진이 지난 20일(현지시간) 백악관에서 정부 관계자들과 회의를 했다고 보도했습니다. 알심에너지, 피크에너지 등이 참석했고 마이크로포러스 등 9개사가 창립 회원사입니다. 리튬 중심의 산업 정책을 개선해 달라는 요구가 있었을 것으로 관측된다는 내용으로, 구체적인 정책은 확정되지 않았습니다.",
+            "en": "THE GURU reported on Nov. 25 that executives from the American Battery Leadership Coalition (ABLC) met White House officials on Nov. 20 (US time). Alsym Energy and Peak Energy took part, and nine founding members include Microporous. The report says the group is seen as pushing for broader tax and financing support beyond lithium-focused policy; no concrete policy has been decided.",
+            "ja": "The Guruは25日、米電池リーダーシップ連合（ABLC）加盟企業の経営陣が、20日（現地時間）にホワイトハウスで政府関係者と会合したと報じました。AlsymやPeak Energyなどが出席し、Microporousなど9社が創設メンバーです。リチウム中心の産業政策の見直しや税制・金融支援を求めたとの見方で、具体的な政策は決まっていません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "더 구루(THE GURU)",
+            "date": "2026-11-25",
+            "url": "https://www.theguru.co.kr/news/article.html?no=110195"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "미국 내 배터리 공급망 육성 정책이 강화되면 현지 생산 거점을 가진 분리막 공급사에 유리할 수 있습니다. 아사히카세이의 Celgard도 미국 생산 기반이 있는 만큼 수혜 가능성이 있습니다.",
+              "en": "Stronger US supply-chain policy could favor separator makers with local production. Celgard, which has US manufacturing, may benefit.",
+              "ja": "米国内のサプライチェーン育成策が強まれば、現地生産拠点を持つセパレーター企業に有利になる可能性があります。米国に生産基盤を持つCelgardにも追い風になり得ます。"
+            },
+            "cons": {
+              "ko": "회원사에 미국 분리막 업체(마이크로포러스)가 포함돼 있어, 국내산 우대 정책이 나오면 경쟁이 커질 수 있습니다. 나트륨 등 비리튬 전지 지원이 확대되면 리튬이온 중심 수요 구도가 달라질 가능성도 있습니다.",
+              "en": "The membership includes a US separator maker (Microporous), so domestic-preference policies could raise competition. More support for non-lithium chemistries such as sodium could also shift demand away from a lithium-ion-centered picture.",
+              "ja": "会員に米国のセパレーター企業（Microporous）が含まれるため、国産優遇策が出れば競争が強まる可能性があります。ナトリウムなど非リチウム系への支援が拡大すれば、リチウムイオン中心の需要構図が変わる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "elecom-next-li-separator-20261126",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "엘레콤 Next Li+",
+            "en": "Elecom Next Li+",
+            "ja": "エレコム Next Li+"
+          },
+          "title": {
+            "ko": "엘레콤, 세라믹 코팅·신소재 분리막 적용 모바일 배터리 12월 발매",
+            "en": "Elecom to launch power bank with ceramic coating and new separator material in December",
+            "ja": "エレコム、セラミックコーティングと新素材セパレーター採用のモバイルバッテリーを12月発売"
+          },
+          "summary": {
+            "ko": "엘레콤은 25일 안전성을 높인 'Next Li+' 모바일 배터리(5,000mAh, 가격 5,980엔)를 12월부터 순차 발매한다고 발표했습니다. 회사 측 설명에 따르면 변형이 잘 되지 않는 신소재 분리막과 단락을 억제하는 세라믹 코팅, 불연성 첨가제를 전해액에 넣어 발열·발화를 억제했습니다. 이상 감지 시 자동 정지하는 기능과 교체 시기를 알려 주는 표시도 갖췄습니다.",
+            "en": "On Nov. 25, Elecom announced its 'Next Li+' power bank (5,000mAh, 5,980 yen), going on sale in stages from December. The company says it uses a separator material that resists deformation, ceramic coating to curb short circuits, and a non-flammable additive in the electrolyte to reduce heat and fire risk. It also stops automatically when it detects a problem and shows when to replace it.",
+            "ja": "エレコムは25日、安全性を高めた「Next Li+」モバイルバッテリー（5,000mAh、5,980円）を12月から順次発売すると発表しました。同社の説明では、変形しにくい新素材のセパレーター、短絡を抑えるセラミックコーティング、電解液に加えた不燃性添加剤で発熱・発火を抑えています。異常検知時の自動停止や、買い替え時期を知らせる表示も備えています。"
+          },
+          "companies": [],
+          "materials": [
+            "separator",
+            "electrolyte"
+          ],
+          "source": {
+            "name": "엘레콤(PR TIMES 보도자료)",
+            "date": "2026-11-25",
+            "url": "https://prtimes.jp/main/html/rd/p/000001617.000026881.html"
+          },
+          "related": [
+            {
+              "name": "ケータイ Watch: エレコムが発火リスクを抑える新設計モバイルバッテリー「Next Li＋」を発表",
+              "url": "https://k-tai.watch.impress.co.jp/docs/news/2159166.html"
+            }
+          ],
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "소비자 제품에서도 세라믹 코팅 등 안전 강화형 분리막이 판매 포인트가 되고 있다는 신호입니다. 내열·단락 방지 기능을 가진 Hipore나 Celgard 코팅 제품의 소구점과 맞닿아 있습니다.",
+              "en": "It shows safety-oriented separators with ceramic coating are becoming a selling point even in consumer products, which fits the appeal of heat-resistant, short-circuit-preventing coated separators like Hipore and Celgard grades.",
+              "ja": "民生品でもセラミックコーティングなど安全性重視のセパレーターが訴求点になりつつあることを示します。耐熱性・短絡防止を狙うHiporeやCelgardのコーティング品の訴求点とも重なります。"
+            },
+            "cons": {
+              "ko": "어느 회사의 분리막인지는 발표에서 확인되지 않았고, 모바일 배터리는 EV용에 비해 물량이 작습니다. 안전 사양 경쟁이 심해지면 분리막 가격·사양 요구가 높아질 수 있습니다.",
+              "en": "The announcement does not say who supplies the separator, and power banks are small in volume compared with EVs. Tougher safety competition could raise price and spec demands on separators.",
+              "ja": "発表ではどの会社のセパレーターかは分からず、モバイルバッテリーはEV向けに比べ数量が小さいです。安全仕様の競争が強まれば、価格・仕様面の要求が高まる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "ses-ai-bei-patent-suit-20261126",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "SES AI vs BEI",
+            "en": "SES AI vs BEI",
+            "ja": "SES AI対BEI"
+          },
+          "title": {
+            "ko": "SES AI, 한국 BEI에 무음극 리튬메탈 배터리 특허 침해 소송 제기(보도)",
+            "en": "SES AI sues Korea's BEI over anode-free lithium-metal battery patent (report)",
+            "ja": "SES AI、韓国BEIを無負極リチウムメタル電池の特許侵害で提訴（報道）"
+          },
+          "summary": {
+            "ko": "아시아경제는 25일 단독 보도로, 미국 SES AI가 지난 18일 미국 매사추세츠 연방지방법원에 한국 배터리 기업 BEI를 상대로 특허 침해 소송을 냈다고 전했습니다. SES AI는 BEI의 '맥시무스' 계열 제품 2종이 자사의 무음극 리튬메탈 기술을 침해했다고 주장합니다. 소송 제기 단계의 주장일 뿐 법원의 판단은 나오지 않았습니다.",
+            "en": "In an exclusive on Nov. 25, Asia Economy reported that US-based SES AI filed a patent infringement suit on Nov. 18 in a Massachusetts federal court against Korean battery maker BEI. SES AI claims at least two BEI 'Maximus' products infringe its anode-free lithium-metal technology. These are allegations at the filing stage; no court ruling has been reported.",
+            "ja": "アジア経済は25日の独自報道で、米SES AIが18日に米マサチューセッツ連邦地裁で韓国の電池企業BEIを特許侵害で提訴したと伝えました。SES AIは、BEIの「Maximus」系2製品が自社の無負極リチウムメタル技術を侵害していると主張しています。訴状提出段階の主張で、裁判所の判断は報じられていません。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "아시아경제",
+            "date": "2026-11-25",
+            "url": "https://view.asiae.co.kr/article/2026112516275838545"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "무음극 리튬메탈은 차세대 기술로 주목받고 있어, 실용화되면 고성능 분리막의 역할이 커질 여지가 있습니다.",
+              "en": "Anode-free lithium-metal is a closely watched next-gen approach, and if commercialized it could raise the role of high-performance separators.",
+              "ja": "無負極リチウムメタルは注目される次世代技術で、実用化が進めば高性能セパレーターの役割が大きくなる余地があります。"
+            },
+            "cons": {
+              "ko": "이번 소송은 셀 업체 간 특허 분쟁이라 분리막 사업에 직접적인 영향은 거의 없으며, 지재권 분쟁이 상용화를 늦출 가능성 정도가 있습니다.",
+              "en": "This is a patent dispute between cell makers, so direct impact on the separator business is small; at most, IP disputes could slow commercialization.",
+              "ja": "セルメーカー間の特許紛争であり、セパレーター事業への直接的な影響はほぼありません。知財紛争が実用化を遅らせる可能性がある程度です。"
+            }
+          }
+        },
+        {
+          "id": "gnu-li-s-separator-catalyst-20261126",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "경상국립대 분리막 촉매",
+            "en": "Gyeongsang Natl. Univ. separator catalyst",
+            "ja": "慶尚国立大 セパレーター触媒"
+          },
+          "title": {
+            "ko": "경상국립대, 리튬황 전지용 분리막 촉매 개발…황 손실 줄여 500사이클 이상 구동",
+            "en": "Gyeongsang National University develops separator catalyst that cuts sulfur loss in lithium-sulfur batteries",
+            "ja": "慶尚国立大、リチウム硫黄電池向けセパレーター触媒を開発…硫黄の損失を抑制"
+          },
+          "summary": {
+            "ko": "경상국립대 김현우 교수팀이 24일, 리튬황 전지의 용량 감소를 줄이는 분리막용 촉매를 개발했다고 밝혔습니다. 대학 측에 따르면 2C 고율 조건에서 500회 넘게 충방전하는 동안 사이클당 평균 용량 손실이 0.04%였고, 파우치형 전지에서도 작동을 확인했습니다. 실험실 수준의 연구 결과로, 상용화 일정은 나와 있지 않습니다.",
+            "en": "A team led by Prof. Kim Hyun-woo at Gyeongsang National University said on Nov. 24 it developed a separator catalyst that eases capacity fade in lithium-sulfur batteries. The university says average capacity loss was 0.04% per cycle over more than 500 cycles at 2C, and operation was also confirmed in a pouch cell. This is a lab-stage result with no commercialization timeline.",
+            "ja": "慶尚国立大のキム・ヒョヌ教授チームは24日、リチウム硫黄電池の容量低下を抑えるセパレーター用触媒を開発したと発表しました。大学側によると、2Cの高レート条件で500回超の充放電中、1サイクルあたりの平均容量損失は0.04%で、パウチ型電池でも動作を確認しました。実験室レベルの成果で、実用化時期は示されていません。"
+          },
+          "companies": [],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "노컷뉴스 영문판(경상국립대 발표)",
+            "date": "2026-11-24",
+            "url": "https://en.nocutnews.co.kr/news/6611944"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "분리막에 기능성 코팅을 더해 전지 성능을 높이려는 연구가 계속되고 있어, 코팅 기술을 가진 분리막 업체에는 부가가치를 높일 소재 방향성의 참고가 됩니다.",
+              "en": "Research keeps trying to boost cell performance by adding functional coatings to separators, a useful direction for separator makers with coating know-how to add value.",
+              "ja": "セパレーターに機能性コーティングを加えて電池性能を高める研究が続いており、コーティング技術を持つ企業にとって付加価値化の方向性の参考になります。"
+            },
+            "cons": {
+              "ko": "리튬황 전지는 아직 연구 단계라 단기 수요로 이어질 가능성은 낮습니다. 상용화되더라도 특수 코팅 분리막을 누가 공급할지는 불확실합니다.",
+              "en": "Lithium-sulfur is still at research stage, so near-term demand is unlikely. Even if commercialized, who would supply such specialty-coated separators is unclear.",
+              "ja": "リチウム硫黄電池はまだ研究段階で、短期の需要につながる可能性は低いです。実用化されても、特殊コーティングのセパレーターを誰が供給するかは不透明です。"
+            }
+          }
+        },
+        {
+          "id": "litona-sodium-ion-24v-truck-20261126",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "리토나(Litona)",
+            "en": "Litona",
+            "ja": "Litona（リトナ）"
+          },
+          "title": {
+            "ko": "독일 리토나, 상용차 저전압 계통용 24V 나트륨이온 배터리 시제품 공개",
+            "en": "Germany's Litona shows 24V sodium-ion prototype for truck low-voltage systems",
+            "ja": "独Litona、商用車の低電圧系向け24Vナトリウムイオン電池の試作品を公開"
+          },
+          "summary": {
+            "ko": "배터리뉴스(Battery-News.de)에 따르면 독일 울름의 리토나가 11월 24~25일 베를린 퓨처 배터리 포럼에서 상용차용 24V 나트륨이온 배터리 시제품 'nabada'를 선보였습니다. 트럭 등의 저전압 시스템에 쓰는 것이 목적입니다. 시제품 단계이며 양산 일정이나 수치는 이 보도에서 확인되지 않았습니다.",
+            "en": "Battery-News.de reports that Ulm-based Litona is presenting a prototype 24-volt sodium-ion battery called 'nabada' for commercial vehicles at the Future Battery Forum in Berlin on Nov. 24–25. It is meant for low-voltage systems in trucks and similar vehicles. It is a prototype; no production schedule or performance figures were confirmed in the report.",
+            "ja": "Battery-News.deによると、独ウルムのLitonaが11月24〜25日にベルリンのFuture Battery Forumで、商用車向け24Vナトリウムイオン電池の試作品「nabada」を披露しました。トラックなどの低電圧系統での利用を想定しています。試作段階で、量産時期や性能数値はこの報道では確認できませんでした。"
+          },
+          "companies": [],
+          "materials": [],
+          "source": {
+            "name": "Battery-News.de",
+            "date": "2026-11-24",
+            "url": "https://battery-news.de/en/home/"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "나트륨이온 전지도 일반적으로 양극과 음극을 분리하는 분리막이 필요해, 용도가 넓어지면 분리막 수요 기반이 다양해질 수 있습니다.",
+              "en": "Sodium-ion cells also generally need a separator, so wider uses could diversify the demand base for separators.",
+              "ja": "ナトリウムイオン電池も一般にセパレーターを必要とするため、用途が広がれば需要基盤が多様化する可能性があります。"
+            },
+            "cons": {
+              "ko": "시제품이고 저전압 용도라 물량이 작을 것으로 보여 단기 영향은 제한적입니다. 리튬이온 수요 일부를 대체할 가능성은 장기 과제입니다.",
+              "en": "As a low-voltage prototype, volumes are likely small and near-term impact limited. Any substitution of lithium-ion demand is a long-term question.",
+              "ja": "試作品で低電圧用途のため数量は小さいとみられ、短期の影響は限定的です。リチウムイオン需要の一部代替の可能性は長期の課題です。"
+            }
+          }
+        }
+      ],
+      "edition": 23
+    },
+    {
       "date": "2026-11-25",
       "title": {
         "ko": "BASF, CATL에 독일산 양극재 납품 개시, 앵커 보조배터리 화재 주의보, 배터리 소재주 강세",
