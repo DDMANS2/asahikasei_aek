@@ -1,6 +1,337 @@
 {
   "issues": [
     {
+      "date": "2026-11-27",
+      "title": {
+        "ko": "ESS 중앙계약시장 3차 입찰 삼성SDI·SK온 양분, 스즈키·엘리파워 LFP 국내 생산 인정, SKIET 합병 추진",
+        "en": "Samsung SDI and SK On split Korea's 3rd ESS tender, Suzuki and Eliiy Power win approval for domestic LFP, SK Innovation pushes SKIET merger",
+        "ja": "韓国ESS第3次入札でサムスンSDIとSKオンが分け合う、スズキ・エリーパワーのLFP国内生産を認定、SKイノベーションがSKIET合併を推進"
+      },
+      "summary": {
+        "ko": "한국 ESS 중앙계약시장 3차 입찰에서 삼성SDI가 751MW, SK온이 443MW의 우선협상 물량을 가져갔고, LG에너지솔루션은 불참했습니다. 일본에서는 스즈키·엘리파워의 LFP 전지 공장 계획이 정부 인정을 받았고, 한국에서는 SK이노베이션의 SKIET(분리막) 합병 관련 소식이 전해졌습니다.",
+        "en": "In Korea's 3rd ESS central contract tender, Samsung SDI won 751 MW and SK On won 443 MW as preferred bidders, while LG Energy Solution stayed out. In Japan, Suzuki and Eliiy Power's LFP battery plant plan won government approval, and in Korea there was news on SK Innovation's planned merger with separator maker SKIET.",
+        "ja": "韓国のESS中央契約市場・第3次入札で、サムスンSDIが751MW、SKオンが443MWの優先交渉分を獲得し、LGエナジーソリューションは参加しませんでした。日本ではスズキとエリーパワーのLFP電池工場計画が政府の認定を受け、韓国ではSKイノベーションによるセパレーター会社SKIETの合併に関する報道がありました。"
+      },
+      "highlights": {
+        "ko": [
+          "ESS 3차 입찰 총 1,194MW 중 삼성SDI 751MW(약 63%), SK온 443MW(약 37%)를 확보했습니다(보도).",
+          "스즈키·엘리파워가 경제안보추진법에 따른 공급확보계획 인정을 받아, 2029년 10월 시즈오카현 고사이시에서 LFP 전지 생산을 시작할 예정입니다.",
+          "SK이노베이션이 SKIET 합병 반대주주에게 제시하는 매수가를 높였다고 보도됐고, 회사 측은 분리막 사업을 직접 키우기 위한 합병이라고 설명했습니다."
+        ],
+        "en": [
+          "Of the 1,194 MW offered in the 3rd ESS tender, Samsung SDI took 751 MW (about 63%) and SK On took 443 MW (about 37%), according to reports.",
+          "Suzuki and Eliiy Power had their supply plan approved under Japan's Economic Security Promotion Act, and plan to start LFP cell production in Kosai, Shizuoka in October 2029.",
+          "SK Innovation reportedly raised the buyout price offered to dissenting SKIET shareholders. The company says the merger is meant to grow its separator business directly."
+        ],
+        "ja": [
+          "ESS第3次入札の総量1,194MWのうち、サムスンSDIが751MW(約63%)、SKオンが443MW(約37%)を獲得しました(報道)。",
+          "スズキとエリーパワーが経済安全保障推進法に基づく供給確保計画の認定を受け、2029年10月に静岡県湖西市でLFP電池の生産を始める予定です。",
+          "SKイノベーションがSKIETの合併に反対する株主への買取価格を引き上げたと報じられました。会社側は、セパレーター事業を直接育てるための合併だと説明しています。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "ESS(에너지저장장치)",
+          "en": "ESS (Energy Storage System)",
+          "ja": "ESS(エネルギー貯蔵システム)"
+        },
+        "desc": {
+          "ko": "ESS는 전기가 남을 때 배터리에 저장했다가 필요할 때 꺼내 쓰는 대형 저장 설비입니다. 재생에너지가 늘면서 전력망 안정을 위해 수요가 커지고 있습니다.",
+          "en": "An ESS is a large battery system that stores extra electricity and releases it when needed. Demand is growing because more renewable power makes the grid harder to balance.",
+          "ja": "ESSは、余った電気を電池にためて必要なときに使う大型の蓄電設備です。再生可能エネルギーが増え、電力網を安定させる必要が高まっているため、需要が伸びています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "korea-ess-central-contract-3rd-20261127",
+          "category": "cell",
+          "format": "main",
+          "subject": {
+            "ko": "ESS 중앙계약시장 3차",
+            "en": "Korea ESS 3rd tender",
+            "ja": "韓国ESS第3次入札"
+          },
+          "title": {
+            "ko": "ESS 중앙계약시장 3차 입찰, 삼성SDI 751MW·SK온 443MW 확보…LG엔솔은 불참",
+            "en": "Samsung SDI wins 751 MW and SK On 443 MW in Korea's 3rd ESS tender; LGES sat out",
+            "ja": "ESS中央契約市場・第3次入札、サムスンSDIが751MW、SKオンが443MWを獲得…LGエネルギーソリューションは不参加"
+          },
+          "summary": {
+            "ko": "전력거래소의 제3차 ESS 중앙계약시장 우선협상대상자 선정 결과, 전체 1,194MW 가운데 삼성SDI가 751MW(62.9%), SK온이 443MW(37.1%)를 가져갔다고 업계가 전했습니다. 삼성SDI는 9곳, SK온은 5곳의 사업장에 배터리를 공급합니다. LG에너지솔루션은 수익성 등을 이유로 입찰에 참여하지 않았고, 최종 낙찰은 12월 4일 확정될 예정이라고 보도됐습니다.",
+            "en": "Industry reports say that in the 3rd ESS central contract market tender, Samsung SDI won 751 MW (62.9%) of the 1,194 MW total and SK On won 443 MW (37.1%) as preferred bidders. Samsung SDI will supply 9 sites and SK On 5 sites. LG Energy Solution did not bid, citing profitability among other reasons, and the final award is reported to be set for December 4.",
+            "ja": "業界報道によると、電力取引所の第3次ESS中央契約市場の優先交渉対象者選定で、総量1,194MWのうちサムスンSDIが751MW(62.9%)、SKオンが443MW(37.1%)を獲得しました。供給先はサムスンSDIが9カ所、SKオンが5カ所です。LGエネルギーソリューションは収益性などを理由に参加せず、最終落札は12月4日に確定する予定と報じられています。"
+          },
+          "background": {
+            "ko": "ESS 중앙계약시장은 정부가 장기 계약으로 대형 ESS 설비를 확보하는 입찰 제도로, 이번이 세 번째입니다. 보도에 따르면 1차는 삼성SDI가 76%, 2차는 SK온이 50%를 가져갔고, 3차까지의 누적 비중은 삼성SDI 약 59~60%, SK온 31%, LG에너지솔루션 9%입니다. 기존에 LG엔솔과 협력하던 사업자(KGP)가 SK온으로 공급사를 바꾼 점도 눈에 띕니다.",
+            "en": "The ESS central contract market is a government tender system that secures large ESS projects under long-term contracts, and this was the third round. Reports say Samsung SDI took 76% in round 1 and SK On took 50% in round 2; cumulative shares after round 3 are about 59–60% for Samsung SDI, 31% for SK On and 9% for LGES. A developer (KGP) that had worked with LGES also switched its battery supplier to SK On.",
+            "ja": "ESS中央契約市場は、政府が長期契約で大型ESS設備を確保する入札制度で、今回が3回目です。報道によると、第1次はサムスンSDIが76%、第2次はSKオンが50%を獲得し、第3次までの累計シェアはサムスンSDIが約59〜60%、SKオンが31%、LGESが9%です。従来LGESと組んでいた事業者(KGP)がSKオンに供給元を切り替えた点も注目されます。"
+          },
+          "companies": [
+            "samsungsdi",
+            "skon",
+            "lges"
+          ],
+          "materials": [],
+          "source": {
+            "name": "THE ELEC(디일렉)",
+            "date": "2026-11-27",
+            "url": "https://www.thelec.kr/news/articleView.html?idxno=66003"
+          },
+          "related": [
+            {
+              "name": "인더스트리뉴스: ESS 중앙계약시장 3차 입찰서 삼성SDI '압승'",
+              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=90334"
+            }
+          ],
+          "impact": {
+            "stance": "positive",
+            "pros": {
+              "ko": "역대 최대 규모의 ESS 입찰은 국내 ESS용 셀 생산 수요로 이어져, 분리막 수요를 뒷받침할 수 있습니다. ESS용 셀에도 분리막이 쓰이므로 건식·습식 모두 채택 기회가 될 가능성이 있습니다.",
+              "en": "The largest ESS tender so far points to more cell production for ESS, which could support separator demand. Since ESS cells also use separators, both dry and wet types could see opportunities.",
+              "ja": "過去最大規模のESS入札は、ESS向けセル生産の需要につながり、セパレーター需要を支える可能性があります。ESS用セルにもセパレーターが使われるため、乾式・湿式ともに採用機会となる可能性があります。"
+            },
+            "cons": {
+              "ko": "ESS 시장은 가격 경쟁이 치열하고, 이번 입찰에서도 LG엔솔이 가격 경쟁을 피해 불참한 만큼 셀 업체의 원가 절감 압박이 분리막 가격에도 전가될 수 있습니다. 공급사 변경이 보여주듯 고객 구도도 바뀔 수 있습니다.",
+              "en": "The ESS market is price-competitive, and LGES skipping this round suggests cost pressure that could be passed on to suppliers, including separator prices. As the supplier switch shows, customer lineups can also change.",
+              "ja": "ESS市場は価格競争が激しく、LGESが今回の入札を見送ったことからも、セルメーカーのコスト圧力がセパレーター価格に波及する可能性があります。供給元の変更が示すように、顧客構図が変わる可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "suzuki-eliiy-lfp-plant-meti-20261126",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "스즈키·엘리파워 LFP",
+            "en": "Suzuki & Eliiy Power LFP",
+            "ja": "スズキ・エリーパワーLFP"
+          },
+          "title": {
+            "ko": "스즈키·엘리파워, LFP 전지 국내 양산 계획 경산성 인정…2029년 10월 생산 예정",
+            "en": "Suzuki and Eliiy Power's domestic LFP battery plan approved by METI; production planned from October 2029",
+            "ja": "スズキ・エリーパワー、LFP電池の国内量産計画が経産省の認定を受ける…2029年10月生産開始予定"
+          },
+          "summary": {
+            "ko": "스즈키와 엘리파워는 11월 26일, 정치용 리튬이온 전지의 개발·양산을 위한 '축전지 공급확보계획'이 경제산업성의 인정을 받았다고 발표했습니다(회사 측 발표). 차량에도 함께 쓸 수 있는 LFP 전지로, 보도에 따르면 시즈오카현 고사이시에서 2029년 10월 생산을 시작할 예정이며 사업비는 약 447억 엔, 국가 보조는 최대 약 187억 엔입니다.",
+            "en": "On November 26, Suzuki and Eliiy Power announced that their supply plan for developing and mass-producing stationary lithium-ion batteries was approved by Japan's METI (company announcement). The LFP cells are designed to be shared with vehicles; reports say production will start in Kosai, Shizuoka in October 2029, with a project cost of about 44.7 billion yen and state aid of up to about 18.7 billion yen.",
+            "ja": "スズキとエリーパワーは11月26日、定置用リチウムイオン電池の開発・量産に向けた「蓄電池に係る供給確保計画」が経済産業省の認定を受けたと発表しました(会社発表)。車載にも共用できるLFP電池で、報道によると静岡県湖西市で2029年10月に生産を始める予定です。事業費は約447億円、国の助成は最大約187億円とされています。"
+          },
+          "companies": [],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "스즈키(공식 보도자료)",
+            "date": "2026-11-26",
+            "url": "https://www.suzuki.co.jp/release/d/2026/1126a/"
+          },
+          "related": [
+            {
+              "name": "마이나비: スズキ、レアメタルへの依存を抑える電池を国内生産へ",
+              "url": "https://news.mynavi.jp/techplus/article/20261127-5419501/"
+            },
+            {
+              "name": "MONOist: エリーパワーとスズキがリチウムイオン電池工場を建設",
+              "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news075.html"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "일본 내 LFP 셀 생산이 늘면 국내 조달 가능한 분리막 수요가 생길 수 있고, 경제안보 차원의 지원이 현지 공급망 구축에 유리하게 작용할 수 있습니다.",
+              "en": "More LFP cell production in Japan could create demand for locally sourced separators, and economic-security support may favor building domestic supply chains.",
+              "ja": "国内でLFPセルの生産が増えれば、国内調達できるセパレーターの需要が生まれる可能性があり、経済安全保障の支援は国内サプライチェーン構築に有利に働く可能性があります。"
+            },
+            "cons": {
+              "ko": "보도된 연 생산능력이 0.48GWh로 작고 생산 시작도 2029년이어서 단기 수요 기여는 제한적일 수 있습니다. 분리막 조달처는 기사에 나와 있지 않습니다.",
+              "en": "The reported annual capacity of 0.48 GWh is small and production starts only in 2029, so near-term demand impact may be limited. The article does not say who will supply the separators.",
+              "ja": "報じられた年産能力は0.48GWhと小さく、生産開始も2029年のため、短期的な需要への寄与は限定的かもしれません。セパレーターの調達先は記事では明らかにされていません。"
+            }
+          }
+        },
+        {
+          "id": "sk-innovation-skiet-merger-20261125",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "SK이노베이션·SKIET",
+            "en": "SK Innovation & SKIET",
+            "ja": "SKイノベーション・SKIET"
+          },
+          "title": {
+            "ko": "SK이노베이션, SKIET 합병 반대주주 매수청구가 30% 상향(보도)…분리막 직접 육성 강조",
+            "en": "SK Innovation reportedly raises SKIET dissenting-shareholder buyout price by 30%, stressing direct growth of separators",
+            "ja": "SKイノベーション、SKIET合併の反対株主向け買取価格を30%引き上げ(報道)…セパレーター事業の直接育成を強調"
+          },
+          "summary": {
+            "ko": "국내 매체 보도에 따르면 SK이노베이션이 분리막 업체 SKIET와의 합병에서 반대주주에게 제시하는 매수청구가를 30% 높였습니다. 회사 측은 분리막 사업을 키우기 위한 결정이라고 설명했고, SK온에 분리막을 안정적으로 공급하며 ESS용 분리막 판매를 늘리는 방안도 공시 계획에 포함됐다고 합니다.",
+            "en": "A Korean media report says SK Innovation raised the buyout price offered to dissenting shareholders in its merger with separator maker SKIET by 30%. The company said the merger is meant to grow the separator business, and its disclosed plan reportedly includes stable separator supply to SK On and more separator sales for ESS.",
+            "ja": "韓国メディアの報道によると、SKイノベーションはセパレーター会社SKIETとの合併で、反対株主に提示する買取価格を30%引き上げました。会社側はセパレーター事業を育てるための決定だと説明し、開示した計画にはSKオンへの安定供給やESS向けセパレーター販売の拡大も含まれるとされています。"
+          },
+          "companies": [
+            "skon"
+          ],
+          "materials": [
+            "separator"
+          ],
+          "source": {
+            "name": "인사이트코리아",
+            "date": "2026-11-25",
+            "url": "https://www.insight.co.kr/news/583470"
+          },
+          "related": [
+            {
+              "name": "와우TV: SK이노베이션, SKIET 흡수합병…분리막 다시 품는다",
+              "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250608"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "그룹 내 수직 통합이 진행되면 ESS용 분리막 영역에서 의사결정이 빨라져 시장 경쟁이 달라질 가능성이 있으나, 이는 경쟁 환경이 바뀐다는 의미로 이점은 제한적입니다. 한편 분리막 산업 전체에 대한 관심이 높아지는 점은 참고할 만합니다.",
+              "en": "Vertical integration within the group could speed decision-making in ESS separators, though that mainly changes the competitive landscape, so the upside for others is limited. Rising attention on the separator industry as a whole is worth noting.",
+              "ja": "グループ内の垂直統合が進むとESS向けセパレーター分野で意思決定が速まる可能性がありますが、これは主に競争環境の変化を意味し、他社にとっての利点は限定的です。一方、セパレーター産業全体への注目が高まる点は留意に値します。"
+            },
+            "cons": {
+              "ko": "SK온에 대한 안정 공급과 ESS용 판매 확대 방침은 경쟁사가 ESS 시장에서 공세를 강화할 수 있음을 뜻하며, 해당 고객 물량 확보가 어려워질 가능성이 있습니다.",
+              "en": "A plan for stable supply to SK On and wider ESS sales suggests a competitor may push harder in ESS, which could make it harder to win volumes at that customer.",
+              "ja": "SKオンへの安定供給とESS向け販売拡大の方針は、競合がESS市場で攻勢を強める可能性を示し、当該顧客の数量確保が難しくなる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "catl-chocolate-30-battery-20261127",
+          "category": "cell",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 초콜릿 배터리",
+            "en": "CATL Chocolate battery",
+            "ja": "CATLチョコレート電池"
+          },
+          "title": {
+            "ko": "CATL, 100kWh 교환식 '30# 초콜릿 배터리' 공개…99초 교환(회사 측 설명)",
+            "en": "CATL unveils 100 kWh swappable '30# Chocolate Battery' with 99-second swaps (company claims)",
+            "ja": "CATL、100kWh交換式「30#チョコレート電池」を発表…99秒で交換(会社側説明)"
+          },
+          "summary": {
+            "ko": "CATL은 11월 26일 화웨이 행사에서 100kWh 교환식 배터리 '30# 초콜릿 배터리'를 공개했습니다. 보도에 따르면 회사는 교환에 99초가 걸리고 CLTC 기준 주행거리 700km이며, 10분 급속충전으로 400km를 달릴 수 있다고 밝혔습니다. 나트륨이온 전지나 액체·고체 혼합 전지로 업그레이드할 수 있다고 설명한 점도 특징입니다.",
+            "en": "At a Huawei event on November 26, CATL unveiled the 100 kWh swappable '30# Chocolate Battery'. According to the report, the company says a swap takes 99 seconds, range is 700 km on the CLTC cycle, and 10 minutes of fast charging adds 400 km. It also says the pack can be upgraded to sodium-ion or liquid-solid hybrid cells.",
+            "ja": "CATLは11月26日のファーウェイのイベントで、100kWhの交換式電池「30#チョコレート電池」を発表しました。報道によると、会社側は交換に99秒、CLTC基準の航続距離700km、10分の急速充電で400km走行分を充電できるとしています。ナトリウムイオン電池や液体・固体混合電池へのアップグレードも可能と説明しています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "CarNewsChina",
+            "date": "2026-11-27",
+            "url": "https://carnewschina.com/2026/11/27/catl-unveils-30-chocolate-battery-with-a-100-kwh-capacity/"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "교환식 팩 보급은 셀 수요를 늘릴 수 있고, 액체 전해질을 쓰는 혼합형·나트륨이온 전지에도 분리막이 필요해 당분간 분리막 수요가 이어질 가능성이 있습니다.",
+              "en": "Wider use of swappable packs could raise cell demand, and hybrid solid-liquid and sodium-ion cells still need separators, so separator demand may continue for now.",
+              "ja": "交換式パックの普及はセル需要を押し上げる可能性があり、液体電解質を使う混合型やナトリウムイオン電池にもセパレーターが必要なため、当面は需要が続く可能性があります。"
+            },
+            "cons": {
+              "ko": "고체 비중이 높은 전지로 업그레이드가 진행되면 장기적으로 분리막 필요성이 줄 수 있고, CATL 생태계 확대는 중국계 분리막 업체에 유리하게 작용할 수 있습니다. 수치는 회사 측 발표이며 독립 검증은 확인되지 않았습니다.",
+              "en": "If upgrades move toward cells with more solid content, separator needs could shrink in the long run, and a growing CATL ecosystem may favor Chinese separator suppliers. The figures are company claims and have not been independently verified.",
+              "ja": "固体比率の高い電池へのアップグレードが進めば、長期的にセパレーターの必要性が減る可能性があり、CATLのエコシステム拡大は中国系セパレーターメーカーに有利に働く可能性があります。数値は会社側の発表で、独立した検証は確認できていません。"
+            }
+          }
+        },
+        {
+          "id": "postech-room-temp-solid-state-20261126",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "포항공대 전고체 전지",
+            "en": "POSTECH solid-state battery",
+            "ja": "POSTECH全固体電池"
+          },
+          "title": {
+            "ko": "포스텍 연구팀, 상온·저압에서 작동하는 전고체 리튬금속 전지 구현",
+            "en": "POSTECH team builds an all-solid-state lithium metal battery that runs at room temperature and low pressure",
+            "ja": "POSTECH研究チーム、常温・低圧で動作する全固体リチウム金属電池を実現"
+          },
+          "summary": {
+            "ko": "포스텍(POSTECH) 박수진 교수팀이 0.3MPa의 낮은 압력, 상온에서 안정적으로 작동하는 전고체 리튬금속 전지를 만들었다고 11월 26일 밝혔습니다. 깨지기 쉬운 황화물계 고체전해질은 고분자 네트워크로, 리튬의 팽창 응력은 다공성 집전체로 해결했다고 설명합니다. 대형 가압 장치가 필요 없어 팩의 부피와 무게를 줄일 수 있다는 것이 연구팀의 설명이며, 아직 연구 단계의 성과입니다.",
+            "en": "On November 26, POSTECH said a team led by Prof. Park Soo-jin built an all-solid-state lithium metal battery that runs stably at room temperature under a low pressure of 0.3 MPa. It used a polymer network to handle brittle sulfide solid electrolytes and a porous current collector to handle lithium's expansion stress. The team says removing bulky pressurizing equipment can cut pack size and weight; this is still a research-stage result.",
+            "ja": "POSTECHは11月26日、朴秀珍教授のチームが、常温かつ0.3MPaの低圧で安定して動作する全固体リチウム金属電池を作ったと発表しました。もろい硫化物系固体電解質は高分子ネットワークで、リチウムの膨張応力は多孔質集電体で解決したといいます。大型の加圧装置が不要になり、パックの体積と重量を減らせるというのが研究チームの説明で、まだ研究段階の成果です。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate",
+            "electrolyte"
+          ],
+          "source": {
+            "name": "서울경제(영문판)",
+            "date": "2026-11-26",
+            "url": "https://en.sedaily.com/business/2026/11/26/postech-team-builds-solid-state-battery-that-works-at-room"
+          },
+          "impact": {
+            "stance": "negative",
+            "pros": {
+              "ko": "실용화까지는 시간이 걸릴 것으로 보여, 당분간은 액체 전해질 전지 중심의 분리막 수요에 직접적인 영향은 작을 수 있습니다.",
+              "en": "Commercialization looks some way off, so the direct effect on near-term separator demand for liquid-electrolyte cells may be small.",
+              "ja": "実用化までには時間がかかるとみられ、当面は液体電解質電池向けのセパレーター需要への直接的な影響は小さい可能性があります。"
+            },
+            "cons": {
+              "ko": "가압 장치 문제 등 전고체의 실용화 장벽이 낮아지면, 장기적으로 분리막이 필요 없거나 역할이 줄어드는 전지로의 전환이 빨라질 가능성이 있습니다.",
+              "en": "If barriers such as pressurizing equipment are lowered, the shift to batteries that need no separator, or a reduced one, could speed up in the long term.",
+              "ja": "加圧装置の問題など全固体電池の実用化の障壁が下がれば、長期的にはセパレーターが不要、または役割が小さい電池への移行が早まる可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "smm-electrolyte-price-decline-20261126",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "중국 전해액 가격",
+            "en": "China electrolyte prices",
+            "ja": "中国の電解液価格"
+          },
+          "title": {
+            "ko": "중국 전해액 가격 이번 주 하락…탄산리튬 약세, 수요 부진 지속 전망(SMM)",
+            "en": "China electrolyte prices fall this week as lithium carbonate weakens; weak demand seen continuing (SMM)",
+            "ja": "中国の電解液価格が今週下落…炭酸リチウム安、需要低迷が続く見通し(SMM)"
+          },
+          "summary": {
+            "ko": "상하이금속시장(SMM)에 따르면 11월 23~26일 중국 전해액 가격이 내렸습니다. 삼원계용 평균 약 3만 위안/t, LFP용 약 2만9,150위안/t, 탄산리튬은 26일 기준 약 8만6,000위안/t입니다. 전해액 업체들이 수요 전망에 신중해 필요한 만큼만 조달하고 있으며, 리튬전지 수요 부진은 단기간에 바뀌기 어렵다고 SMM은 전망했습니다.",
+            "en": "Shanghai Metals Market (SMM) says China's electrolyte prices fell from November 23 to 26. Averages were about 30,000 yuan/t for ternary-battery electrolyte and 29,150 yuan/t for LFP, and lithium carbonate was around 86,000 yuan/t on November 26. SMM says buyers remain cautious and procure only as needed, and that weak demand is unlikely to reverse soon.",
+            "ja": "上海金属市場(SMM)によると、11月23〜26日に中国の電解液価格が下落しました。平均は三元系向けで約3万元/t、LFP向けで約2万9,150元/t、炭酸リチウムは26日時点で約8万6,000元/tです。需要見通しに慎重な電解液メーカーは必要な分だけ調達しており、リチウム電池の需要低迷は短期間では変わりにくいとSMMは見ています。"
+          },
+          "companies": [],
+          "materials": [
+            "electrolyte"
+          ],
+          "source": {
+            "name": "Shanghai Metals Market (SMM)",
+            "date": "2026-11-26",
+            "url": "https://news.metal.com/newscontent/MC5PNNSSGX3EVLNB24NEGAX5CLRDR2JW7AHT2EQ-electrolyte-prices-declined-this-week-nov-23-26-2026-smm-lithium-battery-electrolyte-market-weekly-review"
+          },
+          "impact": {
+            "stance": "negative",
+            "pros": {
+              "ko": "소재 원가가 내려가면 셀 제조 원가 부담이 줄어 중국 내 셀 수요 회복에 도움이 될 가능성이 있습니다.",
+              "en": "Lower material costs may ease cell makers' cost burden and could help demand recover in China.",
+              "ja": "材料コストが下がればセルメーカーのコスト負担が軽くなり、中国での需要回復に寄与する可能性があります。"
+            },
+            "cons": {
+              "ko": "전해액 가격 하락과 수요 부진은 소재 전반의 가격 압박 신호일 수 있고, 셀 업체가 분리막 등 다른 소재에도 가격 인하를 요구할 가능성이 있습니다. 분리막 가격에 대한 직접 정보는 기사에 없습니다.",
+              "en": "Falling electrolyte prices and weak demand may signal price pressure across materials, and cell makers could seek lower prices on separators and other materials. The article has no direct information on separator prices.",
+              "ja": "電解液価格の下落と需要低迷は材料全般への価格圧力のサインかもしれず、セルメーカーがセパレーターなど他の材料にも値下げを求める可能性があります。セパレーター価格に関する直接の情報は記事にありません。"
+            }
+          }
+        }
+      ],
+      "edition": 24
+    },
+    {
       "date": "2026-11-26",
       "title": {
         "ko": "LG엔솔 LMR 양산라인 준비 보도, 美 배터리 연합 백악관 회의, 엘레콤 안전 강화 배터리",
