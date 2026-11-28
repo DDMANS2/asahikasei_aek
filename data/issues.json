@@ -1,6 +1,236 @@
 {
   "issues": [
     {
+      "date": "2026-11-28",
+      "title": {
+        "ko": "중국 전고체, 로봇·저고도 항공기부터 상용화 가속, 국내 양극재 3사 설비투자 1조원 부담, CATL 교환식 배터리 확장설",
+        "en": "China's solid-state push starts with robots and low-altitude aircraft, Korean cathode makers strain under ~1 trillion won capex, CATL swap network reportedly grows",
+        "ja": "中国の全固体電池はロボット・低空機から実用化へ、韓国正極材3社は設備投資1兆ウォン規模で資金負担、CATL交換式電池に拡大報道"
+      },
+      "summary": {
+        "ko": "중국 하이테크 배터리 연례 콘퍼런스에서 국유·민간 업체들이 전고체 전지를 로봇과 저고도 항공기부터 적용하겠다는 방향을 밝혔습니다. 한국에서는 양극재 3사의 올해 1~9월 영업현금흐름이 설비투자액에 못 미친 가운데 LFP 양극재 전환이 진행되고 있습니다.",
+        "en": "At a Chinese high-tech battery conference, makers said solid-state cells will likely reach robots and low-altitude aircraft before cars. In Korea, three cathode makers' operating cash flow fell short of their capex in January–September, while they shift toward LFP cathodes.",
+        "ja": "中国のハイテク電池年次会議で、各社は全固体電池をまずロボットや低空飛行機に使う方向だと述べました。韓国では正極材3社の1～9月の営業キャッシュフローが設備投資額に届かない中、LFP正極材への転換が進んでいます。"
+      },
+      "highlights": {
+        "ko": [
+          "중국 업계, 전고체 전지는 로봇·저고도 항공기부터 상용화한다고 전망했습니다(SMM 보도).",
+          "포스코퓨처엠·엘앤에프·에코프로비엠의 1~9월 영업현금흐름은 설비투자액보다 6,389억원 적었습니다.",
+          "CATL 교환식 배터리가 HIMA(아이토 M6)로 확대된다는 보도가 나왔습니다(미확인)."
+        ],
+        "en": [
+          "Chinese industry players expect solid-state batteries to reach robots and low-altitude aircraft first, SMM reported.",
+          "Operating cash flow at POSCO Future M, L&F and EcoPro BM was 638.9 billion won below their capex in Jan–Sep.",
+          "A report says CATL's battery-swap network may extend to HIMA's Aito M6 (unconfirmed)."
+        ],
+        "ja": [
+          "中国業界は、全固体電池をロボットや低空飛行機から実用化すると見ています（SMM報道）。",
+          "POSCOフューチャーエム、エルエンエフ、エコプロBMの1～9月の営業CFは設備投資額を6,389億ウォン下回りました。",
+          "CATLの交換式電池がHIMA（アイト M6）に広がるとの報道が出ました（未確認）。"
+        ]
+      },
+      "term": {
+        "name": {
+          "ko": "LFP(리튬인산철) 양극재",
+          "en": "LFP (lithium iron phosphate) cathode",
+          "ja": "LFP（リン酸鉄リチウム）正極材"
+        },
+        "desc": {
+          "ko": "LFP는 니켈·코발트 없이 철과 인산염으로 만드는 양극재로, 가격이 낮고 안전성이 높은 편입니다. 최근 ESS와 보급형 전기차에서 쓰임이 늘고 있습니다.",
+          "en": "LFP is a cathode material made from iron and phosphate, with no nickel or cobalt. It tends to be cheaper and safer, and is increasingly used in energy storage systems and lower-priced EVs.",
+          "ja": "LFPはニッケルやコバルトを使わず、鉄とリン酸塩でつくる正極材です。比較的安価で安全性が高く、ESSや普及価格帯のEVで採用が増えています。"
+        }
+      },
+      "stories": [
+        {
+          "id": "china-solid-state-robots-lowaltitude-20261128",
+          "category": "nextgen",
+          "format": "main",
+          "subject": {
+            "ko": "중국 전고체 전지",
+            "en": "China solid-state batteries",
+            "ja": "中国の全固体電池"
+          },
+          "title": {
+            "ko": "중국 업계 \"전고체 전지, 로봇·저고도 항공기에서 먼저 확산\"",
+            "en": "Chinese industry: solid-state batteries to spread first in robots and low-altitude aircraft",
+            "ja": "中国業界「全固体電池はロボット・低空飛行機から先に普及」"
+          },
+          "summary": {
+            "ko": "SMM에 따르면 27일 열린 하이테크 배터리 연례 콘퍼런스에서 EVE에너지는 뇌-컴퓨터 인터페이스용 전고체 전지를 개발 중이라고 밝혔습니다. 궈쉬안(Gotion)은 2GWh 규모 시범 라인을 계획 중이며, 리위안헝은 올해 수백 MWh 규모의 전고체용 생산설비를 인도했다고 합니다(각 사 발언 기준). 업계는 전고체 전지가 자동차보다 휴머노이드 로봇·저고도 항공기에서 먼저 자리 잡을 것으로 내다봤습니다.",
+            "en": "SMM reported that at a high-tech battery annual conference on Nov 27, EVE Energy said it is developing solid-state batteries for brain-computer interfaces. Gotion plans a 2 GWh demonstration line, and Liyuanheng said it delivered hundreds of MWh of solid-state production-line equipment this year (all company statements). Industry players expect solid-state cells to gain traction in humanoid robots and low-altitude aircraft before cars.",
+            "ja": "SMMによると、27日のハイテク電池年次会議で、EVEエナジーは脳コンピューターインターフェース向けの全固体電池を開発中だと述べました。国軒高科（Gotion）は2GWh規模の実証ラインを計画し、利元亨は今年、数百MWh分の全固体電池向け生産設備を納入したとのことです（いずれも各社の発言）。業界は、全固体電池は自動車よりも先にヒューマノイドロボットや低空飛行機で定着すると見ています。"
+          },
+          "background": {
+            "ko": "전고체 전지는 액체 전해질 대신 고체 전해질을 쓰는 차세대 전지로, 안전성과 에너지 밀도 향상이 기대됩니다. 다만 양산 비용과 제조 기술 과제가 남아 있어 자동차 적용 시점은 업체마다 계획이 다릅니다. 이번 발언은 모두 계획·전망 단계이며 상업 출하가 확정된 것은 아닙니다.",
+            "en": "Solid-state batteries replace the liquid electrolyte with a solid one, which promises better safety and energy density. Mass-production cost and manufacturing challenges remain, so timelines for cars differ by company. The remarks here are plans and outlooks, not confirmed commercial shipments.",
+            "ja": "全固体電池は液体の電解質を固体に置き換える次世代電池で、安全性とエネルギー密度の向上が期待されています。ただ量産コストや製造技術の課題が残り、自動車への採用時期は企業ごとに異なります。今回の発言はいずれも計画・見通しの段階で、商用出荷が確定したわけではありません。"
+          },
+          "companies": [
+            "gotion"
+          ],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "SMM (Shanghai Metals Market)",
+            "date": "2026-11-27",
+            "url": "https://news.metal.com/newscontent/MJVYSOYN72SZ7EWAL42EFIWB4SA76J4SGIHKDWI-smm-flash-solid-state-batteries-race-toward-mass-production-starting-with-robotics-and-low-altitude-applications"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "초기 용도가 로봇·항공기 등 소량·특수 분야에 한정되면 EV용 리튬이온 전지의 분리막 수요를 단기간에 대체할 가능성은 낮을 수 있습니다. 액체 전해질을 일부 쓰는 고액혼합 방식이라면 분리막이 계속 쓰일 여지도 있습니다.",
+              "en": "If early uses stay in niche areas such as robots and aircraft, solid-state cells may not displace separator demand from EV lithium-ion batteries soon. Hybrid solid-liquid designs may also still need separators.",
+              "ja": "初期用途がロボットや航空機などの限定的な分野にとどまるなら、EV向けリチウムイオン電池のセパレータ需要がすぐに置き換わる可能性は低いかもしれません。液体電解質を一部使う半固体型なら、セパレータが引き続き使われる余地もあります。"
+            },
+            "cons": {
+              "ko": "완전 전고체 전지는 분리막이 필요 없거나 역할이 달라질 수 있어 중장기적으로 시장이 줄어들 수 있습니다. 중국 업체의 시범 라인 확대는 기술 경쟁 압력을 높일 수 있습니다.",
+              "en": "Fully solid-state cells may not need a conventional separator, which could shrink the market over the medium to long term. Expanding Chinese pilot lines could also raise technology competition.",
+              "ja": "完全な全固体電池では従来型のセパレータが不要、または役割が変わる可能性があり、中長期的には市場が縮小するかもしれません。中国メーカーの実証ライン拡大は、技術競争の圧力を高める可能性もあります。"
+            }
+          }
+        },
+        {
+          "id": "korea-cathode-three-capex-cashflow-20261128",
+          "category": "material",
+          "format": "brief",
+          "subject": {
+            "ko": "국내 양극재 3사",
+            "en": "Korean cathode trio",
+            "ja": "韓国正極材3社"
+          },
+          "title": {
+            "ko": "양극재 3사, 1~9월 현금흐름이 설비투자 못 미쳐…LFP 전환 추진",
+            "en": "Three Korean cathode makers' cash flow trailed capex in Jan–Sep as they shift to LFP",
+            "ja": "韓国正極材3社、1～9月のキャッシュフローが設備投資に届かず…LFPへ転換"
+          },
+          "summary": {
+            "ko": "금융감독원 공시를 인용한 시사저널e 보도에 따르면 포스코퓨처엠·엘앤에프·에코프로비엠의 올해 1~9월 영업활동현금흐름 합계는 3,214억원으로, 유형자산 취득에 쓴 돈보다 6,389억원 적었습니다. 포스코퓨처엠은 포항 공장 일부 라인을 LFP용으로 바꿔 연말부터 생산할 계획이며, 내년부터 2029년까지 SK온에 1조1천억원어치 LFP 양극재를 공급한다고 보도됐습니다.",
+            "en": "Citing regulatory filings, Sisa Journal-e reported that the combined operating cash flow of POSCO Future M, L&F and EcoPro BM in Jan–Sep was 321.4 billion won, which was 638.9 billion won less than they spent on tangible assets. POSCO Future M plans to convert part of its Pohang lines to LFP from year-end, and the report says it will supply 1.1 trillion won of LFP cathode to SK On from next year through 2029.",
+            "ja": "金融監督院の開示を引用したシサジャーナルeの報道によると、POSCOフューチャーエム、エルエンエフ、エコプロBMの今年1～9月の営業キャッシュフロー合計は3,214億ウォンで、有形資産の取得に使った額を6,389億ウォン下回りました。POSCOフューチャーエムは浦項工場の一部ラインをLFP用に転換して年末から生産する計画で、来年から2029年までSK On向けに1兆1,000億ウォン分のLFP正極材を供給すると報じられています。"
+          },
+          "companies": [
+            "poscofm",
+            "ecoprobm",
+            "skon"
+          ],
+          "materials": [
+            "cathode"
+          ],
+          "source": {
+            "name": "시사저널e",
+            "date": "2026-11-27",
+            "url": "https://sisajournal-e.com/news/articleView.html?idxno=425382"
+          },
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "LFP 양극재 공급이 늘어난다는 것은 ESS·보급형 EV용 LFP 전지 생산이 늘 수 있다는 신호로, 이런 전지에도 분리막이 쓰이므로 수요 확대 요인이 될 수 있습니다.",
+              "en": "More LFP cathode supply hints at growth in LFP cells for ESS and lower-priced EVs, which also use separators, so it could support demand.",
+              "ja": "LFP正極材の供給拡大は、ESSや普及価格帯EV向けLFP電池の生産増を示唆します。こうした電池にもセパレータが使われるため、需要を支える可能性があります。"
+            },
+            "cons": {
+              "ko": "소재 업체의 자금 여력이 빠듯하면 전·후방 공급망 전반에 비용 절감 압력이 커질 수 있어, 분리막 가격 협상에도 영향을 줄 가능성이 있습니다.",
+              "en": "Tight finances at material makers could increase cost-cutting pressure across the supply chain, which might also affect separator price negotiations.",
+              "ja": "素材メーカーの資金繰りが厳しいと、サプライチェーン全体でコスト削減圧力が強まり、セパレータの価格交渉にも影響する可能性があります。"
+            }
+          }
+        },
+        {
+          "id": "catl-swap-hima-aito-m6-report-20261128",
+          "category": "biz",
+          "format": "brief",
+          "subject": {
+            "ko": "CATL 교환식 배터리",
+            "en": "CATL battery swap",
+            "ja": "CATL交換式電池"
+          },
+          "title": {
+            "ko": "CATL 교환식 배터리, HIMA 아이토 M6로 확대 보도(미확인)",
+            "en": "Report: CATL's battery-swap network may extend to HIMA's Aito M6 (unconfirmed)",
+            "ja": "CATLの交換式電池、HIMAのアイト M6に拡大と報道（未確認）"
+          },
+          "summary": {
+            "ko": "카뉴스차이나는 36Kr를 인용해, 화웨이 계열 HIMA의 아이토 브랜드가 M6의 배터리 교환 버전 개발을 승인했다고 전했습니다. 제조사 세레스(Seres)는 CATL의 교환 생태계를 활용하는 협력 방식을 검토 중이라고 하며, 아직 공식 발표는 아닙니다. 같은 매체는 CATL이 올해 말까지 140개 도시 이상에 3,000곳 넘는 교환소를 갖추는 것을 목표로 한다고 전했습니다.",
+            "en": "CarNewsChina, citing 36Kr, reported that HIMA's Aito brand has approved a battery-swap version of the Aito M6. Seres is said to be exploring a way to use CATL's swap ecosystem; this is not an official announcement. The outlet also said CATL aims to have over 3,000 swap stations in more than 140 cities by year-end.",
+            "ja": "カーニュースチャイナは36Krを引用し、HIMAのアイト（Aito）ブランドがM6の電池交換仕様の開発を承認したと報じました。メーカーのセレス（Seres）はCATLの交換エコシステムを使う協業を検討中とされ、正式発表ではありません。同メディアは、CATLが年末までに140以上の都市で3,000か所超の交換ステーションを目指しているとも伝えています。"
+          },
+          "companies": [
+            "catl"
+          ],
+          "materials": [],
+          "source": {
+            "name": "CarNewsChina",
+            "date": "2026-11-27",
+            "url": "https://carnewschina.com/2026/11/27/catl-expands-battery-swapping-ecosystem-to-hima-with-aito-m6-leading-the-charge-report-says"
+          },
+          "related": [
+            {
+              "name": "CarNewsChina: CATL 30# Chocolate swappable battery",
+              "url": "https://carnewschina.com/2026/11/27/catl-unveils-30-chocolate-battery-with-a-100-kwh-capacity/"
+            }
+          ],
+          "impact": {
+            "stance": "mixed",
+            "pros": {
+              "ko": "교환식 모델이 늘면 표준 규격 배터리의 대량 생산이 이어져 셀 수요가 늘 수 있고, 그만큼 분리막 수요에도 간접적으로 도움이 될 수 있습니다.",
+              "en": "More swap-capable models could mean larger volumes of standardized battery packs, which may indirectly support cell and separator demand.",
+              "ja": "交換式モデルが増えれば標準規格の電池の量産が続き、セル需要、ひいてはセパレータ需要を間接的に支える可能性があります。"
+            },
+            "cons": {
+              "ko": "CATL이 규격과 생태계를 주도할수록 CATL 중심의 중국 공급망이 강화되어, 외부 분리막 업체의 진입 여지가 좁아질 수 있습니다. 이번 내용은 미확인 보도입니다.",
+              "en": "As CATL shapes the standards and ecosystem, its China-centered supply chain may strengthen and leave less room for outside separator suppliers. This item is an unconfirmed report.",
+              "ja": "CATLが規格とエコシステムを主導するほど、CATL中心の中国サプライチェーンが強まり、外部のセパレータメーカーが入り込む余地が狭まる可能性があります。本件は未確認の報道です。"
+            }
+          }
+        },
+        {
+          "id": "clutch-density-solid-state-portable-20261128",
+          "category": "nextgen",
+          "format": "brief",
+          "subject": {
+            "ko": "클러치(호주) 전고체 제품",
+            "en": "Clutch solid-state products",
+            "ja": "Clutch（豪）全固体製品"
+          },
+          "title": {
+            "ko": "호주 클러치, 전고체 기술 적용 휴대용 배터리 3종 출시",
+            "en": "Australia's Clutch launches three portable power products, two using solid-state cells",
+            "ja": "豪Clutch、全固体技術を使うポータブル電源など3製品を発売"
+          },
+          "summary": {
+            "ko": "호주 클러치 인더스트리즈가 배터리 부문 Density Batteries를 통해 휴대용 전원 제품 3종을 내놓았고, 이 중 2종에 자사 X3 전고체 기술을 썼다고 IT Brief가 전했습니다. 회사 측이 인용한 디킨대 시험에서 X3 셀은 kg당 215Wh로, 비교한 리튬폴리머 셀(156Wh/kg)보다 약 38% 높았다고 합니다. 멜버른 공장에 생산 라인을 추가하는 안도 제시됐으며, 확정 사실은 아닙니다.",
+            "en": "IT Brief reported that Clutch Industries launched three portable power products via its battery unit Density Batteries, two of which use its X3 solid-state technology. In a Deakin University test cited by the company, an X3 cell delivered 215 Wh/kg versus 156 Wh/kg for a lithium-polymer cell, about 38% more. A proposed new line at its Melbourne site was also mentioned; it is not confirmed.",
+            "ja": "ITブリーフによると、豪Clutch Industriesは電池部門Density Batteriesを通じてポータブル電源3製品を発売し、そのうち2製品に自社のX3全固体技術を使いました。同社が示したディーキン大学の試験では、X3セルは215Wh/kgで、比較したリチウムポリマーセル（156Wh/kg）より約38%高かったとのことです。メルボルン拠点への生産ライン追加案も示されましたが、確定ではありません。"
+          },
+          "companies": [],
+          "materials": [
+            "solidstate"
+          ],
+          "source": {
+            "name": "IT Brief Asia",
+            "date": "2026-11-27",
+            "url": "https://itbrief.asia/story/clutch-launches-solid-state-portable-batteries-power-hub"
+          },
+          "impact": {
+            "stance": "neutral",
+            "pros": {
+              "ko": "소규모 소비자 제품이라 기존 리튬이온 분리막 수요에 미치는 영향은 거의 없을 것으로 보입니다.",
+              "en": "As a small consumer product line, it is unlikely to affect existing lithium-ion separator demand.",
+              "ja": "小規模な消費者向け製品のため、既存のリチウムイオン電池用セパレータ需要への影響はほとんどないとみられます。"
+            },
+            "cons": {
+              "ko": "다만 전고체 기술을 앞세운 제품이 늘어나는 흐름은 장기적으로 분리막 수요 감소 가능성을 키우는 요인이 될 수 있습니다.",
+              "en": "Still, a growing number of products marketed on solid-state technology could add to the long-term possibility of lower separator demand.",
+              "ja": "ただ、全固体技術をうたう製品が増える流れは、長期的にセパレータ需要が減る可能性を高める要因になり得ます。"
+            }
+          }
+        }
+      ],
+      "edition": 25
+    },
+    {
       "date": "2026-11-27",
       "title": {
         "ko": "ESS 중앙계약시장 3차 입찰 삼성SDI·SK온 양분, 스즈키·엘리파워 LFP 국내 생산 인정, SKIET 합병 추진",
